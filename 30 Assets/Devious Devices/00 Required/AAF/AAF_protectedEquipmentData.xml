@@ -1,0 +1,6 @@
+<meta title="AAF_protectedEquipmentData.xml" version="1.0" dataSet="protectedEquipment"/>
+<defaults />
+
+<condition>
+	<protectKeyword form="004C5C" source="Devious Devices.esm"/>
+</condition>

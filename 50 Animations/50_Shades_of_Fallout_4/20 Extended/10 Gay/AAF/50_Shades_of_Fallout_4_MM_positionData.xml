@@ -1,0 +1,202 @@
+<meta title="50 Shades of Fallout 4 - Gay Position Data" version="1.0.5" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<!-- Doggy 01 Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Doggy" animationGroup="50SFO4_Doggy_MM_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy Stage 1" animation="50SFO4_Doggy_MM_01_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy Stage 2" animation="50SFO4_Doggy_MM_01_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy Stage 3" animation="50SFO4_Doggy_MM_01_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy Stage 4" animation="50SFO4_Doggy_MM_01_S4"/>
+
+<!-- Doggy 01 Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Doggy (Gagged)" animationGroup="50SFO4_Doggy_MM_Gagged_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy (Gagged) Stage 1" animation="50SFO4_Doggy_MM_Gagged_01_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy (Gagged) Stage 2" animation="50SFO4_Doggy_MM_Gagged_01_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy (Gagged) Stage 3" animation="50SFO4_Doggy_MM_Gagged_01_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy (Gagged) Stage 4" animation="50SFO4_Doggy_MM_Gagged_01_S4"/>
+
+<!-- Doggy 02 Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Doggy 2" animationGroup="50SFO4_Doggy_MM_02_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy 2 Stage 1" animation="50SFO4_Doggy_MM_02_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy 2 Stage 2" animation="50SFO4_Doggy_MM_02_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy 2 Stage 3" animation="50SFO4_Doggy_MM_02_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy 2 Stage 4" animation="50SFO4_Doggy_MM_02_S4"/>
+
+<!-- Doggy 02 Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Doggy 2 (Gagged)" animationGroup="50SFO4_Doggy_MM_Gagged_02_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy 2 (Gagged) Stage 1" animation="50SFO4_Doggy_MM_Gagged_02_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy 2 (Gagged) Stage 2" animation="50SFO4_Doggy_MM_Gagged_02_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy 2 (Gagged) Stage 3" animation="50SFO4_Doggy_MM_Gagged_02_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Doggy 2 (Gagged) Stage 4" animation="50SFO4_Doggy_MM_Gagged_02_S4"/>
+
+<!-- Missionary 01 Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Missionary" animationGroup="50SFO4_Missionary_MM_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary Stage 1" animation="50SFO4_Missionary_MM_01_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary Stage 2" animation="50SFO4_Missionary_MM_01_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary Stage 3" animation="50SFO4_Missionary_MM_01_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary Stage 4" animation="50SFO4_Missionary_MM_01_S4"/>
+
+<!-- Missionary 01 Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Missionary (Gagged)" animationGroup="50SFO4_Missionary_MM_Gagged_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary (Gagged) Stage 1" animation="50SFO4_Missionary_MM_Gagged_01_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary (Gagged) Stage 2" animation="50SFO4_Missionary_MM_Gagged_01_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary (Gagged) Stage 3" animation="50SFO4_Missionary_MM_Gagged_01_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary (Gagged) Stage 4" animation="50SFO4_Missionary_MM_Gagged_01_S4"/>
+
+<!-- Missionary 02 Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Missionary 2" animationGroup="50SFO4_Missionary_MM_02_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary 2 Stage 1" animation="50SFO4_Missionary_MM_02_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary 2 Stage 2" animation="50SFO4_Missionary_MM_02_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary 2 Stage 3" animation="50SFO4_Missionary_MM_02_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary 2 Stage 4" animation="50SFO4_Missionary_MM_02_S4"/>
+
+<!-- Missionary 02 Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Missionary 2 (Gagged)" animationGroup="50SFO4_Missionary_MM_Gagged_02_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary 2 (Gagged) Stage 1" animation="50SFO4_Missionary_MM_Gagged_02_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary 2 (Gagged) Stage 2" animation="50SFO4_Missionary_MM_Gagged_02_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary 2 (Gagged) Stage 3" animation="50SFO4_Missionary_MM_Gagged_02_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Missionary 2 (Gagged) Stage 4" animation="50SFO4_Missionary_MM_Gagged_02_S4"/>
+
+<!-- Spanking 01 Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Spanking" animationGroup="50SFO4_Spanking_MM_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking Stage 1" animation="50SFO4_Spanking_MM_01_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking Stage 2" animation="50SFO4_Spanking_MM_01_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking Stage 3" animation="50SFO4_Spanking_MM_01_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking Stage 4" animation="50SFO4_Spanking_MM_01_S4"/>
+
+<!-- Spanking 01 Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Spanking (Gagged)" animationGroup="50SFO4_Spanking_MM_Gagged_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking (Gagged) Stage 1" animation="50SFO4_Spanking_MM_Gagged_01_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking (Gagged) Stage 2" animation="50SFO4_Spanking_MM_Gagged_01_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking (Gagged) Stage 3" animation="50SFO4_Spanking_MM_Gagged_01_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking (Gagged) Stage 4" animation="50SFO4_Spanking_MM_Gagged_01_S4"/>
+
+<!-- Spanking 02 Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Spanking 2" animationGroup="50SFO4_Spanking_MM_02_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking 2 Stage 1" animation="50SFO4_Spanking_MM_02_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking 2 Stage 2" animation="50SFO4_Spanking_MM_02_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking 2 Stage 3" animation="50SFO4_Spanking_MM_02_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking 2 Stage 4" animation="50SFO4_Spanking_MM_02_S4"/>
+
+<!-- Spanking 02 Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Spanking 2 (Gagged)" animationGroup="50SFO4_Spanking_MM_Gagged_02_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking 2 (Gagged) Stage 1" animation="50SFO4_Spanking_MM_Gagged_02_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking 2 (Gagged) Stage 2" animation="50SFO4_Spanking_MM_Gagged_02_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking 2 (Gagged) Stage 3" animation="50SFO4_Spanking_MM_Gagged_02_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Spanking 2 (Gagged) Stage 4" animation="50SFO4_Spanking_MM_Gagged_02_S4"/>
+
+<!-- Solo Bent Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Bent" animationGroup="50SFO4_Bent_M_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Bent Stage 1" animation="50SFO4_Bent_M_01_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Bent Stage 2" animation="50SFO4_Bent_M_01_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Bent Stage 3" animation="50SFO4_Bent_M_01_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Bent Stage 4" animation="50SFO4_Bent_M_01_S4"/>
+<position id="50 Shades of Fallout 4 - Gay Bent Stage 5" animation="50SFO4_Bent_M_01_S5"/>
+
+<!-- Solo Bent Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Bent (Gagged)" animationGroup="50SFO4_Bent_M_Gagged_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Bent (Gagged) Stage 1" animation="50SFO4_Bent_M_Gagged_01_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Bent (Gagged) Stage 2" animation="50SFO4_Bent_M_Gagged_01_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Bent (Gagged) Stage 3" animation="50SFO4_Bent_M_Gagged_01_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Bent (Gagged) Stage 4" animation="50SFO4_Bent_M_Gagged_01_S4"/>
+<position id="50 Shades of Fallout 4 - Gay Bent (Gagged) Stage 5" animation="50SFO4_Bent_M_Gagged_01_S5"/>
+
+<!-- Solo Bent Mixed Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Bent Mixed" animationGroup="50SFO4_Bent_M_01_Mixed"/>
+
+<!-- Solo Bent Gagged Mixed Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Bent Mixed (Gagged)" animationGroup="50SFO4_Bent_M_Gagged_01_Mixed"/>
+
+<!-- Solo Facedown Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Facedown" animationGroup="50SFO4_Facedown_M_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Facedown Stage 1" animation="50SFO4_Facedown_M_01_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Facedown Stage 2" animation="50SFO4_Facedown_M_01_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Facedown Stage 3" animation="50SFO4_Facedown_M_01_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Facedown Stage 4" animation="50SFO4_Facedown_M_01_S4"/>
+<position id="50 Shades of Fallout 4 - Gay Facedown Stage 5" animation="50SFO4_Facedown_M_01_S5"/>
+
+<!-- Solo Facedown Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Facedown (Gagged)" animationGroup="50SFO4_Facedown_M_Gagged_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Facedown (Gagged) Stage 1" animation="50SFO4_Facedown_M_Gagged_01_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Facedown (Gagged) Stage 2" animation="50SFO4_Facedown_M_Gagged_01_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Facedown (Gagged) Stage 3" animation="50SFO4_Facedown_M_Gagged_01_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Facedown (Gagged) Stage 4" animation="50SFO4_Facedown_M_Gagged_01_S4"/>
+<position id="50 Shades of Fallout 4 - Gay Facedown (Gagged) Stage 5" animation="50SFO4_Facedown_M_Gagged_01_S5"/>
+
+<!-- Solo Facedown Mixed Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Facedown Mixed" animationGroup="50SFO4_Facedown_M_01_Mixed"/>
+
+<!-- Solo Facedown Gagged Mixed Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Facedown Mixed (Gagged)" animationGroup="50SFO4_Facedown_M_Gagged_01_Mixed"/>
+
+<!-- Solo Hogtie Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Hogtie" animationGroup="50SFO4_Hogtie_M_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Hogtie Stage 1" animation="50SFO4_Hogtie_M_01_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Hogtie Stage 2" animation="50SFO4_Hogtie_M_01_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Hogtie Stage 3" animation="50SFO4_Hogtie_M_01_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Hogtie Stage 4" animation="50SFO4_Hogtie_M_01_S4"/>
+<position id="50 Shades of Fallout 4 - Gay Hogtie Stage 5" animation="50SFO4_Hogtie_M_01_S5"/>
+
+<!-- Solo Hogtie Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Hogtie (Gagged)" animationGroup="50SFO4_Hogtie_M_Gagged_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Hogtie (Gagged) Stage 1" animation="50SFO4_Hogtie_M_Gagged_01_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Hogtie (Gagged) Stage 2" animation="50SFO4_Hogtie_M_Gagged_01_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Hogtie (Gagged) Stage 3" animation="50SFO4_Hogtie_M_Gagged_01_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Hogtie (Gagged) Stage 4" animation="50SFO4_Hogtie_M_Gagged_01_S4"/>
+<position id="50 Shades of Fallout 4 - Gay Hogtie (Gagged) Stage 5" animation="50SFO4_Hogtie_M_Gagged_01_S5"/>
+
+<!-- Solo Hogtie Mixed Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Hogtie Mixed" animationGroup="50SFO4_Hogtie_M_01_Mixed"/>
+
+<!-- Solo Hogtie Gagged Mixed Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Hogtie Mixed (Gagged)" animationGroup="50SFO4_Hogtie_M_Gagged_01_Mixed"/>
+
+<!-- Solo Side Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Side" animationGroup="50SFO4_Side_M_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Side Stage 1" animation="50SFO4_Side_M_01_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Side Stage 2" animation="50SFO4_Side_M_01_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Side Stage 3" animation="50SFO4_Side_M_01_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Side Stage 4" animation="50SFO4_Side_M_01_S4"/>
+<position id="50 Shades of Fallout 4 - Gay Side Stage 5" animation="50SFO4_Side_M_01_S5"/>
+
+<!-- Solo Side Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Side (Gagged)" animationGroup="50SFO4_Side_M_Gagged_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Gay Side (Gagged) Stage 1" animation="50SFO4_Side_M_Gagged_01_S1"/>
+<position id="50 Shades of Fallout 4 - Gay Side (Gagged) Stage 2" animation="50SFO4_Side_M_Gagged_01_S2"/>
+<position id="50 Shades of Fallout 4 - Gay Side (Gagged) Stage 3" animation="50SFO4_Side_M_Gagged_01_S3"/>
+<position id="50 Shades of Fallout 4 - Gay Side (Gagged) Stage 4" animation="50SFO4_Side_M_Gagged_01_S4"/>
+<position id="50 Shades of Fallout 4 - Gay Side (Gagged) Stage 5" animation="50SFO4_Side_M_Gagged_01_S5"/>
+
+<!-- Solo Side Mixed Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Side Mixed" animationGroup="50SFO4_Side_M_01_Mixed"/>
+
+<!-- Solo Side Gagged Mixed Animations -->
+
+<position id="50 Shades of Fallout 4 - Gay Side Mixed (Gagged)" animationGroup="50SFO4_Side_M_Gagged_01_Mixed"/>

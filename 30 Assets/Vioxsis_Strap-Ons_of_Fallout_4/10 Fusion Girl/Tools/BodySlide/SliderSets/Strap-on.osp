@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Strap-on">
+        <DataFolder>Strap-on</DataFolder>
+        <SourceFile>Strap-on.nif</SourceFile>
+        <OutputPath>meshes\Strapon</OutputPath>
+        <OutputFile GenWeights="false">Strap-on</OutputFile>
+        <Shape target="Box002:0">Box002:0</Shape>
+        <Shape target="Line001:0">Line001:0</Shape>
+        <Slider name="Up" invert="false" default="0">
+            <Data name="Box002:0Up" target="Box002:0" local="true">Strap-on.osd\Box002:0Up</Data>
+            <Data name="Line001:0Up" target="Line001:0" local="true">Strap-on.osd\Line001:0Up</Data>
+        </Slider>
+        <Slider name="Down" invert="false" default="0">
+            <Data name="Box002:0Down" target="Box002:0" local="true">Strap-on.osd\Box002:0Down</Data>
+            <Data name="Line001:0Down" target="Line001:0" local="true">Strap-on.osd\Line001:0Down</Data>
+        </Slider>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="Box002:0Belly Pregnant" target="Box002:0" local="true">Strap-on.osd\Box002:0Belly Pregnant</Data>
+            <Data name="Line001:0Belly Pregnant" target="Line001:0" local="true">Strap-on.osd\Line001:0Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="Box002:0Belly Big" target="Box002:0" local="true">Strap-on.osd\Box002:0Belly Big</Data>
+            <Data name="Line001:0Belly Big" target="Line001:0" local="true">Strap-on.osd\Line001:0Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="Box002:0Belly Size" target="Box002:0" local="true">Strap-on.osd\Box002:0Belly Size</Data>
+            <Data name="Line001:0Belly Size" target="Line001:0" local="true">Strap-on.osd\Line001:0Belly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="Box002:0Belly Tuck" target="Box002:0" local="true">Strap-on.osd\Box002:0Belly Tuck</Data>
+            <Data name="Line001:0Belly Tuck" target="Line001:0" local="true">Strap-on.osd\Line001:0Belly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="Box002:0Boobs Yuge" target="Box002:0" local="true">Strap-on.osd\Box002:0Boobs Yuge</Data>
+            <Data name="Line001:0Boobs Yuge" target="Line001:0" local="true">Strap-on.osd\Line001:0Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="Box002:0Boobs Big" target="Box002:0" local="true">Strap-on.osd\Box002:0Boobs Big</Data>
+            <Data name="Line001:0Boobs Big" target="Line001:0" local="true">Strap-on.osd\Line001:0Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="Box002:0Boobs Gravity" target="Box002:0" local="true">Strap-on.osd\Box002:0Boobs Gravity</Data>
+            <Data name="Line001:0Boobs Gravity" target="Line001:0" local="true">Strap-on.osd\Line001:0Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="Box002:0Boobs Mellons" target="Box002:0" local="true">Strap-on.osd\Box002:0Boobs Mellons</Data>
+            <Data name="Line001:0Boobs Mellons" target="Line001:0" local="true">Strap-on.osd\Line001:0Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="Box002:0Boobs Perky" target="Box002:0" local="true">Strap-on.osd\Box002:0Boobs Perky</Data>
+            <Data name="Line001:0Boobs Perky" target="Line001:0" local="true">Strap-on.osd\Line001:0Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="Box002:0Boobs Push Up" target="Box002:0" local="true">Strap-on.osd\Box002:0Boobs Push Up</Data>
+            <Data name="Line001:0Boobs Push Up" target="Line001:0" local="true">Strap-on.osd\Line001:0Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="Box002:0Boobs Top Slope" target="Box002:0" local="true">Strap-on.osd\Box002:0Boobs Top Slope</Data>
+            <Data name="Line001:0Boobs Top Slope" target="Line001:0" local="true">Strap-on.osd\Line001:0Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="Box002:0Boobs Tiny" target="Box002:0" local="true">Strap-on.osd\Box002:0Boobs Tiny</Data>
+            <Data name="Line001:0Boobs Tiny" target="Line001:0" local="true">Strap-on.osd\Line001:0Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="Line001:0Chest Width" target="Line001:0" local="true">Strap-on.osd\Line001:0Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="Box002:0Waist Chubby" target="Box002:0" local="true">Strap-on.osd\Box002:0Waist Chubby</Data>
+            <Data name="Line001:0Waist Chubby" target="Line001:0" local="true">Strap-on.osd\Line001:0Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="Line001:0Waist Size" target="Line001:0" local="true">Strap-on.osd\Line001:0Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="Line001:0Waist Height" target="Line001:0" local="true">Strap-on.osd\Line001:0Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="Line001:0Waist Line" target="Line001:0" local="true">Strap-on.osd\Line001:0Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="Line001:0Back Size" target="Line001:0" local="true">Strap-on.osd\Line001:0Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="Line001:0Back Arch" target="Line001:0" local="true">Strap-on.osd\Line001:0Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="Line001:0Hips Bone" target="Line001:0" local="true">Strap-on.osd\Line001:0Hips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="Line001:0Hips Size" target="Line001:0" local="true">Strap-on.osd\Line001:0Hips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="Line001:0Hips Upper Width" target="Line001:0" local="true">Strap-on.osd\Line001:0Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="Line001:0Bum Size" target="Line001:0" local="true">Strap-on.osd\Line001:0Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="Line001:0Bum Crack" target="Line001:0" local="true">Strap-on.osd\Line001:0Bum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="Box002:0Bum Shape 1" target="Box002:0" local="true">Strap-on.osd\Box002:0Bum Shape 1</Data>
+            <Data name="Line001:0Bum Shape 1" target="Line001:0" local="true">Strap-on.osd\Line001:0Bum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="Box002:0Bum Shape 2" target="Box002:0" local="true">Strap-on.osd\Box002:0Bum Shape 2</Data>
+            <Data name="Line001:0Bum Shape 2" target="Line001:0" local="true">Strap-on.osd\Line001:0Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="Box002:0Bum Small" target="Box002:0" local="true">Strap-on.osd\Box002:0Bum Small</Data>
+            <Data name="Line001:0Bum Small" target="Line001:0" local="true">Strap-on.osd\Line001:0Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="Box002:0Bum Chubby" target="Box002:0" local="true">Strap-on.osd\Box002:0Bum Chubby</Data>
+            <Data name="Line001:0Bum Chubby" target="Line001:0" local="true">Strap-on.osd\Line001:0Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="Line001:0Bum Round" target="Line001:0" local="true">Strap-on.osd\Line001:0Bum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="Line001:0Bum Apple" target="Line001:0" local="true">Strap-on.osd\Line001:0Bum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="Box002:0Legs Chubby" target="Box002:0" local="true">Strap-on.osd\Box002:0Legs Chubby</Data>
+            <Data name="Line001:0Legs Chubby" target="Line001:0" local="true">Strap-on.osd\Line001:0Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="Box002:0Legs Shape" target="Box002:0" local="true">Strap-on.osd\Box002:0Legs Shape</Data>
+            <Data name="Line001:0Legs Shape" target="Line001:0" local="true">Strap-on.osd\Line001:0Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="Box002:0Legs Thin" target="Box002:0" local="true">Strap-on.osd\Box002:0Legs Thin</Data>
+            <Data name="Line001:0Legs Thin" target="Line001:0" local="true">Strap-on.osd\Line001:0Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="Box002:0Thighs Slim" target="Box002:0" local="true">Strap-on.osd\Box002:0Thighs Slim</Data>
+            <Data name="Line001:0Thighs Slim" target="Line001:0" local="true">Strap-on.osd\Line001:0Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="Box002:0Thighs Size" target="Box002:0" local="true">Strap-on.osd\Box002:0Thighs Size</Data>
+            <Data name="Line001:0Thighs Size" target="Line001:0" local="true">Strap-on.osd\Line001:0Thighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="Box002:0Torso Size" target="Box002:0" local="true">Strap-on.osd\Box002:0Torso Size</Data>
+            <Data name="Line001:0Torso Size" target="Line001:0" local="true">Strap-on.osd\Line001:0Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="Box002:0Sturnum Depth" target="Box002:0" local="true">Strap-on.osd\Box002:0Sturnum Depth</Data>
+            <Data name="Line001:0Sturnum Depth" target="Line001:0" local="true">Strap-on.osd\Line001:0Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="Box002:0Sturnum Height" target="Box002:0" local="true">Strap-on.osd\Box002:0Sturnum Height</Data>
+            <Data name="Line001:0Sturnum Height" target="Line001:0" local="true">Strap-on.osd\Line001:0Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Box002:0Groin Position" target="Box002:0" local="true">Strap-on.osd\Box002:0Groin Position</Data>
+            <Data name="Line001:0Groin Position" target="Line001:0" local="true">Strap-on.osd\Line001:0Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Box002:0Groin Back" target="Box002:0" local="true">Strap-on.osd\Box002:0Groin Back</Data>
+            <Data name="Line001:0Groin Back" target="Line001:0" local="true">Strap-on.osd\Line001:0Groin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="Box002:0Labia Minora Flat" target="Box002:0" local="true">Strap-on.osd\Box002:0Labia Minora Flat</Data>
+            <Data name="Line001:0Labia Minora Flat" target="Line001:0" local="true">Strap-on.osd\Line001:0Labia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="Line001:0Labia Minora Longer" target="Line001:0" local="true">Strap-on.osd\Line001:0Labia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="Box002:0Clitoras Size" target="Box002:0" local="true">Strap-on.osd\Box002:0Clitoras Size</Data>
+            <Data name="Line001:0Clitoras Size" target="Line001:0" local="true">Strap-on.osd\Line001:0Clitoras Size</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="Box002:0Labia Majora Long" target="Box002:0" local="true">Strap-on.osd\Box002:0Labia Majora Long</Data>
+            <Data name="Line001:0Labia Majora Long" target="Line001:0" local="true">Strap-on.osd\Line001:0Labia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="Box002:0Labia Majora Wide" target="Box002:0" local="true">Strap-on.osd\Box002:0Labia Majora Wide</Data>
+            <Data name="Line001:0Labia Majora Wide" target="Line001:0" local="true">Strap-on.osd\Line001:0Labia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="Line001:0Labia Majora Inner" target="Line001:0" local="true">Strap-on.osd\Line001:0Labia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="Box002:0AbDefinition" target="Box002:0" local="true">Strap-on.osd\Box002:0AbDefinition</Data>
+            <Data name="Line001:0AbDefinition" target="Line001:0" local="true">Strap-on.osd\Line001:0AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Box002:0Body Toning" target="Box002:0" local="true">Strap-on.osd\Box002:0Body Toning</Data>
+            <Data name="Line001:0Body Toning" target="Line001:0" local="true">Strap-on.osd\Line001:0Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Box002:0TigerSanBB" target="Box002:0" local="true">Strap-on.osd\Box002:0TigerSanBB</Data>
+            <Data name="Line001:0TigerSanBB" target="Line001:0" local="true">Strap-on.osd\Line001:0TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="Box002:0XunAbs" target="Box002:0" local="true">Strap-on.osd\Box002:0XunAbs</Data>
+            <Data name="Line001:0XunAbs" target="Line001:0" local="true">Strap-on.osd\Line001:0XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="Box002:0FFB Fitness 2" target="Box002:0" local="true">Strap-on.osd\Box002:0FFB Fitness 2</Data>
+            <Data name="Line001:0FFB Fitness 2" target="Line001:0" local="true">Strap-on.osd\Line001:0FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Box002:0Athletic" target="Box002:0" local="true">Strap-on.osd\Box002:0Athletic</Data>
+            <Data name="Line001:0Athletic" target="Line001:0" local="true">Strap-on.osd\Line001:0Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Box002:0SeveNBase Bombshell" target="Box002:0" local="true">Strap-on.osd\Box002:0SeveNBase Bombshell</Data>
+            <Data name="Line001:0SeveNBase Bombshell" target="Line001:0" local="true">Strap-on.osd\Line001:0SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Line001:0Shoulder Width" target="Line001:0" local="true">Strap-on.osd\Line001:0Shoulder Width</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

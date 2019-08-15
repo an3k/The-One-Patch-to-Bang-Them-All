@@ -1,5 +1,5 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
-  <moduleName position="Left" colour="000000">AAF - The One Patch to Bang Them All</moduleName>
+  <moduleName position="Left" colour="000000">AAF - The One Patch to Rule Them All</moduleName>
   <moduleImage path="FOMod\images\AAF.jpg" showImage="true" showFade="true" height="-1"/>
   <installSteps order="Explicit">
     <installStep name="Welcome">
@@ -127,34 +127,6 @@
         </dependencies>
         <files>
           <folder source="004 Vioxsis_Strap-Ons_of_Fallout_4" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <!-- Creature Patch -->
-      <pattern>
-        <dependencies operator="Or">
-          <dependencies operator="Or">
-            <fileDependency file="FO4_AnimationsByLeito.esp" state="Active"/>
-            <fileDependency file="FO4_AnimationsByLeito.esp" state="Inactive"/>
-          </dependencies>
-          <dependencies operator="Or">
-            <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Active"/>
-            <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Inactive"/>
-          </dependencies>
-          <dependencies operator="Or">
-            <fileDependency file="Mutated Lust.esp" state="Active"/>
-            <fileDependency file="Mutated Lust.esp" state="Inactive"/>
-          </dependencies>
-          <dependencies operator="Or">
-            <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-            <fileDependency file="SavageCabbage_Animations.esp" state="Inactive"/>
-          </dependencies>
-          <dependencies operator="Or">
-            <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
-            <fileDependency file="Vadermania[AAF_anims].esp" state="Inactive"/>
-          </dependencies>
-        </dependencies>
-        <files>
-          <folder source="005 Creature_Patch" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Super Mutant Skeleton -->

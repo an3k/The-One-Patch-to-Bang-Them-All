@@ -1,8 +1,8 @@
-<meta title="BP70's Fallout 4 Sex Animations - Furniture Data" version="2.0.0" dataSet="furniture"/>
+<meta title="BP70's Fallout 4 Sex Animations - Furniture Data" version="2.1.1" dataSet="furniture"/>
 <defaults source="Fallout4.esm"/>
 
 <group id="Extractor Chair">
-	<furniture form="001e618a" id="ExtractorChair01"/>
+	<furniture form="001E618A" id="ExtractorChair01"/>
 </group>
 
 <group id="Single Bed">

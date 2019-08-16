@@ -1,0 +1,22 @@
+<meta title="BP70's Fallout 4 Sex Animations - FF Animation Data" version="2.1.1" dataSet="animation"/>
+<defaults source="rxl_bp70_animations.esp"/>
+
+<!-- FF Animations -->
+
+<animation id="FO4SA_Footplay_FF_01" frames="360">
+	<actor gender="F">
+		<idle form="0000C6A4" id="rxl_bp70_lesbian_footplay_f1"/>
+	</actor>
+	<actor gender="F">
+		<idle form="0000C6A5" id="rxl_bp70_lesbian_footplay_f2"/>
+	</actor>
+</animation>
+
+<animation id="FO4SA_Scissors_FF_01" frames="300">
+	<actor gender="F">
+		<idle form="0000C6A6" id="rxl_bp70_lesbian_scissors_f1"/>
+	</actor>
+	<actor gender="F">
+		<idle form="0000C6A7" id="rxl_bp70_lesbian_scissors_f2"/>
+	</actor>
+</animation>

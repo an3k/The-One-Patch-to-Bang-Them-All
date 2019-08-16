@@ -1,0 +1,24 @@
+<meta title="Mutated Lust - Position Data" version="1.3.0" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+
+<!-- Deathclaw Animations -->
+
+<position id="Mutated Lust - Dumpster" animation="ML_Dumpster_FM_01"/>
+<position id="Mutated Lust - Fleshlight" animation="ML_Fleshlight_FM_01"/>
+<position id="Mutated Lust - Tease" animation="ML_Tease_FM_01"/>
+
+<!-- Feral Ghoul Animations -->
+
+<position id="Mutated Lust - Cowgirl (Feral Ghoul)" animation="ML_Cowgirl_FM_01"/>
+
+<!-- Supermutant Animations -->
+
+<position id="Mutated Lust - Blowjob" animation="ML_Blowjob_FM_01"/>
+<position id="Mutated Lust - Missionary (Forced)" animation="ML_Missionary_FM_Forced_01"/>
+<position id="Mutated Lust - Missionary Pipe Rifle (Forced)" animation="ML_MissionaryPipeRifle_FM_Forced_01"/>
+<position id="Mutated Lust - Penis Lick" animation="ML_PenisLick_FM_01"/>
+
+<!-- Furniture Animations -->
+
+<position id="Mutated Lust - Cowgirl" location="FEV Chamber" animation="ML_Cowgirl_FM_01"/>
+<position id="Mutated Lust - Doggy" location="FEV Chamber" animation="ML_Doggy_FM_01"/>

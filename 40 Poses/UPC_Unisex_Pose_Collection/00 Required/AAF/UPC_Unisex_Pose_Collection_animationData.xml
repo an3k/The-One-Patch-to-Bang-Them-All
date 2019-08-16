@@ -491,7 +491,7 @@
 
 <!-- Duo -->
 
-<animation id="upcduo1">
+<animation id="upcduo1" offset="0,0,1,0:14,10,0,-90">
 	<actor>
 		<idle form="00004C79"/>
 	</actor>
@@ -499,7 +499,7 @@
 		<idle form="00004C78"/>
 	</actor>
 </animation>
-<animation id="upcduo2">
+<animation id="upcduo2" offset="0,0,0,0:4,26,0,180">
 	<actor>
 		<idle form="00001EDB"/>
 	</actor>
@@ -507,7 +507,7 @@
 		<idle form="00001EDA"/>
 	</actor>
 </animation>
-<animation id="upcduo3">
+<animation id="upcduo3" offset="0,0,0,0:0,20,0,0">
 	<actor>
 		<idle form="00005BB7"/>
 	</actor>
@@ -515,7 +515,7 @@
 		<idle form="00005BB6"/>
 	</actor>
 </animation>
-<animation id="upcduo4">
+<animation id="upcduo4" offset="0,0,3,0:1,21,0,0">
 	<actor>
 		<idle form="00006352"/>
 	</actor>
@@ -523,7 +523,7 @@
 		<idle form="00006351"/>
 	</actor>
 </animation>
-<animation id="upcduo5">
+<animation id="upcduo5" offset="0,0,0,0:-36,-7,0,0">
 	<actor>
 		<idle form="00005BC4"/>
 	</actor>
@@ -531,7 +531,7 @@
 		<idle form="00005BC3"/>
 	</actor>
 </animation>
-<animation id="upcduo6">
+<animation id="upcduo6" offset="0,0,0,0:0,24,0,180">
 	<actor>
 		<idle form="0000D56C"/>
 	</actor>
@@ -563,7 +563,7 @@
 		<idle form="000130B0"/>
 	</actor>
 </animation>
-<animation id="upcduo9alt" offset="0,0,0,0:-35,-78,0,0">
+<animation id="upcduo9alt" offset="0,0,0,0:-33,-79,0,0">
 	<actor>
 		<idle form="000130B2"/>
 	</actor>
@@ -603,7 +603,7 @@
 		<idle form="00016D85"/>
 	</actor>
 </animation>
-<animation id="upcduo14" offset="0,0,0,0:7.8,13.9,0,180">
+<animation id="upcduo14" offset="0,0,1,0:7.8,13.4,0,180">
 	<actor>
 		<idle form="00017521"/>
 	</actor>

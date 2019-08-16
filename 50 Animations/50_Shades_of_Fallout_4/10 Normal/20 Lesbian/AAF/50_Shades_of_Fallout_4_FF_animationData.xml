@@ -15,7 +15,7 @@
 	<actor gender="F">
 		<idle form="00002681" id="GrayDoggy01S02F"/>
 	</actor>
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
 		<idle form="00005BEB" id="GrayDoggy01S02MF"/>
 	</actor>
 </animation>
@@ -23,7 +23,7 @@
 	<actor gender="F">
 		<idle form="00002683" id="GrayDoggy01S03F"/>
 	</actor>
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
 		<idle form="00005BEC" id="GrayDoggy01S03MF"/>
 	</actor>
 </animation>
@@ -31,7 +31,7 @@
 	<actor gender="F">
 		<idle form="00002685" id="GrayDoggy01S04F"/>
 	</actor>
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
 		<idle form="00005BED" id="GrayDoggy01S04MF"/>
 	</actor>
 </animation>

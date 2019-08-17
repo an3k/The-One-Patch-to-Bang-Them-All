@@ -1,19 +1,19 @@
 <meta title="AAF - Enhanced Vanilla Bodies Morph Set Data" version="0.9.3-b" dataSet="morphSet"/>
 <defaults/>
 
-<morphSet id="unReady">
+<morphSet id="ready">
 	<condition isFemale="false">
-		<morph value="CErection" to="0"/>
-		<morph value="Erection" to="0"/>
+		<morph value="CErection" to="1"/>
+		<morph value="Erection" to="1"/>
 		<morph value="Erection Up" to="0"/>
 		<morph value="Erection Down" to="0"/>
 	</condition>
 </morphSet>
 
-<morphSet id="ready">
+<morphSet id="unReady">
 	<condition isFemale="false">
-		<morph value="CErection" to="1"/>
-		<morph value="Erection" to="1"/>
+		<morph value="CErection" to="0"/>
+		<morph value="Erection" to="0"/>
 		<morph value="Erection Up" to="0"/>
 		<morph value="Erection Down" to="0"/>
 	</condition>

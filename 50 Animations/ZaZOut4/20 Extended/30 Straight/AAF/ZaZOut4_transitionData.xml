@@ -1,0 +1,15 @@
+<meta title="ZaZOut4 - Transition Data" version="0.0.5-b" dataSet="transition"/>
+<defaults/>
+
+<!-- Blowjob Animations -->
+
+<transition from="ZaZOut4 - Blowjob (Stage 4)" to="ZaZOut4 - Blowjob (Stage 5)" animation="ZaZOut4_Blowjob_FM_01_4TR5"/>
+<transition from="ZaZOut4 - Blowjob (Stage 5)" to="ZaZOut4 - Blowjob (Stage 6)" animation="ZaZOut4_Blowjob_FM_01_5TR6"/>
+
+<transition from="ZaZOut4 - Blowjob (Stage 8)" to="ZaZOut4 - Pussy (Stage 1)" animation="ZaZOut4_Pussy_FM_01_00"/>
+
+<!-- Pussy Animations -->
+
+<transition from="none" to="ZaZOut4 - Pussy (Stage 1)" animation="ZaZOut4_Pussy_FM_01_00"/>
+<transition from="ZaZOut4 - Pussy (Stage 7)" to="ZaZOut4 - Pussy (Stage 8)" animation="ZaZOut4_Pussy_FM_TR_01_7TR8"/>
+<transition from="ZaZOut4 - Pussy (Stage 8)" to="ZaZOut4 - Pussy (Stage 9)" animation="ZaZOut4_Pussy_FM_TR_01_8TR9"/>

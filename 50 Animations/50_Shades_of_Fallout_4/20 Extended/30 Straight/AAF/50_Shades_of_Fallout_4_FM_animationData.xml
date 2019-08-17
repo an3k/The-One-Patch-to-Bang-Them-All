@@ -71,29 +71,6 @@
 	</actor>
 </animation>
 
-<!-- Unknown -->
-
-<animation id="GrayDoggy01S01M" frames="300">
-	<actor gender="F">
-		<idle form="00005BEA" id="GrayDoggy01S01MF"/>
-	</actor>
-</animation>
-<animation id="GrayDoggy01S02M" frames="300">
-	<actor gender="F">
-		<idle form="00005BEB" id="GrayDoggy01S02MF"/>
-	</actor>
-</animation>
-<animation id="GrayDoggy01S03M" frames="300">
-	<actor gender="F">
-		<idle form="00005BEC" id="GrayDoggy01S03MF"/>
-	</actor>
-</animation>
-<animation id="GrayDoggy01S04M" frames="300">
-	<actor gender="F">
-		<idle form="00005BED" id="GrayDoggy01S04MF"/>
-	</actor>
-</animation>
-
 <!-- Doggy 02 Animations -->
 
 <animation id="50SFO4_Doggy_FM_02_S1" frames="300">
@@ -172,29 +149,6 @@
 	</actor>
 </animation>
 
-<!-- Unknown -->
-
-<animation id="GrayDoggy02S01M" frames="300">
-	<actor gender="F">
-		<idle form="00005BEE" id="GrayDoggy02S01MF"/>
-	</actor>
-</animation>
-<animation id="GrayDoggy02S02M" frames="300">
-	<actor gender="F">
-		<idle form="00005BEF" id="GrayDoggy02S02MF"/>
-	</actor>
-</animation>
-<animation id="GrayDoggy02S03M" frames="300">
-	<actor gender="F">
-		<idle form="00005BF0" id="GrayDoggy02S03MF"/>
-	</actor>
-</animation>
-<animation id="GrayDoggy02S04M" frames="300">
-	<actor gender="F">
-		<idle form="00005BF1" id="GrayDoggy02S04MF"/>
-	</actor>
-</animation>
-
 <!-- Missionary 01 Animations -->
 
 <animation id="50SFO4_Missionary_FM_01_S1" frames="300">
@@ -265,29 +219,6 @@
 	</actor>
 </animation>
 
-<!-- Unknown -->
-
-<animation id="GrayMissionary01S01M" frames="300">
-	<actor gender="F">
-		<idle form="00005BF2" id="GrayMissionary01S01MF"/>
-	</actor>
-</animation>
-<animation id="GrayMissionary01S02M" frames="300">
-	<actor gender="F">
-		<idle form="00005BF3" id="GrayMissionary01S02MF"/>
-	</actor>
-</animation>
-<animation id="GrayMissionary01S03M" frames="300">
-	<actor gender="F">
-		<idle form="00005BF4" id="GrayMissionary01S03MF"/>
-	</actor>
-</animation>
-<animation id="GrayMissionary01S04M" frames="300">
-	<actor gender="F">
-		<idle form="00005BF5" id="GrayMissionary01S04MF"/>
-	</actor>
-</animation>
-
 <!-- Missionary 02 Animations -->
 
 <animation id="50SFO4_Missionary_FM_02_S1" frames="300">
@@ -355,29 +286,6 @@
 	</actor>
 	<actor gender="M">
 		<idle form="0000267E" id="GrayMissionary02S04M"/>
-	</actor>
-</animation>
-
-<!-- Unknown -->
-
-<animation id="GrayMissionary02S01M" frames="300">
-	<actor gender="F">
-		<idle form="0000544D" id="GrayMissionary02S01MF"/>
-	</actor>
-</animation>
-<animation id="GrayMissionary02S02M" frames="300">
-	<actor gender="F">
-		<idle form="0000544E" id="GrayMissionary02S02MF"/>
-	</actor>
-</animation>
-<animation id="GrayMissionary02S03M" frames="300">
-	<actor gender="F">
-		<idle form="0000544F" id="GrayMissionary02S03MF"/>
-	</actor>
-</animation>
-<animation id="GrayMissionary02S04M" frames="300">
-	<actor gender="F">
-		<idle form="00005450" id="GrayMissionary02S04MF"/>
 	</actor>
 </animation>
 

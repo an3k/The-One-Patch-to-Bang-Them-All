@@ -892,6 +892,15 @@
           <folder source="50 Animations\Crazys_Animations_Gun_Version\20 Extended\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="Crazy_Animations_Gun.esp" state="Active"/>
+          <fileDependency file="DLCworkshop02.esm" state="Active"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\Crazys_Animations_Gun_Version\30 Addons\DLCworkshop02\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
       <!-- Farelle's Animations -->
       <pattern>
         <dependencies operator="And">

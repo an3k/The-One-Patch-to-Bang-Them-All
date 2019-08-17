@@ -1,6 +1,6 @@
-<meta title="AAF - Protected Equipment Data" version="1.0" dataSet="protectedEquipment"/>
-<defaults />
+<meta title="AAF - Protected Equipment Data" version="0.9.3-b" dataSet="protectedEquipment"/>
+<defaults/>
 
 <condition>
-	<protectKeyword form="004C5C" source="Devious Devices.esm"/>
+	<protectKeyword form="00004C5C" source="Devious Devices.esm"/>
 </condition>

@@ -3,8 +3,6 @@
 
 <!-- Normal -->
 
-<!-- Normal -->
-
 <animation id="FPAC_Blowjob_MM_Handstand_01" frames="135" offset="0,70,0,0:0,0,0,0">
 	<actor gender="M">
 		<idle form="00000FAE" id="Crazy_Front01_FHandstandBJ"/>

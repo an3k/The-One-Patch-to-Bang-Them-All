@@ -48,162 +48,140 @@
 <!-- Garrote Free Animations -->
 
 <animation id="GUBEAP_Garrote_FM_Free_01_S1" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00004DBF" id="_BP_GPoleFree00"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Garrote_FM_Free_01_S2" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00004DC0" id="_BP_GPoleFree01"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Garrote_FM_Free_01_S3" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00004DC1" id="_BP_GPoleFree02"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Garrote_FM_Free_01_S4" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00004DC2" id="_BP_GPoleFree03"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Garrote_FM_Free_01_S5A" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00004DC3" id="_BP_GPoleFreeEnd01"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Garrote_FM_Free_01_S5B" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00004DC4" id="_BP_GPoleFreeEnd02"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <!-- Garrote Tied Animations -->
 
 <animation id="GUBEAP_Garrote_FM_Tied_01_S1" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00004DC5" id="_BP_GPoleTied00"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Garrote_FM_Tied_01_S2" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00004DC6" id="_BP_GPoleTied01"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Garrote_FM_Tied_01_S3" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00004DC7" id="_BP_GPoleTied02"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Garrote_FM_Tied_01_S4" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00004DC8" id="_BP_GPoleTied03"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Garrote_FM_Tied_01_S5A" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00004DC9" id="_BP_GPoleTiedEnd01"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Garrote_FM_Tied_01_S5B" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00004DCA" id="_BP_GPoleTiedEnd02"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <!-- Noose High Free Animations -->
 
 <animation id="GUBEAP_Hanging_FM_Free_01_S1" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00001EEB" id="_BP_NooseHighFree00"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Hanging_FM_Free_01_S2" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00001EEC" id="_BP_NooseHighFree01"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Hanging_FM_Free_01_S3" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00001EED" id="_BP_NooseHighFree02"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Hanging_FM_Free_01_S4A" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00001EEE" id="_BP_NooseHighFreeEnd01"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Hanging_FM_Free_01_S4B" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00001EEF" id="_BP_NooseHighFreeEnd02"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <!-- Noose High Tied Animations -->
 
 <animation id="GUBEAP_Hanging_FM_Tied_01_S1" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00001EF0" id="_BP_NooseHighTied00"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Hanging_FM_Tied_01_S2" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00001EF1" id="_BP_NooseHighTied01"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Hanging_FM_Tied_01_S3" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00001EF2" id="_BP_NooseHighTied02"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Hanging_FM_Tied_01_S4A" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="00001EF3" id="_BP_NooseHighTiedEnd01"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 
 <animation id="GUBEAP_Hanging_FM_Tied_01_S4B" frames="300">
-	<actor>
+	<actor startEquipmentSet="addEquipmentNoose" stopEquipmentSet="removeEquipmentNoose">
 		<idle form="0000B0C8" id="_BP_NooseHighTiedEnd02"/>
-		<value path="action" value="F_Noose_activity" loop="true" time="150"/>
 	</actor>
 </animation>
 

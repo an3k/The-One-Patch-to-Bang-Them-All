@@ -3,7 +3,7 @@
 
 <!-- Doggy 01 Animations -->
 
-<position id="50 Shades of Fallout 4 - Lesbian Doggy" animationGroup="50SFO4_Doggy_FF_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Lesbian Doggy (Staged)" animationGroup="50SFO4_Doggy_FF_01_Staged"/>
 <position id="50 Shades of Fallout 4 - Lesbian Doggy (Stage 1)" animation="50SFO4_Doggy_FF_01_S1" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Doggy (Stage 2)" animation="50SFO4_Doggy_FF_01_S2" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Doggy (Stage 3)" animation="50SFO4_Doggy_FF_01_S3" isHidden="true"/>
@@ -11,7 +11,7 @@
 
 <!-- Doggy 01 Gagged Animations -->
 
-<position id="50 Shades of Fallout 4 - Lesbian Doggy (Gagged)" animationGroup="50SFO4_Doggy_FF_Gagged_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Lesbian Doggy (Gagged, Staged)" animationGroup="50SFO4_Doggy_FF_Gagged_01_Staged"/>
 <position id="50 Shades of Fallout 4 - Lesbian Doggy (Gagged, Stage 1)" animation="50SFO4_Doggy_FF_Gagged_01_S1" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Doggy (Gagged, Stage 2)" animation="50SFO4_Doggy_FF_Gagged_01_S2" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Doggy (Gagged, Stage 3)" animation="50SFO4_Doggy_FF_Gagged_01_S3" isHidden="true"/>
@@ -19,7 +19,7 @@
 
 <!-- Doggy 02 Animations -->
 
-<position id="50 Shades of Fallout 4 - Lesbian Doggy 2" animationGroup="50SFO4_Doggy_FF_02_Staged"/>
+<position id="50 Shades of Fallout 4 - Lesbian Doggy 2 (Staged)" animationGroup="50SFO4_Doggy_FF_02_Staged"/>
 <position id="50 Shades of Fallout 4 - Lesbian Doggy 2 (Stage 1)" animation="50SFO4_Doggy_FF_02_S1" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Doggy 2 (Stage 2)" animation="50SFO4_Doggy_FF_02_S2" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Doggy 2 (Stage 3)" animation="50SFO4_Doggy_FF_02_S3" isHidden="true"/>
@@ -27,7 +27,7 @@
 
 <!-- Doggy 02 Gagged Animations -->
 
-<position id="50 Shades of Fallout 4 - Lesbian Doggy 2 (Gagged)" animationGroup="50SFO4_Doggy_FF_Gagged_02_Staged"/>
+<position id="50 Shades of Fallout 4 - Lesbian Doggy 2 (Gagged, Staged)" animationGroup="50SFO4_Doggy_FF_Gagged_02_Staged"/>
 <position id="50 Shades of Fallout 4 - Lesbian Doggy 2 (Gagged, Stage 1)" animation="50SFO4_Doggy_FF_Gagged_02_S1" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Doggy 2 (Gagged, Stage 2)" animation="50SFO4_Doggy_FF_Gagged_02_S2" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Doggy 2 (Gagged, Stage 3)" animation="50SFO4_Doggy_FF_Gagged_02_S3" isHidden="true"/>
@@ -35,7 +35,7 @@
 
 <!-- Missionary 01 Animations -->
 
-<position id="50 Shades of Fallout 4 - Lesbian Missionary" animationGroup="50SFO4_Missionary_FF_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Lesbian Missionary (Staged)" animationGroup="50SFO4_Missionary_FF_01_Staged"/>
 <position id="50 Shades of Fallout 4 - Lesbian Missionary (Stage 1)" animation="50SFO4_Missionary_FF_01_S1" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Missionary (Stage 2)" animation="50SFO4_Missionary_FF_01_S2" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Missionary (Stage 3)" animation="50SFO4_Missionary_FF_01_S3" isHidden="true"/>
@@ -43,7 +43,7 @@
 
 <!-- Missionary 01 Gagged Animations -->
 
-<position id="50 Shades of Fallout 4 - Lesbian Missionary (Gagged)" animationGroup="50SFO4_Missionary_FF_Gagged_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Lesbian Missionary (Gagged, Staged)" animationGroup="50SFO4_Missionary_FF_Gagged_01_Staged"/>
 <position id="50 Shades of Fallout 4 - Lesbian Missionary (Gagged, Stage 1)" animation="50SFO4_Missionary_FF_Gagged_01_S1" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Missionary (Gagged, Stage 2)" animation="50SFO4_Missionary_FF_Gagged_01_S2" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Missionary (Gagged, Stage 3)" animation="50SFO4_Missionary_FF_Gagged_01_S3" isHidden="true"/>
@@ -51,7 +51,7 @@
 
 <!-- Missionary 02 Animations -->
 
-<position id="50 Shades of Fallout 4 - Lesbian Missionary 2" animationGroup="50SFO4_Missionary_FF_02_Staged"/>
+<position id="50 Shades of Fallout 4 - Lesbian Missionary 2 (Staged)" animationGroup="50SFO4_Missionary_FF_02_Staged"/>
 <position id="50 Shades of Fallout 4 - Lesbian Missionary 2 (Stage 1)" animation="50SFO4_Missionary_FF_02_S1" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Missionary 2 (Stage 2)" animation="50SFO4_Missionary_FF_02_S2" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Missionary 2 (Stage 3)" animation="50SFO4_Missionary_FF_02_S3" isHidden="true"/>
@@ -59,7 +59,7 @@
 
 <!-- Missionary 02 Gagged Animations -->
 
-<position id="50 Shades of Fallout 4 - Lesbian Missionary 2 (Gagged)" animationGroup="50SFO4_Missionary_FF_Gagged_02_Staged"/>
+<position id="50 Shades of Fallout 4 - Lesbian Missionary 2 (Gagged, Staged)" animationGroup="50SFO4_Missionary_FF_Gagged_02_Staged"/>
 <position id="50 Shades of Fallout 4 - Lesbian Missionary 2 (Gagged, Stage 1)" animation="50SFO4_Missionary_FF_Gagged_02_S1" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Missionary 2 (Gagged, Stage 2)" animation="50SFO4_Missionary_FF_Gagged_02_S2" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Missionary 2 (Gagged, Stage 3)" animation="50SFO4_Missionary_FF_Gagged_02_S3" isHidden="true"/>
@@ -67,7 +67,7 @@
 
 <!-- Spanking 01 Animations -->
 
-<position id="50 Shades of Fallout 4 - Lesbian Spanking" animationGroup="50SFO4_Spanking_FF_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Lesbian Spanking (Staged)" animationGroup="50SFO4_Spanking_FF_01_Staged"/>
 <position id="50 Shades of Fallout 4 - Lesbian Spanking (Stage 1)" animation="50SFO4_Spanking_FF_01_S1" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Spanking (Stage 2)" animation="50SFO4_Spanking_FF_01_S2" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Spanking (Stage 3)" animation="50SFO4_Spanking_FF_01_S3" isHidden="true"/>
@@ -75,7 +75,7 @@
 
 <!-- Spanking 01 Gagged Animations -->
 
-<position id="50 Shades of Fallout 4 - Lesbian Spanking (Gagged)" animationGroup="50SFO4_Spanking_FF_Gagged_01_Staged"/>
+<position id="50 Shades of Fallout 4 - Lesbian Spanking (Gagged, Staged)" animationGroup="50SFO4_Spanking_FF_Gagged_01_Staged"/>
 <position id="50 Shades of Fallout 4 - Lesbian Spanking (Gagged, Stage 1)" animation="50SFO4_Spanking_FF_Gagged_01_S1" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Spanking (Gagged, Stage 2)" animation="50SFO4_Spanking_FF_Gagged_01_S2" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Spanking (Gagged, Stage 3)" animation="50SFO4_Spanking_FF_Gagged_01_S3" isHidden="true"/>
@@ -83,7 +83,7 @@
 
 <!-- Spanking 02 Animations -->
 
-<position id="50 Shades of Fallout 4 - Lesbian Spanking 2" animationGroup="50SFO4_Spanking_FF_02_Staged"/>
+<position id="50 Shades of Fallout 4 - Lesbian Spanking 2 (Staged)" animationGroup="50SFO4_Spanking_FF_02_Staged"/>
 <position id="50 Shades of Fallout 4 - Lesbian Spanking 2 (Stage 1)" animation="50SFO4_Spanking_FF_02_S1" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Spanking 2 (Stage 2)" animation="50SFO4_Spanking_FF_02_S2" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Spanking 2 (Stage 3)" animation="50SFO4_Spanking_FF_02_S3" isHidden="true"/>
@@ -91,7 +91,7 @@
 
 <!-- Spanking 02 Gagged Animations -->
 
-<position id="50 Shades of Fallout 4 - Lesbian Spanking 2 (Gagged)" animationGroup="50SFO4_Spanking_FF_Gagged_02_Staged"/>
+<position id="50 Shades of Fallout 4 - Lesbian Spanking 2 (Gagged, Staged)" animationGroup="50SFO4_Spanking_FF_Gagged_02_Staged"/>
 <position id="50 Shades of Fallout 4 - Lesbian Spanking 2 (Gagged, Stage 1)" animation="50SFO4_Spanking_FF_Gagged_02_S1" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Spanking 2 (Gagged, Stage 2)" animation="50SFO4_Spanking_FF_Gagged_02_S2" isHidden="true"/>
 <position id="50 Shades of Fallout 4 - Lesbian Spanking 2 (Gagged, Stage 3)" animation="50SFO4_Spanking_FF_Gagged_02_S3" isHidden="true"/>

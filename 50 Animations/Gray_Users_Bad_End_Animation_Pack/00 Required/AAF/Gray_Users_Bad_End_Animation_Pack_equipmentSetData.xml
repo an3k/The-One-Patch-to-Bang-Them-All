@@ -3,12 +3,12 @@
 
 <equipmentSet id="addEquipmentNoose"> 
     <condition isFemale="true">
-		<addEquipment form="1EE6"/>
+		<addEquipment form="00001EE6"/>
     </condition>
 </equipmentSet>
 
 <equipmentSet id="removeEquipmentNoose">
     <condition isFemale="true">
-		<removeEquipment form="1EE6"/>
+		<removeEquipment form="00001EE6"/>
     </condition>
 </equipmentSet>

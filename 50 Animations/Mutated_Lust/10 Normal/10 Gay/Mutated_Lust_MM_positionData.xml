@@ -1,0 +1,23 @@
+<meta title="Mutated Lust - MM Position Data" version="1.2.0" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+
+<!-- Supermutant Animations -->
+
+<position id="Mutated Lust - Gay Penis Lick" animation="ML_PenisLick_MM_01"/>
+<position id="Mutated Lust - Gay Blowjob" animation="ML_Blowjob_MM_01"/>
+<position id="Mutated Lust - Gay Missionary (Forced)" animation="ML_Missionary_MM_Forced_01"/>
+<position id="Mutated Lust - Gay Missionary Pipe Rifle (Forced)" animation="ML_MissionarPipeRifle_MM_Forced_01"/>
+
+<!-- Feral Ghoul Animations -->
+
+<position id="Mutated Lust - Gay Cowgirl (Feral Ghoul) " animation="MM_Cowgirl_MM_01"/>
+
+<!-- Deathclaw Animations -->
+
+<position id="Mutated Lust - Gay Fleshlight" animation="ML_Fleshlight_MM_01"/>
+<position id="Mutated Lust - Gay Tease" animation="ML_Tease_MM_01"/>
+<position id="Mutated Lust - Gay Dumpster" animation="ML_Dumpster_MM_01" location="Dumpster"/>
+
+<!-- Furniture Animations -->
+<position id="Mutated Lust - Gay Doggy" animation="MM_Doggy_MM_01" location="FEV Chamber"/>
+<position id="Mutated Lust - Gay Cowgirl" animation="MM_Cowgirl_MM_01" location="FEV Chamber"/>

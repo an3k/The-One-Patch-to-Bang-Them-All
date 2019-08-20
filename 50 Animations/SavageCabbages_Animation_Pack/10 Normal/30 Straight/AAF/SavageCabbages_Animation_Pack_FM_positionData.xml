@@ -1,198 +1,634 @@
-<meta title="SavageCabbage's Animation Pack - FM Position Data" version="1.0.4" dataSet="position"/>
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+<meta title="SavageCabbage's Animation Pack - Position Data" version="1.0.4" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
-<position id="F-Dance01-01HipShakeStart"/>
-<position id="F-Dance01-02HipShake"/>
 
-<position id="F-Dance02-01TwerkStart"/>
 
-<position id="F-Dance03-01TwerkStart"/>
+<position id="SCAP_Dance_FM_1Human_01_Staged" animationGroup="SCAP_Dance_FM_1Human_01_Staged"/>
+<position id="SCAP_Dance_FM_1Human_01_S1" animation="SCAP_Dance_FM_1Human_01_S1"/>
+<position id="SCAP_Dance_FM_1Human_01_S2" animation="SCAP_Dance_FM_1Human_01_S2"/>
 
-<position id="FM-Bed01-01Handjob" location="Single_Bed"/>
-<position id="FM-Bed01-02Handjob" location="Single_Bed"/>
-<position id="FM-Bed01-03Titjob" location="Single_Bed"/>
-<position id="FM-Bed01-04Blowjob" location="Single_Bed"/>
-<position id="FM-Bed01-05DeepthroatA" location="Single_Bed"/>
-<position id="FM-Bed01-05DeepthroatB" location="Single_Bed"/>
-<position id="FM-Bed01-05DeepthroatC" location="Single_Bed"/>
-<position id="FM-Bed01-06BlowjobRough" location="Single_Bed"/>
-<position id="FM-Bed01-07Cumshot" location="Single_Bed"/>
-<position id="FM-Bed01-07Swallow" location="Single_Bed"/>
 
-<position id="FM-Bed02-01Straddle" location="Single_Bed"/>
-<position id="FM-Bed02-02Straddle" location="Single_Bed"/>
-<position id="FM-Bed02-03Straddle" location="Single_Bed"/>
-<position id="FM-Bed02-04Straddle" location="Single_Bed"/>
-<position id="FM-Bed02-05Straddle" location="Single_Bed"/>
 
-<position id="FM-Bed03-01Tease" location="Single_Bed"/>
-<position id="FM-Bed03-03Cowgirl" location="Single_Bed"/>
-<position id="FM-Bed03-04Cowgirl" location="Single_Bed"/>
-<position id="FM-Bed03-05Cowgirl" location="Single_Bed"/>
+<position id="SCAP_Twerk_FM_1Human_01" animation="SCAP_Twerk_FM_1Human_01"/>
+<position id="SCAP_Twerk_FM_1Human_02" animation="SCAP_Twerk_FM_1Human_02"/>
 
-<position id="FM-Bed04-03Missionary" location="Single_Bed"/>
 
-<position id="FM-Bench01-01Tease" location="Bench"/>
-<position id="FM-Bench01-03ReverseCowgirl" location="Bench"/>
-<position id="FM-Bench01-04ReverseCowgirl" location="Bench"/>
-<position id="FM-Bench01-05ReverseCowgirl" location="Bench"/>
 
-<position id="FM-Chair01-01Tease" location="ArmChair"/>
-<position id="FM-Chair01-03Cowgirl" location="ArmChair"/>
-<position id="FM-Chair01-04Cowgirl" location="ArmChair"/>
-<position id="FM-Chair01-05Cowgirl" location="ArmChair"/>
-<position id="FM-Chair01-06Cowgirl" location="ArmChair"/>
+<position id="SCAP_Bed_FM_2Human_01_Staged" animationGroup="SCAP_Bed_FM_2Human_01_Staged" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_01_S1" animation="SCAP_Bed_FM_2Human_01_S1" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_01_S2" animation="SCAP_Bed_FM_2Human_01_S2" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_01_S3" animation="SCAP_Bed_FM_2Human_01_S3" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_01_S4" animation="SCAP_Bed_FM_2Human_01_S4" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_01_S5A" animation="SCAP_Bed_FM_2Human_01_S5A" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_01_S5B" animation="SCAP_Bed_FM_2Human_01_S5B" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_01_S5C" animation="SCAP_Bed_FM_2Human_01_S5C" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_01_S6" animation="SCAP_Bed_FM_2Human_01_S6" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_01_S7" animation="SCAP_Bed_FM_2Human_01_S7" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_01_S8" animation="SCAP_Bed_FM_2Human_01_S8" location="Single_Bed"/>
 
-<position id="FM-Chair02-01Start" location="ArmChair"/>
-<position id="FM-Chair02-02Handjob" location="ArmChair"/>
-<position id="FM-Chair02-03Handjob" location="ArmChair"/>
-<position id="FM-Chair02-04Handjob" location="ArmChair"/>
-<position id="FM-Chair02-05Blowjob" location="ArmChair"/>
-<position id="FM-Chair02-06Blowjob" location="ArmChair"/>
-<position id="FM-Chair02-07Deepthroat" location="ArmChair"/>
-<position id="FM-Chair02-08Swallow" location="ArmChair"/>
 
-<position id="FM-ChairHigh01-02Doggy" location="ChairHigh"/>
 
-<position id="FM-ChairLow01-02Doggy" location="ChairLow"/>
+<position id="SCAP_Bed_FM_2Human_02_Staged" animationGroup="SCAP_Bed_FM_2Human_02_Staged" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_02_S1" animation="SCAP_Bed_FM_2Human_02_S1" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_02_S2" animation="SCAP_Bed_FM_2Human_02_S2" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_02_S3" animation="SCAP_Bed_FM_2Human_02_S3" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_02_S4" animation="SCAP_Bed_FM_2Human_02_S4" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_02_S5" animation="SCAP_Bed_FM_2Human_02_S5" location="Single_Bed"/>
 
-<position id="FM-ChairMedium01-02Doggy" location="ChairMedium"/>
 
-<position id="FM-ChairVeryLow01-02Doggy" location="ChairVeryLow"/>
 
-<position id="FM-Couch01-01Tease" location ="Couches"/>
-<position id="FM-Couch01-03Spoon" location ="Couches"/>
-<position id="FM-Couch01-04Spoon" location ="Couches"/>
-<position id="FM-Couch01-05Spoon" location ="Couches"/>
+<position id="SCAP_Bed_FM_2Human_03_Staged" animationGroup="SCAP_Dance_FM_1Human_01_Staged" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_03_S1" animation="SCAP_Bed_FM_2Human_03_S1" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_03_S3" animation="SCAP_Bed_FM_2Human_03_S3" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_03_S4" animation="SCAP_Bed_FM_2Human_03_S4" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Human_03_S5" animation="SCAP_Bed_FM_2Human_03_S5" location="Single_Bed"/>
 
-<position id="FM-Couch02-01Tease" location ="Couches"/>
-<position id="FM-Couch02-03Handjob" location ="Couches"/>
-<position id="FM-Couch02-04Handjob" location ="Couches"/>
-<position id="FM-Couch02-05Blowjob" location ="Couches"/>
 
-<position id="FM-Desk01-01Tease" location="Desk"/>
-<position id="FM-Desk01-03Doggy" location="Desk"/>
-<position id="FM-Desk01-04Doggy" location="Desk"/>
 
-<position id="FM-DoubleBed01-01Doggy" location="Double_Bed"/>
-<position id="FM-DoubleBed01-02Doggy" location="Double_Bed"/>
-<position id="FM-DoubleBed01-03Doggy" location="Double_Bed"/>
-<position id="FM-DoubleBed01-04Doggy" location="Double_Bed"/>
-<position id="FM-DoubleBed01-05Doggy" location="Double_Bed"/>
-<position id="FM-DoubleBed01-06Doggy" location="Double_Bed"/>
+<position id="SCAP_Bed_FM_2Human_04_S3" animation="SCAP_Bed_FM_2Human_04_S3" location="Single_Bed"/>
 
-<position id="FM-DoubleBed02-01Tease" location="Double_Bed"/>
-<position id="FM-DoubleBed02-03Missionary" location="Double_Bed"/>
-<position id="FM-DoubleBed02-04Missionary" location="Double_Bed"/>
-<position id="FM-DoubleBed02-05Powerbomb" location="Double_Bed"/>
-<position id="FM-DoubleBed02-06Powerbomb" location="Double_Bed"/>
-<position id="FM-DoubleBed02-07Powerbomb" location="Double_Bed"/>
 
-<position id="FM-DoubleBed03-01Tease" location="Double_Bed"/>
-<position id="FM-DoubleBed03-03Missionary" location="Double_Bed"/>
-<position id="FM-DoubleBed03-04Missionary" location="Double_Bed"/>
-<position id="FM-DoubleBed03-05Missionary" location="Double_Bed"/>
-<position id="FM-DoubleBed03-06Missionary" location="Double_Bed"/>
 
-<position id="FM-DoubleBed04-01Tease" location="Double_Bed"/>
-<position id="FM-DoubleBed04-03Doggy" location="Double_Bed"/>
-<position id="FM-DoubleBed04-04Doggy" location="Double_Bed"/>
-<position id="FM-DoubleBed04-05Doggy" location="Double_Bed"/>
-<position id="FM-DoubleBed04-06Doggy" location="Double_Bed"/>
+<position id="SCAP_Bench_FM_2Human_01_Staged" animationGroup="SCAP_Dance_FM_1Human_01_Staged" location="Bench"/>
+<position id="SCAP_Bench_FM_2Human_01_S1" animation="SCAP_Bench_FM_2Human_01_S1" location="Bench"/>
+<position id="SCAP_Bench_FM_2Human_01_S3" animation="SCAP_Bench_FM_2Human_01_S3" location="Bench"/>
+<position id="SCAP_Bench_FM_2Human_01_S4" animation="SCAP_Bench_FM_2Human_01_S4" location="Bench"/>
+<position id="SCAP_Bench_FM_2Human_01_S5" animation="SCAP_Bench_FM_2Human_01_S5" location="Bench"/>
 
-<position id="FM-LapDance01-01LapDance" location="ArmChair"/>
 
-<position id="FM-Motorbike01-03Cowgirl" location="Motorbike"/>
 
-<position id="FM-PoolTable01-01Tease" location="PoolTable"/>
-<position id="FM-PoolTable01-02Start" location="PoolTable"/>
-<position id="FM-PoolTable01-03Cunnilingus" location="PoolTable"/>
-<position id="FM-PoolTable01-04Cunnilingus" location="PoolTable"/>
-<position id="FM-PoolTable01-05Missionary" location="PoolTable"/>
-<position id="FM-PoolTable01-06Missionary" location="PoolTable"/>
-<position id="FM-PoolTable01-07Missionary" location="PoolTable"/>
+<position id="SCAP_Chair_FM_2Human_01_Staged" animationGroup="SCAP_Chair_FM_2Human_01_Staged" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Human_01_S1" animation="SCAP_Chair_FM_2Human_01_S1" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Human_01_S3" animation="SCAP_Chair_FM_2Human_01_S3" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Human_01_S4" animation="SCAP_Chair_FM_2Human_01_S4" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Human_01_S5" animation="SCAP_Chair_FM_2Human_01_S5" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Human_01_S6" animation="SCAP_Chair_FM_2Human_01_S6" location="ArmChair"/>
 
-<position id="FM-PoolTable02-01RoughTease" location="PoolTable"/>
-<position id="FM-PoolTable02-02RoughStart" location="PoolTable"/>
-<position id="FM-PoolTable02-03RoughDoggy" location="PoolTable"/>
-<position id="FM-PoolTable02-04RoughDoggy" location="PoolTable"/>
-<position id="FM-PoolTable02-05RoughDoggy" location="PoolTable"/>
 
-<position id="FM-RoundTable01-03Doggy" location="RoundTable"/>
 
-<position id="FM-RoundTable02-03RoughSideways" location="RoundTable"/>
+<position id="SCAP_Chair_FM_2Human_02_Staged" animationGroup="SCAP_Chair_FM_2Human_02_Staged" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Human_02_S1" animation="SCAP_Chair_FM_2Human_02_S1" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Human_02_S2" animation="SCAP_Chair_FM_2Human_02_S2" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Human_02_S3" animation="SCAP_Chair_FM_2Human_02_S3" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Human_02_S4" animation="SCAP_Chair_FM_2Human_02_S4" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Human_02_S5" animation="SCAP_Chair_FM_2Human_02_S5" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Human_02_S6" animation="SCAP_Chair_FM_2Human_02_S6" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Human_02_S7" animation="SCAP_Chair_FM_2Human_02_S7" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Human_02_S8" animation="SCAP_Chair_FM_2Human_02_S8" location="ArmChair"/>
 
-<position id="FM-Seat01-03Cowgirl" location="Seat"/>
-<position id="FM-Seat01-04Cowgirl" location="Seat"/>
-<position id="FM-Seat01-05Cowgirl" location="Seat"/>
 
-<position id="FM-SedanPreWar01-03Backseat" location="Sedan_PreWar01"/>
 
-<position id="FM-SedanPostWar01-03Doggy" location="Sedan_PostWar01"/>
+<position id="SCAP_ChairHigh_FM_2Human_01" animation="SCAP_ChairHigh_FM_2Human_01" location="ChairHigh"/>
+<position id="SCAP_ChairLow_FM_2Human_01" animation="SCAP_ChairLow_FM_2Human_01" location="ChairLow"/>
+<position id="SCAP_ChairMedium_FM_2Human_01" animation="SCAP_ChairMedium_FM_2Human_01" location="ChairMedium"/>
+<position id="SCAP_ChairVeryLow_FM_2Human_01" animation="SCAP_ChairVeryLow_FM_2Human_01" location="ChairVeryLow"/>
 
-<position id="FM-Stool01-03Doggy" location="Stool"/>
-<position id="FM-Stool01-04Doggy" location="Stool"/>
-<position id="FM-Stool01-05Doggy" location="Stool"/>
 
-<position id="FM-Table01-03Missionary" location="MediumTable"/>
 
-<position id="FM-WallChurch01-02Start" location="WallChurch"/>
+<position id="SCAP_ChurchWall_FM_2Human_01" animation="SCAP_ChurchWall_FM_2Human_01" location="WallChurch"/>
 
-<position id="FMM-Bed01-01Handjob-Doggy" location="Single_Bed"/>
-<position id="FMM-Bed01-02Handjob-Doggy" location="Single_Bed"/>
-<position id="FMM-Bed01-03Titjob-Doggy" location="Single_Bed"/>
-<position id="FMM-Bed01-04Blowjob-Doggy" location="Single_Bed"/>
 
-<position id="FMM-BunkBed01-03Threesome" location="Bunk_Bed"/>
 
-<position id="FMM-Chair01-02Handjob-Doggy" location="ArmChair"/>
-<position id="FMM-Chair01-03Handjob-Doggy" location="ArmChair"/>
-<position id="FMM-Chair01-04Handjob-Doggy" location="ArmChair"/>
-<position id="FMM-Chair01-05Blowjob-Doggy" location="ArmChair"/>
-<position id="FMM-Chair01-06Blowjob-Doggy" location="ArmChair"/>
-<position id="FMM-Chair01-07Deepthroat-Doggy" location="ArmChair"/>
+<position id="SCAP_Couch_FM_2Human_01_Staged" animationGroup="SCAP_Couch_FM_2Human_01_Staged" location="Couches"/>
+<position id="SCAP_Couch_FM_2Human_01_S1" animation="SCAP_Couch_FM_2Human_01_S1" location="Couches"/>
+<position id="SCAP_Couch_FM_2Human_01_S3" animation="SCAP_Couch_FM_2Human_01_S3" location="Couches"/>
+<position id="SCAP_Couch_FM_2Human_01_S4" animation="SCAP_Couch_FM_2Human_01_S4" location="Couches"/>
+<position id="SCAP_Couch_FM_2Human_01_S5" animation="SCAP_Couch_FM_2Human_01_S5" location="Couches"/>
 
-<position id="FMM-DoubleBed01-03DoubleTeam" location="Double_Bed"/>
 
-<position id="FMM-DoubleBed02-03ReverseCowgirl-Blowjob" location="Double_Bed"/>
 
-<position id="FMM-Floor01-01DoubleTeam"/>
-<position id="FMM-Floor01-02DoubleTeam"/>
+<position id="SCAP_Couch_FM_2Human_02_Staged" animationGroup="SCAP_Couch_FM_2Human_02_Staged" location="Couches"/>
+<position id="SCAP_Couch_FM_2Human_02_S1" animation="SCAP_Couch_FM_2Human_02_S1" location="Couches"/>
+<position id="SCAP_Couch_FM_2Human_02_S3" animation="SCAP_Couch_FM_2Human_02_S3" location="Couches"/>
+<position id="SCAP_Couch_FM_2Human_02_S4" animation="SCAP_Couch_FM_2Human_02_S4" location="Couches"/>
+<position id="SCAP_Couch_FM_2Human_02_S5" animation="SCAP_Couch_FM_2Human_02_S5" location="Couches"/>
 
-<position id="FMM-Floor02-01DoubleTeamRough"/>
-<position id="FMM-Floor02-02DoubleTeamRough"/>
 
-<position id="FMM-Floor03-03Gangbang"/>
 
-<position id="FMM-Floor04-03DoubleTeam"/>
+<position id="SCAP_Desk_FM_2Human_01_Staged" animationGroup="SCAP_Desk_FM_2Human_01_Staged" location="Desk"/>
+<position id="SCAP_Desk_FM_2Human_01_S1" animation="SCAP_Desk_FM_2Human_01_S1" location="Desk"/>
+<position id="SCAP_Desk_FM_2Human_01_S3" animation="SCAP_Desk_FM_2Human_01_S3" location="Desk"/>
+<position id="SCAP_Desk_FM_2Human_01_S4" animation="SCAP_Desk_FM_2Human_01_S4" location="Desk"/>
 
-<position id="FMM-Floor05-03DoubleTeam"/>
 
-<position id="FMM-PoolTable01-01Tease" location="PoolTable"/>
 
-<position id="FMM-Standing01-01Caught"/>
-<position id="FMM-Standing01-02DoubleTeam"/>
-<position id="FMM-Standing01-03DoubleTeam"/>
+<position id="SCAP_DoubleBed_FM_2Human_01_Staged" animationGroup="SCAP_DoubleBed_FM_2Human_01_Staged" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_01_S1" animation="SCAP_DoubleBed_FM_2Human_01_S1" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_01_S2" animation="SCAP_DoubleBed_FM_2Human_01_S2" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_01_S3" animation="SCAP_DoubleBed_FM_2Human_01_S3" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_01_S4" animation="SCAP_DoubleBed_FM_2Human_01_S4" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_01_S5" animation="SCAP_DoubleBed_FM_2Human_01_S5" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_01_S6" animation="SCAP_DoubleBed_FM_2Human_01_S6" location="Double_Bed"/>
 
-<position id="FMM-Couch02-03Handjob" location="Couches"/>
-<position id="FMM-Couch02-04Handjob" location="Couches"/>
-<position id="FMM-Couch02-05Blowjob" location="Couches"/>
 
-<position id="FMMM-Standing01-01Gangbang"/>
-<position id="FMMM-Standing01-02Gangbang"/>
 
-<position id="FMMM-Floor01-03Gangbang"/>
+<position id="SCAP_DoubleBed_FM_2Human_02_Staged" animationGroup="SCAP_DoubleBed_FM_2Human_02_Staged" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_02_S1" animation="SCAP_DoubleBed_FM_2Human_02_S1" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_02_S3" animation="SCAP_DoubleBed_FM_2Human_02_S3" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_02_S4" animation="SCAP_DoubleBed_FM_2Human_02_S4" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_02_S5" animation="SCAP_DoubleBed_FM_2Human_02_S5" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_02_S6" animation="SCAP_DoubleBed_FM_2Human_02_S6" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_02_S7" animation="SCAP_DoubleBed_FM_2Human_02_S7" location="Double_Bed"/>
 
-<position id="FMMM-Floor02-03Gangbang"/>
 
-<position id="FMMM-Floor03-03Gangbang"/>
 
-<position id="FMMMM-Floor01-01Gangbang"/>
+<position id="SCAP_DoubleBed_FM_2Human_03_Staged" animationGroup="SCAP_DoubleBed_FM_2Human_03_Staged" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_03_S1" animation="SCAP_DoubleBed_FM_2Human_03_S1" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_03_S3" animation="SCAP_DoubleBed_FM_2Human_03_S3" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_03_S4" animation="SCAP_DoubleBed_FM_2Human_03_S4" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_03_S5" animation="SCAP_DoubleBed_FM_2Human_03_S5" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_03_S6" animation="SCAP_DoubleBed_FM_2Human_03_S6" location="Double_Bed"/>
 
-<position id="FMMMM-Floor02-03Gangbang"/>
 
-<position id="FMMMM-Standing01-03Multiple-Handjob"/>
 
-<position id="FMMMMMMMM-Floor01-03Gangbang"/>
+<position id="SCAP_DoubleBed_FM_2Human_04_Staged" animationGroup="SCAP_DoubleBed_FM_2Human_04_Staged" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_04_S1" animation="SCAP_DoubleBed_FM_2Human_04_S1" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_04_S3" animation="SCAP_DoubleBed_FM_2Human_04_S3" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_04_S4" animation="SCAP_DoubleBed_FM_2Human_04_S4" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_04_S5" animation="SCAP_DoubleBed_FM_2Human_04_S5" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Human_04_S6" animation="SCAP_DoubleBed_FM_2Human_04_S6" location="Double_Bed"/>
 
-<position id="FMF-DoubleBed01-03Doggy-AnalFingering" location="Double_Bed"/>
+
+
+<position id="SCAP_LapDance_FM_2Human_01" animation="SCAP_LapDance_FM_2Human_01" location="ArmChair"/>
+
+
+
+<position id="SCAP_Motorbike_FM_2Human_01" animation="SCAP_Motorbike_FM_2Human_01" location="Motorbike"/>
+
+
+
+<position id="SCAP_PoolTable_FM_2Human_01_Staged" animationGroup="SCAP_PoolTable_FM_2Human_01_Staged" location="PoolTable"/>
+<position id="SCAP_PoolTable_FM_2Human_01_S1" animation="SCAP_PoolTable_FM_2Human_01_S1" location="PoolTable"/>
+<position id="SCAP_PoolTable_FM_2Human_01_S2" animation="SCAP_PoolTable_FM_2Human_01_S2" location="PoolTable"/>
+<position id="SCAP_PoolTable_FM_2Human_01_S3" animation="SCAP_PoolTable_FM_2Human_01_S3" location="PoolTable"/>
+<position id="SCAP_PoolTable_FM_2Human_01_S4" animation="SCAP_PoolTable_FM_2Human_01_S4" location="PoolTable"/>
+<position id="SCAP_PoolTable_FM_2Human_01_S5" animation="SCAP_PoolTable_FM_2Human_01_S5" location="PoolTable"/>
+<position id="SCAP_PoolTable_FM_2Human_01_S6" animation="SCAP_PoolTable_FM_2Human_01_S6" location="PoolTable"/>
+<position id="SCAP_PoolTable_FM_2Human_01_S7" animation="SCAP_PoolTable_FM_2Human_01_S7" location="PoolTable"/>
+
+
+
+<position id="SCAP_PoolTable_FM_2Human_02_Staged" animationGroup="SCAP_PoolTable_FM_2Human_02_Staged" location="PoolTable"/>
+<position id="SCAP_PoolTable_FM_2Human_02_S1" animation="SCAP_PoolTable_FM_2Human_02_S1" location="PoolTable"/>
+<position id="SCAP_PoolTable_FM_2Human_02_S2" animation="SCAP_PoolTable_FM_2Human_02_S2" location="PoolTable"/>
+<position id="SCAP_PoolTable_FM_2Human_02_S3" animation="SCAP_PoolTable_FM_2Human_02_S3" location="PoolTable"/>
+<position id="SCAP_PoolTable_FM_2Human_02_S4" animation="SCAP_PoolTable_FM_2Human_02_S4" location="PoolTable"/>
+<position id="SCAP_PoolTable_FM_2Human_02_S5" animation="SCAP_PoolTable_FM_2Human_02_S5" location="PoolTable"/>
+
+
+
+<position id="SCAP_RoundTable_FM_2Human_01" animation="SCAP_RoundTable_FM_2Human_01" location="RoundTable"/>
+
+
+
+<position id="SCAP_RoundTable_FM_2Human_02" animation="SCAP_RoundTable_FM_2Human_02" location="RoundTable"/>
+
+
+
+<position id="SCAP_Seat_FM_2Human_01_Staged" animationGroup="SCAP_Seat_FM_2Human_01_Staged" location="Seat"/>
+<position id="SCAP_Seat_FM_2Human_01_S3" animation="SCAP_Seat_FM_2Human_01_S3" location="Seat"/>
+<position id="SCAP_Seat_FM_2Human_01_S4" animation="SCAP_Seat_FM_2Human_01_S4" location="Seat"/>
+<position id="SCAP_Seat_FM_2Human_01_S5" animation="SCAP_Seat_FM_2Human_01_S5" location="Seat"/>
+
+
+
+<position id="SCAP_SedanPostWar_FM_2Human_01" animation="SCAP_SedanPostWar_FM_2Human_01" location="Sedan_PostWar01"/>
+
+
+
+<position id="SCAP_SedanPreWar_FM_2Human_01" animation="SCAP_SedanPreWar_FM_2Human_01" location="Sedan_PreWar01"/>
+
+
+
+<position id="SCAP_Stool_FM_2Human_01_Staged" animationGroup="SCAP_Stool_FM_2Human_01_Staged" location="Stool"/>
+<position id="SCAP_Stool_FM_2Human_01_S3" animation="SCAP_Stool_FM_2Human_01_S3" location="Stool"/>
+<position id="SCAP_Stool_FM_2Human_01_S4" animation="SCAP_Stool_FM_2Human_01_S4" location="Stool"/>
+<position id="SCAP_Stool_FM_2Human_01_S5" animation="SCAP_Stool_FM_2Human_01_S5" location="Stool"/>
+
+
+
+<position id="SCAP_Table_FM_2Human_01" animation="SCAP_Table_FM_2Human_01" location="MediumTable"/>
+
+
+
+<position id="SCAP_Bed_FM_3Human_01_Staged" animationGroup="SCAP_Bed_FM_3Human_01_Staged" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_3Human_01_S1" animation="SCAP_Bed_FM_3Human_01_S1" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_3Human_01_S2" animation="SCAP_Bed_FM_3Human_01_S2" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_3Human_01_S3" animation="SCAP_Bed_FM_3Human_01_S3" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_3Human_01_S4" animation="SCAP_Bed_FM_3Human_01_S4" location="Single_Bed"/>
+
+
+
+<position id="SCAP_BunkBed_FM_3Human_01" animation="SCAP_BunkBed_FM_3Human_01" location="Bunk_Bed"/>
+
+
+
+<position id="SCAP_Chair_FM_3Human_01_Staged" animationGroup="SCAP_Chair_FM_3Human_01_Staged" location="ArmChair"/>
+<position id="SCAP_Chair_FM_3Human_01_S1" animation="SCAP_Chair_FM_3Human_01_S1" location="ArmChair"/>
+<position id="SCAP_Chair_FM_3Human_01_S3" animation="SCAP_Chair_FM_3Human_01_S3" location="ArmChair"/>
+<position id="SCAP_Chair_FM_3Human_01_S4" animation="SCAP_Chair_FM_3Human_01_S4" location="ArmChair"/>
+<position id="SCAP_Chair_FM_3Human_01_S5" animation="SCAP_Chair_FM_3Human_01_S5" location="ArmChair"/>
+<position id="SCAP_Chair_FM_3Human_01_S6" animation="SCAP_Chair_FM_3Human_01_S6" location="ArmChair"/>
+<position id="SCAP_Chair_FM_3Human_01_S7" animation="SCAP_Chair_FM_3Human_01_S7" location="ArmChair"/>
+
+
+
+<position id="SCAP_Couch_FM_3Human_01_Staged" animationGroup="SCAP_Couch_FM_3Human_01_Staged" location="Couches"/>
+<position id="SCAP_Couch_FM_3Human_01_S3" animation="SCAP_Couch_FM_3Human_01_S3" location="Couches"/>
+<position id="SCAP_Couch_FM_3Human_01_S4" animation="SCAP_Couch_FM_3Human_01_S4" location="Couches"/>
+<position id="SCAP_Couch_FM_3Human_01_S5" animation="SCAP_Couch_FM_3Human_01_S5" location="Couches"/>
+
+
+
+<position id="SCAP_DoubleBed_FM_3Human_01" animation="SCAP_DoubleBed_FM_3Human_01" location="Double_Bed"/>
+
+
+
+<position id="SCAP_DoubleBed_FM_3Human_02" animation="SCAP_DoubleBed_FM_3Human_02" location="Double_Bed"/>
+
+
+
+<position id="SCAP_DoubleBed_FM_3Human_03" animation="SCAP_DoubleBed_FM_3Human_03" location="Double_Bed"/>
+
+
+
+<position id="SCAP_Floor_FM_3Human_01_Staged" animationGroup="SCAP_Floor_FM_3Human_01_Staged"/>
+<position id="SCAP_Floor_FM_3Human_01_S1" animation="SCAP_Floor_FM_3Human_01_S1"/>
+<position id="SCAP_Floor_FM_3Human_01_S2" animation="SCAP_Floor_FM_3Human_01_S2"/>
+
+
+
+<position id="SCAP_Floor_FM_3Human_02_Staged" animationGroup="SCAP_Floor_FM_3Human_02_Staged"/>
+<position id="SCAP_Floor_FM_3Human_02_S1" animation="SCAP_Floor_FM_3Human_02_S1"/>
+<position id="SCAP_Floor_FM_3Human_02_S2" animation="SCAP_Floor_FM_3Human_02_S2"/>
+
+
+
+<position id="SCAP_Floor_FM_3Human_03" animation="SCAP_Floor_FM_3Human_03"/>
+
+
+
+<position id="SCAP_Floor_FM_3Human_04" animation="SCAP_Floor_FM_3Human_04"/>
+
+
+
+<position id="SCAP_Floor_FM_3Human_05" animation="SCAP_Floor_FM_3Human_05"/>
+
+
+
+<position id="SCAP_PoolTable_FM_3Human_01" animation="SCAP_PoolTable_FM_3Human_01" location="PoolTable"/>
+
+
+
+<position id="SCAP_Standing_FM_3Human_01_Staged" animationGroup="SCAP_Standing_FM_3Human_01_Staged"/>
+<position id="SCAP_Standing_FM_3Human_01_S1" animation="SCAP_Standing_FM_3Human_01_S1"/>
+<position id="SCAP_Standing_FM_3Human_01_S2" animation="SCAP_Standing_FM_3Human_01_S2"/>
+<position id="SCAP_Standing_FM_3Human_01_S3" animation="SCAP_Standing_FM_3Human_01_S3"/>
+
+
+
+<position id="SCAP_Floor_FM_4Human_01" animation="SCAP_Floor_FM_4Human_01"/>
+
+
+
+<position id="SCAP_Floor_FM_4Human_02" animation="SCAP_Floor_FM_4Human_02"/>
+
+
+
+<position id="SCAP_Floor_FM_4Human_03" animation="SCAP_Floor_FM_4Human_03"/>
+
+
+
+<position id="SCAP_Standing_FM_4Human_01_Staged" animationGroup="SCAP_Standing_FM_4Human_01_Staged"/>
+<position id="SCAP_Standing_FM_4Human_01_S1" animation="SCAP_Standing_FM_4Human_01_S1"/>
+<position id="SCAP_Standing_FM_4Human_01_S2" animation="SCAP_Standing_FM_4Human_01_S2"/>
+
+
+
+<position id="SCAP_Floor_FM_5Human_01" animation="SCAP_Floor_FM_5Human_01"/>
+
+
+
+<position id="SCAP_Floor_FM_5Human_02" animation="SCAP_Floor_FM_5Human_02"/>
+
+
+
+<position id="SCAP_Standing_FM_5Human_01" animation="SCAP_Standing_FM_5Human_01"/>
+
+
+
+<position id="SCAP_Floor_FM_9Human_01" animation="SCAP_Floor_FM_9Human_01"/>
+
+
+
+<position id="SCAP_Floor_FM_2Ghoul_01_Staged" animationGroup="SCAP_Floor_FM_2Ghoul_01_Staged"/>
+<position id="SCAP_Floor_FM_2Ghoul_01_S3" animation="SCAP_Floor_FM_2Ghoul_01_S3"/>
+<position id="SCAP_Floor_FM_2Ghoul_01_S4" animation="SCAP_Floor_FM_2Ghoul_01_S4"/>
+<position id="SCAP_Floor_FM_2Ghoul_01_S5" animation="SCAP_Floor_FM_2Ghoul_01_S5"/>
+<position id="SCAP_Floor_FM_2Ghoul_01_S6" animation="SCAP_Floor_FM_2Ghoul_01_S6"/>
+<position id="SCAP_Floor_FM_2Ghoul_01_S7" animation="SCAP_Floor_FM_2Ghoul_01_S7"/>
+
+
+
+<position id="SCAP_Standing_FM_2Ghoul_01_Staged" animationGroup="SCAP_Standing_FM_2Ghoul_01_Staged"/>
+<position id="SCAP_Standing_FM_2Ghoul_01_S3" animation="SCAP_Standing_FM_2Ghoul_01_S3"/>
+<position id="SCAP_Standing_FM_2Ghoul_01_S4" animation="SCAP_Standing_FM_2Ghoul_01_S4"/>
+<position id="SCAP_Standing_FM_2Ghoul_01_S5" animation="SCAP_Standing_FM_2Ghoul_01_S5"/>
+<position id="SCAP_Standing_FM_2Ghoul_01_S6" animation="SCAP_Standing_FM_2Ghoul_01_S6"/>
+
+
+
+<position id="SCAP_Standing_FM_2Ghoul_02_Staged" animationGroup="SCAP_Standing_FM_2Ghoul_02_Staged"/>
+<position id="SCAP_Standing_FM_2Ghoul_02_S3" animation="SCAP_Standing_FM_2Ghoul_02_S3"/>
+<position id="SCAP_Standing_FM_2Ghoul_02_S4" animation="SCAP_Standing_FM_2Ghoul_02_S4"/>
+<position id="SCAP_Standing_FM_2Ghoul_02_S5" animation="SCAP_Standing_FM_2Ghoul_02_S5"/>
+
+
+
+<position id="SCAP_Standing_FM_2Ghoul_03_Staged" animationGroup="SCAP_Standing_FM_2Ghoul_03_Staged"/>
+<position id="SCAP_Standing_FM_2Ghoul_03_S3" animation="SCAP_Standing_FM_2Ghoul_03_S3"/>
+<position id="SCAP_Standing_FM_2Ghoul_03_S4" animation="SCAP_Standing_FM_2Ghoul_03_S4"/>
+<position id="SCAP_Standing_FM_2Ghoul_03_S5" animation="SCAP_Standing_FM_2Ghoul_03_S5"/>
+<position id="SCAP_Standing_FM_2Ghoul_03_S6" animation="SCAP_Standing_FM_2Ghoul_03_S6"/>
+<position id="SCAP_Standing_FM_2Ghoul_03_S7" animation="SCAP_Standing_FM_2Ghoul_03_S7"/>
+
+
+
+<position id="SCAP_Standing_FM_2Ghoul_04_Staged" animationGroup="SCAP_Standing_FM_2Ghoul_04_Staged"/>
+<position id="SCAP_Standing_FM_2Ghoul_04_S3" animation="SCAP_Standing_FM_2Ghoul_04_S3"/>
+<position id="SCAP_Standing_FM_2Ghoul_04_S4" animation="SCAP_Standing_FM_2Ghoul_04_S4"/>
+<position id="SCAP_Standing_FM_2Ghoul_04_S5" animation="SCAP_Standing_FM_2Ghoul_04_S5"/>
+<position id="SCAP_Standing_FM_2Ghoul_04_S6" animation="SCAP_Standing_FM_2Ghoul_04_S6"/>
+
+
+
+<position id="SCAP_Bed_FM_2Dog_01_Staged" animationGroup="SCAP_Bed_FM_2Dog_01_Staged" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_01_S1" animation="SCAP_Bed_FM_2Dog_01_S1" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_01_S2" animation="SCAP_Bed_FM_2Dog_01_S2" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_01_S3" animation="SCAP_Bed_FM_2Dog_01_S3" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_01_S4" animation="SCAP_Bed_FM_2Dog_01_S4" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_01_S5" animation="SCAP_Bed_FM_2Dog_01_S5" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_01_S6" animation="SCAP_Bed_FM_2Dog_01_S6" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_01_S7" animation="SCAP_Bed_FM_2Dog_01_S7" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_01_S8" animation="SCAP_Bed_FM_2Dog_01_S8" location="Single_Bed"/>
+
+
+
+<position id="SCAP_Bed_FM_2Dog_02_Staged" animationGroup="SCAP_Bed_FM_2Dog_02_Staged" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_02_S1" animation="SCAP_Bed_FM_2Dog_02_S1" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_02_S2" animation="SCAP_Bed_FM_2Dog_02_S2" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_02_S3" animation="SCAP_Bed_FM_2Dog_02_S3" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_02_S4" animation="SCAP_Bed_FM_2Dog_02_S4" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_02_S5" animation="SCAP_Bed_FM_2Dog_02_S5" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_02_S6" animation="SCAP_Bed_FM_2Dog_02_S6" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_02_S7" animation="SCAP_Bed_FM_2Dog_02_S7" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Dog_02_S8" animation="SCAP_Bed_FM_2Dog_02_S8" location="Single_Bed"/>
+
+
+
+<position id="SCAP_Chair_FM_2Dog_01_Staged" animationGroup="SCAP_Chair_FM_2Dog_01_Staged" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Dog_01_S1" animation="SCAP_Chair_FM_2Dog_01_S1" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Dog_01_S2" animation="SCAP_Chair_FM_2Dog_01_S2" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Dog_01_S3" animation="SCAP_Chair_FM_2Dog_01_S3" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Dog_01_S4" animation="SCAP_Chair_FM_2Dog_01_S4" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Dog_01_S5" animation="SCAP_Chair_FM_2Dog_01_S5" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Dog_01_S6" animation="SCAP_Chair_FM_2Dog_01_S6" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Dog_01_S7" animation="SCAP_Chair_FM_2Dog_01_S7" location="ArmChair"/>
+<position id="SCAP_Chair_FM_2Dog_01_S7" animation="SCAP_Chair_FM_2Dog_01_S7" location="ArmChair"/>
+
+
+
+<position id="SCAP_Couch_FM_2Dog_01_Staged" animationGroup="SCAP_Couch_FM_2Dog_01_Staged" location="Couches"/>
+<position id="SCAP_Couch_FM_2Dog_01_S1" animation="SCAP_Couch_FM_2Dog_01_S1" location="Couches"/>
+<position id="SCAP_Couch_FM_2Dog_01_S2" animation="SCAP_Couch_FM_2Dog_01_S2" location="Couches"/>
+<position id="SCAP_Couch_FM_2Dog_01_S3" animation="SCAP_Couch_FM_2Dog_01_S3" location="Couches"/>
+<position id="SCAP_Couch_FM_2Dog_01_S4" animation="SCAP_Couch_FM_2Dog_01_S4" location="Couches"/>
+<position id="SCAP_Couch_FM_2Dog_01_S5" animation="SCAP_Couch_FM_2Dog_01_S5" location="Couches"/>
+<position id="SCAP_Couch_FM_2Dog_01_S6" animation="SCAP_Couch_FM_2Dog_01_S6" location="Couches"/>
+<position id="SCAP_Couch_FM_2Dog_01_S7" animation="SCAP_Couch_FM_2Dog_01_S7" location="Couches"/>
+<position id="SCAP_Couch_FM_2Dog_01_S8" animation="SCAP_Couch_FM_2Dog_01_S8" location="Couches"/>
+
+
+
+<position id="SCAP_DoubleBed_FM_2Dog_01_Staged" animationGroup="SCAP_DoubleBed_FM_2Dog_01_Staged" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_01_S1" animation="SCAP_DoubleBed_FM_2Dog_01_S1" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_01_S2" animation="SCAP_DoubleBed_FM_2Dog_01_S2" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_01_S3" animation="SCAP_DoubleBed_FM_2Dog_01_S3" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_01_S4" animation="SCAP_DoubleBed_FM_2Dog_01_S4" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_01_S5" animation="SCAP_DoubleBed_FM_2Dog_01_S5" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_01_S6" animation="SCAP_DoubleBed_FM_2Dog_01_S6" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_01_S7" animation="SCAP_DoubleBed_FM_2Dog_01_S7" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_01_S8" animation="SCAP_DoubleBed_FM_2Dog_01_S8" location="Double_Bed"/>
+
+
+
+<position id="SCAP_DoubleBed_FM_2Dog_02_Staged" animationGroup="SCAP_DoubleBed_FM_2Dog_02_Staged" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_02_S1" animation="SCAP_DoubleBed_FM_2Dog_02_S1" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_02_S2" animation="SCAP_DoubleBed_FM_2Dog_02_S2" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_02_S3" animation="SCAP_DoubleBed_FM_2Dog_02_S3" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_02_S4" animation="SCAP_DoubleBed_FM_2Dog_02_S4" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_02_S5" animation="SCAP_DoubleBed_FM_2Dog_02_S5" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_02_S6" animation="SCAP_DoubleBed_FM_2Dog_02_S6" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_02_S7" animation="SCAP_DoubleBed_FM_2Dog_02_S7" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_02_S8" animation="SCAP_DoubleBed_FM_2Dog_02_S8" location="Double_Bed"/>
+
+
+
+<position id="SCAP_DoubleBed_FM_2Dog_03_Staged" animationGroup="SCAP_DoubleBed_FM_2Dog_03_Staged" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_03_S1" animation="SCAP_DoubleBed_FM_2Dog_03_S1" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_03_S2" animation="SCAP_DoubleBed_FM_2Dog_03_S2" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_03_S3" animation="SCAP_DoubleBed_FM_2Dog_03_S3" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_03_S4" animation="SCAP_DoubleBed_FM_2Dog_03_S4" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_03_S5" animation="SCAP_DoubleBed_FM_2Dog_03_S5" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_03_S6" animation="SCAP_DoubleBed_FM_2Dog_03_S6" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_03_S7" animation="SCAP_DoubleBed_FM_2Dog_03_S7" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Dog_03_S8" animation="SCAP_DoubleBed_FM_2Dog_03_S8" location="Double_Bed"/>
+
+
+
+<position id="SCAP_Floor_FM_2Dog_01_Staged" animationGroup="SCAP_Floor_FM_2Dog_01_Staged"/>
+<position id="SCAP_Floor_FM_2Dog_01_S1" animation="SCAP_Floor_FM_2Dog_01_S1"/>
+<position id="SCAP_Floor_FM_2Dog_01_S2" animation="SCAP_Floor_FM_2Dog_01_S2"/>
+<position id="SCAP_Floor_FM_2Dog_01_S3" animation="SCAP_Floor_FM_2Dog_01_S3"/>
+<position id="SCAP_Floor_FM_2Dog_01_S4" animation="SCAP_Floor_FM_2Dog_01_S4"/>
+<position id="SCAP_Floor_FM_2Dog_01_S5" animation="SCAP_Floor_FM_2Dog_01_S5"/>
+<position id="SCAP_Floor_FM_2Dog_01_S6" animation="SCAP_Floor_FM_2Dog_01_S6"/>
+<position id="SCAP_Floor_FM_2Dog_01_S7" animation="SCAP_Floor_FM_2Dog_01_S7"/>
+<position id="SCAP_Floor_FM_2Dog_01_S8" animation="SCAP_Floor_FM_2Dog_01_S8"/>
+
+
+
+<position id="SCAP_Floor_FM_2Dog_02_Staged" animationGroup="SCAP_Floor_FM_2Dog_02_Staged"/>
+<position id="SCAP_Floor_FM_2Dog_02_S1" animation="SCAP_Floor_FM_2Dog_02_S1"/>
+<position id="SCAP_Floor_FM_2Dog_02_S2" animation="SCAP_Floor_FM_2Dog_02_S2"/>
+<position id="SCAP_Floor_FM_2Dog_02_S3" animation="SCAP_Floor_FM_2Dog_02_S3"/>
+<position id="SCAP_Floor_FM_2Dog_02_S4" animation="SCAP_Floor_FM_2Dog_02_S4"/>
+<position id="SCAP_Floor_FM_2Dog_02_S5" animation="SCAP_Floor_FM_2Dog_02_S5"/>
+<position id="SCAP_Floor_FM_2Dog_02_S6" animation="SCAP_Floor_FM_2Dog_02_S6"/>
+<position id="SCAP_Floor_FM_2Dog_02_S7" animation="SCAP_Floor_FM_2Dog_02_S7"/>
+<position id="SCAP_Floor_FM_2Dog_02_S8" animation="SCAP_Floor_FM_2Dog_02_S8"/>
+
+
+
+<position id="SCAP_RoundTableSmall_FM_2Dog_01_Staged" animationGroup="SCAP_RoundTableSmall_FM_2Dog_01_Staged" location="RoundTable"/>
+<position id="SCAP_RoundTableSmall_FM_2Dog_01_S1" animation="SCAP_RoundTableSmall_FM_2Dog_01_S1" location="RoundTable"/>
+<position id="SCAP_RoundTableSmall_FM_2Dog_01_S2" animation="SCAP_RoundTableSmall_FM_2Dog_01_S2" location="RoundTable"/>
+<position id="SCAP_RoundTableSmall_FM_2Dog_01_S3" animation="SCAP_RoundTableSmall_FM_2Dog_01_S3" location="RoundTable"/>
+<position id="SCAP_RoundTableSmall_FM_2Dog_01_S4" animation="SCAP_RoundTableSmall_FM_2Dog_01_S4" location="RoundTable"/>
+<position id="SCAP_RoundTableSmall_FM_2Dog_01_S5" animation="SCAP_RoundTableSmall_FM_2Dog_01_S5" location="RoundTable"/>
+<position id="SCAP_RoundTableSmall_FM_2Dog_01_S6" animation="SCAP_RoundTableSmall_FM_2Dog_01_S6" location="RoundTable"/>
+<position id="SCAP_RoundTableSmall_FM_2Dog_01_S7" animation="SCAP_RoundTableSmall_FM_2Dog_01_S7" location="RoundTable"/>
+<position id="SCAP_RoundTableSmall_FM_2Dog_01_S8" animation="SCAP_RoundTableSmall_FM_2Dog_01_S8" location="RoundTable"/>
+
+
+
+<position id="SCAP_SleepingBag_FM_2Dog_01" animation="SCAP_SleepingBag_FM_2Dog_01" location="Sleeping_Bag"/>
+
+
+
+<position id="SCAP_Standing_FM_2Dog_01_Staged" animationGroup="SCAP_Standing_FM_2Dog_01_Staged"/>
+<position id="SCAP_Standing_FM_2Dog_01_S1" animation="SCAP_Standing_FM_2Dog_01_S1"/>
+<position id="SCAP_Standing_FM_2Dog_01_S2" animation="SCAP_Standing_FM_2Dog_01_S2"/>
+<position id="SCAP_Standing_FM_2Dog_01_S3" animation="SCAP_Standing_FM_2Dog_01_S3"/>
+<position id="SCAP_Standing_FM_2Dog_01_S4" animation="SCAP_Standing_FM_2Dog_01_S4"/>
+<position id="SCAP_Standing_FM_2Dog_01_S5" animation="SCAP_Standing_FM_2Dog_01_S5"/>
+<position id="SCAP_Standing_FM_2Dog_01_S6" animation="SCAP_Standing_FM_2Dog_01_S6"/>
+<position id="SCAP_Standing_FM_2Dog_01_S7" animation="SCAP_Standing_FM_2Dog_01_S7"/>
+<position id="SCAP_Standing_FM_2Dog_01_S8" animation="SCAP_Standing_FM_2Dog_01_S8"/>
+
+
+
+<position id="SCAP_DoubleBed_FM_3Dog_01_Staged" animationGroup="SCAP_DoubleBed_FM_3Dog_01_Staged" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_3Dog_01_S1" animation="SCAP_DoubleBed_FM_3Dog_01_S1" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_3Dog_01_S2" animation="SCAP_DoubleBed_FM_3Dog_01_S2" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_3Dog_01_S3" animation="SCAP_DoubleBed_FM_3Dog_01_S3" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_3Dog_01_S4" animation="SCAP_DoubleBed_FM_3Dog_01_S4" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_3Dog_01_S5" animation="SCAP_DoubleBed_FM_3Dog_01_S5" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_3Dog_01_S6" animation="SCAP_DoubleBed_FM_3Dog_01_S6" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_3Dog_01_S7" animation="SCAP_DoubleBed_FM_3Dog_01_S7" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_3Dog_01_S8" animation="SCAP_DoubleBed_FM_3Dog_01_S8" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_3Dog_01_S9" animation="SCAP_DoubleBed_FM_3Dog_01_S9" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_3Dog_01_S10" animation="SCAP_DoubleBed_FM_3Dog_01_S10" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_3Dog_01_S11" animation="SCAP_DoubleBed_FM_3Dog_01_S11" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_3Dog_01_S12" animation="SCAP_DoubleBed_FM_3Dog_01_S12" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_3Dog_01_S13" animation="SCAP_DoubleBed_FM_3Dog_01_S13" location="Double_Bed"/>
+
+
+
+<position id="SCAP_Floor_FM_2ActorDog_01_Staged" animationGroup="SCAP_Floor_FM_2ActorDog_01_Staged"/>
+<position id="SCAP_Floor_FM_2ActorDog_01_S1" animation="SCAP_Floor_FM_2ActorDog_01_S1"/>
+<position id="SCAP_Floor_FM_2ActorDog_01_S2" animation="SCAP_Floor_FM_2ActorDog_01_S2"/>
+<position id="SCAP_Floor_FM_2ActorDog_01_S3" animation="SCAP_Floor_FM_2ActorDog_01_S3"/>
+<position id="SCAP_Floor_FM_2ActorDog_01_S4" animation="SCAP_Floor_FM_2ActorDog_01_S4"/>
+<position id="SCAP_Floor_FM_2ActorDog_01_S5" animation="SCAP_Floor_FM_2ActorDog_01_S5"/>
+<position id="SCAP_Floor_FM_2ActorDog_01_S6" animation="SCAP_Floor_FM_2ActorDog_01_S6"/>
+<position id="SCAP_Floor_FM_2ActorDog_01_S7" animation="SCAP_Floor_FM_2ActorDog_01_S7"/>
+<position id="SCAP_Floor_FM_2ActorDog_01_S8" animation="SCAP_Floor_FM_2ActorDog_01_S8"/>
+
+
+
+<position id="SCAP_Bed_FM_2Mutant_01_Staged" animationGroup="SCAP_Bed_FM_2Mutant_01_Staged" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Mutant_01_S3" animation="SCAP_Bed_FM_2Mutant_01_S3" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Mutant_01_S4" animation="SCAP_Bed_FM_2Mutant_01_S4" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Mutant_01_S5" animation="SCAP_Bed_FM_2Mutant_01_S5" location="Single_Bed"/>
+
+
+
+<position id="SCAP_Bed_FM_2Mutant_02_Staged" animationGroup="SCAP_Bed_FM_2Mutant_02_Staged" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Mutant_02_S3" animation="SCAP_Bed_FM_2Mutant_02_S3" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Mutant_02_S4" animation="SCAP_Bed_FM_2Mutant_02_S4" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Mutant_02_S5" animation="SCAP_Bed_FM_2Mutant_02_S5" location="Single_Bed"/>
+<position id="SCAP_Bed_FM_2Mutant_02_S6" animation="SCAP_Bed_FM_2Mutant_02_S6" location="Single_Bed"/>
+
+
+
+<position id="SCAP_Bed_FM_2Mutant_03_Staged" animationGroup="SCAP_Bed_FM_2Mutant_03_Staged" location="SMBed"/>
+<position id="SCAP_Bed_FM_2Mutant_03_S1" animation="SCAP_Bed_FM_2Mutant_03_S1" location="SMBed"/>
+<position id="SCAP_Bed_FM_2Mutant_03_S2" animation="SCAP_Bed_FM_2Mutant_03_S2" location="SMBed"/>
+<position id="SCAP_Bed_FM_2Mutant_03_S3" animation="SCAP_Bed_FM_2Mutant_03_S3" location="SMBed"/>
+<position id="SCAP_Bed_FM_2Mutant_03_S4" animation="SCAP_Bed_FM_2Mutant_03_S4" location="SMBed"/>
+<position id="SCAP_Bed_FM_2Mutant_03_S5" animation="SCAP_Bed_FM_2Mutant_03_S5" location="SMBed"/>
+
+
+
+<position id="SCAP_Bed_FM_2Mutant_04_Staged" animationGroup="SCAP_Bed_FM_2Mutant_04_Staged" location="SMBed"/>
+<position id="SCAP_Bed_FM_2Mutant_04_S3" animation="SCAP_Bed_FM_2Mutant_04_S3" location="SMBed"/>
+<position id="SCAP_Bed_FM_2Mutant_04_S4" animation="SCAP_Bed_FM_2Mutant_04_S4" location="SMBed"/>
+<position id="SCAP_Bed_FM_2Mutant_04_S5" animation="SCAP_Bed_FM_2Mutant_04_S5" location="SMBed"/>
+<position id="SCAP_Bed_FM_2Mutant_04_S6" animation="SCAP_Bed_FM_2Mutant_04_S6" location="SMBed"/>
+
+
+
+<position id="SCAP_DoubleBed_FM_2Mutant_01_Staged" animationGroup="SCAP_DoubleBed_FM_2Mutant_01_Staged" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_01_S2" animation="SCAP_DoubleBed_FM_2Mutant_01_S2" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_01_S3" animation="SCAP_DoubleBed_FM_2Mutant_01_S3" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_01_S4" animation="SCAP_DoubleBed_FM_2Mutant_01_S4" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_01_S5" animation="SCAP_DoubleBed_FM_2Mutant_01_S5" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_01_S6" animation="SCAP_DoubleBed_FM_2Mutant_01_S6" location="Double_Bed"/>
+
+
+
+<position id="SCAP_DoubleBed_FM_2Mutant_02_Staged" animationGroup="SCAP_DoubleBed_FM_2Mutant_02_Staged" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_02_S3" animation="SCAP_DoubleBed_FM_2Mutant_02_S3" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_02_S4" animation="SCAP_DoubleBed_FM_2Mutant_02_S4" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_02_S5" animation="SCAP_DoubleBed_FM_2Mutant_02_S5" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_02_S6" animation="SCAP_DoubleBed_FM_2Mutant_02_S6" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_02_S7" animation="SCAP_DoubleBed_FM_2Mutant_02_S7" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_02_S8" animation="SCAP_DoubleBed_FM_2Mutant_02_S8" location="Double_Bed"/>
+
+
+
+<position id="SCAP_DoubleBed_FM_2Mutant_03_Staged" animationGroup="SCAP_DoubleBed_FM_2Mutant_03_Staged" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_03_S1" animation="SCAP_DoubleBed_FM_2Mutant_03_S1" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_03_S3" animation="SCAP_DoubleBed_FM_2Mutant_03_S3" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_03_S4" animation="SCAP_DoubleBed_FM_2Mutant_03_S4" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_03_S5" animation="SCAP_DoubleBed_FM_2Mutant_03_S5" location="Double_Bed"/>
+<position id="SCAP_DoubleBed_FM_2Mutant_03_S6" animation="SCAP_DoubleBed_FM_2Mutant_03_S6" location="Double_Bed"/>
+
+
+
+<position id="SCAP_Floor_FM_2Mutant_01_Staged" animationGroup="SCAP_Floor_FM_2Mutant_01_Staged"/>
+<position id="SCAP_Floor_FM_2Mutant_01_S3" animation="SCAP_Floor_FM_2Mutant_01_S3"/>
+<position id="SCAP_Floor_FM_2Mutant_01_S4" animation="SCAP_Floor_FM_2Mutant_01_S4"/>
+<position id="SCAP_Floor_FM_2Mutant_01_S5" animation="SCAP_Floor_FM_2Mutant_01_S5"/>
+<position id="SCAP_Floor_FM_2Mutant_01_S6" animation="SCAP_Floor_FM_2Mutant_01_S6"/>
+
+
+
+<position id="SCAP_Standing_FM_2Mutant_01_Staged" animationGroup="SCAP_Standing_FM_2Mutant_01_Staged"/>
+<position id="SCAP_Standing_FM_2Mutant_01_S3" animation="SCAP_Standing_FM_2Mutant_01_S3"/>
+<position id="SCAP_Standing_FM_2Mutant_01_S4" animation="SCAP_Standing_FM_2Mutant_01_S4"/>
+<position id="SCAP_Standing_FM_2Mutant_01_S5" animation="SCAP_Standing_FM_2Mutant_01_S5"/>
+<position id="SCAP_Standing_FM_2Mutant_01_S6" animation="SCAP_Standing_FM_2Mutant_01_S6"/>
+
+
+
+<position id="SCAP_Standing_FM_2Mutant_02_Staged" animationGroup="SCAP_Standing_FM_2Mutant_02_Staged"/>
+<position id="SCAP_Standing_FM_2Mutant_02_S3" animation="SCAP_Standing_FM_2Mutant_02_S3"/>
+<position id="SCAP_Standing_FM_2Mutant_02_S4" animation="SCAP_Standing_FM_2Mutant_02_S4"/>
+<position id="SCAP_Standing_FM_2Mutant_02_S5" animation="SCAP_Standing_FM_2Mutant_02_S5"/>
+<position id="SCAP_Standing_FM_2Mutant_02_S6" animation="SCAP_Standing_FM_2Mutant_02_S6"/>
+
+
+
+<position id="SCAP_Standing_FM_2Mutant_03_Staged" animationGroup="SCAP_Standing_FM_2Mutant_03_Staged"/>
+<position id="SCAP_Standing_FM_2Mutant_03_S1" animation="SCAP_Standing_FM_2Mutant_03_S1"/>
+<position id="SCAP_Standing_FM_2Mutant_03_S3" animation="SCAP_Standing_FM_2Mutant_03_S3"/>
+<position id="SCAP_Standing_FM_2Mutant_03_S4" animation="SCAP_Standing_FM_2Mutant_03_S4"/>
+<position id="SCAP_Standing_FM_2Mutant_03_S5" animation="SCAP_Standing_FM_2Mutant_03_S5"/>
+
+
+
+<position id="SCAP_CampBed_FM_3Mutant_01" animation="SCAP_CampBed_FM_3Mutant_01" location="SMFrameBed"/>
+
+
+
+<position id="SCAP_Bed_FM_3Mutant_01_Staged" animationGroup="SCAP_Bed_FM_3Mutant_01_Staged" location="SMBed"/>
+<position id="SCAP_Bed_FM_3Mutant_01_S3" animation="SCAP_Bed_FM_3Mutant_01_S3" location="SMBed"/>
+<position id="SCAP_Bed_FM_3Mutant_01_S4" animation="SCAP_Bed_FM_3Mutant_01_S4" location="SMBed"/>
+<position id="SCAP_Bed_FM_3Mutant_01_S5" animation="SCAP_Bed_FM_3Mutant_01_S5" location="SMBed"/>
+
+
+
+<position id="SCAP_Standing_FM_3Mutant_01" animation="SCAP_Standing_FM_3Mutant_01"/>

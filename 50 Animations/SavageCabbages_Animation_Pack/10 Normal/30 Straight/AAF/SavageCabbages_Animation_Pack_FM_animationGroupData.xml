@@ -1,0 +1,568 @@
+<meta title="SavageCabbage's Animation Pack - Animation Group Data" version="1.0.4" dataSet="animationGroup"/>
+<defaults/>
+
+
+
+<animationGroup id="SCAP_Dance_FM_1Human_01_Staged" sequential="true">
+	<stage animation="SCAP_Dance_FM_1Human_01_S1"/>
+	<stage animation="SCAP_Dance_FM_1Human_01_S2"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Bed_FM_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_Bed_FM_2Human_01_S1"/>
+	<stage animation="SCAP_Bed_FM_2Human_01_S2"/>
+	<stage animation="SCAP_Bed_FM_2Human_01_S3"/>
+	<stage animation="SCAP_Bed_FM_2Human_01_S4"/>
+	<stage animation="SCAP_Bed_FM_2Human_01_S5A"/>
+	<stage animation="SCAP_Bed_FM_2Human_01_S5B"/>
+	<stage animation="SCAP_Bed_FM_2Human_01_S5C"/>
+	<stage animation="SCAP_Bed_FM_2Human_01_S6"/>
+	<stage animation="SCAP_Bed_FM_2Human_01_S7"/>
+	<stage animation="SCAP_Bed_FM_2Human_01_S8"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Bed_FM_2Human_02_Staged" sequential="true">
+	<stage animation="SCAP_Bed_FM_2Human_02_S1"/>
+	<stage animation="SCAP_Bed_FM_2Human_02_S2"/>
+	<stage animation="SCAP_Bed_FM_2Human_02_S3"/>
+	<stage animation="SCAP_Bed_FM_2Human_02_S4"/>
+	<stage animation="SCAP_Bed_FM_2Human_02_S5"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Bed_FM_2Human_03_Staged" sequential="true">
+	<stage animation="SCAP_Bed_FM_2Human_03_S1"/>
+	<stage animation="SCAP_Bed_FM_2Human_03_S3"/>
+	<stage animation="SCAP_Bed_FM_2Human_03_S4"/>
+	<stage animation="SCAP_Bed_FM_2Human_03_S5"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Bench_FM_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_Bench_FM_2Human_01_S1"/>
+	<stage animation="SCAP_Bench_FM_2Human_01_S3"/>
+	<stage animation="SCAP_Bench_FM_2Human_01_S4"/>
+	<stage animation="SCAP_Bench_FM_2Human_01_S5"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Chair_FM_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_Chair_FM_2Human_01_S1"/>
+	<stage animation="SCAP_Chair_FM_2Human_01_S3"/>
+	<stage animation="SCAP_Chair_FM_2Human_01_S4"/>
+	<stage animation="SCAP_Chair_FM_2Human_01_S5"/>
+	<stage animation="SCAP_Chair_FM_2Human_01_S6"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Chair_FM_2Human_02_Staged" sequential="true">
+	<stage animation="SCAP_Chair_FM_2Human_02_S1"/>
+	<stage animation="SCAP_Chair_FM_2Human_02_S2"/>
+	<stage animation="SCAP_Chair_FM_2Human_02_S3"/>
+	<stage animation="SCAP_Chair_FM_2Human_02_S4"/>
+	<stage animation="SCAP_Chair_FM_2Human_02_S5"/>
+	<stage animation="SCAP_Chair_FM_2Human_02_S6"/>
+	<stage animation="SCAP_Chair_FM_2Human_02_S7"/>
+	<stage animation="SCAP_Chair_FM_2Human_02_S8"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Couch_FM_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_Couch_FM_2Human_01_S1"/>
+	<stage animation="SCAP_Couch_FM_2Human_01_S3"/>
+	<stage animation="SCAP_Couch_FM_2Human_01_S4"/>
+	<stage animation="SCAP_Couch_FM_2Human_01_S5"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Couch_FM_2Human_02_Staged" sequential="true">
+	<stage animation="SCAP_Couch_FM_2Human_02_S1"/>
+	<stage animation="SCAP_Couch_FM_2Human_02_S3"/>
+	<stage animation="SCAP_Couch_FM_2Human_02_S4"/>
+	<stage animation="SCAP_Couch_FM_2Human_02_S5"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Desk_FM_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_Desk_FM_2Human_01_S1"/>
+	<stage animation="SCAP_Desk_FM_2Human_01_S3"/>
+	<stage animation="SCAP_Desk_FM_2Human_01_S4"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_DoubleBed_FM_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_DoubleBed_FM_2Human_01_S1"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_01_S2"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_01_S3"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_01_S4"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_01_S5"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_01_S6"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_DoubleBed_FM_2Human_02_Staged" sequential="true">
+	<stage animation="SCAP_DoubleBed_FM_2Human_02_S1"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_02_S3"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_02_S4"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_02_S5"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_02_S6"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_02_S7"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_DoubleBed_FM_2Human_03_Staged" sequential="true">
+	<stage animation="SCAP_DoubleBed_FM_2Human_03_S1"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_03_S3"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_03_S4"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_03_S5"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_03_S6"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_DoubleBed_FM_2Human_04_Staged" sequential="true">
+	<stage animation="SCAP_DoubleBed_FM_2Human_04_S1"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_04_S3"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_04_S4"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_04_S5"/>
+	<stage animation="SCAP_DoubleBed_FM_2Human_04_S6"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_PoolTable_FM_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_PoolTable_FM_2Human_01_S1"/>
+	<stage animation="SCAP_PoolTable_FM_2Human_01_S2"/>
+	<stage animation="SCAP_PoolTable_FM_2Human_01_S3"/>	
+	<stage animation="SCAP_PoolTable_FM_2Human_01_S4"/>
+	<stage animation="SCAP_PoolTable_FM_2Human_01_S5"/>	
+	<stage animation="SCAP_PoolTable_FM_2Human_01_S6"/>
+	<stage animation="SCAP_PoolTable_FM_2Human_01_S7"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_PoolTable_FM_2Human_02_Staged" sequential="true">
+	<stage animation="SCAP_PoolTable_FM_2Human_02_S1"/>
+	<stage animation="SCAP_PoolTable_FM_2Human_02_S2"/>
+	<stage animation="SCAP_PoolTable_FM_2Human_02_S3"/>	
+	<stage animation="SCAP_PoolTable_FM_2Human_02_S4"/>
+	<stage animation="SCAP_PoolTable_FM_2Human_02_S5"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Seat_FM_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_Seat_FM_2Human_01_S3"/>
+	<stage animation="SCAP_Seat_FM_2Human_01_S4"/>
+	<stage animation="SCAP_Seat_FM_2Human_01_S5"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Stool_FM_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_Stool_FM_2Human_01_S3"/>
+	<stage animation="SCAP_Stool_FM_2Human_01_S4"/>
+	<stage animation="SCAP_Stool_FM_2Human_01_S5"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Bed_FM_3Human_01_Staged" sequential="true">
+	<stage animation="SCAP_Bed_FM_3Human_01_S1"/>
+	<stage animation="SCAP_Bed_FM_3Human_01_S2"/>
+	<stage animation="SCAP_Bed_FM_3Human_01_S3"/>	
+	<stage animation="SCAP_Bed_FM_3Human_01_S4"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Chair_FM_3Human_01_Staged" sequential="true">
+	<stage animation="SCAP_Chair_FM_3Human_01_S1"/>
+	<stage animation="SCAP_Chair_FM_3Human_01_S3"/>
+	<stage animation="SCAP_Chair_FM_3Human_01_S4"/>	
+	<stage animation="SCAP_Chair_FM_3Human_01_S5"/>
+	<stage animation="SCAP_Chair_FM_3Human_01_S6"/>	
+	<stage animation="SCAP_Chair_FM_3Human_01_S7"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Couch_FM_3Human_01_Staged" sequential="true">
+	<stage animation="SCAP_Couch_FM_3Human_01_S3"/>
+	<stage animation="SCAP_Couch_FM_3Human_01_S4"/>
+	<stage animation="SCAP_Couch_FM_3Human_01_S5"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Floor_FM_3Human_01_Staged" sequential="true">
+	<stage animation="SCAP_Floor_FM_3Human_01_S1"/>
+	<stage animation="SCAP_Floor_FM_3Human_01_S2"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Floor_FM_3Human_02_Staged" sequential="true">
+	<stage animation="SCAP_Floor_FM_3Human_02_S1"/>
+	<stage animation="SCAP_Floor_FM_3Human_02_S2"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Standing_FM_3Human_01_Staged" sequential="true">
+	<stage animation="SCAP_Standing_FM_3Human_01_S1"/>
+	<stage animation="SCAP_Standing_FM_3Human_01_S2"/>
+	<stage animation="SCAP_Standing_FM_3Human_01_S3"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Standing_FM_4Human_01_Staged" sequential="true">
+	<stage animation="SCAP_Standing_FM_4Human_01_S1"/>
+	<stage animation="SCAP_Standing_FM_4Human_01_S2"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Floor_FM_2Ghoul_01_Staged" sequential="true">
+	<stage animation="SCAP_Floor_FM_2Ghoul_01_S3"/>
+	<stage animation="SCAP_Floor_FM_2Ghoul_01_S4"/>
+	<stage animation="SCAP_Floor_FM_2Ghoul_01_S5"/>
+	<stage animation="SCAP_Floor_FM_2Ghoul_01_S6"/>
+	<stage animation="SCAP_Floor_FM_2Ghoul_01_S7"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Standing_FM_2Ghoul_01_Staged" sequential="true">
+	<stage animation="SCAP_Standing_FM_2Ghoul_01_S3"/>
+	<stage animation="SCAP_Standing_FM_2Ghoul_01_S4"/>
+	<stage animation="SCAP_Standing_FM_2Ghoul_01_S5"/>	
+	<stage animation="SCAP_Standing_FM_2Ghoul_01_S6"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Standing_FM_2Ghoul_02_Staged" sequential="true">
+	<stage animation="SCAP_Standing_FM_2Ghoul_02_S3"/>
+	<stage animation="SCAP_Standing_FM_2Ghoul_02_S4"/>
+	<stage animation="SCAP_Standing_FM_2Ghoul_02_S5"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Standing_FM_2Ghoul_03_Staged" sequential="true">
+	<stage animation="SCAP_Standing_FM_2Ghoul_03_S3"/>
+	<stage animation="SCAP_Standing_FM_2Ghoul_03_S4"/>
+	<stage animation="SCAP_Standing_FM_2Ghoul_03_S5"/>
+	<stage animation="SCAP_Standing_FM_2Ghoul_03_S6"/>
+	<stage animation="SCAP_Standing_FM_2Ghoul_03_S7"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Standing_FM_2Ghoul_04_Staged" sequential="true">
+	<stage animation="SCAP_Standing_FM_2Ghoul_04_S3"/>
+	<stage animation="SCAP_Standing_FM_2Ghoul_04_S4"/>
+	<stage animation="SCAP_Standing_FM_2Ghoul_04_S5"/>	
+	<stage animation="SCAP_Standing_FM_2Ghoul_04_S6"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Bed_FM_2Dog_01_Staged" sequential="true">
+	<stage animation="SCAP_Bed_FM_2Dog_01_S1"/>
+	<stage animation="SCAP_Bed_FM_2Dog_01_S2"/>
+	<stage animation="SCAP_Bed_FM_2Dog_01_S3"/>	
+	<stage animation="SCAP_Bed_FM_2Dog_01_S4"/>
+	<stage animation="SCAP_Bed_FM_2Dog_01_S5"/>	
+	<stage animation="SCAP_Bed_FM_2Dog_01_S6"/>
+	<stage animation="SCAP_Bed_FM_2Dog_01_S7"/>
+	<stage animation="SCAP_Bed_FM_2Dog_01_S8"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Bed_FM_2Dog_02_Staged" sequential="true">
+	<stage animation="SCAP_Bed_FM_2Dog_02_S1"/>
+	<stage animation="SCAP_Bed_FM_2Dog_02_S2"/>
+	<stage animation="SCAP_Bed_FM_2Dog_02_S3"/>	
+	<stage animation="SCAP_Bed_FM_2Dog_02_S4"/>
+	<stage animation="SCAP_Bed_FM_2Dog_02_S5"/>	
+	<stage animation="SCAP_Bed_FM_2Dog_02_S6"/>
+	<stage animation="SCAP_Bed_FM_2Dog_02_S7"/>
+	<stage animation="SCAP_Bed_FM_2Dog_02_S8"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Chair_FM_2Dog_01_Staged" sequential="true">
+	<stage animation="SCAP_Chair_FM_2Dog_01_S1"/>
+	<stage animation="SCAP_Chair_FM_2Dog_01_S2"/>
+	<stage animation="SCAP_Chair_FM_2Dog_01_S3"/>	
+	<stage animation="SCAP_Chair_FM_2Dog_01_S4"/>
+	<stage animation="SCAP_Chair_FM_2Dog_01_S5"/>	
+	<stage animation="SCAP_Chair_FM_2Dog_01_S6"/>
+	<stage animation="SCAP_Chair_FM_2Dog_01_S7"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Couch_FM_2Dog_01_Staged" sequential="true">
+	<stage animation="SCAP_Couch_FM_2Dog_01_S1"/>
+	<stage animation="SCAP_Couch_FM_2Dog_01_S2"/>
+	<stage animation="SCAP_Couch_FM_2Dog_01_S3"/>	
+	<stage animation="SCAP_Couch_FM_2Dog_01_S4"/>
+	<stage animation="SCAP_Couch_FM_2Dog_01_S5"/>	
+	<stage animation="SCAP_Couch_FM_2Dog_01_S6"/>
+	<stage animation="SCAP_Couch_FM_2Dog_01_S7"/>
+	<stage animation="SCAP_Couch_FM_2Dog_01_S8"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_DoubleBed_FM_2Dog_01_Staged" sequential="true">
+	<stage animation="SCAP_DoubleBed_FM_2Dog_01_S1"/>
+	<stage animation="SCAP_DoubleBed_FM_2Dog_01_S2"/>
+	<stage animation="SCAP_DoubleBed_FM_2Dog_01_S3"/>	
+	<stage animation="SCAP_DoubleBed_FM_2Dog_01_S4"/>
+	<stage animation="SCAP_DoubleBed_FM_2Dog_01_S5"/>	
+	<stage animation="SCAP_DoubleBed_FM_2Dog_01_S6"/>
+	<stage animation="SCAP_DoubleBed_FM_2Dog_01_S7"/>
+	<stage animation="SCAP_DoubleBed_FM_2Dog_01_S8"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_DoubleBed_FM_2Dog_02_Staged" sequential="true">
+	<stage animation="SCAP_DoubleBed_FM_2Dog_02_S1"/>
+	<stage animation="SCAP_DoubleBed_FM_2Dog_02_S2"/>
+	<stage animation="SCAP_DoubleBed_FM_2Dog_02_S3"/>	
+	<stage animation="SCAP_DoubleBed_FM_2Dog_02_S4"/>
+	<stage animation="SCAP_DoubleBed_FM_2Dog_02_S5"/>	
+	<stage animation="SCAP_DoubleBed_FM_2Dog_02_S6"/>
+	<stage animation="SCAP_DoubleBed_FM_2Dog_02_S7"/>
+	<stage animation="SCAP_DoubleBed_FM_2Dog_02_S8"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_DoubleBed_FM_2Dog_03_Staged" sequential="true">
+	<stage animation="SCAP_DoubleBed_FM_2Dog_03_S1"/>
+	<stage animation="SCAP_DoubleBed_FM_2Dog_03_S2"/>
+	<stage animation="SCAP_DoubleBed_FM_2Dog_03_S3"/>	
+	<stage animation="SCAP_DoubleBed_FM_2Dog_03_S4"/>
+	<stage animation="SCAP_DoubleBed_FM_2Dog_03_S5"/>	
+	<stage animation="SCAP_DoubleBed_FM_2Dog_03_S6"/>
+	<stage animation="SCAP_DoubleBed_FM_2Dog_03_S7"/>
+	<stage animation="SCAP_DoubleBed_FM_2Dog_03_S8"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Floor_FM_2Dog_01_Staged" sequential="true">
+	<stage animation="SCAP_Floor_FM_2Dog_01_S1"/>
+	<stage animation="SCAP_Floor_FM_2Dog_01_S2"/>
+	<stage animation="SCAP_Floor_FM_2Dog_01_S3"/>	
+	<stage animation="SCAP_Floor_FM_2Dog_01_S4"/>
+	<stage animation="SCAP_Floor_FM_2Dog_01_S5"/>	
+	<stage animation="SCAP_Floor_FM_2Dog_01_S6"/>
+	<stage animation="SCAP_Floor_FM_2Dog_01_S7"/>
+	<stage animation="SCAP_Floor_FM_2Dog_01_S8"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Floor_FM_2Dog_02_Staged" sequential="true">
+	<stage animation="SCAP_Floor_FM_2Dog_02_S1"/>
+	<stage animation="SCAP_Floor_FM_2Dog_02_S2"/>
+	<stage animation="SCAP_Floor_FM_2Dog_02_S3"/>	
+	<stage animation="SCAP_Floor_FM_2Dog_02_S4"/>
+	<stage animation="SCAP_Floor_FM_2Dog_02_S5"/>	
+	<stage animation="SCAP_Floor_FM_2Dog_02_S6"/>
+	<stage animation="SCAP_Floor_FM_2Dog_02_S7"/>
+	<stage animation="SCAP_Floor_FM_2Dog_02_S8"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_RoundTableSmall_FM_2Dog_01_Staged" sequential="true">
+	<stage animation="SCAP_RoundTableSmall_FM_2Dog_01_S1"/>
+	<stage animation="SCAP_RoundTableSmall_FM_2Dog_01_S2"/>
+	<stage animation="SCAP_RoundTableSmall_FM_2Dog_01_S3"/>	
+	<stage animation="SCAP_RoundTableSmall_FM_2Dog_01_S4"/>
+	<stage animation="SCAP_RoundTableSmall_FM_2Dog_01_S5"/>	
+	<stage animation="SCAP_RoundTableSmall_FM_2Dog_01_S6"/>
+	<stage animation="SCAP_RoundTableSmall_FM_2Dog_01_S7"/>
+	<stage animation="SCAP_RoundTableSmall_FM_2Dog_01_S8"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Standing_FM_2Dog_01_Staged" sequential="true">
+	<stage animation="SCAP_Standing_FM_2Dog_01_S1"/>
+	<stage animation="SCAP_Standing_FM_2Dog_01_S2"/>
+	<stage animation="SCAP_Standing_FM_2Dog_01_S3"/>	
+	<stage animation="SCAP_Standing_FM_2Dog_01_S4"/>
+	<stage animation="SCAP_Standing_FM_2Dog_01_S5"/>	
+	<stage animation="SCAP_Standing_FM_2Dog_01_S6"/>
+	<stage animation="SCAP_Standing_FM_2Dog_01_S7"/>
+	<stage animation="SCAP_Standing_FM_2Dog_01_S8"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_DoubleBed_FM_3Dog_01_Staged" sequential="true">
+	<stage animation="SCAP_DoubleBed_FM_3Dog_01_S1"/>
+	<stage animation="SCAP_DoubleBed_FM_3Dog_01_S2"/>
+	<stage animation="SCAP_DoubleBed_FM_3Dog_01_S3"/>
+	<stage animation="SCAP_DoubleBed_FM_3Dog_01_S4"/>
+	<stage animation="SCAP_DoubleBed_FM_3Dog_01_S5"/>
+	<stage animation="SCAP_DoubleBed_FM_3Dog_01_S6"/>
+	<stage animation="SCAP_DoubleBed_FM_3Dog_01_S7"/>
+	<stage animation="SCAP_DoubleBed_FM_3Dog_01_S8"/>
+	<stage animation="SCAP_DoubleBed_FM_3Dog_01_S9"/>
+	<stage animation="SCAP_DoubleBed_FM_3Dog_01_S10"/>
+	<stage animation="SCAP_DoubleBed_FM_3Dog_01_S11"/>
+	<stage animation="SCAP_DoubleBed_FM_3Dog_01_S12"/>
+	<stage animation="SCAP_DoubleBed_FM_3Dog_01_S13"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Floor_FM_2ActorDog_01_Staged" sequential="true">
+	<stage animation="SCAP_Floor_FM_2ActorDog_01_S1"/>
+	<stage animation="SCAP_Floor_FM_2ActorDog_01_S2"/>
+	<stage animation="SCAP_Floor_FM_2ActorDog_01_S3"/>
+	<stage animation="SCAP_Floor_FM_2ActorDog_01_S4"/>
+	<stage animation="SCAP_Floor_FM_2ActorDog_01_S5"/>
+	<stage animation="SCAP_Floor_FM_2ActorDog_01_S6"/>
+	<stage animation="SCAP_Floor_FM_2ActorDog_01_S7"/>
+	<stage animation="SCAP_Floor_FM_2ActorDog_01_S8"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Bed_FM_2Mutant_01_Staged" sequential="true">
+	<stage animation="SCAP_Bed_FM_2Mutant_01_S3"/>
+	<stage animation="SCAP_Bed_FM_2Mutant_01_S4"/>
+	<stage animation="SCAP_Bed_FM_2Mutant_01_S5"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Bed_FM_2Mutant_02_Staged" sequential="true">
+	<stage animation="SCAP_Bed_FM_2Mutant_02_S3"/>
+	<stage animation="SCAP_Bed_FM_2Mutant_02_S4"/>
+	<stage animation="SCAP_Bed_FM_2Mutant_02_S5"/>
+	<stage animation="SCAP_Bed_FM_2Mutant_02_S6"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Bed_FM_2Mutant_03_Staged" sequential="true">
+	<stage animation="SCAP_Bed_FM_2Mutant_03_S1"/>
+	<stage animation="SCAP_Bed_FM_2Mutant_03_S2"/>
+	<stage animation="SCAP_Bed_FM_2Mutant_03_S3"/>
+	<stage animation="SCAP_Bed_FM_2Mutant_03_S4"/>
+	<stage animation="SCAP_Bed_FM_2Mutant_03_S5"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Bed_FM_2Mutant_04_Staged" sequential="true">
+	<stage animation="SCAP_Bed_FM_2Mutant_04_S3"/>
+	<stage animation="SCAP_Bed_FM_2Mutant_04_S4"/>
+	<stage animation="SCAP_Bed_FM_2Mutant_04_S5"/>
+	<stage animation="SCAP_Bed_FM_2Mutant_04_S6"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_DoubleBed_FM_2Mutant_01_Staged" sequential="true">
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_01_S2"/>
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_01_S3"/>
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_01_S4"/>
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_01_S5"/>
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_01_S6"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_DoubleBed_FM_2Mutant_02_Staged" sequential="true">
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_02_S3"/>
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_02_S4"/>
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_02_S5"/>	
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_02_S6"/>
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_02_S7"/>	
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_02_S8"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_DoubleBed_FM_2Mutant_03_Staged" sequential="true">
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_03_S1"/>
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_03_S3"/>
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_03_S4"/>
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_03_S5"/>
+	<stage animation="SCAP_DoubleBed_FM_2Mutant_03_S6"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Floor_FM_2Mutant_01_Staged" sequential="true">
+	<stage animation="SCAP_Floor_FM_2Mutant_01_S3"/>
+	<stage animation="SCAP_Floor_FM_2Mutant_01_S4"/>
+	<stage animation="SCAP_Floor_FM_2Mutant_01_S5"/>
+	<stage animation="SCAP_Floor_FM_2Mutant_01_S6"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Standing_FM_2Mutant_01_Staged" sequential="true">
+	<stage animation="SCAP_Standing_FM_2Mutant_01_S3"/>
+	<stage animation="SCAP_Standing_FM_2Mutant_01_S4"/>
+	<stage animation="SCAP_Standing_FM_2Mutant_01_S5"/>
+	<stage animation="SCAP_Standing_FM_2Mutant_01_S6"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Standing_FM_2Mutant_02_Staged" sequential="true">
+	<stage animation="SCAP_Standing_FM_2Mutant_02_S3"/>
+	<stage animation="SCAP_Standing_FM_2Mutant_02_S4"/>
+	<stage animation="SCAP_Standing_FM_2Mutant_02_S5"/>
+	<stage animation="SCAP_Standing_FM_2Mutant_02_S6"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Standing_FM_2Mutant_03_Staged" sequential="true">
+	<stage animation="SCAP_Standing_FM_2Mutant_03_S1"/>
+	<stage animation="SCAP_Standing_FM_2Mutant_03_S3"/>
+	<stage animation="SCAP_Standing_FM_2Mutant_03_S4"/>
+	<stage animation="SCAP_Standing_FM_2Mutant_03_S5"/>
+</animationGroup>
+
+
+
+<animationGroup id="SCAP_Bed_FM_3Mutant_01_Staged" sequential="true">
+	<stage animation="SCAP_Bed_FM_3Mutant_01_S3"/>
+	<stage animation="SCAP_Bed_FM_3Mutant_01_S4"/>
+	<stage animation="SCAP_Bed_FM_3Mutant_01_S5"/>
+</animationGroup>

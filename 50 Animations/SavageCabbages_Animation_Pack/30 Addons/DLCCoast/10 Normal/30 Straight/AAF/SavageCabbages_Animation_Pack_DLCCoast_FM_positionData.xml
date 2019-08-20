@@ -1,0 +1,14 @@
+<meta title="SavageCabbage's Animation Pack - DLCCoast Position Data" version="1.0.4" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+
+
+<position id="SCAP_Outhouse_FM_2Dog_01_Staged" animationGroup="SCAP_Outhouse_FM_2Dog_01_Staged" location="Outhouse"/>
+<position id="SCAP_Outhouse_FM_2Dog_01_S1" animation="SCAP_Outhouse_FM_2Dog_01_S1" location="Outhouse"/>
+<position id="SCAP_Outhouse_FM_2Dog_01_S2" animation="SCAP_Outhouse_FM_2Dog_01_S2" location="Outhouse"/>
+<position id="SCAP_Outhouse_FM_2Dog_01_S3" animation="SCAP_Outhouse_FM_2Dog_01_S3" location="Outhouse"/>
+<position id="SCAP_Outhouse_FM_2Dog_01_S4" animation="SCAP_Outhouse_FM_2Dog_01_S4" location="Outhouse"/>
+<position id="SCAP_Outhouse_FM_2Dog_01_S5" animation="SCAP_Outhouse_FM_2Dog_01_S5" location="Outhouse"/>
+<position id="SCAP_Outhouse_FM_2Dog_01_S6" animation="SCAP_Outhouse_FM_2Dog_01_S6" location="Outhouse"/>
+<position id="SCAP_Outhouse_FM_2Dog_01_S7" animation="SCAP_Outhouse_FM_2Dog_01_S7" location="Outhouse"/>
+<position id="SCAP_Outhouse_FM_2Dog_01_S8" animation="SCAP_Outhouse_FM_2Dog_01_S8" location="Outhouse"/>

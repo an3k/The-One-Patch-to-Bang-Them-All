@@ -191,3 +191,12 @@
 	<furniture form="EE9EF" id="NpcBedSleepingBagSleep01Static"/>
 	<furniture form="118F57" id="WorkshopNpcBedSleepingBagSleep01"/>
 </group>
+
+<group id="SMBed">
+	<furniture form="1F599D" id="SuperMutantCampBed02Static"/>
+</group>
+
+<group id="SMFrameBed">
+	<furniture form="1F599C" id="SuperMutantCampBed01Static"/>
+	<furniture form="21D9DC" id="Supermutant-Clutter05"/>
+</group>

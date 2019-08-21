@@ -98,7 +98,7 @@
 <animation id="ML_PenisLick_FM_01" frames="195">
 	<actor gender="F">
 		<idle form="00004C70" id="MutatedSupermutantPenisLickF"/>
-		<value path="action" value="addTongue" loop="true" frames="150"/>
+		<value path="action" value="addTongue" loop="true" frames="97.5"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="00004C71" id="MutatedSupermutantPenisLickSM"/>

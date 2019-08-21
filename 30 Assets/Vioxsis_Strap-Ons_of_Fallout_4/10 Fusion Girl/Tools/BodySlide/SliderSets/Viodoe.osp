@@ -6,14 +6,17 @@
         <OutputPath>meshes\Strapon</OutputPath>
         <OutputFile GenWeights="false">Viodoe</OutputFile>
         <Shape target="Viodoe:0">Viodoe:0</Shape>
-        <Slider name="CrotchBack" invert="false" default="0">
-            <Data name="Viodoe:0CrotchBack" target="Viodoe:0" local="true">Viodoe.osd\Viodoe:0CrotchBack</Data>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Viodoe:0Groin Position" target="Viodoe:0" local="true">Viodoe.osd\Viodoe:0Groin Position</Data>
         </Slider>
-        <Slider name="HipBack" invert="false" default="0">
-            <Data name="Viodoe:0HipBack" target="Viodoe:0" local="true">Viodoe.osd\Viodoe:0HipBack</Data>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Viodoe:0Groin Back" target="Viodoe:0" local="true">Viodoe.osd\Viodoe:0Groin Back</Data>
         </Slider>
-        <Slider name="7B Lower" invert="false" default="0">
-            <Data name="Viodoe:07B Lower" target="Viodoe:0" local="true">Viodoe.osd\Viodoe:07B Lower</Data>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Viodoe:0Athletic" target="Viodoe:0" local="true">Viodoe.osd\Viodoe:0Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Viodoe:0SeveNBase Bombshell" target="Viodoe:0" local="true">Viodoe.osd\Viodoe:0SeveNBase Bombshell</Data>
         </Slider>
         <Slider name="Erection Up" invert="false" default="0">
             <Data name="Viodoe:0Erection Up" target="Viodoe:0" local="true">Viodoe.osd\Viodoe:0Erection Up</Data>

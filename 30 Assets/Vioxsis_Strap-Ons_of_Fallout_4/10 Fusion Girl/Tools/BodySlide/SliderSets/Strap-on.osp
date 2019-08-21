@@ -7,13 +7,13 @@
         <OutputFile GenWeights="false">Strap-on</OutputFile>
         <Shape target="Box002:0">Box002:0</Shape>
         <Shape target="Line001:0">Line001:0</Shape>
-        <Slider name="Up" invert="false" default="0">
-            <Data name="Box002:0Up" target="Box002:0" local="true">Strap-on.osd\Box002:0Up</Data>
-            <Data name="Line001:0Up" target="Line001:0" local="true">Strap-on.osd\Line001:0Up</Data>
+        <Slider name="Erection Up" invert="false" default="0">
+            <Data name="Box002:0Erection Up" target="Box002:0" local="true">Strap-on.osd\Box002:0Erection Up</Data>
+            <Data name="Line001:0Erection Up" target="Line001:0" local="true">Strap-on.osd\Line001:0Erection Up</Data>
         </Slider>
-        <Slider name="Down" invert="false" default="0">
-            <Data name="Box002:0Down" target="Box002:0" local="true">Strap-on.osd\Box002:0Down</Data>
-            <Data name="Line001:0Down" target="Line001:0" local="true">Strap-on.osd\Line001:0Down</Data>
+        <Slider name="Erection Down" invert="false" default="0">
+            <Data name="Box002:0Erection Down" target="Box002:0" local="true">Strap-on.osd\Box002:0Erection Down</Data>
+            <Data name="Line001:0Erection Down" target="Line001:0" local="true">Strap-on.osd\Line001:0Erection Down</Data>
         </Slider>
         <Slider name="Belly Pregnant" invert="false" default="0">
             <Data name="Box002:0Belly Pregnant" target="Box002:0" local="true">Strap-on.osd\Box002:0Belly Pregnant</Data>

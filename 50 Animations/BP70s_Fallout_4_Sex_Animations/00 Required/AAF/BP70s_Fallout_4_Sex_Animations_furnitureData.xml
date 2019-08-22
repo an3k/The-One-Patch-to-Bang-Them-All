@@ -6,6 +6,7 @@
 </group>
 
 <group id="Single Bed">
+	<furniture form="000488E6" id="InstituteBedWallMounted01"/>
 	<furniture form="000E6952" id="NPCBedInstituteSleep01"/>
 	<furniture form="000DB85E" id="NPCBedInstituteSleep02"/>
 	<furniture form="001340D3" id="NpcBedMetalLay01"/>
@@ -20,6 +21,7 @@
 	<furniture form="00118F4B" id="WorkshopNpcBedVaultLay01"/>
 	<furniture form="00249040" id="WorkshopNpcBedVaultLay01DblNoEdit"/>
 	<furniture form="0018E7A9" id="WorkshopNpcBedVaultLay01NoEdit"/>
+	<furniture form="0018C570" id="WorkshopNpcBedWoodLay01"/>
 </group>
 
 <group id="Double Bed">

@@ -1,5 +1,15 @@
-<meta title="Crazy's Animations [Gun Version] - Furniture Data" version="3.11.17" dataSet="furniture"/>
+<meta title="FO4 Animations by Leito - Furniture Data" version="2.0.0-a" dataSet="furniture"/>
 <defaults source="Fallout4.esm"/>
+
+<group id="Mattress">
+	<furniture form="0002FBF9" id="NpcBedGroundSleep01"/>
+	<furniture form="000D75BC" id="NpcBedSleepingBagSleep01"/>
+	<furniture form="00118F57" id="WorkshopNpcBedSleepingBagSleep01"/>
+	<furniture form="00020C40" id="WorkshopNpcBedGroundSleep01"/>
+	<furniture form="001909CF" id="WorkshopNpcBedGroundSleep01DoubleNoEdit"/>
+	<furniture form="00246985" id="WorkshopNpcBedGroundSleep01NoEdit"/>
+	<furniture form="0024980E" id="WorkshopNpcBedGroundSleep02NoEdit"/>
+</group>
 
 <group id="Single_Bed">
 	<furniture form="000488E6" id="InstituteBedWallMounted01"/>

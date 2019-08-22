@@ -1,6 +1,10 @@
 <meta title="ZaZOut4 - Lesbian Position Data" version="0.0.5-b" dataSet="position"/>
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
+<!-- Position Tree -->
+
+<position id="ZaZOut4 - Lesbian Menu" positionTree="ZaZOut4_Lesbian_Menu"/>
+
 <!-- Blowjob Animations -->
 
 <position id="ZaZOut4 - Lesbian Blowjob (Staged)" location="Hydraulic_Pillory" animationGroup="ZaZOut4_Blowjob_FF_01_Staged"/>

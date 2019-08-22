@@ -1,6 +1,10 @@
 <meta title="ZaZOut4 - Position Data" version="0.0.5-b" dataSet="position"/>
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
+<!-- Position Tree -->
+
+<position id="ZaZOut4 - Menu" positionTree="ZaZOut4_Menu"/>
+
 <!-- Blowjob Animations -->
 
 <position id="ZaZOut4 - Blowjob (Staged)" location="Hydraulic_Pillory" animationGroup="ZaZOut4_Blowjob_FM_01_Staged"/>

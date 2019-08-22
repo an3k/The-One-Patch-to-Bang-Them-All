@@ -1,0 +1,14 @@
+<meta title="Gray User's Bad End Animation Pack - Lesbian Transition Data" version="1.0.3" dataSet="transition"/>
+<defaults/>
+
+<!-- Institute Chair Animations -->
+
+<transition from="Gray User's Bad End Animation Pack - Lesbian Institute Chair (Stage 4)" to="Gray User's Bad End Animation Pack - Lesbian Institute Chair (Stage 5)" animation="GUBEAP_Chair_FF_01_4TR5"/>
+
+<!-- Machine Chair Animations -->
+
+<transition from="Gray User's Bad End Animation Pack - Lesbian Machine Chair (Stage 4)" to="Gray User's Bad End Animation Pack - Lesbian Machine Chair (Stage 5)" animation="GUBEAP_Chair_FF_01_4TR5"/>
+
+<!-- Pole High Animations -->
+
+<transition from="Gray User's Bad End Animation Pack - Lesbian Pole (Stage 3)" to="Gray User's Bad End Animation Pack - Lesbian Pole (Stage 4)" animation="GUBEAP_Pole_FF_01_3TR4"/>

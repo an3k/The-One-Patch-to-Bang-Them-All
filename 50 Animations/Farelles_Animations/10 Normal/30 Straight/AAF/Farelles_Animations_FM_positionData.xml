@@ -1,7 +1,7 @@
 <meta title="Farelle's Animations - Position Data" version="0.1.2" dataSet="position"/>
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
-<position id="Farelle's Animations - Blowjob (Forced)" animationGroup="Farelle_Blowjob_FM_Forced_01_Staged"/>
+<position id="Farelle's Animations - Blowjob (Forced, Staged)" animationGroup="Farelle_Blowjob_FM_Forced_01_Staged"/>
 <position id="Farelle's Animations - Blowjob (Forced, Stage 1)" animation="Farelle_Blowjob_FM_Forced_01_S1" isHidden="true"/>
 <position id="Farelle's Animations - Blowjob (Forced, Stage 2)" animation="Farelle_Blowjob_FM_Forced_01_S2" isHidden="true"/>
 <position id="Farelle's Animations - Feetjob" animation="Farelle_Feetjob_FM_01"/>

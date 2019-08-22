@@ -1,0 +1,10 @@
+<meta title="ZaZOut4 - Lesbian Transition Data" version="0.0.5-b" dataSet="transition"/>
+<defaults/>
+
+<!-- Blowjob Animations -->
+
+<transition from="ZaZOut4 - Lesbian Blowjob (Staged)" to="ZaZOut4 - Lesbian Pussy (Staged)" animation="ZaZOut4_Pussy_FF_01_00"/>
+
+<!-- Pussy Animations -->
+
+<transition from="none" to="ZaZOut4 - Lesbian Pussy (Staged)" animation="ZaZOut4_Pussy_FF_01_00"/>

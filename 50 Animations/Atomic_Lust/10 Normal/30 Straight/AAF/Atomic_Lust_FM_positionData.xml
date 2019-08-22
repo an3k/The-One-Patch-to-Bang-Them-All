@@ -1,60 +1,69 @@
-<meta title="Atomic Lust - FM Position Data" version="2.5.1-b" dataSet="position"/>
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
+<meta title="Atomic Lust - Position Data" version="2.5.1-b" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<!-- Position Tree -->
+
+<position id="Atomic Lust - Menu" positionTree="Atomic_Lust_Menu"/>
 
 <!-- Female/Male Animations -->
 
-<position id="Atomic Cowgirl" animation="Atomic Cowgirl"/>
-<position id="Atomic Cowgirl 2" animation="Atomic Cowgirl 2"/>
-<position id="Atomic Cowgirl 2 Alt 1" animation="Atomic Cowgirl 2 Alt 1"/>
-<position id="Atomic Embrace" animation="Atomic Embrace"/>
-<position id="Atomic Kissing" animation="Atomic Kissing"/>
-<position id="Atomic Spanking S1" animation="Atomic Spanking S1" isHidden="true"/>
-<position id="Atomic Spanking S1 Tran" animation="Atomic Spanking S1 Tran" isHidden="true"/>
-<position id="Atomic Spanking S2" animation="Atomic Spanking S2" isHidden="true"/>
-<position id="Atomic Spanking S2 Tran" animation="Atomic Spanking S2 Tran" isHidden="true"/>
-<position id="Atomic Spanking S3" animation="Atomic Spanking S3" isHidden="true"/>
-<position id="Atomic Spanking S3 Spank" animation="Atomic Spanking S3 Spank" isHidden="true"/>
-<position id="Atomic Threesome Handjob" animation="Atomic Threesome Handjob"/>
-<position id="Atomic Threesome 2" animation="Atomic Threesome 2"/>
-<position id="Standing Idle" animation="Standing Idle" isHidden="true"/>
-<position id="Standing Idle to Holding Hands" animation="Standing Idle to Holding Hands" isHidden="true"/>
-<position id="Holding Hands" animation="Holding Hands" isHidden="true"/>
-<position id="Holding Hands to Holding Jerking" animation="Holding Hands to Holding Jerking" isHidden="true"/>
-<position id="Holding Hands to Holding Kissing" animation="Holding Hands to Holding Kissing" isHidden="true"/>
-<position id="Holding Kissing" animation="Holding Kissing" isHidden="true"/>
+<position id="Atomic Lust - Cowgirl 1" animation="AtomicLust_Cowgirl_FM_01"/>
+<position id="Atomic Lust - Cowgirl 2" animation="AtomicLust_Cowgirl_FM_02"/>
+<position id="Atomic Lust - Cowgirl 3" animation="AtomicLust_Cowgirl_FM_03"/>
+<position id="Atomic Lust - Embrace 1" animation="AtomicLust_Embrace_FM_01"/>
+<position id="Atomic Lust - Embrace 2" animation="AtomicLust_Embrace_FM_02"/>
+<position id="Atomic Lust - Kissing 1" animation="AtomicLust_Kissing_FM_01"/>
+<position id="Atomic Lust - Kissing 2" animation="AtomicLust_Kissing_FM_02"/>
 
 <!-- Furniture Animations -->
 
-<position id="Atomic Reversed Cowgirl (Vault Bed)" animation="Atomic Reversed Cowgirl (Vault Bed)" location="Single Bed"/>
-<position id="Atomic Reversed Cowgirl (Vault Bed) Orgasm" animation="Atomic Reversed Cowgirl (Vault Bed) Orgasm" location="Single Bed"/>
-<position id="Atomic Cryo Pod" location="Cryo Pod" animation="Atomic Cryo Pod"/>
-<position id="Atomic Blowjob (Player House Chair)" location="Player House Chair" animation="Atomic Blowjob (Player House Chair)"/>
-<position id="Atomic Cunnilingus PA" location="Power Armor Station" animation="Atomic Cunnilingus PA"/>
-<position id="Atomic Cunnilingus Alt PA" location="Alternative PA Station" animation="Atomic Cunnilingus Alt PA"/>
-<position id="Atomic Bed Cuddle" location="Double Bed" animation="Atomic Bed Cuddle"/>
-<position id="Atomic Cowgirl (Double Bed)" location="Double Bed" animation="Atomic Cowgirl (Double Bed)"/>
-<position id="Atomic Cowgirl (Pre-War Bed)" location="Pre-War Double Bed" animation="Atomic Cowgirl (Pre-War Bed)"/>
-<position id="Atomic Cowgirl (Vault Bed)" location="Single Bed" animation="Atomic Cowgirl (Vault Bed)"/>
-<position id="Atomic Cowgirl (Bunk Bed Top)" location="Bunk Bed" animation="Atomic Cowgirl (Bunk Bed Top)"/>
-<position id="Atomic Cowgirl (Bunk Bed Bottom)" location="Bunk Bed" animation="Atomic Cowgirl (Bunk Bed Bottom)"/>
-<position id="Atomic Cowgirl (Institute Single Bed)" location="Institute Single Bed" animation="Atomic Cowgirl (Institute Single Bed)"/>
-<position id="Atomic Cowgirl (Institute Double Bed)" location="Institute Double Bed" animation="Atomic Cowgirl (Institute Double Bed)"/>
-<position id="Atomic Cowgirl (Institute Wallmounted Bed)" location="Institute Wallmounted Bed" animation="Atomic Cowgirl (Institute Wallmounted Bed)"/>
-<position id="Atomic Cowgirl (Institute Med Bay)" location="Institute Med Bay" animation="Atomic Cowgirl (Institute Med Bay)"/>
-<position id="Atomic Cowgirl (Institute Med Bay Inclined)" location="Institute Med Bay Inclined" animation="Atomic Cowgirl (Institute Med Bay Inclined)"/>
+<position id="Atomic Lust - Blowjob" location="Player House Chair" animation="AtomicLust_BlowjobChair_FM_01"/>
+<position id="Atomic Lust - Cowgirl (Bunk Bed, Bottom)" location="Bunk Bed" animation="AtomicLust_CowgirlBunkBed_FM_Bottom_01"/>
+<position id="Atomic Lust - Cowgirl (Bunk Bed, Top)" location="Bunk Bed" animation="AtomicLust_CowgirlBunkBed_FM_Top_01"/>
+<position id="Atomic Lust - Cowgirl (Double Bed)" location="Double Bed" animation="AtomicLust_CowgirlDoubleBed_FM_01"/>
+<position id="Atomic Lust - Cowgirl (Institute Double Bed)" location="Institute Single Bed" animation="AtomicLust_CowgirlDoubleBed_FM_Institute_01"/>
+<position id="Atomic Lust - Cowgirl (Institute Med Bay)" location="Institute Med Bay" animation="AtomicLust_CowgirlMedBay_FM_Institute_01"/>
+<position id="Atomic Lust - Cowgirl (Institute Inclined Med Bay)" location="Institute Med Bay Inclined" animation="AtomicLust_CowgirlMedBay_FM_InstituteInclined_01"/>
+<position id="Atomic Lust - Cowgirl (Institute Single Bed)" location="Institute Single Bed" animation="AtomicLust_CowgirlSingleBed_FM_Institute_01"/>
+<position id="Atomic Lust - Cowgirl (Institute Wallmount Bed)" location="Institute Wallmounted Bed" animation="AtomicLust_CowgirlWallmountBed_FM_Institute_01"/>
+<position id="Atomic Lust - Cowgirl (Pre-War Bed)" location="Pre-War Double Bed" animation="AtomicLust_CowgirlPreWarBed_FM_01"/>
+<position id="Atomic Lust - Cowgirl (Vault Bed)" location="Single Bed" animation="AtomicLust_CowgirlVaultBed_FM_01"/>
+<position id="Atomic Lust - Cowgirl (Vault Bed, Reversed)" location="Single Bed" animation="AtomicLust_ReverseCowgirlVaultBed_FM_01"/>
+<position id="Atomic Lust - Cowgirl (Vault Bed, Reversed, Orgasm)" location="Single Bed" animation="AtomicLust_ReverseCowgirlVaultBed_FM_Orgasm_01"/>
+<position id="Atomic Lust - Cuddle (Double Bed)" location="Double Bed" animation="AtomicLust_CuddleBed_FM_01"/>
+<position id="Atomic Lust - Cunnilingus 1 (Power Armor Station)" location="Power Armor Station" animation="AtomicLust_CunnilingusPowerArmorStation_FM_01"/>
+<position id="Atomic Lust - Cunnilingus 2 (Power Armor Station)" location="Alternative PA Station" animation="AtomicLust_CunnilingusPowerArmorStation_FM_02"/>
+<position id="Atomic Lust - Cryo Pod" location="Cryo Pod" animation="AtomicLust_CryoPod_FM_01"/>
 
-<!-- Solo Male Animations -->
+<!-- Spanking Animations -->
 
-<position id="Atomic Jerking" animation="Atomic Jerking"/>
-<position id="Atomic Jerking (Orgasm)" animation="Atomic Jerking (Orgasm)"/>
+<position id="Atomic Lust - Spanking (Staged)" animation="AtomicLust_Spanking_FM_01_Staged"/>
+<position id="Atomic Lust - Spanking (Stage 1)" animation="AtomicLust_Spanking_FM_01_S1" isHidden="true"/>
+<position id="Atomic Lust - Spanking (Stage 2)" animation="AtomicLust_Spanking_FM_01_S2" isHidden="true"/>
+<position id="Atomic Lust - Spanking (Stage 3)" animation="AtomicLust_Spanking_FM_01_S3" isHidden="true"/>
+<position id="Atomic Lust - Spanking (Stage 4)" animation="AtomicLust_Spanking_FM_01_S4" isHidden="true"/>
+
+<!-- positionTree Animations -->
+
+<position id="Atomic Lust - Holding Hands" animation="AtomicLust_HoldingHands_FM_01"/>
+<position id="Atomic Lust - Holding Hands to Holding Jerking" animation="AtomicLust_HoldingHandstoHoldingJerking_FM_01"/>
+<position id="Atomic Lust - Holding Hands to Holding Kissing" animation="AtomicLust_HoldingHandstoHoldingKissing_FM_01"/>
+<position id="Atomic Lust - Holding Kissing" animation="AtomicLust_HoldingKissing_FM_01"/>
+<position id="Atomic Lust - Standing" animation="AtomicLust_StandingIdle_FM_01"/>
+<position id="Atomic Lust - Standing to Holding Hands" animation="AtomicLust_StandingIdletoHoldingHands_FM_01"/>
+
+<!-- Threesome Animations -->
+
+<position id="Atomic Lust - Threesome 1" animation="AtomicLust_Threesome_FM_01"/>
+<position id="Atomic Lust - Threesome 2" animation="AtomicLust_Threesome_FM_02"/>
 
 <!-- Solo Female Animations -->
 
-<position id="Atomic Fingering (Laying)" animation="Atomic Fingering (Laying)"/>
-<position id="Atomic Fingering (Sitting)" animation="Atomic Fingering (Sitting)"/>
-<position id="Atomic Fingering 2 (Sitting)" animation="Atomic Fingering 2 (Sitting)"/>
+<position id="Atomic Lust - Fingering 1 (Laying)" animation="AtomicLust_FingeringLaying_F_01"/>
+<position id="Atomic Lust - Fingering 2 (Sitting)" animation="AtomicLust_FingeringSitting_F_01"/>
+<position id="Atomic Lust - Fingering 3 (Sitting)" animation="AtomicLust_FingeringSitting_F_02"/>
 
-<!-- Position Trees -->
+<!-- Solo Male Animations -->
 
-<position id="Atomic Spanking" positionTree="Atomic Spanking"/>
-<position id="Atomic Lust" positionTree="Atomic Lust"/>
+<position id="Atomic Lust - Jerking Off" animation="AtomicLust_Jerking_M_01"/>
+<position id="Atomic Lust - Jerking Off (Orgasm)" animation="AtomicLust_Jerking_M_Orgasm_01"/>

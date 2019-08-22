@@ -100,32 +100,3 @@
 		<idle form="00000F9A" id="Crazy_Back01_M3Spitroast"/>
 	</actor>
 </animation>
-
-<!-- Dog Animations -->
-
-<animation id="FPAC_DogHandjob_FF_01" frames="160" offset="0,70,5,0:0,0,0,0">
-	<actor gender="F">
-		<idle form="00000FAB" id="Crazy_Front01_FDogHandjob"/>
-	</actor>
-	<actor gender="M" skeleton="Dog">
-		<idle form="00000F9B" id="Crazy_Center_DogDogHandjob"/>
-	</actor>
-</animation>
-
-<animation id="FPAC_DogmeatStyle_FF_01" frames="190" offset="0,70,0,0:0,0,0,0">
-	<actor gender="F">
-		<idle form="00000FAC" id="Crazy_Front01_FDogmeatStyle"/>
-	</actor>
-	<actor gender="M" skeleton="Dog">
-		<idle form="00000F9C" id="Crazy_Center_DogDogmeatStyle"/>
-	</actor>
-</animation>
-
-<animation id="FPAC_DogmeatStyle_FF_Faster_01" frames="120" offset="0,70,0,0:0,0,0,0">
-	<actor gender="F">
-		<idle form="00000FAD" id="Crazy_Front01_FDogmeatStyleFaster"/>
-	</actor>
-	<actor gender="M" skeleton="Dog">
-		<idle form="00000F9D" id="Crazy_Center_DogDogmeatStyleFaster"/>
-	</actor>
-</animation>

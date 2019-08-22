@@ -108,12 +108,6 @@
 	</actor>
 </animation>
 
-<animation id="Crazy_DoggyPillory_FM_01" offset="0,70,0,0" frames="450">
-	<actor gender="M">
-		<idle form="0000173C" id="CrazyPilloryM"/>
-	</actor>
-</animation>
-
 <animation id="Crazy_PoundingBed_FM_01" offset="0,70,0,0:0,0,0,0" frames="500">
 	<actor gender="F">
 		<idle form="00004C92" id="CrazyGPoundBedF"/>

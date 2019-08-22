@@ -17,7 +17,6 @@
 
 <position id="Crazy's Animations - Doggy (Bed)" location="Single_Bed,Double_Bed" animation="Crazy_DoggyBed_FM_01"/>
 <position id="Crazy's Animations - Doggy (Bed, Down)" location="Single_Bed,Double_Bed" animation="Crazy_DoggyBed_FM_02"/>
-<position id="Crazy's Animations - Doggy (Pillory)" location="Pillory" animation="Crazy_DoggyPillory_FM_01" isHidden="true"/>
 <position id="Crazy's Animations - Ground Pounding (Bed)" location="Single_Bed,Double_Bed" animation="Crazy_PoundingBed_FM_01"/>
 <position id="Crazy's Animations - Ground Pounding (Bed, Reverse)" location="Single_Bed,Double_Bed" animation="Crazy_PoundingBed_FM_02"/>
 <position id="Crazy's Animations - Missionary (Bed)" location="Single_Bed,Double_Bed" animation="Crazy_MissionaryBed_FM_01"/>

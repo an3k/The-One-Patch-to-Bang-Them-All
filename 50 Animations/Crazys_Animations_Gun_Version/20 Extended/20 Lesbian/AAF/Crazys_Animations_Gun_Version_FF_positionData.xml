@@ -17,7 +17,6 @@
 
 <position id="Crazy's Animations - Doggy (Bed)" location="Single_Bed,Double_Bed" animation="Crazy_DoggyBed_FF_01"/>
 <position id="Crazy's Animations - Doggy (Bed, Down)" location="Single_Bed,Double_Bed" animation="Crazy_DoggyBed_FF_02"/>
-<position id="Crazy's Animations - Doggy (Pillory)" location="Pillory" animation="Crazy_DoggyPillory_FF_01" isHidden="true"/>
 <position id="Crazy's Animations - Ground Pounding (Bed)" location="Single_Bed,Double_Bed" animation="Crazy_PoundingBed_FF_01"/>
 <position id="Crazy's Animations - Ground Pounding (Bed, Reverse)" location="Single_Bed,Double_Bed" animation="Crazy_PoundingBed_FF_02"/>
 <position id="Crazy's Animations - Missionary (Bed)" location="Single_Bed,Double_Bed" animation="Crazy_MissionaryBed_FF_01"/>
@@ -25,14 +24,4 @@
 
 <!-- Female Solo Animations -->
 
-<position id="Crazy's Animations - Masturbation" animation="Crazy_Masturbate_F_01"/>
-<position id="Crazy's Animations - Masturbation (Fingering)" animation="Crazy_Masturbate_F_03"/>
-<position id="Crazy's Animations - Masturbation (Laying)" animation="Crazy_Masturbate_F_02"/>
-
-<!-- Female Solo Furniture Animations -->
-
-<position id="Crazy's Animations - Masturbation (Bed, Laying)" location="Single_Bed,Double_Bed" animation="Crazy_MasturbateBed_F_02"/>
-
-<!-- Male Solo Animations -->
-
-<position id="Crazy's Animations - Masturbation (Jerking Off)" animation="Crazy_Masturbate_M_01"/>
+<position id="Crazy's Animations - Masturbation (Jerking Off)" animation="Crazy_Masturbate_F_01"/>

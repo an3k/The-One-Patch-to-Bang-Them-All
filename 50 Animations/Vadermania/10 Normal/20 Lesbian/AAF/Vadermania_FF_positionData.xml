@@ -1,14 +1,5 @@
 <meta title="Vadermania - Lesbian Position Data" version="1.1.0" dataSet="position"/>
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
-<position id="Vadermania - Lesbian Cat" animation="VM_Cat_FF_01"/>
-<position id="Vadermania - Lesbian Deathclaw (Slow)" animation="VM_Deathclaw_FF_Slow_01"/>
-<position id="Vadermania - Lesbian Deathclaw (Fast)" animation="VM_Deathclaw_FF_Fast_02"/>
 <position id="Vadermania - Lesbian Doggy" animation="VM_Doggy_FF_01"/>
-<position id="Vadermania - Lesbian Dogmeat" animation="VM_Dogmeat_FF_01"/>
-<position id="Vadermania - Lesbian FEVHound" animation="VM_FEVHound_FF_01"/>
-<position id="Vadermania - Lesbian Ghoul 2" animation="VM_Ghoul_FF_02"/>
-<position id="Vadermania - Lesbian Ghoul 3 (Aggressive)" animation="VM_Ghoul_FF_Aggressive_03"/>
-<position id="Vadermania - Lesbian Ghoul 4" animation="VM_Ghoul_FF_04"/>
-<position id="Vadermania - Lesbian Gorilla" animation="VM_Gorilla_FF_01"/>
 <position id="Vadermania - Lesbian Table" animation="VM_Table_FF_01"/>

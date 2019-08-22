@@ -13,150 +13,150 @@
 <!-- Blowjob Animations -->
 
 <position id="FO4 Animations by Leito - Blowjob 1 (Staged)" animationGroup="Leito_Blowjob_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Blowjob 1 (Stage 1)" animation="Leito_Blowjob_FM_01_S1"/>
-<position id="FO4 Animations by Leito - Blowjob 1 (Stage 2)" animation="Leito_Blowjob_FM_01_S2"/>
-<position id="FO4 Animations by Leito - Blowjob 1 (Stage 3)" animation="Leito_Blowjob_FM_01_S3"/>
-<position id="FO4 Animations by Leito - Blowjob 1 (Stage 4)" animation="Leito_Blowjob_FM_01_S4"/>
+<position id="FO4 Animations by Leito - Blowjob 1 (Stage 1)" animation="Leito_Blowjob_FM_01_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Blowjob 1 (Stage 2)" animation="Leito_Blowjob_FM_01_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Blowjob 1 (Stage 3)" animation="Leito_Blowjob_FM_01_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Blowjob 1 (Stage 4)" animation="Leito_Blowjob_FM_01_S4" isHidden="true"/>
 
 <!-- Carry Animations -->
 
 <position id="FO4 Animations by Leito - Carry 1 (Staged)" animationGroup="Leito_Carry_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Carry 1 (Stage 1)" animation="Leito_Carry_FM_01_S1"/>
-<position id="FO4 Animations by Leito - Carry 1 (Stage 2)" animation="Leito_Carry_FM_01_S2"/>
-<position id="FO4 Animations by Leito - Carry 1 (Stage 3)" animation="Leito_Carry_FM_01_S3"/>
-<position id="FO4 Animations by Leito - Carry 1 (Stage 4)" animation="Leito_Carry_FM_01_S4"/>
+<position id="FO4 Animations by Leito - Carry 1 (Stage 1)" animation="Leito_Carry_FM_01_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Carry 1 (Stage 2)" animation="Leito_Carry_FM_01_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Carry 1 (Stage 3)" animation="Leito_Carry_FM_01_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Carry 1 (Stage 4)" animation="Leito_Carry_FM_01_S4" isHidden="true"/>
 
 <position id="FO4 Animations by Leito - Carry 2 (Staged)" animationGroup="Leito_Carry_FM_02_Staged"/>
-<position id="FO4 Animations by Leito - Carry 2 (Stage 1)" animation="Leito_Carry_FM_02_S1"/>
-<position id="FO4 Animations by Leito - Carry 2 (Stage 2)" animation="Leito_Carry_FM_02_S2"/>
-<position id="FO4 Animations by Leito - Carry 2 (Stage 3)" animation="Leito_Carry_FM_02_S3"/>
-<position id="FO4 Animations by Leito - Carry 2 (Stage 4)" animation="Leito_Carry_FM_02_S4"/>
+<position id="FO4 Animations by Leito - Carry 2 (Stage 1)" animation="Leito_Carry_FM_02_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Carry 2 (Stage 2)" animation="Leito_Carry_FM_02_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Carry 2 (Stage 3)" animation="Leito_Carry_FM_02_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Carry 2 (Stage 4)" animation="Leito_Carry_FM_02_S4" isHidden="true"/>
 
 <!-- Carry Reverse Animations -->
 
 <position id="FO4 Animations by Leito - Carry 1 (Reversed, Staged)" animationGroup="Leito_ReverseCarry_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Carry 1 (Reversed, Stage 1)" animation="Leito_ReverseCarry_FM_01_S1"/>
-<position id="FO4 Animations by Leito - Carry 1 (Reversed, Stage 2)" animation="Leito_ReverseCarry_FM_01_S2"/>
-<position id="FO4 Animations by Leito - Carry 1 (Reversed, Stage 3)" animation="Leito_ReverseCarry_FM_01_S3"/>
-<position id="FO4 Animations by Leito - Carry 1 (Reversed, Stage 4)" animation="Leito_ReverseCarry_FM_01_S4"/>
+<position id="FO4 Animations by Leito - Carry 1 (Reversed, Stage 1)" animation="Leito_ReverseCarry_FM_01_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Carry 1 (Reversed, Stage 2)" animation="Leito_ReverseCarry_FM_01_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Carry 1 (Reversed, Stage 3)" animation="Leito_ReverseCarry_FM_01_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Carry 1 (Reversed, Stage 4)" animation="Leito_ReverseCarry_FM_01_S4" isHidden="true"/>
 
 <!-- Cowgirl Animations -->
 
 <position id="FO4 Animations by Leito - Cowgirl 1 (Staged)" animationGroup="Leito_Cowgirl_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Cowgirl 1 (Stage 1)" animation="Leito_Cowgirl_FM_01_S1"/>
-<position id="FO4 Animations by Leito - Cowgirl 1 (Stage 2)" animation="Leito_Cowgirl_FM_01_S2"/>
-<position id="FO4 Animations by Leito - Cowgirl 1 (Stage 3)" animation="Leito_Cowgirl_FM_01_S3"/>
-<position id="FO4 Animations by Leito - Cowgirl 1 (Stage 4)" animation="Leito_Cowgirl_FM_01_S4"/>
+<position id="FO4 Animations by Leito - Cowgirl 1 (Stage 1)" animation="Leito_Cowgirl_FM_01_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 1 (Stage 2)" animation="Leito_Cowgirl_FM_01_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 1 (Stage 3)" animation="Leito_Cowgirl_FM_01_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 1 (Stage 4)" animation="Leito_Cowgirl_FM_01_S4" isHidden="true"/>
 
 <position id="FO4 Animations by Leito - Cowgirl 2 (Staged)" animationGroup="Leito_Cowgirl_FM_02_Staged"/>
-<position id="FO4 Animations by Leito - Cowgirl 2 (Stage 1)" animation="Leito_Cowgirl_FM_02_S1"/>
-<position id="FO4 Animations by Leito - Cowgirl 2 (Stage 2)" animation="Leito_Cowgirl_FM_02_S2"/>
-<position id="FO4 Animations by Leito - Cowgirl 2 (Stage 3)" animation="Leito_Cowgirl_FM_02_S3"/>
-<position id="FO4 Animations by Leito - Cowgirl 2 (Stage 4)" animation="Leito_Cowgirl_FM_02_S4"/>
+<position id="FO4 Animations by Leito - Cowgirl 2 (Stage 1)" animation="Leito_Cowgirl_FM_02_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 2 (Stage 2)" animation="Leito_Cowgirl_FM_02_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 2 (Stage 3)" animation="Leito_Cowgirl_FM_02_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 2 (Stage 4)" animation="Leito_Cowgirl_FM_02_S4" isHidden="true"/>
 
 <position id="FO4 Animations by Leito - Cowgirl 3 (Staged)" animationGroup="Leito_Cowgirl_FM_03_Staged"/>
-<position id="FO4 Animations by Leito - Cowgirl 3 (Stage 1)" animation="Leito_Cowgirl_FM_03_S1"/>
-<position id="FO4 Animations by Leito - Cowgirl 3 (Stage 2)" animation="Leito_Cowgirl_FM_03_S2"/>
-<position id="FO4 Animations by Leito - Cowgirl 3 (Stage 3)" animation="Leito_Cowgirl_FM_03_S3"/>
-<position id="FO4 Animations by Leito - Cowgirl 3 (Stage 4)" animation="Leito_Cowgirl_FM_03_S4"/>
+<position id="FO4 Animations by Leito - Cowgirl 3 (Stage 1)" animation="Leito_Cowgirl_FM_03_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 3 (Stage 2)" animation="Leito_Cowgirl_FM_03_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 3 (Stage 3)" animation="Leito_Cowgirl_FM_03_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 3 (Stage 4)" animation="Leito_Cowgirl_FM_03_S4" isHidden="true"/>
 
 <position id="FO4 Animations by Leito - Cowgirl 4 (Staged)" animationGroup="Leito_Cowgirl_FM_04_Staged"/>
-<position id="FO4 Animations by Leito - Cowgirl 4 (Stage 1)" animation="Leito_Cowgirl_FM_04_S1"/>
-<position id="FO4 Animations by Leito - Cowgirl 4 (Stage 2)" animation="Leito_Cowgirl_FM_04_S2"/>
-<position id="FO4 Animations by Leito - Cowgirl 4 (Stage 3)" animation="Leito_Cowgirl_FM_04_S3"/>
-<position id="FO4 Animations by Leito - Cowgirl 4 (Stage 4)" animation="Leito_Cowgirl_FM_04_S4"/>
+<position id="FO4 Animations by Leito - Cowgirl 4 (Stage 1)" animation="Leito_Cowgirl_FM_04_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 4 (Stage 2)" animation="Leito_Cowgirl_FM_04_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 4 (Stage 3)" animation="Leito_Cowgirl_FM_04_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 4 (Stage 4)" animation="Leito_Cowgirl_FM_04_S4" isHidden="true"/>
 
 <!-- Cowgirl Reverse Animations -->
 
 <position id="FO4 Animations by Leito - Cowgirl 1 (Reversed, Staged)" animationGroup="Leito_ReverseCowgirl_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Cowgirl 1 (Reversed, Stage 1)" animation="Leito_ReverseCowgirl_FM_01_S1"/>
-<position id="FO4 Animations by Leito - Cowgirl 1 (Reversed, Stage 2)" animation="Leito_ReverseCowgirl_FM_01_S2"/>
-<position id="FO4 Animations by Leito - Cowgirl 1 (Reversed, Stage 3)" animation="Leito_ReverseCowgirl_FM_01_S3"/>
-<position id="FO4 Animations by Leito - Cowgirl 1 (Reversed, Stage 4)" animation="Leito_ReverseCowgirl_FM_01_S4"/>
+<position id="FO4 Animations by Leito - Cowgirl 1 (Reversed, Stage 1)" animation="Leito_ReverseCowgirl_FM_01_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 1 (Reversed, Stage 2)" animation="Leito_ReverseCowgirl_FM_01_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 1 (Reversed, Stage 3)" animation="Leito_ReverseCowgirl_FM_01_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 1 (Reversed, Stage 4)" animation="Leito_ReverseCowgirl_FM_01_S4" isHidden="true"/>
 
 <position id="FO4 Animations by Leito - Cowgirl 2 (Reversed, Staged)" animationGroup="Leito_ReverseCowgirl_FM_02_Staged"/>
-<position id="FO4 Animations by Leito - Cowgirl 2 (Reversed, Stage 1)" animation="Leito_ReverseCowgirl_FM_02_S1"/>
-<position id="FO4 Animations by Leito - Cowgirl 2 (Reversed, Stage 2)" animation="Leito_ReverseCowgirl_FM_02_S2"/>
-<position id="FO4 Animations by Leito - Cowgirl 2 (Reversed, Stage 3)" animation="Leito_ReverseCowgirl_FM_02_S3"/>
-<position id="FO4 Animations by Leito - Cowgirl 2 (Reversed, Stage 4)" animation="Leito_ReverseCowgirl_FM_02_S4"/>
+<position id="FO4 Animations by Leito - Cowgirl 2 (Reversed, Stage 1)" animation="Leito_ReverseCowgirl_FM_02_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 2 (Reversed, Stage 2)" animation="Leito_ReverseCowgirl_FM_02_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 2 (Reversed, Stage 3)" animation="Leito_ReverseCowgirl_FM_02_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Cowgirl 2 (Reversed, Stage 4)" animation="Leito_ReverseCowgirl_FM_02_S4" isHidden="true"/>
 
 <!-- Doggy Animations -->
 
 <position id="FO4 Animations by Leito - Doggy 1 (Staged)" animationGroup="Leito_Doggy_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Doggy 1 (Stage 1)" animation="Leito_Doggy_FM_01_S1"/>
-<position id="FO4 Animations by Leito - Doggy 1 (Stage 2)" animation="Leito_Doggy_FM_01_S2"/>
-<position id="FO4 Animations by Leito - Doggy 1 (Stage 3)" animation="Leito_Doggy_FM_01_S3"/>
-<position id="FO4 Animations by Leito - Doggy 1 (Stage 4)" animation="Leito_Doggy_FM_01_S4"/>
+<position id="FO4 Animations by Leito - Doggy 1 (Stage 1)" animation="Leito_Doggy_FM_01_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 1 (Stage 2)" animation="Leito_Doggy_FM_01_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 1 (Stage 3)" animation="Leito_Doggy_FM_01_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 1 (Stage 4)" animation="Leito_Doggy_FM_01_S4" isHidden="true"/>
 
 <position id="FO4 Animations by Leito - Doggy 2 (Staged)" animationGroup="Leito_Doggy_FM_02_Staged"/>
-<position id="FO4 Animations by Leito - Doggy 2 (Stage 1)" animation="Leito_Doggy_FM_02_S1"/>
-<position id="FO4 Animations by Leito - Doggy 2 (Stage 2)" animation="Leito_Doggy_FM_02_S2"/>
-<position id="FO4 Animations by Leito - Doggy 2 (Stage 3)" animation="Leito_Doggy_FM_02_S3"/>
-<position id="FO4 Animations by Leito - Doggy 2 (Stage 4)" animation="Leito_Doggy_FM_02_S4"/>
+<position id="FO4 Animations by Leito - Doggy 2 (Stage 1)" animation="Leito_Doggy_FM_02_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 2 (Stage 2)" animation="Leito_Doggy_FM_02_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 2 (Stage 3)" animation="Leito_Doggy_FM_02_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 2 (Stage 4)" animation="Leito_Doggy_FM_02_S4" isHidden="true"/>
 
 <!-- Doggy Standing Animations -->
 
 <position id="FO4 Animations by Leito - Doggy 1 (Standing, Staged)" animationGroup="Leito_StandingDoggy_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Doggy 1 (Standing, Stage 1)" animation="Leito_StandingDoggy_FM_01_S1"/>
-<position id="FO4 Animations by Leito - Doggy 1 (Standing, Stage 2)" animation="Leito_StandingDoggy_FM_01_S2"/>
-<position id="FO4 Animations by Leito - Doggy 1 (Standing, Stage 3)" animation="Leito_StandingDoggy_FM_01_S3"/>
-<position id="FO4 Animations by Leito - Doggy 1 (Standing, Stage 4)" animation="Leito_StandingDoggy_FM_01_S4"/>
+<position id="FO4 Animations by Leito - Doggy 1 (Standing, Stage 1)" animation="Leito_StandingDoggy_FM_01_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 1 (Standing, Stage 2)" animation="Leito_StandingDoggy_FM_01_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 1 (Standing, Stage 3)" animation="Leito_StandingDoggy_FM_01_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 1 (Standing, Stage 4)" animation="Leito_StandingDoggy_FM_01_S4" isHidden="true"/>
 
 <position id="FO4 Animations by Leito - Doggy 2 (Standing, Staged)" animationGroup="Leito_StandingDoggy_FM_02_Staged"/>
-<position id="FO4 Animations by Leito - Doggy 2 (Standing, Stage 1)" animation="Leito_StandingDoggy_FM_02_S1"/>
-<position id="FO4 Animations by Leito - Doggy 2 (Standing, Stage 2)" animation="Leito_StandingDoggy_FM_02_S2"/>
-<position id="FO4 Animations by Leito - Doggy 2 (Standing, Stage 3)" animation="Leito_StandingDoggy_FM_02_S3"/>
-<position id="FO4 Animations by Leito - Doggy 2 (Standing, Stage 4)" animation="Leito_StandingDoggy_FM_02_S4"/>
+<position id="FO4 Animations by Leito - Doggy 2 (Standing, Stage 1)" animation="Leito_StandingDoggy_FM_02_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 2 (Standing, Stage 2)" animation="Leito_StandingDoggy_FM_02_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 2 (Standing, Stage 3)" animation="Leito_StandingDoggy_FM_02_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 2 (Standing, Stage 4)" animation="Leito_StandingDoggy_FM_02_S4" isHidden="true"/>
 
 <!-- Missionary Animations -->
 
 <position id="FO4 Animations by Leito - Missionary 1 (Staged)" animationGroup="Leito_Missionary_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Missionary 1 (Stage 1)" animation="Leito_Missionary_FM_01_S1"/>
-<position id="FO4 Animations by Leito - Missionary 1 (Stage 2)" animation="Leito_Missionary_FM_01_S2"/>
-<position id="FO4 Animations by Leito - Missionary 1 (Stage 3)" animation="Leito_Missionary_FM_01_S3"/>
-<position id="FO4 Animations by Leito - Missionary 1 (Stage 4)" animation="Leito_Missionary_FM_01_S4"/>
+<position id="FO4 Animations by Leito - Missionary 1 (Stage 1)" animation="Leito_Missionary_FM_01_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Missionary 1 (Stage 2)" animation="Leito_Missionary_FM_01_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Missionary 1 (Stage 3)" animation="Leito_Missionary_FM_01_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Missionary 1 (Stage 4)" animation="Leito_Missionary_FM_01_S4" isHidden="true"/>
 
 <position id="FO4 Animations by Leito - Missionary 2 (Staged)" animationGroup="Leito_Missionary_FM_02_Staged"/>
-<position id="FO4 Animations by Leito - Missionary 2 (Stage 1)" animation="Leito_Missionary_FM_02_S1"/>
-<position id="FO4 Animations by Leito - Missionary 2 (Stage 2)" animation="Leito_Missionary_FM_02_S2"/>
-<position id="FO4 Animations by Leito - Missionary 2 (Stage 3)" animation="Leito_Missionary_FM_02_S3"/>
-<position id="FO4 Animations by Leito - Missionary 2 (Stage 4)" animation="Leito_Missionary_FM_02_S4"/>
+<position id="FO4 Animations by Leito - Missionary 2 (Stage 1)" animation="Leito_Missionary_FM_02_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Missionary 2 (Stage 2)" animation="Leito_Missionary_FM_02_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Missionary 2 (Stage 3)" animation="Leito_Missionary_FM_02_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Missionary 2 (Stage 4)" animation="Leito_Missionary_FM_02_S4" isHidden="true"/>
 
 <!-- Powerbomb Animations -->
 
 <position id="FO4 Animations by Leito - Powerbomb 1 (Staged)" animationGroup="Leito_Powerbomb_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Powerbomb 1 (Stage 1)" animation="Leito_Powerbomb_FM_01_S1"/>
-<position id="FO4 Animations by Leito - Powerbomb 1 (Stage 2)" animation="Leito_Powerbomb_FM_01_S2"/>
-<position id="FO4 Animations by Leito - Powerbomb 1 (Stage 3)" animation="Leito_Powerbomb_FM_01_S3"/>
-<position id="FO4 Animations by Leito - Powerbomb 1 (Stage 4)" animation="Leito_Powerbomb_FM_01_S4"/>
+<position id="FO4 Animations by Leito - Powerbomb 1 (Stage 1)" animation="Leito_Powerbomb_FM_01_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Powerbomb 1 (Stage 2)" animation="Leito_Powerbomb_FM_01_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Powerbomb 1 (Stage 3)" animation="Leito_Powerbomb_FM_01_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Powerbomb 1 (Stage 4)" animation="Leito_Powerbomb_FM_01_S4" isHidden="true"/>
 
 <!-- Spoon Animations -->
 
 <position id="FO4 Animations by Leito - Spoon 1 (Staged)" animationGroup="Leito_Spoon_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Spoon 1 (Stage 1)" animation="Leito_Spoon_FM_01_S1"/>
-<position id="FO4 Animations by Leito - Spoon 1 (Stage 2)" animation="Leito_Spoon_FM_01_S2"/>
-<position id="FO4 Animations by Leito - Spoon 1 (Stage 3)" animation="Leito_Spoon_FM_01_S3"/>
-<position id="FO4 Animations by Leito - Spoon 1 (Stage 4)" animation="Leito_Spoon_FM_01_S4"/>
+<position id="FO4 Animations by Leito - Spoon 1 (Stage 1)" animation="Leito_Spoon_FM_01_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Spoon 1 (Stage 2)" animation="Leito_Spoon_FM_01_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Spoon 1 (Stage 3)" animation="Leito_Spoon_FM_01_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Spoon 1 (Stage 4)" animation="Leito_Spoon_FM_01_S4" isHidden="true"/>
 
 <!-- Dog Animations -->
 
 <position id="FO4 Animations by Leito - Doggy 1 (Dog, Staged)" animationGroup="Leito_Doggy_FM_2Dog_01_Staged"/>
-<position id="FO4 Animations by Leito - Doggy 1 (Dog, Stage 1)" animation="Leito_Doggy_FM_2Dog_01_S1"/>
-<position id="FO4 Animations by Leito - Doggy 1 (Dog, Stage 2)" animation="Leito_Doggy_FM_2Dog_01_S2"/>
-<position id="FO4 Animations by Leito - Doggy 1 (Dog, Stage 3)" animation="Leito_Doggy_FM_2Dog_01_S3"/>
-<position id="FO4 Animations by Leito - Doggy 1 (Dog, Stage 4)" animation="Leito_Doggy_FM_2Dog_01_S4"/>
+<position id="FO4 Animations by Leito - Doggy 1 (Dog, Stage 1)" animation="Leito_Doggy_FM_2Dog_01_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 1 (Dog, Stage 2)" animation="Leito_Doggy_FM_2Dog_01_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 1 (Dog, Stage 3)" animation="Leito_Doggy_FM_2Dog_01_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 1 (Dog, Stage 4)" animation="Leito_Doggy_FM_2Dog_01_S4" isHidden="true"/>
 
 <position id="FO4 Animations by Leito - Doggy 2 (Dog, Staged)" animationGroup="Leito_Doggy_FM_2Dog_02_Staged"/>
-<position id="FO4 Animations by Leito - Doggy 2 (Dog, Stage 1)" animation="Leito_Doggy_FM_2Dog_02_S1"/>
-<position id="FO4 Animations by Leito - Doggy 2 (Dog, Stage 2)" animation="Leito_Doggy_FM_2Dog_02_S2"/>
-<position id="FO4 Animations by Leito - Doggy 2 (Dog, Stage 3)" animation="Leito_Doggy_FM_2Dog_02_S3"/>
-<position id="FO4 Animations by Leito - Doggy 2 (Dog, Stage 4)" animation="Leito_Doggy_FM_2Dog_02_S4"/>
+<position id="FO4 Animations by Leito - Doggy 2 (Dog, Stage 1)" animation="Leito_Doggy_FM_2Dog_02_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 2 (Dog, Stage 2)" animation="Leito_Doggy_FM_2Dog_02_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 2 (Dog, Stage 3)" animation="Leito_Doggy_FM_2Dog_02_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Doggy 2 (Dog, Stage 4)" animation="Leito_Doggy_FM_2Dog_02_S4" isHidden="true"/>
 
 <position id="FO4 Animations by Leito - Missionary 1 (Dog, Staged)" animationGroup="Leito_Missionary_FM_2Dog_01_Staged"/>
-<position id="FO4 Animations by Leito - Missionary 1 (Dog, Stage 1)" animation="Leito_Missionary_FM_2Dog_01_S1"/>
-<position id="FO4 Animations by Leito - Missionary 1 (Dog, Stage 2)" animation="Leito_Missionary_FM_2Dog_01_S2"/>
-<position id="FO4 Animations by Leito - Missionary 1 (Dog, Stage 3)" animation="Leito_Missionary_FM_2Dog_01_S3"/>
-<position id="FO4 Animations by Leito - Missionary 1 (Dog, Stage 4)" animation="Leito_Missionary_FM_2Dog_01_S4"/>
+<position id="FO4 Animations by Leito - Missionary 1 (Dog, Stage 1)" animation="Leito_Missionary_FM_2Dog_01_S1" isHidden="true"/>
+<position id="FO4 Animations by Leito - Missionary 1 (Dog, Stage 2)" animation="Leito_Missionary_FM_2Dog_01_S2" isHidden="true"/>
+<position id="FO4 Animations by Leito - Missionary 1 (Dog, Stage 3)" animation="Leito_Missionary_FM_2Dog_01_S3" isHidden="true"/>
+<position id="FO4 Animations by Leito - Missionary 1 (Dog, Stage 4)" animation="Leito_Missionary_FM_2Dog_01_S4" isHidden="true"/>
 
 <!-- Supermutant Animations -->
 

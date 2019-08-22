@@ -1,0 +1,23 @@
+<meta title="Atomic Lust - Lesbian Position Tree Data" version="2.5.1-b" dataSet="positionTree"/>
+<defaults/>
+
+<tree id="Atomic_Lust_Lesbian_Menu">
+	<branch id="Atomic Lust - Lesbian Menu" positionID="Atomic Lust - Lesbian Standing">
+		<branch id="Standing" positionID="Atomic Lust - Lesbian Standing">
+				<branch id="Holding Hands" positionID="Atomic Lust - Lesbian Holding Hands">
+						<branch id="Holding Kissing" positionID="Atomic Lust - Lesbian Holding Kissing">
+						</branch>
+						<branch id="Holding Jerking" positionID="Atomic Lust - Lesbian Holding Hands to Holding Jerking">
+						</branch>
+				</branch>
+		</branch>
+		<branch id="Spanking" positionID="Atomic Lust - Lesbian Spanking (Stage 1)">
+				<branch id="Spanking (Stage 2)" positionID="Atomic Lust - Lesbian Spanking (Stage 2)">
+						<branch id="Spanking (Stage 3)" positionID="Atomic Lust - Lesbian Spanking (Stage 3)">
+							<branch id="Spanking (Stage 4)" positionID="Atomic Lust - Lesbian Spanking (Stage 4)" isFlavor="true">
+							</branch>
+						</branch>
+				</branch>
+		</branch>
+	</branch>
+</tree>

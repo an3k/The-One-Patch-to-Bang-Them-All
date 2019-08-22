@@ -1,0 +1,13 @@
+<meta title="Atomic Lust - Lesbian Transition Data" version="2.5.1-b" dataSet="transition"/>
+<defaults/>
+
+<!-- Spanking Animations -->
+
+<transition from="Atomic Lust - Lesbian Spanking (Stage 1)" to="Atomic Lust - Lesbian Spanking (Stage 2)" animation="AtomicLust_Spanking_FF_01_1TR2"/>
+<transition from="Atomic Lust - Lesbian Spanking (Stage 2)" to="Atomic Lust - Lesbian Spanking (Stage 3)" animation="AtomicLust_Spanking_FF_01_2TR3"/>
+
+<!-- positionTree Animations -->
+
+<transition from="Atomic Lust - Lesbian Standing" to="Atomic Lust - Lesbian Holding Hands" animation="AtomicLust_StandingIdletoHoldingHands_FF_01"/>
+<transition from="Atomic Lust - Lesbian Holding Hands" to="Atomic Lust - Lesbian Holding Kissing" animation="AtomicLust_HoldingHandstoHoldingKissing_FF_01"/>
+<transition from="Atomic Lust - Lesbian Holding Hands" to="Atomic Lust - Lesbian Holding Hands to Holding Jerking" animation="AtomicLust_HoldingHandstoHoldingJerking_FF_01"/>

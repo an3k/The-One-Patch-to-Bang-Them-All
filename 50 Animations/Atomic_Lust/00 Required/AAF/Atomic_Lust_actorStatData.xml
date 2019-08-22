@@ -4,5 +4,5 @@
 <stat id="Happiness" shortForm="HA" minValue="-50" actorValueFormID="AAF" actorValueSource="Fallout4.esm" priority="2"/>
 
 <group id="statGroup1" showInProfile="false" showInStatMode="true" showInScene="true">
-  <stat id="Fatigue" shortForm="FA" actorValueFormID="AAD" actorValueSource="Fallout4.esm" priority="1"/>
+	<stat id="Fatigue" shortForm="FA" actorValueFormID="AAD" actorValueSource="Fallout4.esm" priority="1"/>
 </group>

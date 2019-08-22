@@ -2,5 +2,5 @@
 <defaults source="MYLadyKillerBed.esp"/>
 
 <group id="Pre-War Double Bed">
-	<furniture form="02000901" id="WorkshopLadyKillerBed"/>
+	<furniture form="00000901" id="WorkshopLadyKillerBed"/>
 </group>

@@ -2,20 +2,20 @@
 <defaults source="Atomic Lust.esp"/>
 
 <topicGroup id="Cait Sounds" tryRate="7" chance="100">
-    <topic topicFormID="30046" keywordFormID="3A797" id="00ALVoices" voiceTypeFormID="7924A" voiceTypeSource="Fallout4.esm"/>
+	<topic topicFormID="30046" keywordFormID="3A797" id="00ALVoices" voiceTypeFormID="7924A" voiceTypeSource="Fallout4.esm"/>
 </topicGroup>
 
 
 <topicGroup id="Curie Sounds" tryRate="5" chance="100">
-    <topic topicFormID="31EB1" keywordFormID="3A797" id="00ALVoices" voiceTypeFormID="1647BF" voiceTypeSource="Fallout4.esm"/>
+	<topic topicFormID="31EB1" keywordFormID="3A797" id="00ALVoices" voiceTypeFormID="1647BF" voiceTypeSource="Fallout4.esm"/>
 </topicGroup>
 
 
 <topicGroup id="Player Female Sounds" tryRate="9" chance="100">
-    <topic topicFormID="39FFC" keywordFormID="3A797" id="00ALVoices" voiceTypeFormID="18DF7" voiceTypeSource="Fallout4.esm"/>
+	<topic topicFormID="39FFC" keywordFormID="3A797" id="00ALVoices" voiceTypeFormID="18DF7" voiceTypeSource="Fallout4.esm"/>
 </topicGroup>
 
 
 <topicGroup id="Piper Sounds" tryRate="6" chance="100">
-    <topic topicFormID="4568E" keywordFormID="3A797" id="00ALVoices" voiceTypeFormID="1928A" voiceTypeSource="Fallout4.esm"/>
+	<topic topicFormID="4568E" keywordFormID="3A797" id="00ALVoices" voiceTypeFormID="1928A" voiceTypeSource="Fallout4.esm"/>
 </topicGroup>

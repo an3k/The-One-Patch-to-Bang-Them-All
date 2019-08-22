@@ -2,5 +2,5 @@
 <defaults source="DLCworkshop03.esm"/>
 
 <group id="Single Bed">
-	<furniture form="01004981" id="DLC06WorkshopNpcBedVaultLay02"/>
+	<furniture form="00004981" id="DLC06WorkshopNpcBedVaultLay02"/>
 </group>

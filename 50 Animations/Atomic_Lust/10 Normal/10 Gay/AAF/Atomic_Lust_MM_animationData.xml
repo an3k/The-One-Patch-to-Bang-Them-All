@@ -147,7 +147,7 @@
 	</actor>
 </animation>
 
-<animation id="AtomicLust_CowgirlVaultBed_MM_01" frames="400">
+<animation id="AtomicLust_CowgirlVaultBed_MM_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 	<actor gender="M">
 		<idle form="0003DCCF" id="AtomicCowgirlVaultBedF"/>
 	</actor>

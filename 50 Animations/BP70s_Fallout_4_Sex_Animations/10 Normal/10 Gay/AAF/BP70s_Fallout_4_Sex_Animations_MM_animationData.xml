@@ -279,6 +279,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="000072C4" id="rxl_bp70_bedcowgirl_m"/>
+		<value path="morph" value="Erection Down" to="1"/>
 	</actor>
 </animation>
 

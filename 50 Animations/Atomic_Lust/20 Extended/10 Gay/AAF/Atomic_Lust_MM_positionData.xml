@@ -10,10 +10,8 @@
 <position id="Atomic Lust - Gay Cowgirl 1" animation="AtomicLust_Cowgirl_MM_01"/>
 <position id="Atomic Lust - Gay Cowgirl 2" animation="AtomicLust_Cowgirl_MM_02"/>
 <position id="Atomic Lust - Gay Cowgirl 3" animation="AtomicLust_Cowgirl_MM_03"/>
-<position id="Atomic Lust - Gay Embrace 1" animation="AtomicLust_Embrace_MM_01"/>
-<position id="Atomic Lust - Gay Embrace 2" animation="AtomicLust_Embrace_MM_02"/>
-<position id="Atomic Lust - Gay Kissing 1" animation="AtomicLust_Kissing_MM_01"/>
-<position id="Atomic Lust - Gay Kissing 2" animation="AtomicLust_Kissing_MM_02"/>
+<position id="Atomic Lust - Gay Embrace" animation="AtomicLust_Embrace_MM_01"/>
+<position id="Atomic Lust - Gay Kissing" animation="AtomicLust_Kissing_MM_01"/>
 
 <!-- Furniture Animations -->
 
@@ -54,10 +52,6 @@
 
 <position id="Atomic Lust - Gay Threesome 1" animation="AtomicLust_Threesome_MM_01"/>
 <position id="Atomic Lust - Gay Threesome 2" animation="AtomicLust_Threesome_MM_02"/>
-
-<!-- Female / Female Animations -->
-
-<position id="Atomic Lust - Gay Scissor" animation="AtomicLust_Scissor_MM_01"/>
 
 <!-- Male / Male Animations -->
 

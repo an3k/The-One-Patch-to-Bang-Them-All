@@ -177,6 +177,28 @@
             </plugin>
           </plugins>
         </group>
+        <group name="Masturbation" type="SelectAtLeastOne">
+          <plugins order="Explicit">
+            <plugin name="Males">
+              <description/>
+              <conditionFlags>
+                <flag name="MMasturbation">true</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Recommended"/>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Females">
+              <description/>
+              <conditionFlags>
+                <flag name="FMasturbation">true</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Recommended"/>
+              </typeDescriptor>
+            </plugin>
+          </plugins>
+        </group>
       </optionalFileGroups>
     </installStep>
   </installSteps>
@@ -329,7 +351,7 @@
           <folder source="30 Assets\Vioxsis_Strap-Ons_of_Fallout_4\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
-      <!-- Creature Patch -->
+      <!-- Assets - Creature Patch -->
       <pattern>
         <dependencies operator="And">
           <dependencies operator="And">
@@ -347,7 +369,7 @@
           <folder source="30 Assets\Creature_Patch\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
-      <!-- Super Mutant Skeleton -->
+      <!-- Assets - Super Mutant Skeleton -->
       <pattern>
         <dependencies operator="Or">
           <fileDependency file="Farelle_Animations.esp" state="Active"/>
@@ -359,13 +381,13 @@
           <folder source="30 Assets\Super_Mutant_Skeleton\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
-      <!-- Devious Devices -->
+      <!-- Assets - Devious Devices -->
       <pattern>
         <dependencies operator="And">
           <fileDependency file="Devious Devices.esm" state="Active"/>
         </dependencies>
         <files>
-          <folder source="30 Assets\Devious Devices\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="30 Assets\Devious_Devices\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Dave's Poses -->
@@ -632,72 +654,6 @@
         </dependencies>
         <files>
           <folder source="50 Animations\Atomic_Lust\30 Addons\AWKCR\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Atomic Lust.esp" state="Active"/>
-          <fileDependency file="ArmorKeywords.esm" state="Active"/>
-          <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Atomic_Lust\30 Addons\AWKCR\10 Normal\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Atomic Lust.esp" state="Active"/>
-          <fileDependency file="ArmorKeywords.esm" state="Active"/>
-          <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Atomic_Lust\30 Addons\AWKCR\10 Normal\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Atomic Lust.esp" state="Active"/>
-          <fileDependency file="ArmorKeywords.esm" state="Active"/>
-          <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Atomic_Lust\30 Addons\AWKCR\10 Normal\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Atomic Lust.esp" state="Active"/>
-          <fileDependency file="ArmorKeywords.esm" state="Active"/>
-          <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Atomic_Lust\30 Addons\AWKCR\20 Extended\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Atomic Lust.esp" state="Active"/>
-          <fileDependency file="ArmorKeywords.esm" state="Active"/>
-          <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Atomic_Lust\30 Addons\AWKCR\20 Extended\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Atomic Lust.esp" state="Active"/>
-          <fileDependency file="ArmorKeywords.esm" state="Active"/>
-          <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Atomic_Lust\30 Addons\AWKCR\20 Extended\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -1040,14 +996,6 @@
         </files>
       </pattern>
       <!-- Four-Play Animations by Crazy -->
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Active"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Four-Play_Animations_by_Crazy\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
       <pattern>
         <dependencies operator="And">
           <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Active"/>

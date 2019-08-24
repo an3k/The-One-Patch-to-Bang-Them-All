@@ -35,36 +35,18 @@
 
 <animation id="AtomicLust_Embrace_FF_01" frames="400">
 	<actor gender="F">
-		<idle form="00002668" id="AtomicEmbraceF"/>
-	</actor>
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
-		<idle form="000044D8" id="AtomicEmbraceM"/>
-	</actor>
-</animation>
-
-<animation id="AtomicLust_Embrace_FF_02" frames="400">
-	<actor gender="F">
 		<idle form="000044D7" id="AtomicEmbraceF"/>
 	</actor>
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+	<actor gender="F">
 		<idle form="000044D8" id="AtomicEmbraceM"/>
 	</actor>
 </animation>
 
 <animation id="AtomicLust_Kissing_FF_01" frames="360">
 	<actor gender="F">
-		<idle form="000035A2" id="AtomicKissingF"/>
-	</actor>
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
-		<idle form="0000540E" id="AtomicKissingM"/>
-	</actor>
-</animation>
-
-<animation id="AtomicLust_Kissing_FF_02" frames="360">
-	<actor gender="F">
 		<idle form="0000540D" id="AtomicKissingF"/>
 	</actor>
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+	<actor gender="F">
 		<idle form="0000540E" id="AtomicKissingM"/>
 	</actor>
 </animation>
@@ -245,7 +227,7 @@
 	<actor gender="F">
 		<idle form="0001C0F4" id="AtomicSpankingS1F"/>
 	</actor>
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+	<actor gender="F">
 		<idle form="0001C0F5" id="AtomicSpankingS1M"/>
 	</actor>
 </animation>
@@ -254,7 +236,7 @@
 	<actor gender="F">
 		<idle form="0001C88F" id="AtomicSpankingS1TranF"/>
 	</actor>
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+	<actor gender="F">
 		<idle form="0001C890" id="AtomicSpankingS1TranM"/>
 	</actor>
 </animation>
@@ -263,7 +245,7 @@
 	<actor gender="F">
 		<idle form="0001D7C5" id="AtomicSpankingS2F"/>
 	</actor>
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+	<actor gender="F">
 		<idle form="0001D02B" id="AtomicSpankingS2M"/>
 	</actor>
 </animation>
@@ -272,7 +254,7 @@
 	<actor gender="F">
 		<idle form="0001DF5F" id="AtomicSpankingS2TranF"/>
 	</actor>
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+	<actor gender="F">
 		<idle form="0001DF60" id="AtomicSpankingS2TranM"/>
 	</actor>
 </animation>
@@ -281,7 +263,7 @@
 	<actor gender="F">
 		<idle form="0001EE93" id="AtomicSpankingS3F"/>
 	</actor>
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+	<actor gender="F">
 		<idle form="0001EE94" id="AtomicSpankingS3M"/>
 	</actor>
 </animation>
@@ -290,7 +272,7 @@
 	<actor gender="F">
 		<idle form="0001F62E" id="AtomicSpankingS3SpankF"/>
 	</actor>
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+	<actor gender="F">
 		<idle form="0001F62F" id="AtomicSpankingS3SpankM"/>
 	</actor>
 </animation>

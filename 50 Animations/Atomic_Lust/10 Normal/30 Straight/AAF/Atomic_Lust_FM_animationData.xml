@@ -35,15 +35,6 @@
 
 <animation id="AtomicLust_Embrace_FM_01" frames="400">
 	<actor gender="F">
-		<idle form="00002668" id="AtomicEmbraceF"/>
-	</actor>
-	<actor gender="M">
-		<idle form="000044D8" id="AtomicEmbraceM"/>
-	</actor>
-</animation>
-
-<animation id="AtomicLust_Embrace_FM_02" frames="400">
-	<actor gender="F">
 		<idle form="000044D7" id="AtomicEmbraceF"/>
 	</actor>
 	<actor gender="M">
@@ -52,15 +43,6 @@
 </animation>
 
 <animation id="AtomicLust_Kissing_FM_01" frames="360">
-	<actor gender="F">
-		<idle form="000035A2" id="AtomicKissingF"/>
-	</actor>
-	<actor gender="M">
-		<idle form="0000540E" id="AtomicKissingM"/>
-	</actor>
-</animation>
-
-<animation id="AtomicLust_Kissing_FM_02" frames="360">
 	<actor gender="F">
 		<idle form="0000540D" id="AtomicKissingF"/>
 	</actor>

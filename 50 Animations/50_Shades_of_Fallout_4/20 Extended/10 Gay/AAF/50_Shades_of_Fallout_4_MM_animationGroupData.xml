@@ -224,6 +224,23 @@
 	<stage animation="50SFO4_Bent_M_01_S5"/>
 </animationGroup>
 
+<animationGroup id="50SFO4_Bent_F_01_Staged" sequential="true">
+	<stage animation="50SFO4_Bent_F_01_S1"/>
+	<stage animation="50SFO4_Bent_F_01_S1"/>
+	<stage animation="50SFO4_Bent_F_01_S2"/>
+	<stage animation="50SFO4_Bent_F_01_S2"/>
+	<stage animation="50SFO4_Bent_F_01_S2"/>
+	<stage animation="50SFO4_Bent_F_01_S3"/>
+	<stage animation="50SFO4_Bent_F_01_S3"/>
+	<stage animation="50SFO4_Bent_F_01_S3"/>
+	<stage animation="50SFO4_Bent_F_01_S4"/>
+	<stage animation="50SFO4_Bent_F_01_S4"/>
+	<stage animation="50SFO4_Bent_F_01_S4"/>
+	<stage animation="50SFO4_Bent_F_01_S5"/>
+	<stage animation="50SFO4_Bent_F_01_S5"/>
+	<stage animation="50SFO4_Bent_F_01_S5"/>
+</animationGroup>
+
 <!-- Solo Bent Gagged Animations -->
 
 <animationGroup id="50SFO4_Bent_M_Gagged_01_Staged" sequential="true">
@@ -241,6 +258,23 @@
 	<stage animation="50SFO4_Bent_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Bent_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Bent_M_Gagged_01_S5"/>
+</animationGroup>
+
+<animationGroup id="50SFO4_Bent_F_Gagged_01_Staged" sequential="true">
+	<stage animation="50SFO4_Bent_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S5"/>
 </animationGroup>
 
 <!-- Solo Bent Mixed Animations -->
@@ -262,6 +296,23 @@
 	<stage animation="50SFO4_Bent_M_01_S5"/>
 </animationGroup>
 
+<animationGroup id="50SFO4_Bent_F_01_Mixed" sequential="true">
+	<stage animation="50SFO4_Bent_F_01_S1"/>
+	<stage animation="50SFO4_Bent_F_01_S2"/>
+	<stage animation="50SFO4_Bent_F_01_S1"/>
+	<stage animation="50SFO4_Bent_F_01_S3"/>
+	<stage animation="50SFO4_Bent_F_01_S1"/>
+	<stage animation="50SFO4_Bent_F_01_S2"/>
+	<stage animation="50SFO4_Bent_F_01_S3"/>
+	<stage animation="50SFO4_Bent_F_01_S1"/>
+	<stage animation="50SFO4_Bent_F_01_S4"/>
+	<stage animation="50SFO4_Bent_F_01_S4"/>
+	<stage animation="50SFO4_Bent_F_01_S2"/>
+	<stage animation="50SFO4_Bent_F_01_S5"/>
+	<stage animation="50SFO4_Bent_F_01_S5"/>
+	<stage animation="50SFO4_Bent_F_01_S5"/>
+</animationGroup>
+
 <!-- Solo Bent Gagged Mixed Animations -->
 
 <animationGroup id="50SFO4_Bent_M_Gagged_01_Mixed" sequential="true">
@@ -279,6 +330,23 @@
 	<stage animation="50SFO4_Bent_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Bent_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Bent_M_Gagged_01_S5"/>
+</animationGroup>
+
+<animationGroup id="50SFO4_Bent_F_Gagged_01_Mixed" sequential="true">
+	<stage animation="50SFO4_Bent_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Bent_F_Gagged_01_S5"/>
 </animationGroup>
 
 <!-- Solo Facedown Animations -->
@@ -300,6 +368,23 @@
 	<stage animation="50SFO4_Facedown_M_01_S5"/>
 </animationGroup>
 
+<animationGroup id="50SFO4_Facedown_F_01_Staged" sequential="true">
+	<stage animation="50SFO4_Facedown_F_01_S1"/>
+	<stage animation="50SFO4_Facedown_F_01_S1"/>
+	<stage animation="50SFO4_Facedown_F_01_S2"/>
+	<stage animation="50SFO4_Facedown_F_01_S2"/>
+	<stage animation="50SFO4_Facedown_F_01_S2"/>
+	<stage animation="50SFO4_Facedown_F_01_S3"/>
+	<stage animation="50SFO4_Facedown_F_01_S3"/>
+	<stage animation="50SFO4_Facedown_F_01_S3"/>
+	<stage animation="50SFO4_Facedown_F_01_S4"/>
+	<stage animation="50SFO4_Facedown_F_01_S4"/>
+	<stage animation="50SFO4_Facedown_F_01_S4"/>
+	<stage animation="50SFO4_Facedown_F_01_S5"/>
+	<stage animation="50SFO4_Facedown_F_01_S5"/>
+	<stage animation="50SFO4_Facedown_F_01_S5"/>
+</animationGroup>
+
 <!-- Solo Facedown Gagged Animations -->
 
 <animationGroup id="50SFO4_Facedown_M_Gagged_01_Staged" sequential="true">
@@ -317,6 +402,23 @@
 	<stage animation="50SFO4_Facedown_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Facedown_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Facedown_M_Gagged_01_S5"/>
+</animationGroup>
+
+<animationGroup id="50SFO4_Facedown_F_Gagged_01_Staged" sequential="true">
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S5"/>
 </animationGroup>
 
 <!-- Solo Facedown Mixed Animations -->
@@ -339,6 +441,24 @@
 	<stage animation="50SFO4_Facedown_M_01_S5"/>
 </animationGroup>
 
+<animationGroup id="50SFO4_Facedown_F_01_Mixed" sequential="true">
+	<stage animation="50SFO4_Facedown_F_01_S1"/>
+	<stage animation="50SFO4_Facedown_F_01_S2"/>
+	<stage animation="50SFO4_Facedown_F_01_S1"/>
+	<stage animation="50SFO4_Facedown_F_01_S3"/>
+	<stage animation="50SFO4_Facedown_F_01_S1"/>
+	<stage animation="50SFO4_Facedown_F_01_S2"/>
+	<stage animation="50SFO4_Facedown_F_01_S3"/>
+	<stage animation="50SFO4_Facedown_F_01_S1"/>
+	<stage animation="50SFO4_Facedown_F_01_S4"/>
+	<stage animation="50SFO4_Facedown_F_01_S4"/>
+	<stage animation="50SFO4_Facedown_F_01_S2"/>
+	<stage animation="50SFO4_Facedown_F_01_S1"/>
+	<stage animation="50SFO4_Facedown_F_01_S5"/>
+	<stage animation="50SFO4_Facedown_F_01_S5"/>
+	<stage animation="50SFO4_Facedown_F_01_S5"/>
+</animationGroup>
+
 <!-- Solo Facedown Gagged Mixed Animations -->
 
 <animationGroup id="50SFO4_Facedown_M_Gagged_01_Mixed" sequential="true">
@@ -357,6 +477,24 @@
 	<stage animation="50SFO4_Facedown_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Facedown_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Facedown_M_Gagged_01_S5"/>
+</animationGroup>
+
+<animationGroup id="50SFO4_Facedown_F_Gagged_01_Mixed" sequential="true">
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Facedown_F_Gagged_01_S5"/>
 </animationGroup>
 
 <!-- Solo Hogtie Animations -->
@@ -378,6 +516,23 @@
 	<stage animation="50SFO4_Hogtie_M_01_S5"/>
 </animationGroup>
 
+<animationGroup id="50SFO4_Hogtie_F_01_Staged" sequential="true">
+	<stage animation="50SFO4_Hogtie_F_01_S1"/>
+	<stage animation="50SFO4_Hogtie_F_01_S1"/>
+	<stage animation="50SFO4_Hogtie_F_01_S2"/>
+	<stage animation="50SFO4_Hogtie_F_01_S2"/>
+	<stage animation="50SFO4_Hogtie_F_01_S2"/>
+	<stage animation="50SFO4_Hogtie_F_01_S3"/>
+	<stage animation="50SFO4_Hogtie_F_01_S3"/>
+	<stage animation="50SFO4_Hogtie_F_01_S3"/>
+	<stage animation="50SFO4_Hogtie_F_01_S4"/>
+	<stage animation="50SFO4_Hogtie_F_01_S4"/>
+	<stage animation="50SFO4_Hogtie_F_01_S4"/>
+	<stage animation="50SFO4_Hogtie_F_01_S5"/>
+	<stage animation="50SFO4_Hogtie_F_01_S5"/>
+	<stage animation="50SFO4_Hogtie_F_01_S5"/>
+</animationGroup>
+
 <!-- Solo Hogtie Gagged Animations -->
 
 <animationGroup id="50SFO4_Hogtie_M_Gagged_01_Staged" sequential="true">
@@ -395,6 +550,23 @@
 	<stage animation="50SFO4_Hogtie_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Hogtie_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Hogtie_M_Gagged_01_S5"/>
+</animationGroup>
+
+<animationGroup id="50SFO4_Hogtie_F_Gagged_01_Staged" sequential="true">
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S5"/>
 </animationGroup>
 
 <!-- Solo Hogtie Mixed Animations -->
@@ -417,6 +589,24 @@
 	<stage animation="50SFO4_Hogtie_M_01_S5"/>
 </animationGroup>
 
+<animationGroup id="50SFO4_Hogtie_F_01_Mixed" sequential="true">
+	<stage animation="50SFO4_Hogtie_F_01_S1"/>
+	<stage animation="50SFO4_Hogtie_F_01_S2"/>
+	<stage animation="50SFO4_Hogtie_F_01_S1"/>
+	<stage animation="50SFO4_Hogtie_F_01_S3"/>
+	<stage animation="50SFO4_Hogtie_F_01_S1"/>
+	<stage animation="50SFO4_Hogtie_F_01_S2"/>
+	<stage animation="50SFO4_Hogtie_F_01_S3"/>
+	<stage animation="50SFO4_Hogtie_F_01_S1"/>
+	<stage animation="50SFO4_Hogtie_F_01_S4"/>
+	<stage animation="50SFO4_Hogtie_F_01_S4"/>
+	<stage animation="50SFO4_Hogtie_F_01_S2"/>
+	<stage animation="50SFO4_Hogtie_F_01_S1"/>
+	<stage animation="50SFO4_Hogtie_F_01_S5"/>
+	<stage animation="50SFO4_Hogtie_F_01_S5"/>
+	<stage animation="50SFO4_Hogtie_F_01_S5"/>
+</animationGroup>
+
 <!-- Solo Hogtie Gagged Mixed Animations -->
 
 <animationGroup id="50SFO4_Hogtie_M_Gagged_01_Mixed" sequential="true">
@@ -435,6 +625,24 @@
 	<stage animation="50SFO4_Hogtie_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Hogtie_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Hogtie_M_Gagged_01_S5"/>
+</animationGroup>
+
+<animationGroup id="50SFO4_Hogtie_F_Gagged_01_Mixed" sequential="true">
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Hogtie_F_Gagged_01_S5"/>
 </animationGroup>
 
 <!-- Solo Side Animations -->
@@ -456,6 +664,23 @@
 	<stage animation="50SFO4_Side_M_01_S5"/>
 </animationGroup>
 
+<animationGroup id="50SFO4_Side_F_01_Staged" sequential="true">
+	<stage animation="50SFO4_Side_F_01_S1"/>
+	<stage animation="50SFO4_Side_F_01_S1"/>
+	<stage animation="50SFO4_Side_F_01_S2"/>
+	<stage animation="50SFO4_Side_F_01_S2"/>
+	<stage animation="50SFO4_Side_F_01_S2"/>
+	<stage animation="50SFO4_Side_F_01_S3"/>
+	<stage animation="50SFO4_Side_F_01_S3"/>
+	<stage animation="50SFO4_Side_F_01_S3"/>
+	<stage animation="50SFO4_Side_F_01_S4"/>
+	<stage animation="50SFO4_Side_F_01_S4"/>
+	<stage animation="50SFO4_Side_F_01_S4"/>
+	<stage animation="50SFO4_Side_F_01_S5"/>
+	<stage animation="50SFO4_Side_F_01_S5"/>
+	<stage animation="50SFO4_Side_F_01_S5"/>
+</animationGroup>
+
 <!-- Solo Side Gagged Animations -->
 
 <animationGroup id="50SFO4_Side_M_Gagged_01_Staged" sequential="true">
@@ -473,6 +698,23 @@
 	<stage animation="50SFO4_Side_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Side_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Side_M_Gagged_01_S5"/>
+</animationGroup>
+
+<animationGroup id="50SFO4_Side_F_Gagged_01_Staged" sequential="true">
+	<stage animation="50SFO4_Side_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S5"/>
 </animationGroup>
 
 <!-- Solo Side Mixed Animations -->
@@ -495,6 +737,24 @@
 	<stage animation="50SFO4_Side_M_01_S5"/>
 </animationGroup>
 
+<animationGroup id="50SFO4_Side_F_01_Mixed" sequential="true">
+	<stage animation="50SFO4_Side_F_01_S1"/>
+	<stage animation="50SFO4_Side_F_01_S2"/>
+	<stage animation="50SFO4_Side_F_01_S1"/>
+	<stage animation="50SFO4_Side_F_01_S3"/>
+	<stage animation="50SFO4_Side_F_01_S1"/>
+	<stage animation="50SFO4_Side_F_01_S2"/>
+	<stage animation="50SFO4_Side_F_01_S3"/>
+	<stage animation="50SFO4_Side_F_01_S1"/>
+	<stage animation="50SFO4_Side_F_01_S4"/>
+	<stage animation="50SFO4_Side_F_01_S4"/>
+	<stage animation="50SFO4_Side_F_01_S2"/>
+	<stage animation="50SFO4_Side_F_01_S1"/>
+	<stage animation="50SFO4_Side_F_01_S5"/>
+	<stage animation="50SFO4_Side_F_01_S5"/>
+	<stage animation="50SFO4_Side_F_01_S5"/>
+</animationGroup>
+
 <!-- Solo Side Gagged Mixed Animations -->
 
 <animationGroup id="50SFO4_Side_M_Gagged_01_Mixed" sequential="true">
@@ -513,4 +773,22 @@
 	<stage animation="50SFO4_Side_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Side_M_Gagged_01_S5"/>
 	<stage animation="50SFO4_Side_M_Gagged_01_S5"/>
+</animationGroup>
+
+<animationGroup id="50SFO4_Side_F_Gagged_01_Mixed" sequential="true">
+	<stage animation="50SFO4_Side_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S3"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S4"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S2"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S1"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S5"/>
+	<stage animation="50SFO4_Side_F_Gagged_01_S5"/>
 </animationGroup>

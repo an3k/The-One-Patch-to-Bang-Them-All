@@ -395,17 +395,3 @@
 		<idle form="0002B43E" id="AtomicRocket69GayBottom"/>
 	</actor>
 </animation>
-
-<!-- Solo Male Animations -->
-
-<animation id="AtomicLust_Jerking_F_01" frames="400">
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
-		<idle form="000428DC" id="AtomicJerkingM"/>
-	</actor>
-</animation>
-
-<animation id="AtomicLust_Jerking_F_Orgasm_01" frames="400">
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
-		<idle form="000428DD" id="AtomicJerkingOrgasmM"/>
-	</actor>
-</animation>

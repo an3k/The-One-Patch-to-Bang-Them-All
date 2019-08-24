@@ -750,6 +750,46 @@
           <folder source="50 Animations\Atomic_Lust\30 Addons\Settlement_Supplies_Expanded\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="Atomic Lust.esp" state="Active"/>
+          <flagDependency flag="MMasturbation" value="true"/>
+          <flagDependency flag="Animation" value="Normal"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\Atomic_Lust\10 Normal\40 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="Atomic Lust.esp" state="Active"/>
+          <flagDependency flag="FMasturbation" value="true"/>
+          <flagDependency flag="Animation" value="Normal"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\Atomic_Lust\10 Normal\50 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="Atomic Lust.esp" state="Active"/>
+          <flagDependency flag="MMasturbation" value="true"/>
+          <flagDependency flag="Animation" value="Extended"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\Atomic_Lust\20 Extended\40 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="Atomic Lust.esp" state="Active"/>
+          <flagDependency flag="FMasturbation" value="true"/>
+          <flagDependency flag="Animation" value="Extended"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\Atomic_Lust\20 Extended\50 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
       <!-- BP70's Fallout 4 Sex Animations -->
       <pattern>
         <dependencies operator="And">

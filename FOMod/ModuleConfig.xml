@@ -799,7 +799,7 @@
           <fileDependency file="DLCworkshop02.esm" state="Active"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Crazys_Animations_Gun_Version\30 Addons\DLCworkshop02\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\Crazys_Animations_Gun_Version\40 Addons\DLCworkshop02\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Farelle's Animations -->
@@ -1836,60 +1836,27 @@
         <dependencies operator="And">
           <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
           <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Vadermania\10 Normal\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\Vadermania\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
         <dependencies operator="And">
           <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
           <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Vadermania\10 Normal\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\Vadermania\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
         <dependencies operator="And">
           <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
           <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Vadermania\10 Normal\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
-          <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Vadermania\20 Extended\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
-          <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Vadermania\20 Extended\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
-          <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Vadermania\20 Extended\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\Vadermania\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- ZaZOut4 -->

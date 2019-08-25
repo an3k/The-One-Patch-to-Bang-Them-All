@@ -50,15 +50,6 @@
 	</actor>
 </animation>
 
-<animation id="VM_Cat_MM_01" offset="0,0,0,0:0,0,0,0" time="60">
-	<actor gender="F" race="Cat">
-		<idle form="01002e0a" id="vad_Cat01_Cat_f"/>
-	</actor>
-	<actor gender="M" race="Cat">
-		<idle form="01002e09" id="vad_Cat01_Cat_m"/>
-	</actor>
-</animation>
-
 <animation id="VM_Ghoul_MM_02" time="120">
 	<actor gender="M">
 		<idle form="0100173c" id="vad_Ghoul02_Human01"/>

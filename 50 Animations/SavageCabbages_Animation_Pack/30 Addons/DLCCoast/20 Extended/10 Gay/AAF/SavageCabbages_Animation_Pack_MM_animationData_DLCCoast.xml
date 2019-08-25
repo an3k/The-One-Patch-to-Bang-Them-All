@@ -1,9 +1,9 @@
-<meta title="SavageCabbage's Animation Pack - DLCCoast Animation Data" version="1.0.4" dataSet="animation"/>
+<meta title="SavageCabbage's Animation Pack - Gay DLCCoast Animation Data" version="1.0.4" dataSet="animation"/>
 <defaults source="SavageCabbage_Animations.esp"/>
 
 
-<animation id="SCAP_SittingOuthouse_FM_2Dog_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00020011" id="FD-Outhouse01-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -11,8 +11,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SittingOuthouse_FM_2Dog_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="00020013" id="FD-Outhouse01-02Start-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -20,8 +20,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SittingOuthouse_FM_2Dog_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00020009" id="FD-Outhouse01-03Sitting-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -29,8 +29,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SittingOuthouse_FM_2Dog_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0002000B" id="FD-Outhouse01-04Sitting-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -38,8 +38,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SittingOuthouse_FM_2Dog_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0002000D" id="FD-Outhouse01-05Sitting-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -47,8 +47,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SittingOuthouse_FM_2Dog_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="0002000F" id="FD-Outhouse01-06Sitting-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -56,8 +56,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SittingOuthouse_FM_2Dog_01_S7" frames="200">
-	<actor gender="F">
+<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S7" frames="200">
+	<actor gender="M">
 		<idle form="00020015" id="FD-Outhouse01-07Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -65,8 +65,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SittingOuthouse_FM_2Dog_01_S8" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SittingOuthouse_MM_2Dog_01_S8" frames="500">
+	<actor gender="M">
 		<idle form="000207B3" id="FD-Outhouse01-08Finish-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">

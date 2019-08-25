@@ -797,3 +797,178 @@
 		<value path="morph" value="Erection Up" to="1.4"/>
 	</actor>
 </animation>
+
+<!-- Dog Animations -->
+
+<animation id="Leito_Doggy_FM_2Dog_01_S1" frames="240">
+	<actor gender="F">
+		<idle form="00004523" id="LeitoCanineDoggy_A1_S1"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="00004524" id="LeitoCanineDoggy_A2_S1"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Doggy_FM_2Dog_01_S2" frames="200">
+	<actor gender="F">
+		<idle form="0000268B" id="LeitoCanineDoggy_A1_S2"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="00002688" id="LeitoCanineDoggy_A2_S2"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Doggy_FM_2Dog_01_S3" frames="200">
+	<actor gender="F">
+		<idle form="0000268C" id="LeitoCanineDoggy_A1_S3"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="00002689" id="LeitoCanineDoggy_A2_S3"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Doggy_FM_2Dog_01_S4" frames="160">
+	<actor gender="F">
+		<idle form="0000268D" id="LeitoCanineDoggy_A1_S4"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="0000268A" id="LeitoCanineDoggy_A2_S4"/>
+	</actor>
+</animation>
+
+
+
+<animation id="Leito_Doggy_FM_2Dog_02_S1" frames="240">
+	<actor gender="F">
+		<idle form="00003D80" id="LeitoCanineDoggy2_A1_S1"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="00003D7C" id="LeitoCanineDoggy2_A2_S1"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Doggy_FM_2Dog_02_S2" frames="200">
+	<actor gender="F">
+		<idle form="00003D81" id="LeitoCanineDoggy2_A1_S2"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="00003D7D" id="LeitoCanineDoggy2_A2_S2"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Doggy_FM_2Dog_02_S3" frames="200">
+	<actor gender="F">
+		<idle form="00003D82" id="LeitoCanineDoggy2_A1_S3"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="00003D7E" id="LeitoCanineDoggy2_A2_S3"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Doggy_FM_2Dog_02_S4" frames="210">
+	<actor gender="F">
+		<idle form="00003D83" id="LeitoCanineDoggy2_A1_S4"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="00003D7F" id="LeitoCanineDoggy2_A2_S4"/>
+	</actor>
+</animation>
+
+
+
+<animation id="Leito_Missionary_FM_2Dog_01_S1" frames="128">
+	<actor gender="F">
+		<idle form="00001EE4" id="LeitoCanineMissionary_A1_S1"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="00001EE8" id="LeitoCanineMissionary_A2_S1"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Missionary_FM_2Dog_01_S2" frames="200">
+	<actor gender="F">
+		<idle form="00001EE5" id="LeitoCanineMissionary_A1_S2"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="00001EE9" id="LeitoCanineMissionary_A2_S2"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Missionary_FM_2Dog_01_S3" frames="200">
+	<actor gender="F">
+		<idle form="00001EE6" id="LeitoCanineMissionary_A1_S3"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="00001EEA" id="LeitoCanineMissionary_A2_S3"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Missionary_FM_2Dog_01_S4" frames="170">
+	<actor gender="F">
+		<idle form="00001EE7" id="LeitoCanineMissionary_A1_S4"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="00001EEB" id="LeitoCanineMissionary_A2_S4"/>
+	</actor>
+</animation>
+
+<!-- Supermutant Animations -->
+
+<animation id="Leito_Carry_FM_2Mutant_01" frames="306">
+	<actor gender="F">
+		<idle form="00001EDC" id="LeitoSuperMutantCarryF"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="00001EDD" id="LeitoSuperMutantCarryM"/>
+		<value path="morph" value="Erection Up" to="1.0"/>
+	</actor>
+</animation>
+
+<animation id="Leito_ReverseCarry_FM_2Mutant_01" frames="304">
+	<actor gender="F">
+		<idle form="00004C8F" id="LeitoSuperMutantReverseCarryF"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="00004C8C" id="LeitoSuperMutantReverseCarryM"/>
+		<value path="morph" value="Erection Up" to="0.8"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Doggy_FM_2Mutant_01" frames="308">
+	<actor gender="F">
+		<idle form="0000542A" id="LeitoSuperMutantDoggyF"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="0000542D" id="LeitoSuperMutantDoggyM"/>
+		<value path="morph" value="Erection Down" to="0.1"/>
+	</actor>
+</animation>
+
+<animation id="Leito_StandingDoggy_FM_2Mutant_01" frames="288">
+	<actor gender="F">
+		<idle form="0000542B" id="LeitoSuperMutantStandingDoggyF"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="0000542E" id="LeitoSuperMutantStandingDoggyM"/>
+		<value path="morph" value="Erection Up" to="0.1"/>
+	</actor>
+</animation>
+
+<animation id="Leito_Powerbomb_FM_2Mutant_01" frames="300">
+	<actor gender="F">
+		<idle form="0000B73D" id="LeitoSuperMutantPowerbombF"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="0000B73E" id="LeitoSuperMutantPowerbombM"/>
+		<value path="morph" value="Erection Down" to="0.8"/>
+	</actor>
+</animation>
+
+<animation id="Leito_StandingSideways_FM_2Mutant_01" frames="304">
+	<actor gender="F">
+		<idle form="0000542C" id="LeitoSuperMutantStandingSidewaysF"/>
+	</actor>
+	<actor gender="M" skeleton="Supermutant">
+		<idle form="0000542F" id="LeitoSuperMutantStandingSidewaysM"/>
+	</actor>
+</animation>

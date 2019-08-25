@@ -1,8 +1,0 @@
-<meta title="Atomic Lust - Male Solo Position Data" version="2.5.1-b" dataSet="position"/>
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
-
-<!-- Solo Male Animations -->
-
-<position id="Atomic Lust - Male Jerking Off (Staged)" animationGroup="AtomicLust_Jerking_M_01_Staged"/>
-<position id="Atomic Lust - Male Jerking Off" animation="AtomicLust_Jerking_M_01" isHidden="true"/>
-<position id="Atomic Lust - Male Jerking Off (Orgasm)" animation="AtomicLust_Jerking_M_Orgasm_01" isHidden="true"/>

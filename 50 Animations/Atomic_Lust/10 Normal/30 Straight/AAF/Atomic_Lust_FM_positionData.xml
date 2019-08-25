@@ -54,3 +54,16 @@
 
 <position id="Atomic Lust - Threesome 1" animation="AtomicLust_Threesome_FM_01"/>
 <position id="Atomic Lust - Threesome 2" animation="AtomicLust_Threesome_FM_02"/>
+
+<!-- Solo Male Animations -->
+
+<position id="Atomic Lust - Male Jerking Off (Staged)" animationGroup="AtomicLust_Jerking_M_01_Staged"/>
+<position id="Atomic Lust - Male Jerking Off" animation="AtomicLust_Jerking_M_01" isHidden="true"/>
+<position id="Atomic Lust - Male Jerking Off (Orgasm)" animation="AtomicLust_Jerking_M_Orgasm_01" isHidden="true"/>
+<position id="Atomic Lust - Female Jerking Off" animation="AtomicLust_Jerking_F_01"/>
+
+<!-- Solo Female Animations -->
+
+<position id="Atomic Lust - Fingering 1 (Laying)" animation="AtomicLust_FingeringLaying_F_01"/>
+<position id="Atomic Lust - Fingering 2 (Sitting)" animation="AtomicLust_FingeringSitting_F_01"/>
+<position id="Atomic Lust - Fingering 3 (Sitting)" animation="AtomicLust_FingeringSitting_F_02"/>

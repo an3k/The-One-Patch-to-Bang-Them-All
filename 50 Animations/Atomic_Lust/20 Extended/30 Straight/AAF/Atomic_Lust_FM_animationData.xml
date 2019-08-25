@@ -362,3 +362,46 @@
 		<idle form="00043FBE" id="AtomicThreesome2M"/>
 	</actor>
 </animation>
+
+<!-- Solo Male Animations -->
+
+<animation id="AtomicLust_Jerking_M_01" frames="400">
+	<actor gender="M">
+		<idle form="020428DC" id="Atomic Jerking M"/>
+	</actor>
+</animation>
+
+<animation id="AtomicLust_Jerking_M_Orgasm_01" frames="400">
+	<actor gender="M">
+		<idle form="020428DD" id="Atomic Jerking (Orgasm) M"/>
+	</actor>
+</animation>
+
+<animation id="AtomicLust_Jerking_F_01" frames="400">
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="000428DC" id="AtomicJerkingM"/>
+	</actor>
+</animation>
+
+<!-- Solo Female Animations -->
+
+<animation id="AtomicLust_FingeringLaying_F_01" frames="400">
+	<actor gender="F">
+		<idle form="000428DE" id="AtomicFingeringLayingF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+</animation>
+
+<animation id="AtomicLust_FingeringSitting_F_01" frames="400">
+	<actor gender="F">
+		<idle form="000428DF" id="AtomicFingeringSittingF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+</animation>
+
+<animation id="AtomicLust_FingeringSitting_F_02" frames="400">
+	<actor gender="F">
+		<idle form="000428E0" id="AtomicFingering2SittingF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+</animation>

@@ -1,0 +1,98 @@
+<meta title="Vadermania - Lesbian Animation Data" version="1.1.0" dataSet="animation"/>
+<defaults source="Vadermania[AAF_anims].esp"/>
+
+<animation id="VM_Doggy_FF_01" offset="0,70,0,0:0,0,0,0" frames="60">
+	<actor gender="F">
+		<idle form="00000F9E" id="vad_Doggy_Female"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00000F9D" id="vad_Doggy_Male"/>
+	</actor>
+</animation>
+
+<animation id="VM_Table_FF_01" offset="0,70,0,0:0,0,0,0" frames="60">
+	<actor gender="F">
+		<idle form="00000F9B" id="vad_Table_Female"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00000F99" id="vad_Table_Male"/>
+	</actor>
+</animation>
+
+<animation id="VM_Deathclaw_FM_Slow_01" frames="480">
+	<actor gender="F">
+		<idle form="00002E07" id="vad_Deathclaw02_Human01"/>
+	</actor>
+	<actor gender="M" skeleton="Deathclaw">
+		<idle form="00002E08" id="vad_Deathclaw02_Deathclaw01"/>
+	</actor>
+</animation>
+
+<animation id="VM_Deathclaw_FM_Fast_02" frames="480">
+	<actor gender="F">
+		<idle form="000044DB" id="vad_Deathclaw02_Human02"/>
+	</actor>
+	<actor gender="M" skeleton="Deathclaw">
+		<idle form="00003D41" id="vad_Deathclaw02_Deathclaw02"/>
+	</actor>
+</animation>
+
+<animation id="VM_Dogmeat_FM_01" frames="60">
+	<actor gender="F">
+		<idle form="00000F9F" id="vad_Dogmeat02_Female"/>
+	</actor>
+	<actor gender="M" skeleton="Dog">
+		<idle form="00000FA0" id="vad_Dogmeat02_Dog"/>
+	</actor>
+</animation>
+
+<animation id="VM_FEVHound_FM_01" frames="100">
+	<actor gender="F">
+		<idle form="00002E13" id="vad_FEVHound01_Human_01"/>
+	</actor>
+	<actor gender="M" skeleton="FEVHound">
+		<idle form="00002E12" id="vad_FEVHound01_FEVHound_01"/>
+	</actor>
+</animation>
+
+<animation id="VM_Ghoul_FM_02" frames="120">
+	<actor gender="F">
+		<idle form="0000173C" id="vad_Ghoul02_Hunam01"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="0000173B" id="vad_Ghoul02_Ghoul01"/>
+	</actor>
+</animation>
+
+<animation id="VM_Ghoul_FM_Aggressive_03" frames="240">
+	<actor gender="F">
+		<idle form="0000173D" id="vad_Ghoul03_Human01"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="0000173E" id="vad_Ghoul03_Ghoul01"/>
+	</actor>
+</animation>
+
+<animation id="VM_Ghoul_FM_04" frames="60">
+	<actor gender="F">
+		<idle form="00001ED8" id="vad_ghoul4w_Human_01"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="00001ED9" id="vad_Ghoul4w_Ghoul_AC2_01"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="00001EDA" id="vad_Ghoul4w_Ghoul_AC3_01"/>
+	</actor>
+	<actor gender="M" skeleton="FeralGhoul">
+		<idle form="00001EDB" id="vad_Ghoul4w_Ghoul_AC4_01"/>
+	</actor>
+</animation>
+
+<animation id="VM_Gorilla_FM_01" frames="240">
+	<actor gender="F">
+		<idle form="000035B5" id="vad_Gorilla01_Human_01"/>
+	</actor>
+	<actor gender="M" skeleton="Gorilla">
+		<idle form="000035B4" id="vad_Gorilla01_Gorilla_01"/>
+	</actor>
+</animation>

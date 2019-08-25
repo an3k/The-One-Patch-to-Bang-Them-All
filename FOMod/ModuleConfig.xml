@@ -177,28 +177,6 @@
             </plugin>
           </plugins>
         </group>
-        <group name="Masturbation" type="SelectAtLeastOne">
-          <plugins order="Explicit">
-            <plugin name="Males">
-              <description/>
-              <conditionFlags>
-                <flag name="MMasturbation">true</flag>
-              </conditionFlags>
-              <typeDescriptor>
-                <type name="Recommended"/>
-              </typeDescriptor>
-            </plugin>
-            <plugin name="Females">
-              <description/>
-              <conditionFlags>
-                <flag name="FMasturbation">true</flag>
-              </conditionFlags>
-              <typeDescriptor>
-                <type name="Recommended"/>
-              </typeDescriptor>
-            </plugin>
-          </plugins>
-        </group>
       </optionalFileGroups>
     </installStep>
   </installSteps>
@@ -551,26 +529,6 @@
       <pattern>
         <dependencies operator="And">
           <fileDependency file="AAF_GrayAnimations.esp" state="Active"/>
-          <flagDependency flag="MMasturbation" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\50_Shades_of_Fallout_4\10 Normal\40 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="AAF_GrayAnimations.esp" state="Active"/>
-          <flagDependency flag="FMasturbation" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\50_Shades_of_Fallout_4\10 Normal\50 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="AAF_GrayAnimations.esp" state="Active"/>
           <flagDependency flag="Gay" value="true"/>
           <flagDependency flag="Animation" value="Extended"/>
         </dependencies>
@@ -596,26 +554,6 @@
         </dependencies>
         <files>
           <folder source="50 Animations\50_Shades_of_Fallout_4\20 Extended\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="AAF_GrayAnimations.esp" state="Active"/>
-          <flagDependency flag="MMasturbation" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\50_Shades_of_Fallout_4\20 Extended\40 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="AAF_GrayAnimations.esp" state="Active"/>
-          <flagDependency flag="FMasturbation" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\50_Shades_of_Fallout_4\20 Extended\50 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Atomic Lust -->
@@ -750,46 +688,6 @@
           <folder source="50 Animations\Atomic_Lust\30 Addons\Settlement_Supplies_Expanded\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Atomic Lust.esp" state="Active"/>
-          <flagDependency flag="MMasturbation" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Atomic_Lust\10 Normal\40 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Atomic Lust.esp" state="Active"/>
-          <flagDependency flag="FMasturbation" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Atomic_Lust\10 Normal\50 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Atomic Lust.esp" state="Active"/>
-          <flagDependency flag="MMasturbation" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Atomic_Lust\20 Extended\40 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Atomic Lust.esp" state="Active"/>
-          <flagDependency flag="FMasturbation" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Atomic_Lust\20 Extended\50 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
       <!-- BP70's Fallout 4 Sex Animations -->
       <pattern>
         <dependencies operator="And">
@@ -872,60 +770,27 @@
         <dependencies operator="And">
           <fileDependency file="Crazy_Animations_Gun.esp" state="Active"/>
           <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Crazys_Animations_Gun_Version\10 Normal\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\Crazys_Animations_Gun_Version\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
         <dependencies operator="And">
           <fileDependency file="Crazy_Animations_Gun.esp" state="Active"/>
           <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Crazys_Animations_Gun_Version\10 Normal\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\Crazys_Animations_Gun_Version\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
         <dependencies operator="And">
           <fileDependency file="Crazy_Animations_Gun.esp" state="Active"/>
           <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Crazys_Animations_Gun_Version\10 Normal\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Crazy_Animations_Gun.esp" state="Active"/>
-          <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Crazys_Animations_Gun_Version\20 Extended\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Crazy_Animations_Gun.esp" state="Active"/>
-          <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Crazys_Animations_Gun_Version\20 Extended\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Crazy_Animations_Gun.esp" state="Active"/>
-          <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Crazys_Animations_Gun_Version\20 Extended\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\Crazys_Animations_Gun_Version\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -934,7 +799,7 @@
           <fileDependency file="DLCworkshop02.esm" state="Active"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Crazys_Animations_Gun_Version\30 Addons\DLCworkshop02\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\Crazys_Animations_Gun_Version\40 Addons\DLCworkshop02\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Farelle's Animations -->
@@ -1080,60 +945,27 @@
         <dependencies operator="And">
           <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Active"/>
           <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Four-Play_Animations_by_Crazy\10 Normal\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\Four-Play_Animations_by_Crazy\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
         <dependencies operator="And">
           <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Active"/>
           <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Four-Play_Animations_by_Crazy\10 Normal\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\Four-Play_Animations_by_Crazy\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
         <dependencies operator="And">
           <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Active"/>
           <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Four-Play_Animations_by_Crazy\10 Normal\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Active"/>
-          <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Four-Play_Animations_by_Crazy\20 Extended\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Active"/>
-          <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Four-Play_Animations_by_Crazy\20 Extended\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="AAF_Four-Play_Animations_Crazy6987.esp" state="Active"/>
-          <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Four-Play_Animations_by_Crazy\20 Extended\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\Four-Play_Animations_by_Crazy\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Gray User's Bad End Animation Pack -->
@@ -2004,60 +1836,27 @@
         <dependencies operator="And">
           <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
           <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Vadermania\10 Normal\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\Vadermania\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
         <dependencies operator="And">
           <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
           <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Vadermania\10 Normal\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\Vadermania\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
         <dependencies operator="And">
           <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
           <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Vadermania\10 Normal\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
-          <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Vadermania\20 Extended\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
-          <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Vadermania\20 Extended\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Vadermania[AAF_anims].esp" state="Active"/>
-          <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Vadermania\20 Extended\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\Vadermania\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- ZaZOut4 -->

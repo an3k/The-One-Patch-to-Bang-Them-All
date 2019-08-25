@@ -24,4 +24,11 @@
 
 <!-- Female Solo Animations -->
 
-<position id="Crazy's Animations - Masturbation (Jerking Off)" animation="Crazy_Masturbate_F_01"/>
+<position id="Crazy's Animations - Female Masturbation" animation="Crazy_Masturbate_F_01"/>
+<position id="Crazy's Animations - Female Masturbation (Laying)" animation="Crazy_Masturbate_F_02"/>
+<position id="Crazy's Animations - Female Masturbation (Fingering)" animation="Crazy_Masturbate_F_03"/>
+<position id="Crazy's Animations - Female Masturbation (Jerking Off)" animation="Crazy_Masturbate_F_04"/>
+
+<!-- Female Solo Furniture Animations -->
+
+<position id="Crazy's Animations - Female Masturbation (Bed, Laying)" location="Single_Bed,Double_Bed" animation="Crazy_MasturbateBed_F_02"/>

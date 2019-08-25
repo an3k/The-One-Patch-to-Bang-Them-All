@@ -150,8 +150,34 @@
 
 <!-- Female Solo Animations -->
 
-<animation id="Crazy_Masturbate_F_01" offset="0,70,0,0" frames="80">
+<animation id="Crazy_Masturbate_F_01" offset="0,70,0,0" frames="312">
+	<actor gender="F">
+		<idle form="0000173B" id="CrazyMbateF"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_Masturbate_F_02" offset="0,70,0,0" frames="114">
+	<actor gender="F">
+		<idle form="00005432" id="CrazyMbateLayF"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_Masturbate_F_03" offset="0,70,0,0" frames="208">
+	<actor gender="F">
+		<idle form="0000173A" id="CrazyFingerF"/>
+	</actor>
+</animation>
+
+<animation id="Crazy_Masturbate_F_04" offset="0,70,0,0" frames="80">
 	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
 		<idle form="00005433" id="CrazyJerkOffM"/>
+	</actor>
+</animation>
+
+<!-- Female Solo Furniture Animations -->
+
+<animation id="Crazy_MasturbateBed_F_02" offset="0,70,0,0" frames="114">
+	<actor gender="F">
+		<idle form="00005432" id="CrazyMbateLayF"/>
 	</actor>
 </animation>

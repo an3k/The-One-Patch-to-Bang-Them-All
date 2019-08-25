@@ -28,7 +28,7 @@
 	</actor>
 </animation>
 
-<animation id="Farelle_Blowjob_MM_Threesome_01" time="60">
+<animation id="Farelle_SM_Blowjob_MM_Threesome_01" time="60">
 	<actor gender="M">
 		<idle form="00005BA3" id="SM_THREESOME_BLOWJOB_FEMALE"/>
 	</actor>
@@ -40,7 +40,7 @@
 	</actor>
 </animation>
 
-<animation id="Farelle_Gangbang_MM_Threesome_01" time="60">
+<animation id="Farelle_SM_Gangbang_MM_Threesome_01" time="60">
 	<actor gender="M">
 		<idle form="0000633F" id="SM_THREESOME_GANGBANG_FEMALE"/>
 	</actor>
@@ -52,7 +52,7 @@
 	</actor>
 </animation>
 
-<animation id="Farelle_Handjob_MM_Threesome_01" time="60">
+<animation id="Farelle_SM_Handjob_MM_Threesome_01" time="60">
 	<actor gender="M">
 		<idle form="00004C6B" id="SM_THREESOME_FEMALE"/>
 	</actor>
@@ -64,7 +64,7 @@
 	</actor>
 </animation>
 
-<animation id="Farelle_Teasing_MM_Threesome_01" time="60">
+<animation id="Farelle_SM_Teasing_MM_Threesome_01" time="60">
 	<actor gender="M">
 		<idle form="00005409" id="SM_THREESOME_TEASING_FEMALE"/>
 	</actor>

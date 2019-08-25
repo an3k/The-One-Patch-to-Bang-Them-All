@@ -3,26 +3,26 @@
 
 <!-- Dance Animations -->
 
-<animation id="SCAP_Dance_FM_1Human_01_S1" frames="140">
-	<actor gender="F">
+<animation id="SCAP_Dance_1Human_01_S1" frames="140">
+	<actor>
 		<idle form="0000182B" id="F-Dance01-01HipShakeStart-F1"/>
 	</actor>
 </animation>
 
-<animation id="SCAP_Dance_FM_1Human_01_S2" frames="160">
-	<actor gender="F">
+<animation id="SCAP_Dance_1Human_01_S2" frames="160">
+	<actor>
 		<idle form="0000182C" id="F-Dance01-02HipShake-F1"/>
 	</actor>
 </animation>
 
-<animation id="SCAP_Twerk_FM_1Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_Twerk_1Human_01" frames="500">
+	<actor>
 		<idle form="0000182D" id="F-Dance02-01TwerkStart-F1"/>
 	</actor>
 </animation>
 
-<animation id="SCAP_Twerk_FM_1Human_02" frames="500">
-	<actor gender="F">
+<animation id="SCAP_Twerk_1Human_02" frames="500">
+	<actor>
 		<idle form="0000182E" id="F-Dance03-01TwerkStart-F1"/>
 	</actor>
 </animation>

@@ -1,4 +1,4 @@
-<meta title="SavageCabbage's Animation Pack - Animation Data" version="1.0.4" dataSet="animation"/>
+<meta title="SavageCabbage's Animation Pack - Gay Animation Data" version="1.0.4" dataSet="animation"/>
 <defaults source="SavageCabbage_Animations.esp"/>
 
 <!-- Dance Animations -->
@@ -29,8 +29,8 @@
 
 <!-- Deepthroat Animations -->
 
-<animation id="SCAP_DeepthroatBed_FM_2Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DeepthroatBed_MM_2Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00000FD3" id="FM-Bed01-01Handjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -38,8 +38,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DeepthroatBed_FM_2Human_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DeepthroatBed_MM_2Human_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="00000FD5" id="FM-Bed01-02Handjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -47,8 +47,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DeepthroatBed_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DeepthroatBed_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00000FD7" id="FM-Bed01-03Titjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -56,8 +56,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DeepthroatBed_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DeepthroatBed_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00000FD9" id="FM-Bed01-04Blowjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -65,8 +65,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DeepthroatBed_FM_2Human_01_S5A" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DeepthroatBed_MM_2Human_01_S5A" frames="500">
+	<actor gender="M">
 		<idle form="00000FDB" id="FM-Bed01-05DeepthroatA-F1"/>
 	</actor>
 	<actor gender="M">
@@ -74,8 +74,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DeepthroatBed_FM_2Human_01_S5B" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DeepthroatBed_MM_2Human_01_S5B" frames="500">
+	<actor gender="M">
 		<idle form="00000FDD" id="FM-Bed01-05DeepthroatB-F1"/>
 	</actor>
 	<actor gender="M">
@@ -83,8 +83,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DeepthroatBed_FM_2Human_01_S5C" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DeepthroatBed_MM_2Human_01_S5C" frames="500">
+	<actor gender="M">
 		<idle form="00000FDF" id="FM-Bed01-05DeepthroatC-F1"/>
 	</actor>
 	<actor gender="M">
@@ -92,8 +92,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DeepthroatBed_FM_2Human_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DeepthroatBed_MM_2Human_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="00000FE1" id="FM-Bed01-06BlowjobRough-F1"/>
 	</actor>
 	<actor gender="M">
@@ -101,8 +101,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DeepthroatBed_FM_2Human_01_S7" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DeepthroatBed_MM_2Human_01_S7" frames="500">
+	<actor gender="M">
 		<idle form="00000FE3" id="FM-Bed01-07CumShot-F1"/>
 	</actor>
 	<actor gender="M">
@@ -110,8 +110,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DeepthroatBed_FM_2Human_01_S8" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DeepthroatBed_MM_2Human_01_S8" frames="500">
+	<actor gender="M">
 		<idle form="00000FE5" id="FM-Bed01-07Swallow-F1"/>
 	</actor>
 	<actor gender="M">
@@ -121,8 +121,8 @@
 
 <!-- Cowgirl Animations -->
 
-<animation id="SCAP_CowgirlBed_FM_2Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlBed_MM_2Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="000099DA" id="FM-Bed03-01Tease-F1"/>
 	</actor>
 	<actor gender="M">
@@ -130,8 +130,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_CowgirlBed_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlBed_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00006C0A" id="FM-Bed03-03Cowgirl-F1"/>
 	</actor>
 	<actor gender="M">
@@ -140,8 +140,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_CowgirlBed_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlBed_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0000923C" id="FM-Bed03-04Cowgirl-F1"/>
 	</actor>
 	<actor gender="M">
@@ -150,8 +150,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_CowgirlBed_FM_2Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlBed_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0000E62A" id="FM-Bed03-05Cowgirl-F1"/>
 	</actor>
 	<actor gender="M">
@@ -162,8 +162,8 @@
 
 
 
-<animation id="SCAP_ReverseCowgirlBench_FM_2Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_ReverseCowgirlBench_MM_2Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="000099DC" id="FM-Bench01-01Tease-F1"/>
 	</actor>
 	<actor gender="M">
@@ -172,8 +172,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_ReverseCowgirlBench_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_ReverseCowgirlBench_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="0000550B" id="FM-Bench01-03ReverseCowgirl-F1"/>
 	</actor>
 	<actor gender="M">
@@ -182,8 +182,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_ReverseCowgirlBench_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_ReverseCowgirlBench_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0000C744" id="FM-Bench01-04ReverseCowgirl-F1"/>
 	</actor>
 	<actor gender="M">
@@ -192,8 +192,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_ReverseCowgirlBench_FM_2Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_ReverseCowgirlBench_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00006C0C" id="FM-Bench01-05ReverseCowgirl-F1"/>
 	</actor>
 	<actor gender="M">
@@ -204,8 +204,8 @@
 
 
 
-<animation id="SCAP_CowgirlChair_FM_2Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlChair_MM_2Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00000FF0" id="FM-Chair01-01Tease-F1"/>
 	</actor>
 	<actor gender="M">
@@ -214,8 +214,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_CowgirlChair_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlChair_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00000FF2" id="FM-Chair01-03Cowgirl-F1"/>
 	</actor>
 	<actor gender="M">
@@ -224,8 +224,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_CowgirlChair_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlChair_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00000FF4" id="FM-Chair01-04Cowgirl-F1"/>
 	</actor>
 	<actor gender="M">
@@ -234,8 +234,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_CowgirlChair_FM_2Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlChair_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="000073B5" id="FM-Chair01-05Cowgirl-F1"/>
 	</actor>
 	<actor gender="M">
@@ -244,8 +244,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_CowgirlChair_FM_2Human_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlChair_MM_2Human_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="00021EF0" id="FM-Chair01-06Cowgirl-F1"/>
 	</actor>
 	<actor gender="M">
@@ -256,8 +256,8 @@
 
 
 
-<animation id="SCAP_CowgirlMotorbike_FM_2Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlMotorbike_MM_2Human_01" frames="500">
+	<actor gender="M">
 		<idle form="0002171E" id="FM-Motorbike01-03Cowgirl-F1"/>
 	</actor>
 	<actor gender="M">
@@ -268,8 +268,8 @@
 
 
 
-<animation id="SCAP_CowgirlSeat_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlSeat_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00006446" id="FM-Seat01-03Cowgirl-F1"/>
 	</actor>
 	<actor gender="M">
@@ -278,8 +278,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_CowgirlSeat_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlSeat_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="000082FD" id="FM-Seat01-04Cowgirl-F1"/>
 	</actor>
 	<actor gender="M">
@@ -288,8 +288,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_CowgirlSeat_FM_2Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlSeat_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0000CF45" id="FM-Seat01-05Cowgirl-F1"/>
 	</actor>
 	<actor gender="M">
@@ -300,8 +300,8 @@
 
 <!-- Church Wall Animations -->
 
-<animation id="SCAP_ChurchWall_FM_2Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_ChurchWall_MM_2Human_01" frames="500">
+	<actor gender="M">
 		<idle form="0000CEDF" id="FM-WallChurch01-02Start-F1"/>
 	</actor>
 	<actor gender="M">
@@ -311,8 +311,8 @@
 
 <!-- Doggy Animations -->
 
-<animation id="SCAP_DoggyChairHigh_FM_2Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyChairHigh_MM_2Human_01" frames="500">
+	<actor gender="M">
 		<idle form="00001000" id="FM-ChairHigh01-02Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -321,8 +321,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyChairLow_FM_2Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyChairLow_MM_2Human_01" frames="500">
+	<actor gender="M">
 		<idle form="00001002" id="FM-ChairLow01-02Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -330,8 +330,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyChairMedium_FM_2Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyChairMedium_MM_2Human_01" frames="500">
+	<actor gender="M">
 		<idle form="00001004" id="FM-ChairMedium01-02Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -340,8 +340,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyChairVeryLow_FM_2Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyChairVeryLow_MM_2Human_01" frames="500">
+	<actor gender="M">
 		<idle form="00001006" id="FM-ChairVeryLow01-02Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -352,8 +352,8 @@
 
 
 
-<animation id="SCAP_DoggyDesk_FM_2Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDesk_MM_2Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="0000C003" id="FM-Desk01-01Tease-F1"/>
 	</actor>
 	<actor gender="M">
@@ -361,8 +361,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDesk_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDesk_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00001FC9" id="FM-Desk01-03Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -370,8 +370,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDesk_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDesk_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0000C005" id="FM-Desk01-04Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -381,8 +381,8 @@
 
 
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00001008" id="FM-DoubleBed01-01Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -390,8 +390,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Human_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Human_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="0000100A" id="FM-DoubleBed01-02Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -399,8 +399,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="0000100C" id="FM-DoubleBed01-03Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -408,8 +408,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00004D6A" id="FM-DoubleBed01-04Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -417,8 +417,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00004D6C" id="FM-DoubleBed01-05Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -426,8 +426,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Human_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Human_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="00007386" id="FM-DoubleBed01-06Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -437,8 +437,8 @@
 
 
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Human_02_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Human_02_S1" frames="500">
+	<actor gender="M">
 		<idle form="000099E0" id="FM-DoubleBed04-01Tease-F1"/>
 	</actor>
 	<actor gender="M">
@@ -447,8 +447,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Human_02_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Human_02_S3" frames="500">
+	<actor gender="M">
 		<idle form="00004D70" id="FM-DoubleBed04-03Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -457,8 +457,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Human_02_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Human_02_S4" frames="500">
+	<actor gender="M">
 		<idle form="0000B80D" id="FM-DoubleBed04-04Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -467,8 +467,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Human_02_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Human_02_S5" frames="500">
+	<actor gender="M">
 		<idle form="00006C0E" id="FM-DoubleBed04-05Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -477,8 +477,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Human_02_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Human_02_S6" frames="500">
+	<actor gender="M">
 		<idle form="00008A9E" id="FM-DoubleBed04-06Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -489,8 +489,8 @@
 
 
 
-<animation id="SCAP_RoughDoggyPoolTable_FM_2Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_RoughDoggyPoolTable_MM_2Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="0000180C" id="FM-PoolTable02-01RoughTease-F1"/>
 	</actor>
 	<actor gender="M">
@@ -498,8 +498,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_RoughDoggyPoolTable_FM_2Human_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_RoughDoggyPoolTable_MM_2Human_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="0000180E" id="FM-PoolTable02-02RoughStart-F1"/>
 	</actor>
 	<actor gender="M">
@@ -507,8 +507,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_RoughDoggyPoolTable_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_RoughDoggyPoolTable_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00001810" id="FM-PoolTable02-03RoughDoggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -516,8 +516,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_RoughDoggyPoolTable_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_RoughDoggyPoolTable_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00001812" id="FM-PoolTable02-04RoughDoggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -525,8 +525,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_RoughDoggyPoolTable_FM_2Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_RoughDoggyPoolTable_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00001814" id="FM-PoolTable02-05RoughDoggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -536,8 +536,8 @@
 
 
 
-<animation id="SCAP_DoggyRoundTable_FM_2Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyRoundTable_MM_2Human_01" frames="500">
+	<actor gender="M">
 		<idle form="0000B070" id="FM-RoundTable01-03Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -547,8 +547,8 @@
 
 
 
-<animation id="SCAP_DoggyStool_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyStool_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00002761" id="FM-Stool01-03Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -556,8 +556,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyStool_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyStool_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0000D67A" id="FM-Stool01-04Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -565,8 +565,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyStool_FM_2Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyStool_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00006C14" id="FM-Stool01-05Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -576,8 +576,8 @@
 
 <!-- Handjob Animations -->
 
-<animation id="SCAP_HandjobChair_FM_2Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobChair_MM_2Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00000FF6" id="FM-Chair02-01Start-F1"/>
 	</actor>
 	<actor gender="M">
@@ -585,8 +585,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobChair_FM_2Human_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobChair_MM_2Human_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="00000FF8" id="FM-Chair02-02Handjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -594,8 +594,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobChair_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobChair_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00000FFA" id="FM-Chair02-03Handjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -603,8 +603,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobChair_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobChair_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00000FFC" id="FM-Chair02-04Handjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -612,8 +612,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobChair_FM_2Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobChair_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00000FFE" id="FM-Chair02-05Blowjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -621,8 +621,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobChair_FM_2Human_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobChair_MM_2Human_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="000017F8" id="FM-Chair02-06Blowjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -630,8 +630,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobChair_FM_2Human_01_S7" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobChair_MM_2Human_01_S7" frames="500">
+	<actor gender="M">
 		<idle form="000017FA" id="FM-Chair02-07Deepthroat-F1"/>
 	</actor>
 	<actor gender="M">
@@ -639,8 +639,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobChair_FM_2Human_01_S8" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobChair_MM_2Human_01_S8" frames="500">
+	<actor gender="M">
 		<idle form="000017FC" id="FM-Chair02-08Swallow-F1"/>
 	</actor>
 	<actor gender="M">
@@ -650,8 +650,8 @@
 
 
 
-<animation id="SCAP_HandjobCouch_FM_2Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobCouch_MM_2Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="0000C7A4" id="FM-Couch02-01Tease-F1"/>
 	</actor>
 	<actor gender="M">
@@ -660,8 +660,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobCouch_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobCouch_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00006448" id="FM-Couch02-03Handjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -670,8 +670,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobCouch_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobCouch_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0000644A" id="FM-Couch02-04Handjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -680,8 +680,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobCouch_FM_2Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobCouch_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0000644C" id="FM-Couch02-05Blowjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -692,8 +692,8 @@
 
 <!-- Dance Animations -->
 
-<animation id="SCAP_LapDance_FM_2Human_01" frames="1000">
-	<actor gender="F">
+<animation id="SCAP_LapDance_MM_2Human_01" frames="1000">
+	<actor gender="M">
 		<idle form="00001800" id="FM-LapDance01-01LapDance-F1"/>
 	</actor>
 	<actor gender="M">
@@ -703,8 +703,8 @@
 
 <!-- Missionary Animations -->
 
-<animation id="SCAP_MissionaryBed_FM_2Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryBed_MM_2Human_01" frames="500">
+	<actor gender="M">
 		<idle form="0000E62C" id="FM-Bed04-03Missionary-F1"/>
 	</actor>
 	<actor gender="M">
@@ -714,8 +714,8 @@
 
 
 
-<animation id="SCAP_MissionaryDoubleBed_FM_2Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryDoubleBed_MM_2Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="000099DE" id="FM-DoubleBed03-01Tease-F1"/>
 	</actor>
 	<actor gender="M">
@@ -723,8 +723,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryDoubleBed_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryDoubleBed_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00005CA9" id="FM-DoubleBed03-03Missionary-F1"/>
 	</actor>
 	<actor gender="M">
@@ -732,8 +732,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryDoubleBed_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryDoubleBed_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0000B80B" id="FM-DoubleBed03-04Missionary-F1"/>
 	</actor>
 	<actor gender="M">
@@ -742,8 +742,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryDoubleBed_FM_2Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryDoubleBed_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0000DE15" id="FM-DoubleBed03-05Missionary-F1"/>
 	</actor>
 	<actor gender="M">
@@ -751,8 +751,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryDoubleBed_FM_2Human_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryDoubleBed_MM_2Human_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="0000DE17" id="FM-DoubleBed03-06Missionary-F1"/>
 	</actor>
 	<actor gender="M">
@@ -762,8 +762,8 @@
 
 
 
-<animation id="SCAP_MissionaryPoolTable_FM_2Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryPoolTable_MM_2Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00001802" id="FM-PoolTable01-01Tease-F1"/>
 	</actor>
 	<actor gender="M">
@@ -771,8 +771,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryPoolTable_FM_2Human_01_S2" frames="100">
-	<actor gender="F">
+<animation id="SCAP_MissionaryPoolTable_MM_2Human_01_S2" frames="100">
+	<actor gender="M">
 		<idle form="00001804" id="FM-PoolTable01-02Start-F1"/>
 	</actor>
 	<actor gender="M">
@@ -780,8 +780,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryPoolTable_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryPoolTable_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00001807" id="FM-PoolTable01-03Cunnilingus-F1"/>
 	</actor>
 	<actor gender="M">
@@ -789,8 +789,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryPoolTable_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryPoolTable_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00001808" id="FM-PoolTable01-04Cunnilingus-F1"/>
 	</actor>
 	<actor gender="M">
@@ -798,8 +798,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryPoolTable_FM_2Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryPoolTable_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0000180A" id="FM-PoolTable01-05Missionary-F1"/>
 	</actor>
 	<actor gender="M">
@@ -808,8 +808,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryPoolTable_FM_2Human_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryPoolTable_MM_2Human_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="00006C10" id="FM-PoolTable01-06Missionary-F1"/>
 	</actor>
 	<actor gender="M">
@@ -818,8 +818,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryPoolTable_FM_2Human_01_S7" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryPoolTable_MM_2Human_01_S7" frames="500">
+	<actor gender="M">
 		<idle form="0000C7A6" id="FM-PoolTable01-07Missionary-F1"/>
 	</actor>
 	<actor gender="M">
@@ -829,8 +829,8 @@
 
 
 
-<animation id="SCAP_MissionaryTable_FM_2Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryTable_MM_2Human_01" frames="500">
+	<actor gender="M">
 		<idle form="000045CF" id="FM-Table01-03Missionary-F1"/>
 	</actor>
 	<actor gender="M">
@@ -840,8 +840,8 @@
 
 <!-- Sideways Animations -->
 
-<animation id="SCAP_RoughSidewaysRoundTable_FM_2Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_RoughSidewaysRoundTable_MM_2Human_01" frames="500">
+	<actor gender="M">
 		<idle form="00006C12" id="FM-RoundTable02-03RoughSideways-F1"/>
 	</actor>
 	<actor gender="M">
@@ -851,8 +851,8 @@
 
 <!-- Car Animations -->
 
-<animation id="SCAP_DoggySedanPostWar_FM_2Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggySedanPostWar_MM_2Human_01" frames="500">
+	<actor gender="M">
 		<idle form="00021EC5" id="FM-SedanPostWar01-03Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -860,8 +860,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_BackseatSedanPreWar_FM_2Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_BackseatSedanPreWar_MM_2Human_01" frames="500">
+	<actor gender="M">
 		<idle form="0002171C" id="FM-SedanPreWar01-03Backseat-F1"/>
 	</actor>
 	<actor gender="M">
@@ -872,8 +872,8 @@
 
 <!-- Powerbomb Animations -->
 
-<animation id="SCAP_PowerbombDoubleBed_FM_2Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_PowerbombDoubleBed_MM_2Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="0000CF43" id="FM-DoubleBed02-01Tease-F1"/>
 	</actor>
 	<actor gender="M">
@@ -881,8 +881,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_PowerbombDoubleBed_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_PowerbombDoubleBed_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="000017FE" id="FM-DoubleBed02-03Missionary-F1"/>
 	</actor>
 	<actor gender="M">
@@ -890,8 +890,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_PowerbombDoubleBed_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_PowerbombDoubleBed_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0000644E" id="FM-DoubleBed02-04Missionary-F1"/>
 	</actor>
 	<actor gender="M">
@@ -899,8 +899,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_PowerbombDoubleBed_FM_2Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_PowerbombDoubleBed_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0000E5B2" id="FM-DoubleBed02-05Powerbomb-F1"/>
 	</actor>
 	<actor gender="M">
@@ -909,8 +909,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_PowerbombDoubleBed_FM_2Human_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_PowerbombDoubleBed_MM_2Human_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="0000ED4D" id="FM-DoubleBed02-06Powerbomb-F1"/>
 	</actor>
 	<actor gender="M">
@@ -919,8 +919,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_PowerbombDoubleBed_FM_2Human_01_S7" frames="500">
-	<actor gender="F">
+<animation id="SCAP_PowerbombDoubleBed_MM_2Human_01_S7" frames="500">
+	<actor gender="M">
 		<idle form="000017F7" id="FM-DoubleBed02-07Powerbomb-F1"/>
 	</actor>
 	<actor gender="M">
@@ -930,8 +930,8 @@
 
 <!-- Spoon Animations -->
 
-<animation id="SCAP_SpoonCouch_FM_2Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SpoonCouch_MM_2Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="0000C001" id="FM-Couch01-01Tease-F1"/>
 	</actor>
 	<actor gender="M">
@@ -940,8 +940,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SpoonCouch_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SpoonCouch_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00003E34" id="FM-Couch01-03Spoon-F1"/>
 	</actor>
 	<actor gender="M">
@@ -950,8 +950,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SpoonCouch_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SpoonCouch_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00004D6E" id="FM-Couch01-04Spoon-F1"/>
 	</actor>
 	<actor gender="M">
@@ -960,8 +960,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SpoonCouch_FM_2Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SpoonCouch_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00006444" id="FM-Couch01-05Spoon-F1"/>
 	</actor>
 	<actor gender="M">
@@ -972,8 +972,8 @@
 
 <!-- Straddle Animations -->
 
-<animation id="SCAP_StraddleBed_FM_2Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StraddleBed_MM_2Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00000FE8" id="FM-Bed02-01Straddle-F1"/>
 	</actor>
 	<actor gender="M">
@@ -981,8 +981,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StraddleBed_FM_2Human_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StraddleBed_MM_2Human_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="00000FEA" id="FM-Bed02-02Straddle-F1"/>
 	</actor>
 	<actor gender="M">
@@ -991,8 +991,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StraddleBed_FM_2Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StraddleBed_MM_2Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00000FEC" id="FM-Bed02-03Straddle-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1001,8 +1001,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StraddleBed_FM_2Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StraddleBed_MM_2Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00000FEE" id="FM-Bed02-04Straddle-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1011,8 +1011,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StraddleBed_FM_2Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StraddleBed_MM_2Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00006C08" id="FM-Bed02-05Straddle-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1022,8 +1022,8 @@
 
 <!-- Cowgirl Animations -->
 
-<animation id="SCAP_ReverseCowgirlDoubleBed_FM_3Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_ReverseCowgirlDoubleBed_MM_3Human_01" frames="500">
+	<actor gender="M">
 		<idle form="00021EF2" id="FMM-DoubleBed02-03ReverseCowgirl-Blowjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1037,8 +1037,8 @@
 
 <!-- Doggy Animations -->
 
-<animation id="SCAP_DoggyBed_FM_3Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_3Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="0000101C" id="FMM-Bed01-01Handjob-Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1049,8 +1049,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyBed_FM_3Human_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_3Human_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="0000101F" id="FMM-Bed01-02Handjob-Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1061,8 +1061,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyBed_FM_3Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_3Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00001022" id="FMM-Bed01-03Titjob-Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1073,8 +1073,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyBed_FM_3Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_3Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00001025" id="FMM-Bed01-04Blowjob-Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1087,8 +1087,8 @@
 
 
 
-<animation id="SCAP_DoggyChair_FM_3Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyChair_MM_3Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00001028" id="FMM-Chair01-02Handjob-Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1099,8 +1099,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyChair_FM_3Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyChair_MM_3Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="0000102B" id="FMM-Chair01-03Handjob-Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1111,8 +1111,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyChair_FM_3Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyChair_MM_3Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0000102E" id="FMM-Chair01-04Handjob-Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1123,8 +1123,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyChair_FM_3Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyChair_MM_3Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00001031" id="FMM-Chair01-05Blowjob-Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1135,8 +1135,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyChair_FM_3Human_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyChair_MM_3Human_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="0000181C" id="FMM-Chair01-06Blowjob-Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1147,8 +1147,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyChair_FM_3Human_01_S7" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyChair_MM_3Human_01_S7" frames="500">
+	<actor gender="M">
 		<idle form="0000181F" id="FMM-Chair01-07Deepthroat-Doggy-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1161,22 +1161,22 @@
 
 
 
-<animation id="SCAP_DoggyDoubleBed_FM_3Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_3Human_01" frames="500">
+	<actor gender="M">
 		<idle form="0002360A" id="FMF-DoubleBed01-03Doggy-AnalFingering-F1"/>
 	</actor>
 	<actor gender="M">
 		<idle form="0002360B" id="FMF-DoubleBed01-03Doggy-AnalFingering-M1"/>
 	</actor>
-	<actor gender="F">
+	<actor gender="M">
 		<idle form="0002360C" id="FMF-DoubleBed01-03Doggy-AnalFingering-F2"/>
 	</actor>
 </animation>
 
 <!-- DoubleTeam Animations -->
 
-<animation id="SCAP_DoubleTeamDoubleBed_FM_3Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoubleTeamDoubleBed_MM_3Human_01" frames="500">
+	<actor gender="M">
 		<idle form="00021EF5" id="FMM-DoubleBed01-03DoubleTeam-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1191,8 +1191,8 @@
 
 
 
-<animation id="SCAP_DoubleTeamGround_FM_3Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoubleTeamGround_MM_3Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00001034" id="FMM-Floor01-01DoubleTeam-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1203,8 +1203,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoubleTeamGround_FM_3Human_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoubleTeamGround_MM_3Human_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="00001037" id="FMM-Floor01-02DoubleTeam-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1217,8 +1217,8 @@
 
 
 
-<animation id="SCAP_DoubleTeamGround_FM_3Human_02" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoubleTeamGround_MM_3Human_02" frames="500">
+	<actor gender="M">
 		<idle form="000082C9" id="FMM-Floor04-03DoubleTeam-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1233,8 +1233,8 @@
 
 
 
-<animation id="SCAP_DoubleTeamGround_FM_3Human_03" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoubleTeamGround_MM_3Human_03" frames="500">
+	<actor gender="M">
 		<idle form="0000BFA8" id="FMM-Floor05-03DoubleTeam-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1248,8 +1248,8 @@
 
 
 
-<animation id="SCAP_RoughDoubleTeamGround_FM_3Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_RoughDoubleTeamGround_MM_3Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="0000103A" id="FMM-Floor02-01DoubleTeamRough-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1261,8 +1261,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_RoughDoubleTeamGround_FM_3Human_01_S2" frames="1000">
-	<actor gender="F">
+<animation id="SCAP_RoughDoubleTeamGround_MM_3Human_01_S2" frames="1000">
+	<actor gender="M">
 		<idle form="0000103D" id="FMM-Floor02-02DoubleTeamRough-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1275,8 +1275,8 @@
 
 
 
-<animation id="SCAP_StandingDoubleTeam_FM_3Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoubleTeam_MM_3Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00001825" id="FMM-Standing01-01Caught-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1287,8 +1287,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoubleTeam_FM_3Human_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoubleTeam_MM_3Human_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="0000104C" id="FMM-Standing01-02DoubleTeam-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1301,8 +1301,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoubleTeam_FM_3Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoubleTeam_MM_3Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00001828" id="FMM-Standing01-03DoubleTeam-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1317,8 +1317,8 @@
 
 <!-- Gangbang Animations -->
 
-<animation id="SCAP_GangbangGround_FM_3Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_GangbangGround_MM_3Human_01" frames="500">
+	<actor gender="M">
 		<idle form="0000550D" id="FMM-Floor03-03Gangbang-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1332,8 +1332,8 @@
 
 <!-- Handjob Animations -->
 
-<animation id="SCAP_HandjobCouch_FM_3Human_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobCouch_MM_3Human_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00002763" id="FMM-Couch02-03Handjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1346,8 +1346,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobCouch_FM_3Human_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobCouch_MM_3Human_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00012319" id="FMM-Couch02-04Handjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1360,8 +1360,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobCouch_FM_3Human_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobCouch_MM_3Human_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00003698" id="FMM-Couch02-05Blowjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1376,8 +1376,8 @@
 
 <!-- Threesome Animations -->
 
-<animation id="SCAP_ThreesomeBunkBed_FM_3Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_ThreesomeBunkBed_MM_3Human_01" frames="500">
+	<actor gender="M">
 		<idle form="00010C3C" id="FMM-BunkBed01-03Threesome-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1392,8 +1392,8 @@
 
 <!-- Gangbang Animations -->
 
-<animation id="SCAP_GangbangGround_FM_4Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_GangbangGround_MM_4Human_01" frames="500">
+	<actor gender="M">
 		<idle form="00011B76" id="FMMM-Floor01-03Gangbang-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1411,8 +1411,8 @@
 
 
 
-<animation id="SCAP_GangbangGround_FM_4Human_02" frames="500">
-	<actor gender="F">
+<animation id="SCAP_GangbangGround_MM_4Human_02" frames="500">
+	<actor gender="M">
 		<idle form="00006BE9" id="FMMM-Floor02-03Gangbang-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1431,8 +1431,8 @@
 
 
 
-<animation id="SCAP_GangbangGround_FM_4Human_03" frames="500">
-	<actor gender="F">
+<animation id="SCAP_GangbangGround_MM_4Human_03" frames="500">
+	<actor gender="M">
 		<idle form="00007388" id="FMMM-Floor03-03Gangbang-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1450,8 +1450,8 @@
 
 
 
-<animation id="SCAP_StandingGangbang_FM_4Human_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingGangbang_MM_4Human_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00001052" id="FMMM-Standing01-01Gangbang-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1468,8 +1468,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingGangbang_FM_4Human_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingGangbang_MM_4Human_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="00001056" id="FMMM-Standing01-02Gangbang-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1488,8 +1488,8 @@
 
 <!-- Gangbang Animations -->
 
-<animation id="SCAP_GangbangGround_FM_5Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_GangbangGround_MM_5Human_01" frames="500">
+	<actor gender="M">
 		<idle form="0000105A" id="FMMMM-Floor01-01Gangbang-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1508,8 +1508,8 @@
 
 
 
-<animation id="SCAP_GangbangGround_FM_5Human_02" frames="500">
-	<actor gender="F">
+<animation id="SCAP_GangbangGround_MM_5Human_02" frames="500">
+	<actor gender="M">
 		<idle form="000113D8" id="FMMMM-Floor02-03Gangbang-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1529,8 +1529,8 @@
 
 <!-- Handjob Animations -->
 
-<animation id="SCAP_StandingHandjob_FM_5Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingHandjob_MM_5Human_01" frames="500">
+	<actor gender="M">
 		<idle form="00021EF8" id="FMMMM-Standing01-03Multiple-Handjob-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1549,8 +1549,8 @@
 
 <!-- Gangbang Animations -->
 
-<animation id="SCAP_GangbangGround_FM_9Human_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_GangbangGround_MM_9Human_01" frames="500">
+	<actor gender="M">
 		<idle form="00021F0D" id="FMMMMMMMM-Floor01-03Gangbang-F1"/>
 	</actor>
 	<actor gender="M">
@@ -1583,8 +1583,8 @@
 
 <!-- Blowjob Animations -->
 
-<animation id="SCAP_StandingBlowjob_FM_2Ghoul_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingBlowjob_MM_2Ghoul_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="0000A182" id="FBG-Standing02-03Blowjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1592,8 +1592,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingBlowjob_FM_2Ghoul_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingBlowjob_MM_2Ghoul_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0001231E" id="FBG-Standing02-04Blowjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1601,8 +1601,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingBlowjob_FM_2Ghoul_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingBlowjob_MM_2Ghoul_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00012320" id="FBG-Standing02-05Blowjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1612,8 +1612,8 @@
 
 <!-- Doggy Animations -->
 
-<animation id="SCAP_DoggyGround_FM_2Ghoul_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyGround_MM_2Ghoul_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="000045E2" id="FBG-Floor01-03Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1621,8 +1621,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyGround_FM_2Ghoul_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyGround_MM_2Ghoul_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00004D85" id="FBG-Floor01-04Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1630,8 +1630,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyGround_FM_2Ghoul_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyGround_MM_2Ghoul_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00005525" id="FBG-Floor01-05Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1639,8 +1639,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyGround_FM_2Ghoul_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyGround_MM_2Ghoul_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="00005CC2" id="FBG-Floor01-06Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1648,8 +1648,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyGround_FM_2Ghoul_01_S7" frames="250">
-	<actor gender="F">
+<animation id="SCAP_DoggyGround_MM_2Ghoul_01_S7" frames="250">
+	<actor gender="M">
 		<idle form="00006469" id="FBG-Floor01-07Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1659,8 +1659,8 @@
 
 
 
-<animation id="SCAP_StandingDoggy_FM_2Ghoul_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Ghoul_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="0000276A" id="FFG-Standing01-03Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1668,8 +1668,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoggy_FM_2Ghoul_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Ghoul_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0000B0BC" id="FFG-Standing01-04Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1677,8 +1677,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoggy_FM_2Ghoul_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Ghoul_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0000B0BE" id="FFG-Standing01-05Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1686,8 +1686,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoggy_FM_2Ghoul_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Ghoul_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="0000B0C0" id="FFG-Standing01-06Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1695,8 +1695,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoggy_FM_2Ghoul_01_S7" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Ghoul_01_S7" frames="500">
+	<actor gender="M">
 		<idle form="0001231C" id="FFG-Standing01-07Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1706,8 +1706,8 @@
 
 <!-- Carry Animations -->
 
-<animation id="SCAP_StandingCarry_FM_2Ghoul_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingCarry_MM_2Ghoul_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="0000A17F" id="FBG-Standing01-03Carry-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1715,8 +1715,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingCarry_FM_2Ghoul_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingCarry_MM_2Ghoul_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00012322" id="FBG-Standing01-04Carry-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1724,8 +1724,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingCarry_FM_2Ghoul_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingCarry_MM_2Ghoul_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00012324" id="FBG-Standing01-05Carry-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1733,8 +1733,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingCarry_FM_2Ghoul_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingCarry_MM_2Ghoul_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="00012AC1" id="FBG-Standing01-06Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1744,8 +1744,8 @@
 
 <!-- Handjob Animations -->
 
-<animation id="SCAP_StandingHandjob_FM_2Ghoul_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingHandjob_MM_2Ghoul_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00014198" id="FFG-Standing02-03Handjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1753,8 +1753,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingHandjob_FM_2Ghoul_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingHandjob_MM_2Ghoul_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0001419A" id="FFG-Standing02-04Handjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1762,8 +1762,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingHandjob_FM_2Ghoul_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingHandjob_MM_2Ghoul_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0001419D" id="FFG-Standing02-05Blowjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1771,8 +1771,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingHandjob_FM_2Ghoul_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingHandjob_MM_2Ghoul_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="0001419F" id="FFG-Standing02-06Blowjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="FeralGhoul">
@@ -1782,8 +1782,8 @@
 
 <!-- Blowjob Animations -->
 
-<animation id="SCAP_BlowjobBed_FM_2Dog_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_BlowjobBed_MM_2Dog_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00021F00" id="FD-Bed01-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1791,8 +1791,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_BlowjobBed_FM_2Dog_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_BlowjobBed_MM_2Dog_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="000226AF" id="FD-Bed01-02Start-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1800,8 +1800,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_BlowjobBed_FM_2Dog_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_BlowjobBed_MM_2Dog_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="000207BC" id="FD-Bed01-03Handjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1809,8 +1809,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_BlowjobBed_FM_2Dog_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_BlowjobBed_MM_2Dog_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="000207BE" id="FD-Bed01-04Blowjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1818,8 +1818,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_BlowjobBed_FM_2Dog_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_BlowjobBed_MM_2Dog_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="000207C2" id="FD-Bed01-05Blowjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1827,8 +1827,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_BlowjobBed_FM_2Dog_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_BlowjobBed_MM_2Dog_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="000207C0" id="FD-Bed01-06Facefuck-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1836,8 +1836,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_BlowjobBed_FM_2Dog_01_S7" frames="200">
-	<actor gender="F">
+<animation id="SCAP_BlowjobBed_MM_2Dog_01_S7" frames="200">
+	<actor gender="M">
 		<idle form="00021718" id="FD-Bed01-07Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1845,8 +1845,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_BlowjobBed_FM_2Dog_01_S8" frames="500">
-	<actor gender="F">
+<animation id="SCAP_BlowjobBed_MM_2Dog_01_S8" frames="500">
+	<actor gender="M">
 		<idle form="000235FA" id="FD-Bed01-08Finish-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1856,8 +1856,8 @@
 
 <!-- Doggy Animations -->
 
-<animation id="SCAP_DoggyBed_FM_2Dog_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_2Dog_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00021F02" id="FD-Bed02-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1865,8 +1865,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyBed_FM_2Dog_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_2Dog_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="000226B1" id="FD-Bed02-02Start-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1874,8 +1874,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyBed_FM_2Dog_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_2Dog_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="000207D2" id="FD-Bed02-03Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1883,8 +1883,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyBed_FM_2Dog_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_2Dog_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="000207D4" id="FD-Bed02-04Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1892,8 +1892,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyBed_FM_2Dog_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_2Dog_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00020F73" id="FD-Bed02-05Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1901,8 +1901,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyBed_FM_2Dog_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_2Dog_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="00020F75" id="FD-Bed02-06Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1910,8 +1910,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyBed_FM_2Dog_01_S7" frames="200">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_2Dog_01_S7" frames="200">
+	<actor gender="M">
 		<idle form="00021716" id="FD-Bed02-07Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1919,8 +1919,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyBed_FM_2Dog_01_S8" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_2Dog_01_S8" frames="500">
+	<actor gender="M">
 		<idle form="00023601" id="FD-Bed02-08Finish-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1930,8 +1930,8 @@
 
 
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Dog_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Dog_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="000226B7" id="FD-DoubleBed03-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1939,8 +1939,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Dog_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Dog_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="0002360D" id="FD-DoubleBed03-02Start-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1948,8 +1948,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Dog_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Dog_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00021ECF" id="FD-DoubleBed03-03Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1957,8 +1957,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Dog_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Dog_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00021ED1" id="FD-DoubleBed03-04Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1966,8 +1966,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Dog_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Dog_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00021ED3" id="FD-DoubleBed03-05Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1975,8 +1975,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Dog_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Dog_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="00021ED5" id="FD-DoubleBed03-06Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1984,8 +1984,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Dog_01_S7" frames="200">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Dog_01_S7" frames="200">
+	<actor gender="M">
 		<idle form="000226B9" id="FD-DoubleBed03-07Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -1993,8 +1993,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Dog_01_S8" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Dog_01_S8" frames="500">
+	<actor gender="M">
 		<idle form="0002360F" id="FD-DoubleBed03-08Finish-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2004,8 +2004,8 @@
 
 
 
-<animation id="SCAP_DoggyGround_FM_2Dog_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyGround_MM_2Dog_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="0001AC2C" id="FD-Floor01-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2013,8 +2013,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyGround_FM_2Dog_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyGround_MM_2Dog_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="0001A491" id="FD-Floor01-02Start-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2022,8 +2022,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyGround_FM_2Dog_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyGround_MM_2Dog_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="0001601E" id="FD-Floor01-03Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2031,8 +2031,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyGround_FM_2Dog_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyGround_MM_2Dog_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00016F54" id="FD-Floor01-04Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2040,8 +2040,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyGround_FM_2Dog_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyGround_MM_2Dog_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00015883" id="FD-Floor01-05Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2049,8 +2049,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyGround_FM_2Dog_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyGround_MM_2Dog_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="000176EF" id="FD-Floor01-06Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2058,8 +2058,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyGround_FM_2Dog_01_S7" frames="200">
-	<actor gender="F">
+<animation id="SCAP_DoggyGround_MM_2Dog_01_S7" frames="200">
+	<actor gender="M">
 		<idle form="0001C309" id="FD-Floor01-07Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2067,8 +2067,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyGround_FM_2Dog_01_S8" frames="200">
-	<actor gender="F">
+<animation id="SCAP_DoggyGround_MM_2Dog_01_S8" frames="200">
+	<actor gender="M">
 		<idle form="0001CAA4" id="FD-Floor01-08Finish-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2078,8 +2078,8 @@
 
 
 
-<animation id="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00021F06" id="FD-RoundTableSmall01-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2087,8 +2087,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="00022E5F" id="FD-RoundTableSmall01-02Start-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2096,8 +2096,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="000207B5" id="FD-RoundTableSmall01-03Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2105,8 +2105,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="000207CE" id="FD-RoundTableSmall01-04Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2114,8 +2114,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="000207D0" id="FD-RoundTableSmall01-05Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2123,8 +2123,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="000207CC" id="FD-RoundTableSmall01-06Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2132,8 +2132,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S7" frames="200">
-	<actor gender="F">
+<animation id="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S7" frames="200">
+	<actor gender="M">
 		<idle form="000226C4" id="FD-RoundTableSmall01-07Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2141,8 +2141,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S8" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyRoundTableSmall_MM_2Dog_01_S8" frames="500">
+	<actor gender="M">
 		<idle form="000235FC" id="FD-RoundTableSmall01-08Finish-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2152,8 +2152,8 @@
 
 
 
-<animation id="SCAP_StandingDoggy_FM_2Dog_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Dog_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="0001E930" id="FD-Standing01-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2161,8 +2161,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoggy_FM_2Dog_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Dog_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="00020001" id="FD-Standing01-02Start-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2170,8 +2170,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoggy_FM_2Dog_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Dog_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="0001E175" id="FD-Standing01-03Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2179,8 +2179,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoggy_FM_2Dog_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Dog_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0001E91C" id="FD-Standing01-04Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2188,8 +2188,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoggy_FM_2Dog_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Dog_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0001E920" id="FD-Standing01-05Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2197,8 +2197,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoggy_FM_2Dog_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Dog_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="0001E924" id="FD-Standing01-06Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2206,8 +2206,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoggy_FM_2Dog_01_S7" frames="200">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Dog_01_S7" frames="200">
+	<actor gender="M">
 		<idle form="00020003" id="FD-Standing01-07Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2215,8 +2215,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoggy_FM_2Dog_01_S8" frames="200">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Dog_01_S8" frames="200">
+	<actor gender="M">
 		<idle form="00020007" id="FD-Standing01-08Finish-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2226,8 +2226,8 @@
 
 <!-- Handjob Animations -->
 
-<animation id="SCAP_HandjobDoubleBed_FM_2Dog_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="000226B5" id="FD-DoubleBed02-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2235,8 +2235,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobDoubleBed_FM_2Dog_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="000226B3" id="FD-DoubleBed02-02Start-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2244,8 +2244,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobDoubleBed_FM_2Dog_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="000207C4" id="FD-DoubleBed02-03Handjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2253,8 +2253,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobDoubleBed_FM_2Dog_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="000207C6" id="FD-DoubleBed02-04Handjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2262,8 +2262,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobDoubleBed_FM_2Dog_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="000207C8" id="FD-DoubleBed02-05Blowjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2271,8 +2271,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobDoubleBed_FM_2Dog_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="000207CA" id="FD-DoubleBed02-06Facefuck-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2280,8 +2280,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobDoubleBed_FM_2Dog_01_S7" frames="200">
-	<actor gender="F">
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S7" frames="200">
+	<actor gender="M">
 		<idle form="00021F04" id="FD-DoubleBed02-07Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2289,8 +2289,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_HandjobDoubleBed_FM_2Dog_01_S8" frames="500">
-	<actor gender="F">
+<animation id="SCAP_HandjobDoubleBed_MM_2Dog_01_S8" frames="500">
+	<actor gender="M">
 		<idle form="00023603" id="FD-DoubleBed02-08Finish-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2300,8 +2300,8 @@
 
 <!-- Missionary Animations -->
 
-<animation id="SCAP_MissionaryCouch_FM_2Dog_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryCouch_MM_2Dog_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="0001E914" id="FD-Couch01-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2309,8 +2309,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryCouch_FM_2Dog_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryCouch_MM_2Dog_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="0001E916" id="FD-Couch01-02Start-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2318,8 +2318,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryCouch_FM_2Dog_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryCouch_MM_2Dog_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="0001D23F" id="FD-Couch01-03Missionary-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2327,8 +2327,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryCouch_FM_2Dog_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryCouch_MM_2Dog_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0001D9DA" id="FD-Couch01-04Missionary-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2336,8 +2336,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryCouch_FM_2Dog_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryCouch_MM_2Dog_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0001E910" id="FD-Couch01-05Missionary-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2345,8 +2345,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryCouch_FM_2Dog_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryCouch_MM_2Dog_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="0001E912" id="FD-Couch01-06Missionary-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2354,8 +2354,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryCouch_FM_2Dog_01_S7" frames="200">
-	<actor gender="F">
+<animation id="SCAP_MissionaryCouch_MM_2Dog_01_S7" frames="200">
+	<actor gender="M">
 		<idle form="0001E918" id="FD-Couch01-07Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2363,8 +2363,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryCouch_FM_2Dog_01_S8" frames="200">
-	<actor gender="F">
+<animation id="SCAP_MissionaryCouch_MM_2Dog_01_S8" frames="200">
+	<actor gender="M">
 		<idle form="0001E91A" id="FD-Couch01-08Finish-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2374,8 +2374,8 @@
 
 
 
-<animation id="SCAP_MissionaryGround_FM_2Dog_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryGround_MM_2Dog_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="000226BB" id="FD-Floor02-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2383,8 +2383,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryGround_FM_2Dog_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryGround_MM_2Dog_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="000226BD" id="FD-Floor02-02Start-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2392,8 +2392,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryGround_FM_2Dog_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryGround_MM_2Dog_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="000226BF" id="FD-Floor02-03Missionary-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2401,8 +2401,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryGround_FM_2Dog_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryGround_MM_2Dog_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="000207B7" id="FD-Floor02-04Sitting-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2410,8 +2410,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryGround_FM_2Dog_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryGround_MM_2Dog_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00020F6F" id="FD-Floor02-05Missionary-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2419,8 +2419,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryGround_FM_2Dog_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryGround_MM_2Dog_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="00020F71" id="FD-Floor02-06Missionary-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2428,8 +2428,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryGround_FM_2Dog_01_S7" frames="200">
-	<actor gender="F">
+<animation id="SCAP_MissionaryGround_MM_2Dog_01_S7" frames="200">
+	<actor gender="M">
 		<idle form="0002171A" id="FD-Floor02-07Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2437,8 +2437,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryGround_FM_2Dog_01_S8" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryGround_MM_2Dog_01_S8" frames="500">
+	<actor gender="M">
 		<idle form="00023605" id="FD-Floor02-08Finish-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2448,8 +2448,8 @@
 
 
 
-<animation id="SCAP_MissionarySleepingBag_FM_2Dog_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionarySleepingBag_MM_2Dog_01" frames="500">
+	<actor gender="M">
 		<idle form="00021EDF" id="FD-SleepingBag01-03Missionary-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2459,8 +2459,8 @@
 
 <!-- Sideways Animations -->
 
-<animation id="SCAP_SidewaysDoubleBed_FM_2Dog_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SidewaysDoubleBed_MM_2Dog_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="0001E91E" id="FD-DoubleBed01-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2468,8 +2468,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SidewaysDoubleBed_FM_2Dog_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SidewaysDoubleBed_MM_2Dog_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="0001E92C" id="FD-DoubleBed01-02Start-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2477,8 +2477,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SidewaysDoubleBed_FM_2Dog_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SidewaysDoubleBed_MM_2Dog_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="0001E922" id="FD-DoubleBed01-03Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2486,8 +2486,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SidewaysDoubleBed_FM_2Dog_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SidewaysDoubleBed_MM_2Dog_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0001E926" id="FD-DoubleBed01-04Sideways-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2495,8 +2495,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SidewaysDoubleBed_FM_2Dog_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SidewaysDoubleBed_MM_2Dog_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0001E928" id="FD-DoubleBed01-05Sideways-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2504,8 +2504,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SidewaysDoubleBed_FM_2Dog_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SidewaysDoubleBed_MM_2Dog_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="0001E92A" id="FD-DoubleBed01-06Missionary-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2513,8 +2513,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SidewaysDoubleBed_FM_2Dog_01_S7" frames="200">
-	<actor gender="F">
+<animation id="SCAP_SidewaysDoubleBed_MM_2Dog_01_S7" frames="200">
+	<actor gender="M">
 		<idle form="0001E92E" id="FD-DoubleBed01-07Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2522,8 +2522,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SidewaysDoubleBed_FM_2Dog_01_S8" frames="200">
-	<actor gender="F">
+<animation id="SCAP_SidewaysDoubleBed_MM_2Dog_01_S8" frames="200">
+	<actor gender="M">
 		<idle form="0001F866" id="FD-DoubleBed01-08Finish-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2533,8 +2533,8 @@
 
 <!-- Sitting Animations -->
 
-<animation id="SCAP_SittingChair_FM_2Dog_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SittingChair_MM_2Dog_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00017E8A" id="FD-Chair01-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2542,8 +2542,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SittingChair_FM_2Dog_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SittingChair_MM_2Dog_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="00018625" id="FD-Chair01-02Start-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2551,8 +2551,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SittingChair_FM_2Dog_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SittingChair_MM_2Dog_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="000167B9" id="FD-Chair01-03Sitting-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2560,8 +2560,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SittingChair_FM_2Dog_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SittingChair_MM_2Dog_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00018DC0" id="FD-Chair01-04Sitting-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2569,8 +2569,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SittingChair_FM_2Dog_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SittingChair_MM_2Dog_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0001955B" id="FD-Chair01-05Sitting-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2578,8 +2578,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SittingChair_FM_2Dog_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_SittingChair_MM_2Dog_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="00019CF6" id="FD-Chair01-06Sitting-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2587,8 +2587,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SittingChair_FM_2Dog_01_S7" frames="200">
-	<actor gender="F">
+<animation id="SCAP_SittingChair_MM_2Dog_01_S7" frames="200">
+	<actor gender="M">
 		<idle form="0001AC2E" id="FD-Chair01-07Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2596,8 +2596,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_SittingChair_FM_2Dog_01_S8" frames="200">
-	<actor gender="F">
+<animation id="SCAP_SittingChair_MM_2Dog_01_S8" frames="200">
+	<actor gender="M">
 		<idle form="0001BB6E" id="FD-Chair01-08Finish-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2607,8 +2607,8 @@
 
 <!-- Doggy Animations -->
 
-<animation id="SCAP_DoggyDoubleBed_FM_3Dog_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00021ED7" id="FDD-DoubleBed01-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2619,8 +2619,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_3Dog_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="00021EFD" id="FDD-DoubleBed01-02Start-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2631,8 +2631,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_3Dog_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00021723" id="FDD-DoubleBed01-03Doggy-BlowJob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2643,8 +2643,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_3Dog_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00021EBF" id="FDD-DoubleBed01-04Doggy-HandJob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2655,8 +2655,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_3Dog_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00021EC2" id="FDD-DoubleBed01-05Doggy-HandJob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2667,8 +2667,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_3Dog_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="00021EDC" id="FDD-DoubleBed01-06Doggy-BlowJob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2679,8 +2679,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_3Dog_01_S7" frames="200">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S7" frames="200">
+	<actor gender="M">
 		<idle form="00021EE1" id="FDD-DoubleBed01-07Climax-BlowJob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2691,8 +2691,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_3Dog_01_S8" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S8" frames="500">
+	<actor gender="M">
 		<idle form="00021EE4" id="FDD-DoubleBed01-08Switch-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2703,8 +2703,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_3Dog_01_S9" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S9" frames="500">
+	<actor gender="M">
 		<idle form="00021EE7" id="FDD-DoubleBed01-09Missionary-HandJob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2715,8 +2715,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_3Dog_01_S10" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S10" frames="500">
+	<actor gender="M">
 		<idle form="00021EEA" id="FDD-DoubleBed01-10Missionary-HandJob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2727,8 +2727,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_3Dog_01_S11" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S11" frames="500">
+	<actor gender="M">
 		<idle form="00021EED" id="FDD-DoubleBed01-11Missionary-HandJob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2739,8 +2739,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_3Dog_01_S12" frames="200">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S12" frames="200">
+	<actor gender="M">
 		<idle form="00021F08" id="FDD-DoubleBed01-12Climax-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2751,8 +2751,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_3Dog_01_S13" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_3Dog_01_S13" frames="500">
+	<actor gender="M">
 		<idle form="000235FE" id="FDD-DoubleBed01-13Finish-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2765,8 +2765,8 @@
 
 <!-- Doggy Animations -->
 
-<animation id="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00023607" id="FDH-Floor01-01TeaseRestrained-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2777,8 +2777,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="00023611" id="FDH-Floor01-02StartRestrained-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2789,8 +2789,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="000207B0" id="FDH-Floor01-03DoggyRestrained-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2801,8 +2801,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00020F77" id="FDH-Floor01-04DoggyRestrained-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2813,8 +2813,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00020F7A" id="FDH-Floor01-05DoggyRestrained-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2825,8 +2825,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="000207B9" id="FDH-Floor01-06DoggyRestrained-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2837,8 +2837,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S7" frames="200">
-	<actor gender="F">
+<animation id="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S7" frames="200">
+	<actor gender="M">
 		<idle form="00021720" id="FDH-Floor01-07ClimaxRestrained-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2849,8 +2849,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S8" frames="500">
-	<actor gender="F">
+<animation id="SCAP_RestrainedDoggyGround_MM_2ActorDog_01_S8" frames="500">
+	<actor gender="M">
 		<idle form="000226C1" id="FDH-Floor01-08FinishRestrained-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Dog">
@@ -2863,8 +2863,8 @@
 
 <!-- Blowjob Animations -->
 
-<animation id="SCAP_BlowjobDoubleBed_FM_2Mutant_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_BlowjobDoubleBed_MM_2Mutant_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00007B5D" id="FSM-DoubleBed02-03Blowjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -2873,8 +2873,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_BlowjobDoubleBed_FM_2Mutant_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_BlowjobDoubleBed_MM_2Mutant_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="000099E2" id="FSM-DoubleBed02-04Blowjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -2883,8 +2883,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_BlowjobDoubleBed_FM_2Mutant_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_BlowjobDoubleBed_MM_2Mutant_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0000A91F" id="FSM-DoubleBed02-05Standing69-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -2893,8 +2893,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_BlowjobDoubleBed_FM_2Mutant_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_BlowjobDoubleBed_MM_2Mutant_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="0000E624" id="FSM-DoubleBed02-06Standing69-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -2902,8 +2902,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_BlowjobDoubleBed_FM_2Mutant_01_S7" frames="500">
-	<actor gender="F">
+<animation id="SCAP_BlowjobDoubleBed_MM_2Mutant_01_S7" frames="500">
+	<actor gender="M">
 		<idle form="00012313" id="FSM-DoubleBed02-07Standing69-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -2911,8 +2911,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_BlowjobDoubleBed_FM_2Mutant_01_S8" frames="500">
-	<actor gender="F">
+<animation id="SCAP_BlowjobDoubleBed_MM_2Mutant_01_S8" frames="500">
+	<actor gender="M">
 		<idle form="00012315" id="FSM-DoubleBed02-08Deepthroat69-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -2923,8 +2923,8 @@
 
 
 
-<animation id="SCAP_StandingBlowjob_FM_2Mutant_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingBlowjob_MM_2Mutant_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00007B5F" id="FSM-Standing02-03Handjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -2932,8 +2932,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingBlowjob_FM_2Mutant_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingBlowjob_MM_2Mutant_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0000DE87" id="FSM-Standing02-04Blowjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -2941,8 +2941,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingBlowjob_FM_2Mutant_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingBlowjob_MM_2Mutant_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="000150E6" id="FSM-Standing02-05Blowjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -2950,8 +2950,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingBlowjob_FM_2Mutant_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingBlowjob_MM_2Mutant_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="000150E8" id="FSM-Standing02-06Blowjob-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -2961,8 +2961,8 @@
 
 <!-- Carry Animations -->
 
-<animation id="SCAP_StandingCarry_FM_2Mutant_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingCarry_MM_2Mutant_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="0000D6E6" id="FSM-Standing03-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -2971,8 +2971,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingCarry_FM_2Mutant_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingCarry_MM_2Mutant_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="0000D6E8" id="FSM-Standing03-03Carry-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -2981,8 +2981,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingCarry_FM_2Mutant_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingCarry_MM_2Mutant_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00012317" id="FSM-Standing03-04Carry-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -2991,8 +2991,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingCarry_FM_2Mutant_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingCarry_MM_2Mutant_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00012326" id="FSM-Standing03-05Carry-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3003,8 +3003,8 @@
 
 <!-- Cowgirl Animations -->
 
-<animation id="SCAP_CowgirlDoubleBed_FM_2Mutant_01_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlDoubleBed_MM_2Mutant_01_S1" frames="500">
+	<actor gender="M">
 		<idle form="00021EDA" id="FSM-DoubleBed03-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3012,8 +3012,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_CowgirlDoubleBed_FM_2Mutant_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlDoubleBed_MM_2Mutant_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="0000E626" id="FSM-DoubleBed03-03Cowgirl-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3021,8 +3021,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_CowgirlDoubleBed_FM_2Mutant_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlDoubleBed_MM_2Mutant_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0000E628" id="FSM-DoubleBed03-04Cowgirl-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3030,8 +3030,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_CowgirlDoubleBed_FM_2Mutant_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlDoubleBed_MM_2Mutant_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0000EDCB" id="FSM-DoubleBed03-05Cowgirl-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3040,8 +3040,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_CowgirlDoubleBed_FM_2Mutant_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_CowgirlDoubleBed_MM_2Mutant_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="0000F566" id="FSM-DoubleBed03-06Cowgirl-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3052,8 +3052,8 @@
 
 <!-- Doggy Animations -->
 
-<animation id="SCAP_DoggyBed_FM_2Mutant_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_2Mutant_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="0000C7A2" id="FSM-SMBed02-03Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3062,8 +3062,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyBed_FM_2Mutant_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_2Mutant_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="000139F9" id="FSM-SMBed02-04Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3071,8 +3071,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyBed_FM_2Mutant_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_2Mutant_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="000139FB" id="FSM-SMBed02-05Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3080,8 +3080,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyBed_FM_2Mutant_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_2Mutant_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="000139FD" id="FSM-SMBed02-06Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3092,8 +3092,8 @@
 
 
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Mutant_01_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Mutant_01_S2" frames="500">
+	<actor gender="M">
 		<idle form="00021F0B" id="FSM-DoubleBed01-02Start-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3101,8 +3101,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Mutant_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Mutant_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00007B5B" id="FSM-DoubleBed01-03Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3110,8 +3110,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Mutant_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Mutant_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0000923E" id="FSM-DoubleBed01-04Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3119,8 +3119,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Mutant_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Mutant_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0000D6E2" id="FSM-DoubleBed01-05Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3128,8 +3128,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyDoubleBed_FM_2Mutant_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyDoubleBed_MM_2Mutant_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="0000D6E4" id="FSM-DoubleBed01-06Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3139,8 +3139,8 @@
 
 
 
-<animation id="SCAP_StandingDoggy_FM_2Mutant_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Mutant_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00002F04" id="FSM-Standing01-03Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3148,8 +3148,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoggy_FM_2Mutant_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Mutant_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0000B85F" id="FSM-Standing01-04Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3157,8 +3157,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoggy_FM_2Mutant_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Mutant_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0000B861" id="FSM-Standing01-05Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3167,8 +3167,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_StandingDoggy_FM_2Mutant_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoggy_MM_2Mutant_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="0000B863" id="FSM-Standing01-06Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3179,8 +3179,8 @@
 
 <!-- Missionary Animations -->
 
-<animation id="SCAP_MissionaryBed_FM_2Mutant_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryBed_MM_2Mutant_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00012AC3" id="FSM-Bed01-03Missionary-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3188,8 +3188,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryBed_FM_2Mutant_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryBed_MM_2Mutant_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="0001493A" id="FSM-Bed01-04Missionary-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3198,8 +3198,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryBed_FM_2Mutant_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryBed_MM_2Mutant_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="0001493C" id="FSM-Bed01-05Powerbomb-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3210,8 +3210,8 @@
 
 
 
-<animation id="SCAP_MissionaryBed_FM_2Mutant_02_S1" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryBed_MM_2Mutant_02_S1" frames="500">
+	<actor gender="M">
 		<idle form="00003E3D" id="FSM-SMBed01-01Tease-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3220,8 +3220,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryBed_FM_2Mutant_02_S2" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryBed_MM_2Mutant_02_S2" frames="500">
+	<actor gender="M">
 		<idle form="00003E3F" id="FSM-SMBed01-02Start-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3230,8 +3230,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryBed_FM_2Mutant_02_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryBed_MM_2Mutant_02_S3" frames="500">
+	<actor gender="M">
 		<idle form="00003E41" id="FSM-SMBed01-03Missionary-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3240,8 +3240,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryBed_FM_2Mutant_02_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryBed_MM_2Mutant_02_S4" frames="500">
+	<actor gender="M">
 		<idle form="00003E43" id="FSM-SMBed01-04Missionary-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3250,8 +3250,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_MissionaryBed_FM_2Mutant_02_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_MissionaryBed_MM_2Mutant_02_S5" frames="500">
+	<actor gender="M">
 		<idle form="00003E45" id="FSM-SMBed01-05Missionary-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3262,8 +3262,8 @@
 
 <!-- Powerbomb Animations -->
 
-<animation id="SCAP_ReversePowerBombBed_FM_2Mutant_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_ReversePowerBombBed_MM_2Mutant_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="00021EC7" id="FSM-Bed02-03ReversePowerBomb-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3272,8 +3272,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_ReversePowerBombBed_FM_2Mutant_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_ReversePowerBombBed_MM_2Mutant_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00021EC9" id="FSM-Bed02-04ReversePowerBomb-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3282,8 +3282,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_ReversePowerBombBed_FM_2Mutant_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_ReversePowerBombBed_MM_2Mutant_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00021ECB" id="FSM-Bed02-05ReversePowerBomb-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3292,8 +3292,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_ReversePowerBombBed_FM_2Mutant_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_ReversePowerBombBed_MM_2Mutant_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="00021ECD" id="FSM-Bed02-06ReversePowerBomb-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3304,8 +3304,8 @@
 
 <!-- Wheelbarrow Animations -->
 
-<animation id="SCAP_WheelbarrowGround_FM_2Mutant_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_WheelbarrowGround_MM_2Mutant_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="0001493E" id="FSM-Floor01-03Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3314,8 +3314,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_WheelbarrowGround_FM_2Mutant_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_WheelbarrowGround_MM_2Mutant_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00014940" id="FSM-Floor01-04Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3323,8 +3323,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_WheelbarrowGround_FM_2Mutant_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_WheelbarrowGround_MM_2Mutant_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00014942" id="FSM-Floor01-05Wheelbarrow-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3332,8 +3332,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_WheelbarrowGround_FM_2Mutant_01_S6" frames="500">
-	<actor gender="F">
+<animation id="SCAP_WheelbarrowGround_MM_2Mutant_01_S6" frames="500">
+	<actor gender="M">
 		<idle form="00014944" id="FSM-Floor01-06Wheelbarrow-F"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3344,8 +3344,8 @@
 
 <!-- Doggy Animations -->
 
-<animation id="SCAP_DoggyBed_FM_3Mutant_01_S3" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_3Mutant_01_S3" frames="500">
+	<actor gender="M">
 		<idle form="0001049D" id="FSMSM-SMBed01-03Handjob-Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3356,8 +3356,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyBed_FM_3Mutant_01_S4" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_3Mutant_01_S4" frames="500">
+	<actor gender="M">
 		<idle form="00014946" id="FSMSM-SMBed01-04Handjob-Doggy-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3368,8 +3368,8 @@
 	</actor>
 </animation>
 
-<animation id="SCAP_DoggyBed_FM_3Mutant_01_S5" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoggyBed_MM_3Mutant_01_S5" frames="500">
+	<actor gender="M">
 		<idle form="00014949" id="FSMSM-SMBed01-05Spitroast-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3382,8 +3382,8 @@
 
 <!-- DoubleTeam Animations -->
 
-<animation id="SCAP_DoubleTeamCampBed_FM_3Mutant_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_DoubleTeamCampBed_MM_3Mutant_01" frames="500">
+	<actor gender="M">
 		<idle form="0000FD01" id="FSMSM-CampBed01-03DoubleTeam-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
@@ -3398,8 +3398,8 @@
 
 
 
-<animation id="SCAP_StandingDoubleTeam_FM_3Mutant_01" frames="500">
-	<actor gender="F">
+<animation id="SCAP_StandingDoubleTeam_MM_3Mutant_01" frames="500">
+	<actor gender="M">
 		<idle form="000104A0" id="FSMSM-Standing01-03DoubleTeam-F1"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">

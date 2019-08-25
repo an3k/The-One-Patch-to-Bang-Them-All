@@ -3,9 +3,9 @@
 
 <!-- Dance Animations -->
 
-<animationGroup id="SCAP_Dance_FM_1Human_01_Staged" sequential="true">
-	<stage animation="SCAP_Dance_FM_1Human_01_S1"/>
-	<stage animation="SCAP_Dance_FM_1Human_01_S2"/>
+<animationGroup id="SCAP_Dance_1Human_01_Staged" sequential="true">
+	<stage animation="SCAP_Dance_1Human_01_S1"/>
+	<stage animation="SCAP_Dance_1Human_01_S2"/>
 </animationGroup>
 
 <!-- Deepthroat Animations -->

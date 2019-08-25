@@ -1,4 +1,4 @@
-<meta title="SavageCabbage's Animation Pack - Animation Group Data" version="1.0.4" dataSet="animationGroup"/>
+<meta title="SavageCabbage's Animation Pack - Lesbian Animation Group Data" version="1.0.4" dataSet="animationGroup"/>
 <defaults/>
 
 <!-- Dance Animations -->
@@ -10,207 +10,207 @@
 
 <!-- Deepthroat Animations -->
 
-<animationGroup id="SCAP_DeepthroatBed_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_DeepthroatBed_FM_2Human_01_S1"/>
-	<stage animation="SCAP_DeepthroatBed_FM_2Human_01_S2"/>
-	<stage animation="SCAP_DeepthroatBed_FM_2Human_01_S3"/>
-	<stage animation="SCAP_DeepthroatBed_FM_2Human_01_S4"/>
-	<stage animation="SCAP_DeepthroatBed_FM_2Human_01_S5A"/>
-	<stage animation="SCAP_DeepthroatBed_FM_2Human_01_S5B"/>
-	<stage animation="SCAP_DeepthroatBed_FM_2Human_01_S5C"/>
-	<stage animation="SCAP_DeepthroatBed_FM_2Human_01_S6"/>
-	<stage animation="SCAP_DeepthroatBed_FM_2Human_01_S7"/>
-	<stage animation="SCAP_DeepthroatBed_FM_2Human_01_S8"/>
+<animationGroup id="SCAP_DeepthroatBed_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_DeepthroatBed_FF_2Human_01_S1"/>
+	<stage animation="SCAP_DeepthroatBed_FF_2Human_01_S2"/>
+	<stage animation="SCAP_DeepthroatBed_FF_2Human_01_S3"/>
+	<stage animation="SCAP_DeepthroatBed_FF_2Human_01_S4"/>
+	<stage animation="SCAP_DeepthroatBed_FF_2Human_01_S5A"/>
+	<stage animation="SCAP_DeepthroatBed_FF_2Human_01_S5B"/>
+	<stage animation="SCAP_DeepthroatBed_FF_2Human_01_S5C"/>
+	<stage animation="SCAP_DeepthroatBed_FF_2Human_01_S6"/>
+	<stage animation="SCAP_DeepthroatBed_FF_2Human_01_S7"/>
+	<stage animation="SCAP_DeepthroatBed_FF_2Human_01_S8"/>
 </animationGroup>
 
 <!-- Cowgirl Animations -->
 
-<animationGroup id="SCAP_CowgirlBed_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_CowgirlBed_FM_2Human_01_S1"/>
-	<stage animation="SCAP_CowgirlBed_FM_2Human_01_S3"/>
-	<stage animation="SCAP_CowgirlBed_FM_2Human_01_S4"/>
-	<stage animation="SCAP_CowgirlBed_FM_2Human_01_S5"/>
+<animationGroup id="SCAP_CowgirlBed_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_CowgirlBed_FF_2Human_01_S1"/>
+	<stage animation="SCAP_CowgirlBed_FF_2Human_01_S3"/>
+	<stage animation="SCAP_CowgirlBed_FF_2Human_01_S4"/>
+	<stage animation="SCAP_CowgirlBed_FF_2Human_01_S5"/>
 </animationGroup>
 
-<animationGroup id="SCAP_ReverseCowgirlBench_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_ReverseCowgirlBench_FM_2Human_01_S1"/>
-	<stage animation="SCAP_ReverseCowgirlBench_FM_2Human_01_S3"/>
-	<stage animation="SCAP_ReverseCowgirlBench_FM_2Human_01_S4"/>
-	<stage animation="SCAP_ReverseCowgirlBench_FM_2Human_01_S5"/>
+<animationGroup id="SCAP_ReverseCowgirlBench_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_ReverseCowgirlBench_FF_2Human_01_S1"/>
+	<stage animation="SCAP_ReverseCowgirlBench_FF_2Human_01_S3"/>
+	<stage animation="SCAP_ReverseCowgirlBench_FF_2Human_01_S4"/>
+	<stage animation="SCAP_ReverseCowgirlBench_FF_2Human_01_S5"/>
 </animationGroup>
 
-<animationGroup id="SCAP_CowgirlChair_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_CowgirlChair_FM_2Human_01_S1"/>
-	<stage animation="SCAP_CowgirlChair_FM_2Human_01_S3"/>
-	<stage animation="SCAP_CowgirlChair_FM_2Human_01_S4"/>
-	<stage animation="SCAP_CowgirlChair_FM_2Human_01_S5"/>
-	<stage animation="SCAP_CowgirlChair_FM_2Human_01_S6"/>
+<animationGroup id="SCAP_CowgirlChair_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_CowgirlChair_FF_2Human_01_S1"/>
+	<stage animation="SCAP_CowgirlChair_FF_2Human_01_S3"/>
+	<stage animation="SCAP_CowgirlChair_FF_2Human_01_S4"/>
+	<stage animation="SCAP_CowgirlChair_FF_2Human_01_S5"/>
+	<stage animation="SCAP_CowgirlChair_FF_2Human_01_S6"/>
 </animationGroup>
 
-<animationGroup id="SCAP_CowgirlSeat_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_CowgirlSeat_FM_2Human_01_S3"/>
-	<stage animation="SCAP_CowgirlSeat_FM_2Human_01_S4"/>
-	<stage animation="SCAP_CowgirlSeat_FM_2Human_01_S5"/>
+<animationGroup id="SCAP_CowgirlSeat_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_CowgirlSeat_FF_2Human_01_S3"/>
+	<stage animation="SCAP_CowgirlSeat_FF_2Human_01_S4"/>
+	<stage animation="SCAP_CowgirlSeat_FF_2Human_01_S5"/>
 </animationGroup>
 
 <!-- Doggy Animations -->
 
-<animationGroup id="SCAP_DoggyDesk_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_DoggyDesk_FM_2Human_01_S1"/>
-	<stage animation="SCAP_DoggyDesk_FM_2Human_01_S3"/>
-	<stage animation="SCAP_DoggyDesk_FM_2Human_01_S4"/>
+<animationGroup id="SCAP_DoggyDesk_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_DoggyDesk_FF_2Human_01_S1"/>
+	<stage animation="SCAP_DoggyDesk_FF_2Human_01_S3"/>
+	<stage animation="SCAP_DoggyDesk_FF_2Human_01_S4"/>
 </animationGroup>
 
-<animationGroup id="SCAP_DoggyDoubleBed_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_DoggyDoubleBed_FM_2Human_01_S1"/>
-	<stage animation="SCAP_DoggyDoubleBed_FM_2Human_01_S2"/>
-	<stage animation="SCAP_DoggyDoubleBed_FM_2Human_01_S3"/>
-	<stage animation="SCAP_DoggyDoubleBed_FM_2Human_01_S4"/>
-	<stage animation="SCAP_DoggyDoubleBed_FM_2Human_01_S5"/>
-	<stage animation="SCAP_DoggyDoubleBed_FM_2Human_01_S6"/>
+<animationGroup id="SCAP_DoggyDoubleBed_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_DoggyDoubleBed_FF_2Human_01_S1"/>
+	<stage animation="SCAP_DoggyDoubleBed_FF_2Human_01_S2"/>
+	<stage animation="SCAP_DoggyDoubleBed_FF_2Human_01_S3"/>
+	<stage animation="SCAP_DoggyDoubleBed_FF_2Human_01_S4"/>
+	<stage animation="SCAP_DoggyDoubleBed_FF_2Human_01_S5"/>
+	<stage animation="SCAP_DoggyDoubleBed_FF_2Human_01_S6"/>
 </animationGroup>
 
-<animationGroup id="SCAP_DoggyDoubleBed_FM_2Human_02_Staged" sequential="true">
-	<stage animation="SCAP_DoggyDoubleBed_FM_2Human_02_S1"/>
-	<stage animation="SCAP_DoggyDoubleBed_FM_2Human_02_S3"/>
-	<stage animation="SCAP_DoggyDoubleBed_FM_2Human_02_S4"/>
-	<stage animation="SCAP_DoggyDoubleBed_FM_2Human_02_S5"/>
-	<stage animation="SCAP_DoggyDoubleBed_FM_2Human_02_S6"/>
+<animationGroup id="SCAP_DoggyDoubleBed_FF_2Human_02_Staged" sequential="true">
+	<stage animation="SCAP_DoggyDoubleBed_FF_2Human_02_S1"/>
+	<stage animation="SCAP_DoggyDoubleBed_FF_2Human_02_S3"/>
+	<stage animation="SCAP_DoggyDoubleBed_FF_2Human_02_S4"/>
+	<stage animation="SCAP_DoggyDoubleBed_FF_2Human_02_S5"/>
+	<stage animation="SCAP_DoggyDoubleBed_FF_2Human_02_S6"/>
 </animationGroup>
 
-<animationGroup id="SCAP_RoughDoggyPoolTable_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_RoughDoggyPoolTable_FM_2Human_01_S1"/>
-	<stage animation="SCAP_RoughDoggyPoolTable_FM_2Human_01_S2"/>
-	<stage animation="SCAP_RoughDoggyPoolTable_FM_2Human_01_S3"/>
-	<stage animation="SCAP_RoughDoggyPoolTable_FM_2Human_01_S4"/>
-	<stage animation="SCAP_RoughDoggyPoolTable_FM_2Human_01_S5"/>
+<animationGroup id="SCAP_RoughDoggyPoolTable_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_RoughDoggyPoolTable_FF_2Human_01_S1"/>
+	<stage animation="SCAP_RoughDoggyPoolTable_FF_2Human_01_S2"/>
+	<stage animation="SCAP_RoughDoggyPoolTable_FF_2Human_01_S3"/>
+	<stage animation="SCAP_RoughDoggyPoolTable_FF_2Human_01_S4"/>
+	<stage animation="SCAP_RoughDoggyPoolTable_FF_2Human_01_S5"/>
 </animationGroup>
 
-<animationGroup id="SCAP_DoggyStool_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_DoggyStool_FM_2Human_01_S3"/>
-	<stage animation="SCAP_DoggyStool_FM_2Human_01_S4"/>
-	<stage animation="SCAP_DoggyStool_FM_2Human_01_S5"/>
+<animationGroup id="SCAP_DoggyStool_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_DoggyStool_FF_2Human_01_S3"/>
+	<stage animation="SCAP_DoggyStool_FF_2Human_01_S4"/>
+	<stage animation="SCAP_DoggyStool_FF_2Human_01_S5"/>
 </animationGroup>
 
 <!-- Handjob Animations -->
 
-<animationGroup id="SCAP_HandjobChair_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_HandjobChair_FM_2Human_01_S1"/>
-	<stage animation="SCAP_HandjobChair_FM_2Human_01_S2"/>
-	<stage animation="SCAP_HandjobChair_FM_2Human_01_S3"/>
-	<stage animation="SCAP_HandjobChair_FM_2Human_01_S4"/>
-	<stage animation="SCAP_HandjobChair_FM_2Human_01_S5"/>
-	<stage animation="SCAP_HandjobChair_FM_2Human_01_S6"/>
-	<stage animation="SCAP_HandjobChair_FM_2Human_01_S7"/>
-	<stage animation="SCAP_HandjobChair_FM_2Human_01_S8"/>
+<animationGroup id="SCAP_HandjobChair_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_HandjobChair_FF_2Human_01_S1"/>
+	<stage animation="SCAP_HandjobChair_FF_2Human_01_S2"/>
+	<stage animation="SCAP_HandjobChair_FF_2Human_01_S3"/>
+	<stage animation="SCAP_HandjobChair_FF_2Human_01_S4"/>
+	<stage animation="SCAP_HandjobChair_FF_2Human_01_S5"/>
+	<stage animation="SCAP_HandjobChair_FF_2Human_01_S6"/>
+	<stage animation="SCAP_HandjobChair_FF_2Human_01_S7"/>
+	<stage animation="SCAP_HandjobChair_FF_2Human_01_S8"/>
 </animationGroup>
 
-<animationGroup id="SCAP_HandjobCouch_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_HandjobCouch_FM_2Human_01_S1"/>
-	<stage animation="SCAP_HandjobCouch_FM_2Human_01_S3"/>
-	<stage animation="SCAP_HandjobCouch_FM_2Human_01_S4"/>
-	<stage animation="SCAP_HandjobCouch_FM_2Human_01_S5"/>
+<animationGroup id="SCAP_HandjobCouch_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_HandjobCouch_FF_2Human_01_S1"/>
+	<stage animation="SCAP_HandjobCouch_FF_2Human_01_S3"/>
+	<stage animation="SCAP_HandjobCouch_FF_2Human_01_S4"/>
+	<stage animation="SCAP_HandjobCouch_FF_2Human_01_S5"/>
 </animationGroup>
 
 <!-- Missionary Animations -->
 
-<animationGroup id="SCAP_MissionaryDoubleBed_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_MissionaryDoubleBed_FM_2Human_01_S1"/>
-	<stage animation="SCAP_MissionaryDoubleBed_FM_2Human_01_S3"/>
-	<stage animation="SCAP_MissionaryDoubleBed_FM_2Human_01_S4"/>
-	<stage animation="SCAP_MissionaryDoubleBed_FM_2Human_01_S5"/>
-	<stage animation="SCAP_MissionaryDoubleBed_FM_2Human_01_S6"/>
+<animationGroup id="SCAP_MissionaryDoubleBed_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_MissionaryDoubleBed_FF_2Human_01_S1"/>
+	<stage animation="SCAP_MissionaryDoubleBed_FF_2Human_01_S3"/>
+	<stage animation="SCAP_MissionaryDoubleBed_FF_2Human_01_S4"/>
+	<stage animation="SCAP_MissionaryDoubleBed_FF_2Human_01_S5"/>
+	<stage animation="SCAP_MissionaryDoubleBed_FF_2Human_01_S6"/>
 </animationGroup>
 
-<animationGroup id="SCAP_MissionaryPoolTable_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_MissionaryPoolTable_FM_2Human_01_S1"/>
-	<stage animation="SCAP_MissionaryPoolTable_FM_2Human_01_S2"/>
-	<stage animation="SCAP_MissionaryPoolTable_FM_2Human_01_S3"/>
-	<stage animation="SCAP_MissionaryPoolTable_FM_2Human_01_S4"/>
-	<stage animation="SCAP_MissionaryPoolTable_FM_2Human_01_S5"/>
-	<stage animation="SCAP_MissionaryPoolTable_FM_2Human_01_S6"/>
-	<stage animation="SCAP_MissionaryPoolTable_FM_2Human_01_S7"/>
+<animationGroup id="SCAP_MissionaryPoolTable_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_MissionaryPoolTable_FF_2Human_01_S1"/>
+	<stage animation="SCAP_MissionaryPoolTable_FF_2Human_01_S2"/>
+	<stage animation="SCAP_MissionaryPoolTable_FF_2Human_01_S3"/>
+	<stage animation="SCAP_MissionaryPoolTable_FF_2Human_01_S4"/>
+	<stage animation="SCAP_MissionaryPoolTable_FF_2Human_01_S5"/>
+	<stage animation="SCAP_MissionaryPoolTable_FF_2Human_01_S6"/>
+	<stage animation="SCAP_MissionaryPoolTable_FF_2Human_01_S7"/>
 </animationGroup>
 
 <!-- Powerbomb Animations -->
 
-<animationGroup id="SCAP_PowerbombDoubleBed_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S1"/>
-	<stage animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S3"/>
-	<stage animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S4"/>
-	<stage animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S5"/>
-	<stage animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S6"/>
-	<stage animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S7"/>
+<animationGroup id="SCAP_PowerbombDoubleBed_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_PowerbombDoubleBed_FF_2Human_01_S1"/>
+	<stage animation="SCAP_PowerbombDoubleBed_FF_2Human_01_S3"/>
+	<stage animation="SCAP_PowerbombDoubleBed_FF_2Human_01_S4"/>
+	<stage animation="SCAP_PowerbombDoubleBed_FF_2Human_01_S5"/>
+	<stage animation="SCAP_PowerbombDoubleBed_FF_2Human_01_S6"/>
+	<stage animation="SCAP_PowerbombDoubleBed_FF_2Human_01_S7"/>
 </animationGroup>
 
 <!-- Spoon Animations -->
 
-<animationGroup id="SCAP_SpoonCouch_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_SpoonCouch_FM_2Human_01_S1"/>
-	<stage animation="SCAP_SpoonCouch_FM_2Human_01_S3"/>
-	<stage animation="SCAP_SpoonCouch_FM_2Human_01_S4"/>
-	<stage animation="SCAP_SpoonCouch_FM_2Human_01_S5"/>
+<animationGroup id="SCAP_SpoonCouch_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_SpoonCouch_FF_2Human_01_S1"/>
+	<stage animation="SCAP_SpoonCouch_FF_2Human_01_S3"/>
+	<stage animation="SCAP_SpoonCouch_FF_2Human_01_S4"/>
+	<stage animation="SCAP_SpoonCouch_FF_2Human_01_S5"/>
 </animationGroup>
 
 <!-- Straddle Animations -->
 
-<animationGroup id="SCAP_StraddleBed_FM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_StraddleBed_FM_2Human_01_S1"/>
-	<stage animation="SCAP_StraddleBed_FM_2Human_01_S2"/>
-	<stage animation="SCAP_StraddleBed_FM_2Human_01_S3"/>
-	<stage animation="SCAP_StraddleBed_FM_2Human_01_S4"/>
-	<stage animation="SCAP_StraddleBed_FM_2Human_01_S5"/>
+<animationGroup id="SCAP_StraddleBed_FF_2Human_01_Staged" sequential="true">
+	<stage animation="SCAP_StraddleBed_FF_2Human_01_S1"/>
+	<stage animation="SCAP_StraddleBed_FF_2Human_01_S2"/>
+	<stage animation="SCAP_StraddleBed_FF_2Human_01_S3"/>
+	<stage animation="SCAP_StraddleBed_FF_2Human_01_S4"/>
+	<stage animation="SCAP_StraddleBed_FF_2Human_01_S5"/>
 </animationGroup>
 
 <!-- Doggy Animations -->
 
-<animationGroup id="SCAP_DoggyBed_FM_3Human_01_Staged" sequential="true">
-	<stage animation="SCAP_DoggyBed_FM_3Human_01_S1"/>
-	<stage animation="SCAP_DoggyBed_FM_3Human_01_S2"/>
-	<stage animation="SCAP_DoggyBed_FM_3Human_01_S3"/>
-	<stage animation="SCAP_DoggyBed_FM_3Human_01_S4"/>
+<animationGroup id="SCAP_DoggyBed_FF_3Human_01_Staged" sequential="true">
+	<stage animation="SCAP_DoggyBed_FF_3Human_01_S1"/>
+	<stage animation="SCAP_DoggyBed_FF_3Human_01_S2"/>
+	<stage animation="SCAP_DoggyBed_FF_3Human_01_S3"/>
+	<stage animation="SCAP_DoggyBed_FF_3Human_01_S4"/>
 </animationGroup>
 
-<animationGroup id="SCAP_DoggyChair_FM_3Human_01_Staged" sequential="true">
-	<stage animation="SCAP_DoggyChair_FM_3Human_01_S1"/>
-	<stage animation="SCAP_DoggyChair_FM_3Human_01_S3"/>
-	<stage animation="SCAP_DoggyChair_FM_3Human_01_S4"/>
-	<stage animation="SCAP_DoggyChair_FM_3Human_01_S5"/>
-	<stage animation="SCAP_DoggyChair_FM_3Human_01_S6"/>
-	<stage animation="SCAP_DoggyChair_FM_3Human_01_S7"/>
+<animationGroup id="SCAP_DoggyChair_FF_3Human_01_Staged" sequential="true">
+	<stage animation="SCAP_DoggyChair_FF_3Human_01_S1"/>
+	<stage animation="SCAP_DoggyChair_FF_3Human_01_S3"/>
+	<stage animation="SCAP_DoggyChair_FF_3Human_01_S4"/>
+	<stage animation="SCAP_DoggyChair_FF_3Human_01_S5"/>
+	<stage animation="SCAP_DoggyChair_FF_3Human_01_S6"/>
+	<stage animation="SCAP_DoggyChair_FF_3Human_01_S7"/>
 </animationGroup>
 
 <!-- DoubleTeam Animations -->
 
-<animationGroup id="SCAP_DoubleTeamGround_FM_3Human_01_Staged" sequential="true">
-	<stage animation="SCAP_DoubleTeamGround_FM_3Human_01_S1"/>
-	<stage animation="SCAP_DoubleTeamGround_FM_3Human_01_S2"/>
+<animationGroup id="SCAP_DoubleTeamGround_FF_3Human_01_Staged" sequential="true">
+	<stage animation="SCAP_DoubleTeamGround_FF_3Human_01_S1"/>
+	<stage animation="SCAP_DoubleTeamGround_FF_3Human_01_S2"/>
 </animationGroup>
 
-<animationGroup id="SCAP_RoughDoubleTeamGround_FM_3Human_01_Staged" sequential="true">
-	<stage animation="SCAP_RoughDoubleTeamGround_FM_3Human_01_S1"/>
-	<stage animation="SCAP_RoughDoubleTeamGround_FM_3Human_01_S2"/>
+<animationGroup id="SCAP_RoughDoubleTeamGround_FF_3Human_01_Staged" sequential="true">
+	<stage animation="SCAP_RoughDoubleTeamGround_FF_3Human_01_S1"/>
+	<stage animation="SCAP_RoughDoubleTeamGround_FF_3Human_01_S2"/>
 </animationGroup>
 
-<animationGroup id="SCAP_StandingDoubleTeam_FM_3Human_01_Staged" sequential="true">
-	<stage animation="SCAP_StandingDoubleTeam_FM_3Human_01_S1"/>
-	<stage animation="SCAP_StandingDoubleTeam_FM_3Human_01_S2"/>
-	<stage animation="SCAP_StandingDoubleTeam_FM_3Human_01_S3"/>
+<animationGroup id="SCAP_StandingDoubleTeam_FF_3Human_01_Staged" sequential="true">
+	<stage animation="SCAP_StandingDoubleTeam_FF_3Human_01_S1"/>
+	<stage animation="SCAP_StandingDoubleTeam_FF_3Human_01_S2"/>
+	<stage animation="SCAP_StandingDoubleTeam_FF_3Human_01_S3"/>
 </animationGroup>
 
 <!-- Handjob Animations -->
 
-<animationGroup id="SCAP_HandjobCouch_FM_3Human_01_Staged" sequential="true">
-	<stage animation="SCAP_HandjobCouch_FM_3Human_01_S3"/>
-	<stage animation="SCAP_HandjobCouch_FM_3Human_01_S4"/>
-	<stage animation="SCAP_HandjobCouch_FM_3Human_01_S5"/>
+<animationGroup id="SCAP_HandjobCouch_FF_3Human_01_Staged" sequential="true">
+	<stage animation="SCAP_HandjobCouch_FF_3Human_01_S3"/>
+	<stage animation="SCAP_HandjobCouch_FF_3Human_01_S4"/>
+	<stage animation="SCAP_HandjobCouch_FF_3Human_01_S5"/>
 </animationGroup>
 
 <!-- Gangbang Animations -->
 
-<animationGroup id="SCAP_StandingGangbang_FM_4Human_01_Staged" sequential="true">
-	<stage animation="SCAP_StandingGangbang_FM_4Human_01_S1"/>
-	<stage animation="SCAP_StandingGangbang_FM_4Human_01_S2"/>
+<animationGroup id="SCAP_StandingGangbang_FF_4Human_01_Staged" sequential="true">
+	<stage animation="SCAP_StandingGangbang_FF_4Human_01_S1"/>
+	<stage animation="SCAP_StandingGangbang_FF_4Human_01_S2"/>
 </animationGroup>
 
 <!-- Blowjob Animations -->
@@ -410,15 +410,15 @@
 
 <!-- Doggy Animations -->
 
-<animationGroup id="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_Staged" sequential="true">
-	<stage animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S1"/>
-	<stage animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S2"/>
-	<stage animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S3"/>
-	<stage animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S4"/>
-	<stage animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S5"/>
-	<stage animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S6"/>
-	<stage animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S7"/>
-	<stage animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S8"/>
+<animationGroup id="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_Staged" sequential="true">
+	<stage animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S1"/>
+	<stage animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S2"/>
+	<stage animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S3"/>
+	<stage animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S4"/>
+	<stage animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S5"/>
+	<stage animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S6"/>
+	<stage animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S7"/>
+	<stage animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S8"/>
 </animationGroup>
 
 <!-- Blowjob Animations -->

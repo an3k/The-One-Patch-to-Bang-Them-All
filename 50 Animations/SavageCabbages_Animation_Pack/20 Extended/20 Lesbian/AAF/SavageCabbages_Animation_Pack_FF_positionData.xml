@@ -1,4 +1,4 @@
-<meta title="SavageCabbage's Animation Pack - Position Data" version="1.0.4" dataSet="position"/>
+<meta title="SavageCabbage's Animation Pack - Lesbian Position Data" version="1.0.4" dataSet="position"/>
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
 <!-- Dance Animations -->
@@ -12,256 +12,256 @@
 
 <!-- Deepthroat Animations -->
 
-<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Staged)" location="Single_Bed" animationGroup="SCAP_DeepthroatBed_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 1)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 2)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S2"/>
-<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 3)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 4)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 5A)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S5A"/>
-<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 5B)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S5B"/>
-<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 5C)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S5C"/>
-<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 6)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S6"/>
-<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 7)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S7"/>
-<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 8)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S8"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Deepthroat (Bed, Staged)" location="Single_Bed" animationGroup="SCAP_DeepthroatBed_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Deepthroat (Bed, Stage 1)" location="Single_Bed" animation="SCAP_DeepthroatBed_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Deepthroat (Bed, Stage 2)" location="Single_Bed" animation="SCAP_DeepthroatBed_FF_2Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Deepthroat (Bed, Stage 3)" location="Single_Bed" animation="SCAP_DeepthroatBed_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Deepthroat (Bed, Stage 4)" location="Single_Bed" animation="SCAP_DeepthroatBed_FF_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Deepthroat (Bed, Stage 5A)" location="Single_Bed" animation="SCAP_DeepthroatBed_FF_2Human_01_S5A"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Deepthroat (Bed, Stage 5B)" location="Single_Bed" animation="SCAP_DeepthroatBed_FF_2Human_01_S5B"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Deepthroat (Bed, Stage 5C)" location="Single_Bed" animation="SCAP_DeepthroatBed_FF_2Human_01_S5C"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Deepthroat (Bed, Stage 6)" location="Single_Bed" animation="SCAP_DeepthroatBed_FF_2Human_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Deepthroat (Bed, Stage 7)" location="Single_Bed" animation="SCAP_DeepthroatBed_FF_2Human_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Deepthroat (Bed, Stage 8)" location="Single_Bed" animation="SCAP_DeepthroatBed_FF_2Human_01_S8"/>
 
 <!-- Cowgirl Animations -->
 
-<position id="SavageCabbage's Animation Pack - Cowgirl (Bed, Staged)" location="Single_Bed" animationGroup="SCAP_CowgirlBed_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Bed, Stage 1)" location="Single_Bed" animation="SCAP_CowgirlBed_FM_2Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Bed, Stage 3)" location="Single_Bed" animation="SCAP_CowgirlBed_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Bed, Stage 4)" location="Single_Bed" animation="SCAP_CowgirlBed_FM_2Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Bed, Stage 5)" location="Single_Bed" animation="SCAP_CowgirlBed_FM_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Bed, Staged)" location="Single_Bed" animationGroup="SCAP_CowgirlBed_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Bed, Stage 1)" location="Single_Bed" animation="SCAP_CowgirlBed_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Bed, Stage 3)" location="Single_Bed" animation="SCAP_CowgirlBed_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Bed, Stage 4)" location="Single_Bed" animation="SCAP_CowgirlBed_FF_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Bed, Stage 5)" location="Single_Bed" animation="SCAP_CowgirlBed_FF_2Human_01_S5"/>
 
-<position id="SavageCabbage's Animation Pack - Cowgirl (Bench, Reversed, Staged)" location="Bench" animationGroup="SCAP_ReverseCowgirlBench_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Bench, Reversed, Stage 1)" location="Bench" animation="SCAP_ReverseCowgirlBench_FM_2Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Bench, Reversed, Stage 1)" location="Bench" animation="SCAP_ReverseCowgirlBench_FM_2Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Bench, Reversed, Stage 3)" location="Bench" animation="SCAP_ReverseCowgirlBench_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Bench, Reversed, Stage 4)" location="Bench" animation="SCAP_ReverseCowgirlBench_FM_2Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Bench, Reversed, Stage 5)" location="Bench" animation="SCAP_ReverseCowgirlBench_FM_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Bench, Reversed, Staged)" location="Bench" animationGroup="SCAP_ReverseCowgirlBench_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Bench, Reversed, Stage 1)" location="Bench" animation="SCAP_ReverseCowgirlBench_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Bench, Reversed, Stage 1)" location="Bench" animation="SCAP_ReverseCowgirlBench_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Bench, Reversed, Stage 3)" location="Bench" animation="SCAP_ReverseCowgirlBench_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Bench, Reversed, Stage 4)" location="Bench" animation="SCAP_ReverseCowgirlBench_FF_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Bench, Reversed, Stage 5)" location="Bench" animation="SCAP_ReverseCowgirlBench_FF_2Human_01_S5"/>
 
-<position id="SavageCabbage's Animation Pack - Cowgirl (Chair, Staged)" location="ArmChair" animationGroup="SCAP_CowgirlChair_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Chair, Stage 1)" location="ArmChair" animation="SCAP_CowgirlChair_FM_2Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Chair, Stage 3)" location="ArmChair" animation="SCAP_CowgirlChair_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Chair, Stage 4)" location="ArmChair" animation="SCAP_CowgirlChair_FM_2Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Chair, Stage 5)" location="ArmChair" animation="SCAP_CowgirlChair_FM_2Human_01_S5"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Chair, Stage 6)" location="ArmChair" animation="SCAP_CowgirlChair_FM_2Human_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Chair, Staged)" location="ArmChair" animationGroup="SCAP_CowgirlChair_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Chair, Stage 1)" location="ArmChair" animation="SCAP_CowgirlChair_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Chair, Stage 3)" location="ArmChair" animation="SCAP_CowgirlChair_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Chair, Stage 4)" location="ArmChair" animation="SCAP_CowgirlChair_FF_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Chair, Stage 5)" location="ArmChair" animation="SCAP_CowgirlChair_FF_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Chair, Stage 6)" location="ArmChair" animation="SCAP_CowgirlChair_FF_2Human_01_S6"/>
 
-<position id="SavageCabbage's Animation Pack - Cowgirl (Motorbike)" location="Motorbike" animation="SCAP_CowgirlMotorbike_FM_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Motorbike)" location="Motorbike" animation="SCAP_CowgirlMotorbike_FF_2Human_01"/>
 
-<position id="SavageCabbage's Animation Pack - Cowgirl (Seat, Staged)" location="Seat" animationGroup="SCAP_CowgirlSeat_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Seat, Stage 3)" location="Seat" animation="SCAP_CowgirlSeat_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Seat, Stage 4)" location="Seat" animation="SCAP_CowgirlSeat_FM_2Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Cowgirl (Seat, Stage 5)" location="Seat" animation="SCAP_CowgirlSeat_FM_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Seat, Staged)" location="Seat" animationGroup="SCAP_CowgirlSeat_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Seat, Stage 3)" location="Seat" animation="SCAP_CowgirlSeat_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Seat, Stage 4)" location="Seat" animation="SCAP_CowgirlSeat_FF_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Seat, Stage 5)" location="Seat" animation="SCAP_CowgirlSeat_FF_2Human_01_S5"/>
 
 <!-- Church Wall Animations -->
 
-<position id="SavageCabbage's Animation Pack - Church Wall" location="WallChurch" animation="SCAP_ChurchWall_FM_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Church Wall" location="WallChurch" animation="SCAP_ChurchWall_FF_2Human_01"/>
 
 <!-- Doggy Animations -->
 
-<position id="SavageCabbage's Animation Pack - Doggy ChairHigh" location="ChairHigh" animation="SCAP_DoggyChairHigh_FM_2Human_01"/>
-<position id="SavageCabbage's Animation Pack - Doggy ChairLow" location="ChairLow" animation="SCAP_DoggyChairLow_FM_2Human_01"/>
-<position id="SavageCabbage's Animation Pack - Doggy ChairMedium" location="ChairMedium" animation="SCAP_DoggyChairMedium_FM_2Human_01"/>
-<position id="SavageCabbage's Animation Pack - Doggy ChairVeryLow" location="ChairVeryLow" animation="SCAP_DoggyChairVeryLow_FM_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy ChairHigh" location="ChairHigh" animation="SCAP_DoggyChairHigh_FF_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy ChairLow" location="ChairLow" animation="SCAP_DoggyChairLow_FF_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy ChairMedium" location="ChairMedium" animation="SCAP_DoggyChairMedium_FF_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy ChairVeryLow" location="ChairVeryLow" animation="SCAP_DoggyChairVeryLow_FF_2Human_01"/>
 
-<position id="SavageCabbage's Animation Pack - Doggy (Desk, Staged)" location="Desk" animationGroup="SCAP_DoggyDesk_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Desk, Stage 1)" location="Desk" animation="SCAP_DoggyDesk_FM_2Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Desk, Stage 3)" location="Desk" animation="SCAP_DoggyDesk_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Desk, Stage 4)" location="Desk" animation="SCAP_DoggyDesk_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Desk, Staged)" location="Desk" animationGroup="SCAP_DoggyDesk_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Desk, Stage 1)" location="Desk" animation="SCAP_DoggyDesk_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Desk, Stage 3)" location="Desk" animation="SCAP_DoggyDesk_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Desk, Stage 4)" location="Desk" animation="SCAP_DoggyDesk_FF_2Human_01_S4"/>
 
-<position id="SavageCabbage's Animation Pack - Doggy 1 (Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_DoggyDoubleBed_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Doggy 1 (Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Doggy 1 (Double Bed, Stage 2)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_01_S2"/>
-<position id="SavageCabbage's Animation Pack - Doggy 1 (Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Doggy 1 (Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Doggy 1 (Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_01_S5"/>
-<position id="SavageCabbage's Animation Pack - Doggy 1 (Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy 1 (Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_DoggyDoubleBed_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy 1 (Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy 1 (Double Bed, Stage 2)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FF_2Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy 1 (Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy 1 (Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FF_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy 1 (Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FF_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy 1 (Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FF_2Human_01_S6"/>
 
-<position id="SavageCabbage's Animation Pack - Doggy 2 (Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_DoggyDoubleBed_FM_2Human_02_Staged"/>
-<position id="SavageCabbage's Animation Pack - Doggy 2 (Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_02_S1"/>
-<position id="SavageCabbage's Animation Pack - Doggy 2 (Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_02_S3"/>
-<position id="SavageCabbage's Animation Pack - Doggy 2 (Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_02_S4"/>
-<position id="SavageCabbage's Animation Pack - Doggy 2 (Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_02_S5"/>
-<position id="SavageCabbage's Animation Pack - Doggy 2 (Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_02_S6"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy 2 (Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_DoggyDoubleBed_FF_2Human_02_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy 2 (Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FF_2Human_02_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy 2 (Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FF_2Human_02_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy 2 (Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FF_2Human_02_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy 2 (Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FF_2Human_02_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy 2 (Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FF_2Human_02_S6"/>
 
-<position id="SavageCabbage's Animation Pack - Doggy (Pool Table, Rough, Staged)" location="PoolTable" animationGroup="SCAP_RoughDoggyPoolTable_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Pool Table, Rough, Stage 1)" location="PoolTable" animation="SCAP_RoughDoggyPoolTable_FM_2Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Pool Table, Rough, Stage 2)" location="PoolTable" animation="SCAP_RoughDoggyPoolTable_FM_2Human_01_S2"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Pool Table, Rough, Stage 3)" location="PoolTable" animation="SCAP_RoughDoggyPoolTable_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Pool Table, Rough, Stage 4)" location="PoolTable" animation="SCAP_RoughDoggyPoolTable_FM_2Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Pool Table, Rough, Stage 5)" location="PoolTable" animation="SCAP_RoughDoggyPoolTable_FM_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Pool Table, Rough, Staged)" location="PoolTable" animationGroup="SCAP_RoughDoggyPoolTable_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Pool Table, Rough, Stage 1)" location="PoolTable" animation="SCAP_RoughDoggyPoolTable_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Pool Table, Rough, Stage 2)" location="PoolTable" animation="SCAP_RoughDoggyPoolTable_FF_2Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Pool Table, Rough, Stage 3)" location="PoolTable" animation="SCAP_RoughDoggyPoolTable_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Pool Table, Rough, Stage 4)" location="PoolTable" animation="SCAP_RoughDoggyPoolTable_FF_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Pool Table, Rough, Stage 5)" location="PoolTable" animation="SCAP_RoughDoggyPoolTable_FF_2Human_01_S5"/>
 
-<position id="SavageCabbage's Animation Pack - Doggy (Round Table)" location="RoundTable" animation="SCAP_DoggyRoundTable_FM_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Round Table)" location="RoundTable" animation="SCAP_DoggyRoundTable_FF_2Human_01"/>
 
-<position id="SavageCabbage's Animation Pack - Doggy (Stool, Staged)" location="Stool" animationGroup="SCAP_DoggyStool_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Stool, Stage 3)" location="Stool" animation="SCAP_DoggyStool_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Stool, Stage 4)" location="Stool" animation="SCAP_DoggyStool_FM_2Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Stool, Stage 5)" location="Stool" animation="SCAP_DoggyStool_FM_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Stool, Staged)" location="Stool" animationGroup="SCAP_DoggyStool_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Stool, Stage 3)" location="Stool" animation="SCAP_DoggyStool_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Stool, Stage 4)" location="Stool" animation="SCAP_DoggyStool_FF_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Stool, Stage 5)" location="Stool" animation="SCAP_DoggyStool_FF_2Human_01_S5"/>
 
 <!-- Handjob Animations -->
 
-<position id="SavageCabbage's Animation Pack - Handjob (Chair, Staged)" location="ArmChair" animationGroup="SCAP_HandjobChair_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 1)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 2)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S2"/>
-<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 3)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 4)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 5)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S5"/>
-<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 6)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S6"/>
-<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 7)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S7"/>
-<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 8)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S8"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Chair, Staged)" location="ArmChair" animationGroup="SCAP_HandjobChair_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Chair, Stage 1)" location="ArmChair" animation="SCAP_HandjobChair_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Chair, Stage 2)" location="ArmChair" animation="SCAP_HandjobChair_FF_2Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Chair, Stage 3)" location="ArmChair" animation="SCAP_HandjobChair_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Chair, Stage 4)" location="ArmChair" animation="SCAP_HandjobChair_FF_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Chair, Stage 5)" location="ArmChair" animation="SCAP_HandjobChair_FF_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Chair, Stage 6)" location="ArmChair" animation="SCAP_HandjobChair_FF_2Human_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Chair, Stage 7)" location="ArmChair" animation="SCAP_HandjobChair_FF_2Human_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Chair, Stage 8)" location="ArmChair" animation="SCAP_HandjobChair_FF_2Human_01_S8"/>
 
-<position id="SavageCabbage's Animation Pack - Handjob (Couch, Staged)" location="Couches" animationGroup="SCAP_HandjobCouch_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Handjob (Couch, Stage 1)" location="Couches" animation="SCAP_HandjobCouch_FM_2Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Handjob (Couch, Stage 3)" location="Couches" animation="SCAP_HandjobCouch_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Handjob (Couch, Stage 4)" location="Couches" animation="SCAP_HandjobCouch_FM_2Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Handjob (Couch, Stage 5)" location="Couches" animation="SCAP_HandjobCouch_FM_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Couch, Staged)" location="Couches" animationGroup="SCAP_HandjobCouch_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Couch, Stage 1)" location="Couches" animation="SCAP_HandjobCouch_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Couch, Stage 3)" location="Couches" animation="SCAP_HandjobCouch_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Couch, Stage 4)" location="Couches" animation="SCAP_HandjobCouch_FF_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Couch, Stage 5)" location="Couches" animation="SCAP_HandjobCouch_FF_2Human_01_S5"/>
 
 <!-- Dance Animations -->
 
-<position id="SavageCabbage's Animation Pack - Lap Dance" location="ArmChair" animation="SCAP_LapDance_FM_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Lap Dance" location="ArmChair" animation="SCAP_LapDance_FF_2Human_01"/>
 
 <!-- Missionary Animations -->
 
-<position id="SavageCabbage's Animation Pack - Missionary (Bed)" location="Single_Bed" animation="SCAP_MissionaryBed_FM_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Bed)" location="Single_Bed" animation="SCAP_MissionaryBed_FF_2Human_01"/>
 
-<position id="SavageCabbage's Animation Pack - Missionary (Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_MissionaryDoubleBed_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Missionary (Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_MissionaryDoubleBed_FM_2Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Missionary (Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_MissionaryDoubleBed_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Missionary (Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_MissionaryDoubleBed_FM_2Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Missionary (Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_MissionaryDoubleBed_FM_2Human_01_S5"/>
-<position id="SavageCabbage's Animation Pack - Missionary (Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_MissionaryDoubleBed_FM_2Human_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_MissionaryDoubleBed_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_MissionaryDoubleBed_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_MissionaryDoubleBed_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_MissionaryDoubleBed_FF_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_MissionaryDoubleBed_FF_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_MissionaryDoubleBed_FF_2Human_01_S6"/>
 
-<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Staged)" location="PoolTable" animationGroup="SCAP_MissionaryPoolTable_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Stage 1)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FM_2Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Stage 2)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FM_2Human_01_S2"/>
-<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Stage 3)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Stage 4)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FM_2Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Stage 5)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FM_2Human_01_S5"/>
-<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Stage 6)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FM_2Human_01_S6"/>
-<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Stage 7)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FM_2Human_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Pool Table, Staged)" location="PoolTable" animationGroup="SCAP_MissionaryPoolTable_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Pool Table, Stage 1)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Pool Table, Stage 2)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FF_2Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Pool Table, Stage 3)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Pool Table, Stage 4)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FF_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Pool Table, Stage 5)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FF_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Pool Table, Stage 6)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FF_2Human_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Pool Table, Stage 7)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FF_2Human_01_S7"/>
 
-<position id="SavageCabbage's Animation Pack - Missionary (Table)" location="MediumTable" animation="SCAP_MissionaryTable_FM_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Missionary (Table)" location="MediumTable" animation="SCAP_MissionaryTable_FF_2Human_01"/>
 
 <!-- Sideways Animations -->
 
-<position id="SavageCabbage's Animation Pack - Sideways (Round Table, Rough)" location="RoundTable" animation="SCAP_RoughSidewaysRoundTable_FM_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Sideways (Round Table, Rough)" location="RoundTable" animation="SCAP_RoughSidewaysRoundTable_FF_2Human_01"/>
 
 <!-- Car Animations -->
 
-<position id="SavageCabbage's Animation Pack - Doggy (Post-War Sedan)" location="Sedan_PostWar01" animation="SCAP_DoggySedanPostWar_FM_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Post-War Sedan)" location="Sedan_PostWar01" animation="SCAP_DoggySedanPostWar_FF_2Human_01"/>
 
-<position id="SavageCabbage's Animation Pack - Backseat (Pre-War Sedan)" location="Sedan_PreWar01" animation="SCAP_BackseatSedanPreWar_FM_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Backseat (Pre-War Sedan)" location="Sedan_PreWar01" animation="SCAP_BackseatSedanPreWar_FF_2Human_01"/>
 
 <!-- Powerbomb Animations -->
 
-<position id="SavageCabbage's Animation Pack - Powerbomb (Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_PowerbombDoubleBed_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Powerbomb (Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Powerbomb (Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Powerbomb (Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Powerbomb (Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S5"/>
-<position id="SavageCabbage's Animation Pack - Powerbomb (Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S6"/>
-<position id="SavageCabbage's Animation Pack - Powerbomb (Double Bed, Stage 7)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Powerbomb (Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_PowerbombDoubleBed_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Powerbomb (Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Powerbomb (Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Powerbomb (Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FF_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Powerbomb (Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FF_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Powerbomb (Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FF_2Human_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Powerbomb (Double Bed, Stage 7)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FF_2Human_01_S7"/>
 
 <!-- Spoon Animations -->
 
-<position id="SavageCabbage's Animation Pack - Spoon (Couch, Staged)" location="Couches" animationGroup="SCAP_SpoonCouch_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Spoon (Couch, Stage 1)" location="Couches" animation="SCAP_SpoonCouch_FM_2Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Spoon (Couch, Stage 3)" location="Couches" animation="SCAP_SpoonCouch_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Spoon (Couch, Stage 4)" location="Couches" animation="SCAP_SpoonCouch_FM_2Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Spoon (Couch, Stage 5)" location="Couches" animation="SCAP_SpoonCouch_FM_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Spoon (Couch, Staged)" location="Couches" animationGroup="SCAP_SpoonCouch_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Spoon (Couch, Stage 1)" location="Couches" animation="SCAP_SpoonCouch_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Spoon (Couch, Stage 3)" location="Couches" animation="SCAP_SpoonCouch_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Spoon (Couch, Stage 4)" location="Couches" animation="SCAP_SpoonCouch_FF_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Spoon (Couch, Stage 5)" location="Couches" animation="SCAP_SpoonCouch_FF_2Human_01_S5"/>
 
 <!-- Straddle Animations -->
 
-<position id="SavageCabbage's Animation Pack - Straddle (Bed, Staged)" location="Single_Bed" animationGroup="SCAP_StraddleBed_FM_2Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Straddle (Bed, Stage 1)" location="Single_Bed" animation="SCAP_StraddleBed_FM_2Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Straddle (Bed, Stage 2)" location="Single_Bed" animation="SCAP_StraddleBed_FM_2Human_01_S2"/>
-<position id="SavageCabbage's Animation Pack - Straddle (Bed, Stage 3)" location="Single_Bed" animation="SCAP_StraddleBed_FM_2Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Straddle (Bed, Stage 4)" location="Single_Bed" animation="SCAP_StraddleBed_FM_2Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Straddle (Bed, Stage 5)" location="Single_Bed" animation="SCAP_StraddleBed_FM_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Straddle (Bed, Staged)" location="Single_Bed" animationGroup="SCAP_StraddleBed_FF_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Straddle (Bed, Stage 1)" location="Single_Bed" animation="SCAP_StraddleBed_FF_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Straddle (Bed, Stage 2)" location="Single_Bed" animation="SCAP_StraddleBed_FF_2Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Straddle (Bed, Stage 3)" location="Single_Bed" animation="SCAP_StraddleBed_FF_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Straddle (Bed, Stage 4)" location="Single_Bed" animation="SCAP_StraddleBed_FF_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Straddle (Bed, Stage 5)" location="Single_Bed" animation="SCAP_StraddleBed_FF_2Human_01_S5"/>
 
 <!-- Cowgirl Animations -->
 
-<position id="SavageCabbage's Animation Pack - Cowgirl (Double Bed, 3P, Reversed)" location="Double_Bed" animation="SCAP_ReverseCowgirlDoubleBed_FM_3Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Cowgirl (Double Bed, 3P, Reversed)" location="Double_Bed" animation="SCAP_ReverseCowgirlDoubleBed_FF_3Human_01"/>
 
 <!-- Doggy Animations -->
 
-<position id="SavageCabbage's Animation Pack - Doggy (Bed, 3P, Staged)" location="Single_Bed" animationGroup="SCAP_DoggyBed_FM_3Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Bed, 3P, Stage 1)" location="Single_Bed" animation="SCAP_DoggyBed_FM_3Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Bed, 3P, Stage 2)" location="Single_Bed" animation="SCAP_DoggyBed_FM_3Human_01_S2"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Bed, 3P, Stage 3)" location="Single_Bed" animation="SCAP_DoggyBed_FM_3Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Bed, 3P, Stage 4)" location="Single_Bed" animation="SCAP_DoggyBed_FM_3Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Bed, 3P, Staged)" location="Single_Bed" animationGroup="SCAP_DoggyBed_FF_3Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Bed, 3P, Stage 1)" location="Single_Bed" animation="SCAP_DoggyBed_FF_3Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Bed, 3P, Stage 2)" location="Single_Bed" animation="SCAP_DoggyBed_FF_3Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Bed, 3P, Stage 3)" location="Single_Bed" animation="SCAP_DoggyBed_FF_3Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Bed, 3P, Stage 4)" location="Single_Bed" animation="SCAP_DoggyBed_FF_3Human_01_S4"/>
 
-<position id="SavageCabbage's Animation Pack - Doggy (Chair, 3P, Staged)" location="ArmChair" animationGroup="SCAP_DoggyChair_FM_3Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Chair, 3P, Stage 1)" location="ArmChair" animation="SCAP_DoggyChair_FM_3Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Chair, 3P, Stage 3)" location="ArmChair" animation="SCAP_DoggyChair_FM_3Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Chair, 3P, Stage 4)" location="ArmChair" animation="SCAP_DoggyChair_FM_3Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Chair, 3P, Stage 5)" location="ArmChair" animation="SCAP_DoggyChair_FM_3Human_01_S5"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Chair, 3P, Stage 6)" location="ArmChair" animation="SCAP_DoggyChair_FM_3Human_01_S6"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Chair, 3P, Stage 7)" location="ArmChair" animation="SCAP_DoggyChair_FM_3Human_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Chair, 3P, Staged)" location="ArmChair" animationGroup="SCAP_DoggyChair_FF_3Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Chair, 3P, Stage 1)" location="ArmChair" animation="SCAP_DoggyChair_FF_3Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Chair, 3P, Stage 3)" location="ArmChair" animation="SCAP_DoggyChair_FF_3Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Chair, 3P, Stage 4)" location="ArmChair" animation="SCAP_DoggyChair_FF_3Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Chair, 3P, Stage 5)" location="ArmChair" animation="SCAP_DoggyChair_FF_3Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Chair, 3P, Stage 6)" location="ArmChair" animation="SCAP_DoggyChair_FF_3Human_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Chair, 3P, Stage 7)" location="ArmChair" animation="SCAP_DoggyChair_FF_3Human_01_S7"/>
 
-<position id="SavageCabbage's Animation Pack - Doggy (Double Bed, 3P)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_3Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Doggy (Double Bed, 3P)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FF_3Human_01"/>
 
 <!-- DoubleTeam Animations -->
 
-<position id="SavageCabbage's Animation Pack - Double Team (Double Bed, 3P)" location="Double_Bed" animation="SCAP_DoubleTeamDoubleBed_FM_3Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Double Team (Double Bed, 3P)" location="Double_Bed" animation="SCAP_DoubleTeamDoubleBed_FF_3Human_01"/>
 
-<position id="SavageCabbage's Animation Pack - Double Team 1 (3P, Staged)" animationGroup="SCAP_DoubleTeamGround_FM_3Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Double Team 1 (3P, Stage 1)" animation="SCAP_DoubleTeamGround_FM_3Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Double Team 1 (3P, Stage 2)" animation="SCAP_DoubleTeamGround_FM_3Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Double Team 1 (3P, Staged)" animationGroup="SCAP_DoubleTeamGround_FF_3Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Double Team 1 (3P, Stage 1)" animation="SCAP_DoubleTeamGround_FF_3Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Double Team 1 (3P, Stage 2)" animation="SCAP_DoubleTeamGround_FF_3Human_01_S2"/>
 
-<position id="SavageCabbage's Animation Pack - Double Team 2 (3P)" animation="SCAP_DoubleTeamGround_FM_3Human_02"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Double Team 2 (3P)" animation="SCAP_DoubleTeamGround_FF_3Human_02"/>
 
-<position id="SavageCabbage's Animation Pack - Double Team 3 (3P)" animation="SCAP_DoubleTeamGround_FM_3Human_03"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Double Team 3 (3P)" animation="SCAP_DoubleTeamGround_FF_3Human_03"/>
 
-<position id="SavageCabbage's Animation Pack - Double Team (Rough, 3P, Staged)" animationGroup="SCAP_RoughDoubleTeamGround_FM_3Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Double Team (Rough, 3P, Stage 1)" animation="SCAP_RoughDoubleTeamGround_FM_3Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Double Team (Rough, 3P, Stage 2)" animation="SCAP_RoughDoubleTeamGround_FM_3Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Double Team (Rough, 3P, Staged)" animationGroup="SCAP_RoughDoubleTeamGround_FF_3Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Double Team (Rough, 3P, Stage 1)" animation="SCAP_RoughDoubleTeamGround_FF_3Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Double Team (Rough, 3P, Stage 2)" animation="SCAP_RoughDoubleTeamGround_FF_3Human_01_S2"/>
 
-<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Staged)" animationGroup="SCAP_StandingDoubleTeam_FM_3Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Stage 1)" animation="SCAP_StandingDoubleTeam_FM_3Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Stage 2)" animation="SCAP_StandingDoubleTeam_FM_3Human_01_S2"/>
-<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Stage 3)" animation="SCAP_StandingDoubleTeam_FM_3Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Double Team (Standing, 3P, Staged)" animationGroup="SCAP_StandingDoubleTeam_FF_3Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Double Team (Standing, 3P, Stage 1)" animation="SCAP_StandingDoubleTeam_FF_3Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Double Team (Standing, 3P, Stage 2)" animation="SCAP_StandingDoubleTeam_FF_3Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Double Team (Standing, 3P, Stage 3)" animation="SCAP_StandingDoubleTeam_FF_3Human_01_S3"/>
 
 <!-- Gangbang Animations -->
 
-<position id="SavageCabbage's Animation Pack - Gangbang (3P)" animation="SCAP_GangbangGround_FM_3Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Gangbang (3P)" animation="SCAP_GangbangGround_FF_3Human_01"/>
 
 <!-- Handjob Animations -->
 
-<position id="SavageCabbage's Animation Pack - Handjob (Couch, 3P, Staged)" location="Couches" animationGroup="SCAP_HandjobCouch_FM_3Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Handjob (Couch, 3P, Stage 3)" location="Couches" animation="SCAP_HandjobCouch_FM_3Human_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Handjob (Couch, 3P, Stage 4)" location="Couches" animation="SCAP_HandjobCouch_FM_3Human_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Handjob (Couch, 3P, Stage 5)" location="Couches" animation="SCAP_HandjobCouch_FM_3Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Couch, 3P, Staged)" location="Couches" animationGroup="SCAP_HandjobCouch_FF_3Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Couch, 3P, Stage 3)" location="Couches" animation="SCAP_HandjobCouch_FF_3Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Couch, 3P, Stage 4)" location="Couches" animation="SCAP_HandjobCouch_FF_3Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (Couch, 3P, Stage 5)" location="Couches" animation="SCAP_HandjobCouch_FF_3Human_01_S5"/>
 
 <!-- Threesome Animations -->
 
-<position id="SavageCabbage's Animation Pack - Threesome (Bunk Bed, 3P)" location="Bunk_Bed" animation="SCAP_ThreesomeBunkBed_FM_3Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Threesome (Bunk Bed, 3P)" location="Bunk_Bed" animation="SCAP_ThreesomeBunkBed_FF_3Human_01"/>
 
 <!-- Gangbang Animations -->
 
-<position id="SavageCabbage's Animation Pack - Gangbang 1 (4P)" animation="SCAP_GangbangGround_FM_4Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Gangbang 1 (4P)" animation="SCAP_GangbangGround_FF_4Human_01"/>
 
-<position id="SavageCabbage's Animation Pack - Gangbang 2 (4P)" animation="SCAP_GangbangGround_FM_4Human_02"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Gangbang 2 (4P)" animation="SCAP_GangbangGround_FF_4Human_02"/>
 
-<position id="SavageCabbage's Animation Pack - Gangbang 3 (4P)" animation="SCAP_GangbangGround_FM_4Human_03"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Gangbang 3 (4P)" animation="SCAP_GangbangGround_FF_4Human_03"/>
 
-<position id="SavageCabbage's Animation Pack - Gangbang (Standing, 4P, Staged)" animationGroup="SCAP_StandingGangbang_FM_4Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Gangbang (Standing, 4P, Stage 1)" animation="SCAP_StandingGangbang_FM_4Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Gangbang (Standing, 4P, Stage 2)" animation="SCAP_StandingGangbang_FM_4Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Gangbang (Standing, 4P, Staged)" animationGroup="SCAP_StandingGangbang_FF_4Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Gangbang (Standing, 4P, Stage 1)" animation="SCAP_StandingGangbang_FF_4Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Gangbang (Standing, 4P, Stage 2)" animation="SCAP_StandingGangbang_FF_4Human_01_S2"/>
 
 <!-- Gangbang Animations -->
 
-<position id="SavageCabbage's Animation Pack - Gangbang 1 (5P)" animation="SCAP_GangbangGround_FM_5Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Gangbang 1 (5P)" animation="SCAP_GangbangGround_FF_5Human_01"/>
 
-<position id="SavageCabbage's Animation Pack - Gangbang 2 (5P)" animation="SCAP_GangbangGround_FM_5Human_02"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Gangbang 2 (5P)" animation="SCAP_GangbangGround_FF_5Human_02"/>
 
 <!-- Handjob Animations -->
 
-<position id="SavageCabbage's Animation Pack - Handjob (5P, Standing)" animation="SCAP_StandingHandjob_FM_5Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Handjob (5P, Standing)" animation="SCAP_StandingHandjob_FF_5Human_01"/>
 
 <!-- Gangbang Animations -->
 
-<position id="SavageCabbage's Animation Pack - Gangbang (9P)" animation="SCAP_GangbangGround_FM_9Human_01"/>
+<position id="SavageCabbage's Animation Pack - Lesbian Gangbang (9P)" animation="SCAP_GangbangGround_FF_9Human_01"/>
 
 <!-- Blowjob Animations -->
 
@@ -445,15 +445,15 @@
 
 <!-- Doggy Animations -->
 
-<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Staged)" animationGroup="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 1)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 2)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S2"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 3)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S3"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 4)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S4"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 5)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S5"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 6)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S6"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 7)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S7"/>
-<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 8)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S8"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Staged)" animationGroup="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 1)" animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 2)" animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 3)" animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 4)" animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 5)" animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 6)" animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 7)" animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 8)" animation="SCAP_RestrainedDoggyGround_FFM_2ActorDog_01_S8"/>
 
 <!-- Blowjob Animations -->
 

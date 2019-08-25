@@ -1,0 +1,553 @@
+<meta title="SavageCabbage's Animation Pack - Position Data" version="1.0.4" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<!-- Dance Animations -->
+
+<position id="SavageCabbage's Animation Pack - Dance (Staged)" animationGroup="SCAP_Dance_FM_1Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Dance (Stage 1)" animation="SCAP_Dance_FM_1Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Dance (Stage 2)" animation="SCAP_Dance_FM_1Human_01_S2"/>
+
+<position id="SavageCabbage's Animation Pack - Twerk 1" animation="SCAP_Twerk_FM_1Human_01"/>
+<position id="SavageCabbage's Animation Pack - Twerk 2" animation="SCAP_Twerk_FM_1Human_02"/>
+
+<!-- Deepthroat Animations -->
+
+<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Staged)" location="Single_Bed" animationGroup="SCAP_DeepthroatBed_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 1)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 2)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 3)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 4)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 5A)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S5A"/>
+<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 5B)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S5B"/>
+<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 5C)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S5C"/>
+<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 6)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 7)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Deepthroat (Bed, Stage 8)" location="Single_Bed" animation="SCAP_DeepthroatBed_FM_2Human_01_S8"/>
+
+<!-- Cowgirl Animations -->
+
+<position id="SavageCabbage's Animation Pack - Cowgirl (Bed, Staged)" location="Single_Bed" animationGroup="SCAP_CowgirlBed_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Bed, Stage 1)" location="Single_Bed" animation="SCAP_CowgirlBed_FM_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Bed, Stage 3)" location="Single_Bed" animation="SCAP_CowgirlBed_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Bed, Stage 4)" location="Single_Bed" animation="SCAP_CowgirlBed_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Bed, Stage 5)" location="Single_Bed" animation="SCAP_CowgirlBed_FM_2Human_01_S5"/>
+
+<position id="SavageCabbage's Animation Pack - Cowgirl (Bench, Reversed, Staged)" location="Bench" animationGroup="SCAP_ReverseCowgirlBench_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Bench, Reversed, Stage 1)" location="Bench" animation="SCAP_ReverseCowgirlBench_FM_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Bench, Reversed, Stage 1)" location="Bench" animation="SCAP_ReverseCowgirlBench_FM_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Bench, Reversed, Stage 3)" location="Bench" animation="SCAP_ReverseCowgirlBench_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Bench, Reversed, Stage 4)" location="Bench" animation="SCAP_ReverseCowgirlBench_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Bench, Reversed, Stage 5)" location="Bench" animation="SCAP_ReverseCowgirlBench_FM_2Human_01_S5"/>
+
+<position id="SavageCabbage's Animation Pack - Cowgirl (Chair, Staged)" location="ArmChair" animationGroup="SCAP_CowgirlChair_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Chair, Stage 1)" location="ArmChair" animation="SCAP_CowgirlChair_FM_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Chair, Stage 3)" location="ArmChair" animation="SCAP_CowgirlChair_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Chair, Stage 4)" location="ArmChair" animation="SCAP_CowgirlChair_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Chair, Stage 5)" location="ArmChair" animation="SCAP_CowgirlChair_FM_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Chair, Stage 6)" location="ArmChair" animation="SCAP_CowgirlChair_FM_2Human_01_S6"/>
+
+<position id="SavageCabbage's Animation Pack - Cowgirl (Motorbike)" location="Motorbike" animation="SCAP_CowgirlMotorbike_FM_2Human_01"/>
+
+<position id="SavageCabbage's Animation Pack - Cowgirl (Seat, Staged)" location="Seat" animationGroup="SCAP_CowgirlSeat_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Seat, Stage 3)" location="Seat" animation="SCAP_CowgirlSeat_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Seat, Stage 4)" location="Seat" animation="SCAP_CowgirlSeat_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Seat, Stage 5)" location="Seat" animation="SCAP_CowgirlSeat_FM_2Human_01_S5"/>
+
+<!-- Church Wall Animations -->
+
+<position id="SavageCabbage's Animation Pack - Church Wall" location="WallChurch" animation="SCAP_ChurchWall_FM_2Human_01"/>
+
+<!-- Doggy Animations -->
+
+<position id="SavageCabbage's Animation Pack - Doggy ChairHigh" location="ChairHigh" animation="SCAP_DoggyChairHigh_FM_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Doggy ChairLow" location="ChairLow" animation="SCAP_DoggyChairLow_FM_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Doggy ChairMedium" location="ChairMedium" animation="SCAP_DoggyChairMedium_FM_2Human_01"/>
+<position id="SavageCabbage's Animation Pack - Doggy ChairVeryLow" location="ChairVeryLow" animation="SCAP_DoggyChairVeryLow_FM_2Human_01"/>
+
+<position id="SavageCabbage's Animation Pack - Doggy (Desk, Staged)" location="Desk" animationGroup="SCAP_DoggyDesk_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Desk, Stage 1)" location="Desk" animation="SCAP_DoggyDesk_FM_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Desk, Stage 3)" location="Desk" animation="SCAP_DoggyDesk_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Desk, Stage 4)" location="Desk" animation="SCAP_DoggyDesk_FM_2Human_01_S4"/>
+
+<position id="SavageCabbage's Animation Pack - Doggy 1 (Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_DoggyDoubleBed_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy 1 (Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Doggy 1 (Double Bed, Stage 2)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Doggy 1 (Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy 1 (Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy 1 (Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy 1 (Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_01_S6"/>
+
+<position id="SavageCabbage's Animation Pack - Doggy 2 (Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_DoggyDoubleBed_FM_2Human_02_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy 2 (Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_02_S1"/>
+<position id="SavageCabbage's Animation Pack - Doggy 2 (Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_02_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy 2 (Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_02_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy 2 (Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_02_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy 2 (Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Human_02_S6"/>
+
+<position id="SavageCabbage's Animation Pack - Doggy (Pool Table, Rough, Staged)" location="PoolTable" animationGroup="SCAP_RoughDoggyPoolTable_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Pool Table, Rough, Stage 1)" location="PoolTable" animation="SCAP_RoughDoggyPoolTable_FM_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Pool Table, Rough, Stage 2)" location="PoolTable" animation="SCAP_RoughDoggyPoolTable_FM_2Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Pool Table, Rough, Stage 3)" location="PoolTable" animation="SCAP_RoughDoggyPoolTable_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Pool Table, Rough, Stage 4)" location="PoolTable" animation="SCAP_RoughDoggyPoolTable_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Pool Table, Rough, Stage 5)" location="PoolTable" animation="SCAP_RoughDoggyPoolTable_FM_2Human_01_S5"/>
+
+<position id="SavageCabbage's Animation Pack - Doggy (Round Table)" location="RoundTable" animation="SCAP_DoggyRoundTable_FM_2Human_01"/>
+
+<position id="SavageCabbage's Animation Pack - Doggy (Stool, Staged)" location="Stool" animationGroup="SCAP_DoggyStool_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Stool, Stage 3)" location="Stool" animation="SCAP_DoggyStool_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Stool, Stage 4)" location="Stool" animation="SCAP_DoggyStool_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Stool, Stage 5)" location="Stool" animation="SCAP_DoggyStool_FM_2Human_01_S5"/>
+
+<!-- Handjob Animations -->
+
+<position id="SavageCabbage's Animation Pack - Handjob (Chair, Staged)" location="ArmChair" animationGroup="SCAP_HandjobChair_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 1)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 2)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 3)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 4)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 5)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 6)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 7)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Chair, Stage 8)" location="ArmChair" animation="SCAP_HandjobChair_FM_2Human_01_S8"/>
+
+<position id="SavageCabbage's Animation Pack - Handjob (Couch, Staged)" location="Couches" animationGroup="SCAP_HandjobCouch_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Couch, Stage 1)" location="Couches" animation="SCAP_HandjobCouch_FM_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Couch, Stage 3)" location="Couches" animation="SCAP_HandjobCouch_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Couch, Stage 4)" location="Couches" animation="SCAP_HandjobCouch_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Couch, Stage 5)" location="Couches" animation="SCAP_HandjobCouch_FM_2Human_01_S5"/>
+
+<!-- Dance Animations -->
+
+<position id="SavageCabbage's Animation Pack - Lap Dance" location="ArmChair" animation="SCAP_LapDance_FM_2Human_01"/>
+
+<!-- Missionary Animations -->
+
+<position id="SavageCabbage's Animation Pack - Missionary (Bed)" location="Single_Bed" animation="SCAP_MissionaryBed_FM_2Human_01"/>
+
+<position id="SavageCabbage's Animation Pack - Missionary (Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_MissionaryDoubleBed_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_MissionaryDoubleBed_FM_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_MissionaryDoubleBed_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_MissionaryDoubleBed_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_MissionaryDoubleBed_FM_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_MissionaryDoubleBed_FM_2Human_01_S6"/>
+
+<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Staged)" location="PoolTable" animationGroup="SCAP_MissionaryPoolTable_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Stage 1)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FM_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Stage 2)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FM_2Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Stage 3)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Stage 4)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Stage 5)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FM_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Stage 6)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FM_2Human_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Pool Table, Stage 7)" location="PoolTable" animation="SCAP_MissionaryPoolTable_FM_2Human_01_S7"/>
+
+<position id="SavageCabbage's Animation Pack - Missionary (Table)" location="MediumTable" animation="SCAP_MissionaryTable_FM_2Human_01"/>
+
+<!-- Sideways Animations -->
+
+<position id="SavageCabbage's Animation Pack - Sideways (Round Table, Rough)" location="RoundTable" animation="SCAP_RoughSidewaysRoundTable_FM_2Human_01"/>
+
+<!-- Car Animations -->
+
+<position id="SavageCabbage's Animation Pack - Doggy (Post-War Sedan)" location="Sedan_PostWar01" animation="SCAP_DoggySedanPostWar_FM_2Human_01"/>
+
+<position id="SavageCabbage's Animation Pack - Backseat (Pre-War Sedan)" location="Sedan_PreWar01" animation="SCAP_BackseatSedanPreWar_FM_2Human_01"/>
+
+<!-- Powerbomb Animations -->
+
+<position id="SavageCabbage's Animation Pack - Powerbomb (Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_PowerbombDoubleBed_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Powerbomb (Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Powerbomb (Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Powerbomb (Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Powerbomb (Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Powerbomb (Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Powerbomb (Double Bed, Stage 7)" location="Double_Bed" animation="SCAP_PowerbombDoubleBed_FM_2Human_01_S7"/>
+
+<!-- Spoon Animations -->
+
+<position id="SavageCabbage's Animation Pack - Spoon (Couch, Staged)" location="Couches" animationGroup="SCAP_SpoonCouch_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Spoon (Couch, Stage 1)" location="Couches" animation="SCAP_SpoonCouch_FM_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Spoon (Couch, Stage 3)" location="Couches" animation="SCAP_SpoonCouch_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Spoon (Couch, Stage 4)" location="Couches" animation="SCAP_SpoonCouch_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Spoon (Couch, Stage 5)" location="Couches" animation="SCAP_SpoonCouch_FM_2Human_01_S5"/>
+
+<!-- Straddle Animations -->
+
+<position id="SavageCabbage's Animation Pack - Straddle (Bed, Staged)" location="Single_Bed" animationGroup="SCAP_StraddleBed_FM_2Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Straddle (Bed, Stage 1)" location="Single_Bed" animation="SCAP_StraddleBed_FM_2Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Straddle (Bed, Stage 2)" location="Single_Bed" animation="SCAP_StraddleBed_FM_2Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Straddle (Bed, Stage 3)" location="Single_Bed" animation="SCAP_StraddleBed_FM_2Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Straddle (Bed, Stage 4)" location="Single_Bed" animation="SCAP_StraddleBed_FM_2Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Straddle (Bed, Stage 5)" location="Single_Bed" animation="SCAP_StraddleBed_FM_2Human_01_S5"/>
+
+<!-- Cowgirl Animations -->
+
+<position id="SavageCabbage's Animation Pack - Cowgirl (Double Bed, 3P, Reversed)" location="Double_Bed" animation="SCAP_ReverseCowgirlDoubleBed_FM_3Human_01"/>
+
+<!-- Doggy Animations -->
+
+<position id="SavageCabbage's Animation Pack - Doggy (Bed, 3P, Staged)" location="Single_Bed" animationGroup="SCAP_DoggyBed_FM_3Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Bed, 3P, Stage 1)" location="Single_Bed" animation="SCAP_DoggyBed_FM_3Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Bed, 3P, Stage 2)" location="Single_Bed" animation="SCAP_DoggyBed_FM_3Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Bed, 3P, Stage 3)" location="Single_Bed" animation="SCAP_DoggyBed_FM_3Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Bed, 3P, Stage 4)" location="Single_Bed" animation="SCAP_DoggyBed_FM_3Human_01_S4"/>
+
+<position id="SavageCabbage's Animation Pack - Doggy (Chair, 3P, Staged)" location="ArmChair" animationGroup="SCAP_DoggyChair_FM_3Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Chair, 3P, Stage 1)" location="ArmChair" animation="SCAP_DoggyChair_FM_3Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Chair, 3P, Stage 3)" location="ArmChair" animation="SCAP_DoggyChair_FM_3Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Chair, 3P, Stage 4)" location="ArmChair" animation="SCAP_DoggyChair_FM_3Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Chair, 3P, Stage 5)" location="ArmChair" animation="SCAP_DoggyChair_FM_3Human_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Chair, 3P, Stage 6)" location="ArmChair" animation="SCAP_DoggyChair_FM_3Human_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Chair, 3P, Stage 7)" location="ArmChair" animation="SCAP_DoggyChair_FM_3Human_01_S7"/>
+
+<position id="SavageCabbage's Animation Pack - Doggy (Double Bed, 3P)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_3Human_01"/>
+
+<!-- DoubleTeam Animations -->
+
+<position id="SavageCabbage's Animation Pack - Double Team (Double Bed, 3P)" location="Double_Bed" animation="SCAP_DoubleTeamDoubleBed_FM_3Human_01"/>
+
+<position id="SavageCabbage's Animation Pack - Double Team 1 (3P, Staged)" animationGroup="SCAP_DoubleTeamGround_FM_3Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Double Team 1 (3P, Stage 1)" animation="SCAP_DoubleTeamGround_FM_3Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Double Team 1 (3P, Stage 2)" animation="SCAP_DoubleTeamGround_FM_3Human_01_S2"/>
+
+<position id="SavageCabbage's Animation Pack - Double Team 2 (3P)" animation="SCAP_DoubleTeamGround_FM_3Human_02"/>
+
+<position id="SavageCabbage's Animation Pack - Double Team 3 (3P)" animation="SCAP_DoubleTeamGround_FM_3Human_03"/>
+
+<position id="SavageCabbage's Animation Pack - Double Team (Rough, 3P, Staged)" animationGroup="SCAP_RoughDoubleTeamGround_FM_3Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Double Team (Rough, 3P, Stage 1)" animation="SCAP_RoughDoubleTeamGround_FM_3Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Double Team (Rough, 3P, Stage 2)" animation="SCAP_RoughDoubleTeamGround_FM_3Human_01_S2"/>
+
+<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Staged)" animationGroup="SCAP_StandingDoubleTeam_FM_3Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Stage 1)" animation="SCAP_StandingDoubleTeam_FM_3Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Stage 2)" animation="SCAP_StandingDoubleTeam_FM_3Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Stage 3)" animation="SCAP_StandingDoubleTeam_FM_3Human_01_S3"/>
+
+<!-- Gangbang Animations -->
+
+<position id="SavageCabbage's Animation Pack - Gangbang (3P)" animation="SCAP_GangbangGround_FM_3Human_01"/>
+
+<!-- Handjob Animations -->
+
+<position id="SavageCabbage's Animation Pack - Handjob (Couch, 3P, Staged)" location="Couches" animationGroup="SCAP_HandjobCouch_FM_3Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Couch, 3P, Stage 3)" location="Couches" animation="SCAP_HandjobCouch_FM_3Human_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Couch, 3P, Stage 4)" location="Couches" animation="SCAP_HandjobCouch_FM_3Human_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Couch, 3P, Stage 5)" location="Couches" animation="SCAP_HandjobCouch_FM_3Human_01_S5"/>
+
+<!-- Threesome Animations -->
+
+<position id="SavageCabbage's Animation Pack - Threesome (Bunk Bed, 3P)" location="Bunk_Bed" animation="SCAP_ThreesomeBunkBed_FM_3Human_01"/>
+
+<!-- Gangbang Animations -->
+
+<position id="SavageCabbage's Animation Pack - Gangbang 1 (4P)" animation="SCAP_GangbangGround_FM_4Human_01"/>
+
+<position id="SavageCabbage's Animation Pack - Gangbang 2 (4P)" animation="SCAP_GangbangGround_FM_4Human_02"/>
+
+<position id="SavageCabbage's Animation Pack - Gangbang 3 (4P)" animation="SCAP_GangbangGround_FM_4Human_03"/>
+
+<position id="SavageCabbage's Animation Pack - Gangbang (Standing, 4P, Staged)" animationGroup="SCAP_StandingGangbang_FM_4Human_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Gangbang (Standing, 4P, Stage 1)" animation="SCAP_StandingGangbang_FM_4Human_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Gangbang (Standing, 4P, Stage 2)" animation="SCAP_StandingGangbang_FM_4Human_01_S2"/>
+
+<!-- Gangbang Animations -->
+
+<position id="SavageCabbage's Animation Pack - Gangbang 1 (5P)" animation="SCAP_GangbangGround_FM_5Human_01"/>
+
+<position id="SavageCabbage's Animation Pack - Gangbang 2 (5P)" animation="SCAP_GangbangGround_FM_5Human_02"/>
+
+<!-- Handjob Animations -->
+
+<position id="SavageCabbage's Animation Pack - Handjob (5P, Standing)" animation="SCAP_StandingHandjob_FM_5Human_01"/>
+
+<!-- Gangbang Animations -->
+
+<position id="SavageCabbage's Animation Pack - Gangbang (9P)" animation="SCAP_GangbangGround_FM_9Human_01"/>
+
+<!-- Blowjob Animations -->
+
+<position id="SavageCabbage's Animation Pack - Blowjob (Ghoul, Standing, Staged)" animationGroup="SCAP_StandingBlowjob_FM_2Ghoul_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Ghoul, Standing, Stage 3)" animation="SCAP_StandingBlowjob_FM_2Ghoul_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Ghoul, Standing, Stage 4)" animation="SCAP_StandingBlowjob_FM_2Ghoul_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Ghoul, Standing, Stage 5)" animation="SCAP_StandingBlowjob_FM_2Ghoul_01_S5"/>
+
+<!-- Doggy Animations -->
+
+<position id="SavageCabbage's Animation Pack - Doggy (Ghoul, Staged)" animationGroup="SCAP_DoggyGround_FM_2Ghoul_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Ghoul, Stage 3" animation="SCAP_DoggyGround_FM_2Ghoul_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Ghoul, Stage 4" animation="SCAP_DoggyGround_FM_2Ghoul_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Ghoul, Stage 5" animation="SCAP_DoggyGround_FM_2Ghoul_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Ghoul, Stage 6" animation="SCAP_DoggyGround_FM_2Ghoul_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Ghoul, Stage 7" animation="SCAP_DoggyGround_FM_2Ghoul_01_S7"/>
+
+<position id="SavageCabbage's Animation Pack - Doggy (Ghoul, Standing, Staged)" animationGroup="SCAP_StandingDoggy_FM_2Ghoul_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Ghoul, Standing, Stage 3)" animation="SCAP_StandingDoggy_FM_2Ghoul_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Ghoul, Standing, Stage 4)" animation="SCAP_StandingDoggy_FM_2Ghoul_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Ghoul, Standing, Stage 5)" animation="SCAP_StandingDoggy_FM_2Ghoul_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Ghoul, Standing, Stage 6)" animation="SCAP_StandingDoggy_FM_2Ghoul_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Ghoul, Standing, Stage 7)" animation="SCAP_StandingDoggy_FM_2Ghoul_01_S7"/>
+
+<!-- Carry Animations -->
+
+<position id="SavageCabbage's Animation Pack - Carry (Ghoul, Standing, Staged)" animationGroup="SCAP_StandingCarry_FM_2Ghoul_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Carry (Ghoul, Standing, Stage 3)" animation="SCAP_StandingCarry_FM_2Ghoul_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Carry (Ghoul, Standing, Stage 4)" animation="SCAP_StandingCarry_FM_2Ghoul_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Carry (Ghoul, Standing, Stage 5)" animation="SCAP_StandingCarry_FM_2Ghoul_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Carry (Ghoul, Standing, Stage 6)" animation="SCAP_StandingCarry_FM_2Ghoul_01_S6"/>
+
+<!-- Handjob Animations -->
+
+<position id="SavageCabbage's Animation Pack - Handjob (Ghoul, Standing, Staged)" animationGroup="SCAP_StandingHandjob_FM_2Ghoul_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Ghoul, Standing, Stage 3)" animation="SCAP_StandingHandjob_FM_2Ghoul_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Ghoul, Standing, Stage 4)" animation="SCAP_StandingHandjob_FM_2Ghoul_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Ghoul, Standing, Stage 5)" animation="SCAP_StandingHandjob_FM_2Ghoul_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Ghoul, Standing, Stage 6)" animation="SCAP_StandingHandjob_FM_2Ghoul_01_S6"/>
+
+<!-- Blowjob Animations -->
+
+<position id="SavageCabbage's Animation Pack - Blowjob (Dog, Bed, Staged)" location="Single_Bed" animationGroup="SCAP_BlowjobBed_FM_2Dog_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Dog, Bed, Stage 1)" location="Single_Bed" animation="SCAP_BlowjobBed_FM_2Dog_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Dog, Bed, Stage 2)" location="Single_Bed" animation="SCAP_BlowjobBed_FM_2Dog_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Dog, Bed, Stage 3)" location="Single_Bed" animation="SCAP_BlowjobBed_FM_2Dog_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Dog, Bed, Stage 4)" location="Single_Bed" animation="SCAP_BlowjobBed_FM_2Dog_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Dog, Bed, Stage 5)" location="Single_Bed" animation="SCAP_BlowjobBed_FM_2Dog_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Dog, Bed, Stage 6)" location="Single_Bed" animation="SCAP_BlowjobBed_FM_2Dog_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Dog, Bed, Stage 7)" location="Single_Bed" animation="SCAP_BlowjobBed_FM_2Dog_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Dog, Bed, Stage 8)" location="Single_Bed" animation="SCAP_BlowjobBed_FM_2Dog_01_S8"/>
+
+<!-- Doggy Animations -->
+
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Bed, Staged)" location="Single_Bed" animationGroup="SCAP_DoggyBed_FM_2Dog_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Bed, Stage 1)" location="Single_Bed" animation="SCAP_DoggyBed_FM_2Dog_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Bed, Stage 2)" location="Single_Bed" animation="SCAP_DoggyBed_FM_2Dog_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Bed, Stage 3)" location="Single_Bed" animation="SCAP_DoggyBed_FM_2Dog_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Bed, Stage 4)" location="Single_Bed" animation="SCAP_DoggyBed_FM_2Dog_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Bed, Stage 5)" location="Single_Bed" animation="SCAP_DoggyBed_FM_2Dog_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Bed, Stage 6)" location="Single_Bed" animation="SCAP_DoggyBed_FM_2Dog_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Bed, Stage 7)" location="Single_Bed" animation="SCAP_DoggyBed_FM_2Dog_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Bed, Stage 8)" location="Single_Bed" animation="SCAP_DoggyBed_FM_2Dog_01_S8"/>
+
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_DoggyDoubleBed_FM_2Dog_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Dog_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Double Bed, Stage 2)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Dog_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Dog_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Dog_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Dog_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Dog_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Double Bed, Stage 7)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Dog_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Double Bed, Stage 8)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Dog_01_S8"/>
+
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Staged)" animationGroup="SCAP_DoggyGround_FM_2Dog_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Stage 1)" animation="SCAP_DoggyGround_FM_2Dog_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Stage 2)" animation="SCAP_DoggyGround_FM_2Dog_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Stage 3)" animation="SCAP_DoggyGround_FM_2Dog_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Stage 4)" animation="SCAP_DoggyGround_FM_2Dog_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Stage 5)" animation="SCAP_DoggyGround_FM_2Dog_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Stage 6)" animation="SCAP_DoggyGround_FM_2Dog_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Stage 7)" animation="SCAP_DoggyGround_FM_2Dog_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Stage 8)" animation="SCAP_DoggyGround_FM_2Dog_01_S8"/>
+
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Small Round Table, Staged)" location="RoundTable" animationGroup="SCAP_DoggyRoundTableSmall_FM_2Dog_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Small Round Table, Stage 1)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Small Round Table, Stage 2)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Small Round Table, Stage 3)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Small Round Table, Stage 4)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Small Round Table, Stage 5)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Small Round Table, Stage 6)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Small Round Table, Stage 7)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Small Round Table, Stage 8)" location="RoundTable" animation="SCAP_DoggyRoundTableSmall_FM_2Dog_01_S8"/>
+
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Standing, Staged)" animationGroup="SCAP_StandingDoggy_FM_2Dog_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Standing, Stage 1)" animation="SCAP_StandingDoggy_FM_2Dog_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Standing, Stage 2)" animation="SCAP_StandingDoggy_FM_2Dog_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Standing, Stage 3)" animation="SCAP_StandingDoggy_FM_2Dog_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Standing, Stage 4)" animation="SCAP_StandingDoggy_FM_2Dog_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Standing, Stage 5)" animation="SCAP_StandingDoggy_FM_2Dog_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Standing, Stage 6)" animation="SCAP_StandingDoggy_FM_2Dog_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Standing, Stage 7)" animation="SCAP_StandingDoggy_FM_2Dog_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dog, Standing, Stage 8)" animation="SCAP_StandingDoggy_FM_2Dog_01_S8"/>
+
+<!-- Handjob Animations -->
+
+<position id="SavageCabbage's Animation Pack - Handjob (Dog, Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_HandjobDoubleBed_FM_2Dog_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Dog, Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_FM_2Dog_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Dog, Double Bed, Stage 2)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_FM_2Dog_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Dog, Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_FM_2Dog_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Dog, Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_FM_2Dog_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Dog, Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_FM_2Dog_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Dog, Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_FM_2Dog_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Dog, Double Bed, Stage 7)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_FM_2Dog_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Handjob (Dog, Double Bed, Stage 8)" location="Double_Bed" animation="SCAP_HandjobDoubleBed_FM_2Dog_01_S8"/>
+
+<!-- Missionary Animations -->
+
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Couch, Staged)" location="Couches" animationGroup="SCAP_MissionaryCouch_FM_2Dog_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Couch, Stage 1)" location="Couches" animation="SCAP_MissionaryCouch_FM_2Dog_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Couch, Stage 2)" location="Couches" animation="SCAP_MissionaryCouch_FM_2Dog_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Couch, Stage 3)" location="Couches" animation="SCAP_MissionaryCouch_FM_2Dog_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Couch, Stage 4)" location="Couches" animation="SCAP_MissionaryCouch_FM_2Dog_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Couch, Stage 5)" location="Couches" animation="SCAP_MissionaryCouch_FM_2Dog_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Couch, Stage 6)" location="Couches" animation="SCAP_MissionaryCouch_FM_2Dog_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Couch, Stage 7)" location="Couches" animation="SCAP_MissionaryCouch_FM_2Dog_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Couch, Stage 8)" location="Couches" animation="SCAP_MissionaryCouch_FM_2Dog_01_S8"/>
+
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Staged)" animationGroup="SCAP_MissionaryGround_FM_2Dog_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Stage 1)" animation="SCAP_MissionaryGround_FM_2Dog_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Stage 2)" animation="SCAP_MissionaryGround_FM_2Dog_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Stage 3)" animation="SCAP_MissionaryGround_FM_2Dog_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Stage 4)" animation="SCAP_MissionaryGround_FM_2Dog_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Stage 5)" animation="SCAP_MissionaryGround_FM_2Dog_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Stage 6)" animation="SCAP_MissionaryGround_FM_2Dog_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Stage 7)" animation="SCAP_MissionaryGround_FM_2Dog_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Stage 8)" animation="SCAP_MissionaryGround_FM_2Dog_01_S8"/>
+
+<position id="SavageCabbage's Animation Pack - Missionary (Dog, Sleeping Bag)" location="Sleeping_Bag" animation="SCAP_MissionarySleepingBag_FM_2Dog_01"/>
+
+<!-- Sideways Animations -->
+
+<position id="SavageCabbage's Animation Pack - Sideways (Dog, Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_SidewaysDoubleBed_FM_2Dog_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Sideways (Dog, Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_FM_2Dog_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Sideways (Dog, Double Bed, Stage 2)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_FM_2Dog_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Sideways (Dog, Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_FM_2Dog_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Sideways (Dog, Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_FM_2Dog_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Sideways (Dog, Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_FM_2Dog_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Sideways (Dog, Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_FM_2Dog_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Sideways (Dog, Double Bed, Stage 7)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_FM_2Dog_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Sideways (Dog, Double Bed, Stage 8)" location="Double_Bed" animation="SCAP_SidewaysDoubleBed_FM_2Dog_01_S8"/>
+
+<!-- Sitting Animations -->
+
+<position id="SavageCabbage's Animation Pack - Sitting (Dog, Chair, Staged)" location="ArmChair" animationGroup="SCAP_SittingChair_FM_2Dog_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Sitting (Dog, Chair, Stage 1)" location="ArmChair" animation="SCAP_SittingChair_FM_2Dog_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Sitting (Dog, Chair, Stage 2)" location="ArmChair" animation="SCAP_SittingChair_FM_2Dog_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Sitting (Dog, Chair, Stage 3)" location="ArmChair" animation="SCAP_SittingChair_FM_2Dog_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Sitting (Dog, Chair, Stage 4)" location="ArmChair" animation="SCAP_SittingChair_FM_2Dog_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Sitting (Dog, Chair, Stage 5)" location="ArmChair" animation="SCAP_SittingChair_FM_2Dog_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Sitting (Dog, Chair, Stage 6)" location="ArmChair" animation="SCAP_SittingChair_FM_2Dog_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Sitting (Dog, Chair, Stage 7)" location="ArmChair" animation="SCAP_SittingChair_FM_2Dog_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Sitting (Dog, Chair, Stage 8)" location="ArmChair" animation="SCAP_SittingChair_FM_2Dog_01_S8"/>
+
+<!-- Doggy Animations -->
+
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_DoggyDoubleBed_FM_3Dog_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Double Bed, Stage 01)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_3Dog_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Double Bed, Stage 02)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_3Dog_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Double Bed, Stage 03)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_3Dog_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Double Bed, Stage 04)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_3Dog_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Double Bed, Stage 05)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_3Dog_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Double Bed, Stage 06)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_3Dog_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Double Bed, Stage 07)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_3Dog_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Double Bed, Stage 08)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_3Dog_01_S8"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Double Bed, Stage 09)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_3Dog_01_S9"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Double Bed, Stage 10)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_3Dog_01_S10"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Double Bed, Stage 11)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_3Dog_01_S11"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Double Bed, Stage 12)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_3Dog_01_S12"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Double Bed, Stage 13)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_3Dog_01_S13"/>
+
+<!-- Doggy Animations -->
+
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Staged)" animationGroup="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 1)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 2)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 3)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 4)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 5)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 6)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 7)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Dogs, Restrained, Stage 8)" animation="SCAP_RestrainedDoggyGround_FM_2ActorDog_01_S8"/>
+
+<!-- Blowjob Animations -->
+
+<position id="SavageCabbage's Animation Pack - Blowjob (Supermutant, Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_BlowjobDoubleBed_FM_2Mutant_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Supermutant, Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_BlowjobDoubleBed_FM_2Mutant_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Supermutant, Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_BlowjobDoubleBed_FM_2Mutant_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Supermutant, Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_BlowjobDoubleBed_FM_2Mutant_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Supermutant, Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_BlowjobDoubleBed_FM_2Mutant_01_S6"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Supermutant, Double Bed, Stage 7)" location="Double_Bed" animation="SCAP_BlowjobDoubleBed_FM_2Mutant_01_S7"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Supermutant, Double Bed, Stage 8)" location="Double_Bed" animation="SCAP_BlowjobDoubleBed_FM_2Mutant_01_S8"/>
+
+<position id="SavageCabbage's Animation Pack - Blowjob (Supermutant, Standing, Staged)" animationGroup="SCAP_StandingBlowjob_FM_2Mutant_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Supermutant, Standing, Stage 3)" animation="SCAP_StandingBlowjob_FM_2Mutant_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Supermutant, Standing, Stage 4)" animation="SCAP_StandingBlowjob_FM_2Mutant_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Supermutant, Standing, Stage 5)" animation="SCAP_StandingBlowjob_FM_2Mutant_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Blowjob (Supermutant, Standing, Stage 6)" animation="SCAP_StandingBlowjob_FM_2Mutant_01_S6"/>
+
+<!-- Carry Animations -->
+
+<position id="SavageCabbage's Animation Pack - Carry (Supermutant, Standing, Staged)" animationGroup="SCAP_StandingCarry_FM_2Mutant_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Carry (Supermutant, Standing, Stage 1)" animation="SCAP_StandingCarry_FM_2Mutant_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Carry (Supermutant, Standing, Stage 3)" animation="SCAP_StandingCarry_FM_2Mutant_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Carry (Supermutant, Standing, Stage 4)" animation="SCAP_StandingCarry_FM_2Mutant_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Carry (Supermutant, Standing, Stage 5)" animation="SCAP_StandingCarry_FM_2Mutant_01_S5"/>
+
+<!-- Cowgirl Animations -->
+
+<position id="SavageCabbage's Animation Pack - Cowgirl (Supermutant, Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_CowgirlDoubleBed_FM_2Mutant_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Supermutant, Double Bed, Stage 1)" location="Double_Bed" animation="SCAP_CowgirlDoubleBed_FM_2Mutant_01_S1"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Supermutant, Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_CowgirlDoubleBed_FM_2Mutant_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Supermutant, Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_CowgirlDoubleBed_FM_2Mutant_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Supermutant, Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_CowgirlDoubleBed_FM_2Mutant_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Cowgirl (Supermutant, Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_CowgirlDoubleBed_FM_2Mutant_01_S6"/>
+
+<!-- Doggy Animations -->
+
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Bed, Staged)" location="SMBed" animationGroup="SCAP_DoggyBed_FM_2Mutant_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Bed, Stage 3)" location="SMBed" animation="SCAP_DoggyBed_FM_2Mutant_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Bed, Stage 4)" location="SMBed" animation="SCAP_DoggyBed_FM_2Mutant_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Bed, Stage 5)" location="SMBed" animation="SCAP_DoggyBed_FM_2Mutant_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Bed, Stage 6)" location="SMBed" animation="SCAP_DoggyBed_FM_2Mutant_01_S6"/>
+
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Double Bed, Staged)" location="Double_Bed" animationGroup="SCAP_DoggyDoubleBed_FM_2Mutant_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Double Bed, Stage 2)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Mutant_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Double Bed, Stage 3)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Mutant_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Double Bed, Stage 4)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Mutant_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Double Bed, Stage 5)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Mutant_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Double Bed, Stage 6)" location="Double_Bed" animation="SCAP_DoggyDoubleBed_FM_2Mutant_01_S6"/>
+
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Standing, Staged)" animationGroup="SCAP_StandingDoggy_FM_2Mutant_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Standing, Stage 3)" animation="SCAP_StandingDoggy_FM_2Mutant_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Standing, Stage 4)" animation="SCAP_StandingDoggy_FM_2Mutant_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Standing, Stage 5)" animation="SCAP_StandingDoggy_FM_2Mutant_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutant, Standing, Stage 6)" animation="SCAP_StandingDoggy_FM_2Mutant_01_S6"/>
+
+<!-- Missionary Animations -->
+
+<position id="SavageCabbage's Animation Pack - Missionary 1 (Supermutant, Bed, Staged)" location="Single_Bed" animationGroup="SCAP_MissionaryBed_FM_2Mutant_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Missionary 1 (Supermutant, Bed, Stage 3)" location="Single_Bed" animation="SCAP_MissionaryBed_FM_2Mutant_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Missionary 1 (Supermutant, Bed, Stage 4)" location="Single_Bed" animation="SCAP_MissionaryBed_FM_2Mutant_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Missionary 1 (Supermutant, Bed, Stage 5)" location="Single_Bed" animation="SCAP_MissionaryBed_FM_2Mutant_01_S5"/>
+
+<position id="SavageCabbage's Animation Pack - Missionary 2 (Supermutant, Bed, Staged)" location="SMBed" animationGroup="SCAP_MissionaryBed_FM_2Mutant_02_Staged"/>
+<position id="SavageCabbage's Animation Pack - Missionary 2 (Supermutant, Bed, Stage 1)" location="SMBed" animation="SCAP_MissionaryBed_FM_2Mutant_02_S1"/>
+<position id="SavageCabbage's Animation Pack - Missionary 2 (Supermutant, Bed, Stage 2)" location="SMBed" animation="SCAP_MissionaryBed_FM_2Mutant_02_S2"/>
+<position id="SavageCabbage's Animation Pack - Missionary 2 (Supermutant, Bed, Stage 3)" location="SMBed" animation="SCAP_MissionaryBed_FM_2Mutant_02_S3"/>
+<position id="SavageCabbage's Animation Pack - Missionary 2 (Supermutant, Bed, Stage 4)" location="SMBed" animation="SCAP_MissionaryBed_FM_2Mutant_02_S4"/>
+<position id="SavageCabbage's Animation Pack - Missionary 2 (Supermutant, Bed, Stage 5)" location="SMBed" animation="SCAP_MissionaryBed_FM_2Mutant_02_S5"/>
+
+<!-- Powerbomb Animations -->
+
+<position id="SavageCabbage's Animation Pack - Power Bomb (Supermutant, Reversed, Bed, Staged)" location="Single_Bed" animationGroup="SCAP_ReversePowerBombBed_FM_2Mutant_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Power Bomb (Supermutant, Reversed, Bed, Stage 3)" location="Single_Bed" animation="SCAP_ReversePowerBombBed_FM_2Mutant_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Power Bomb (Supermutant, Reversed, Bed, Stage 4)" location="Single_Bed" animation="SCAP_ReversePowerBombBed_FM_2Mutant_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Power Bomb (Supermutant, Reversed, Bed, Stage 5)" location="Single_Bed" animation="SCAP_ReversePowerBombBed_FM_2Mutant_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Power Bomb (Supermutant, Reversed, Bed, Stage 6)" location="Single_Bed" animation="SCAP_ReversePowerBombBed_FM_2Mutant_01_S6"/>
+
+<!-- Wheelbarrow Animations -->
+
+<position id="SavageCabbage's Animation Pack - Wheelbarrow (Supermutant, Staged)" animationGroup="SCAP_WheelbarrowGround_FM_2Mutant_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Wheelbarrow (Supermutant, Stage 3)" animation="SCAP_WheelbarrowGround_FM_2Mutant_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Wheelbarrow (Supermutant, Stage 4)" animation="SCAP_WheelbarrowGround_FM_2Mutant_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Wheelbarrow (Supermutant, Stage 5)" animation="SCAP_WheelbarrowGround_FM_2Mutant_01_S5"/>
+<position id="SavageCabbage's Animation Pack - Wheelbarrow (Supermutant, Stage 6)" animation="SCAP_WheelbarrowGround_FM_2Mutant_01_S6"/>
+
+<!-- Doggy Animations -->
+
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutants, Bed, Staged)" location="SMBed" animationGroup="SCAP_DoggyBed_FM_3Mutant_01_Staged"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutants, Bed, Stage 3)" location="SMBed" animation="SCAP_DoggyBed_FM_3Mutant_01_S3"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutants, Bed, Stage 4)" location="SMBed" animation="SCAP_DoggyBed_FM_3Mutant_01_S4"/>
+<position id="SavageCabbage's Animation Pack - Doggy (Supermutants, Bed, Stage 5)" location="SMBed" animation="SCAP_DoggyBed_FM_3Mutant_01_S5"/>
+
+<!-- DoubleTeam Animations -->
+
+<position id="SavageCabbage's Animation Pack - Double Team (Supermutants, Camp Bed)" location="SMFrameBed" animation="SCAP_DoubleTeamCampBed_FM_3Mutant_01"/>
+
+<position id="SavageCabbage's Animation Pack - Double Team (Supermutants, Standing)" animation="SCAP_StandingDoubleTeam_FM_3Mutant_01"/>

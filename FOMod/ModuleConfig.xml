@@ -832,7 +832,7 @@
           <fileDependency file="DLCworkshop02.esm" state="Active"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Crazys_Animations_Gun_Version\30 Addons\DLCworkshop02\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\Crazys_Animations_Gun_Version\40 Addons\DLCworkshop02\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Farelle's Animations -->

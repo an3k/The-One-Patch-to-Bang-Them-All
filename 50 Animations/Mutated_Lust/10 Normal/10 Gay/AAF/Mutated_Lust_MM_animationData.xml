@@ -55,9 +55,7 @@
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="000F9C" id="ML_Blowjob SM"/>
-		<value path="morph" value="Erection Down" to="0.4"/>
 		<value path="morph" value="Erection Up" to="0.2"/>
-		<value path="morph" value="CErection" to="1.2"/>
 	</actor>
 </animation>
 

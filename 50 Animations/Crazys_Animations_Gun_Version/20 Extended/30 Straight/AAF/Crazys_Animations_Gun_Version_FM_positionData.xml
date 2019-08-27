@@ -1,0 +1,37 @@
+﻿<meta title="Crazy's Animations [Gun Version] - Position Data" version="3.11.17" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<!-- Normal -->
+
+<position id="Crazy's Animations - Doggy" animation="Crazy_Doggy_FM_01"/>
+<position id="Crazy's Animations - Doggy (Down)" animation="Crazy_Doggy_FM_02"/>
+<position id="Crazy's Animations - Ground Pounding" animation="Crazy_Pounding_FM_01"/>
+<position id="Crazy's Animations - Ground Pounding (Reverse)" animation="Crazy_Pounding_FM_02"/>
+<position id="Crazy's Animations - Hand Job" animation="Crazy_Handjob_FM_01"/>
+<position id="Crazy's Animations - Missionary" animation="Crazy_Missionary_FM_01"/>
+<position id="Crazy's Animations - Riding" animation="Crazy_Riding_FM_01"/>
+<position id="Crazy's Animations - Standing" animation="Crazy_Standing_FM_01"/>
+<position id="Crazy's Animations - Standing (Shoulder)" animation="Crazy_Standing_FM_02"/>
+
+<!-- Furniture Animations -->
+
+<position id="Crazy's Animations - Doggy (Bed)" location="Single_Bed,Double_Bed" animation="Crazy_DoggyBed_FM_01"/>
+<position id="Crazy's Animations - Doggy (Bed, Down)" location="Single_Bed,Double_Bed" animation="Crazy_DoggyBed_FM_02"/>
+<position id="Crazy's Animations - Ground Pounding (Bed)" location="Single_Bed,Double_Bed" animation="Crazy_PoundingBed_FM_01"/>
+<position id="Crazy's Animations - Ground Pounding (Bed, Reverse)" location="Single_Bed,Double_Bed" animation="Crazy_PoundingBed_FM_02"/>
+<position id="Crazy's Animations - Missionary (Bed)" location="Single_Bed,Double_Bed" animation="Crazy_MissionaryBed_FM_01"/>
+<position id="Crazy's Animations - Riding (Bed)" location="Single_Bed,Double_Bed" animation="Crazy_RidingBed_FM_01"/>
+
+<!-- Female Solo Animations -->
+
+<position id="Crazy's Animations - Masturbation" animation="Crazy_Masturbate_F_01"/>
+<position id="Crazy's Animations - Masturbation (Fingering)" animation="Crazy_Masturbate_F_03"/>
+<position id="Crazy's Animations - Masturbation (Laying)" animation="Crazy_Masturbate_F_02"/>
+
+<!-- Female Solo Furniture Animations -->
+
+<position id="Crazy's Animations - Masturbation (Bed, Laying)" location="Single_Bed,Double_Bed" animation="Crazy_MasturbateBed_F_02"/>
+
+<!-- Male Solo Animations -->
+
+<position id="Crazy's Animations - Masturbation (Jerking Off)" animation="Crazy_Masturbate_M_01"/>

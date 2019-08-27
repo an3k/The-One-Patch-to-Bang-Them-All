@@ -357,17 +357,3 @@
 		<idle form="0002B43E" id="AtomicRocket69GayBottom"/>
 	</actor>
 </animation>
-
-<!-- Solo Male Animations -->
-
-<animation id="AtomicLust_Jerking_M_01" frames="400">
-	<actor gender="M">
-		<idle form="020428DC" id="Atomic Jerking M"/>
-	</actor>
-</animation>
-
-<animation id="AtomicLust_Jerking_M_Orgasm_01" frames="400">
-	<actor gender="M">
-		<idle form="020428DD" id="Atomic Jerking (Orgasm) M"/>
-	</actor>
-</animation>

@@ -388,8 +388,8 @@
 	</actor>
 </animation>
 
-<animation id="FO4SA_MasturbationBed_F_02" frames="360">
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+<animation id="FO4SA_MasturbationBed_M_01" frames="360">
+	<actor gender="M">
 		<idle form="000035E6" id="rxl_bp70_bedmast_m"/>
 	</actor>
 </animation>

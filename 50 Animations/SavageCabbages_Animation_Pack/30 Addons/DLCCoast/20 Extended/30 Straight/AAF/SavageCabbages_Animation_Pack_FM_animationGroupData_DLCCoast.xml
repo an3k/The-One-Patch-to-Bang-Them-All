@@ -2,6 +2,7 @@
 <defaults/>
 
 
+
 <animationGroup id="SCAP_SittingOuthouse_FM_2Dog_01_Staged" sequential="true">
 	<stage animation="SCAP_SittingOuthouse_FM_2Dog_01_S1"/>
 	<stage animation="SCAP_SittingOuthouse_FM_2Dog_01_S2"/>

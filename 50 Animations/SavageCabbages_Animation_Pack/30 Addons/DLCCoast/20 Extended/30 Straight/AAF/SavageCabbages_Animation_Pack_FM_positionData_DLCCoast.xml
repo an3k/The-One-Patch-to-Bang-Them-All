@@ -2,6 +2,7 @@
 <defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
 
 
+
 <position id="SavageCabbage's Animation Pack - Sitting (Dog, Outhouse, Staged)" location="Outhouse" animationGroup="SCAP_SittingOuthouse_FM_2Dog_01_Staged"/>
 <position id="SavageCabbage's Animation Pack - Sitting (Dog, Outhouse, Stage 1)" location="Outhouse" animation="SCAP_SittingOuthouse_FM_2Dog_01_S1"/>
 <position id="SavageCabbage's Animation Pack - Sitting (Dog, Outhouse, Stage 2)" location="Outhouse" animation="SCAP_SittingOuthouse_FM_2Dog_01_S2"/>

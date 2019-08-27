@@ -2,6 +2,7 @@
 <defaults source="SavageCabbage_Animations.esp"/>
 
 
+
 <animation id="SCAP_SittingOuthouse_FM_2Dog_01_S1" frames="500">
 	<actor gender="F">
 		<idle form="00020011" id="FD-Outhouse01-01Tease-F1"/>

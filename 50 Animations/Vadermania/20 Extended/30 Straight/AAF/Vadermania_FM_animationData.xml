@@ -1,21 +1,12 @@
-<meta title="Vadermania - Lesbian Animation Data" version="1.1.0" dataSet="animation"/>
+<meta title="Vadermania - Animation Data" version="1.1.0" dataSet="animation"/>
 <defaults source="Vadermania[AAF_anims].esp"/>
 
-<animation id="VM_Doggy_FF_01" offset="0,70,0,0:0,0,0,0" frames="60">
-	<actor gender="F">
-		<idle form="00000F9E" id="vad_Doggy_Female"/>
+<animation id="VM_Cat_FM_01" frames="60">
+	<actor gender="M" skeleton="Cat">
+		<idle form="00002E0A" id="vad_Cat01_Cat_f"/>
 	</actor>
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
-		<idle form="00000F9D" id="vad_Doggy_Male"/>
-	</actor>
-</animation>
-
-<animation id="VM_Table_FF_01" offset="0,70,0,0:0,0,0,0" frames="60">
-	<actor gender="F">
-		<idle form="00000F9B" id="vad_Table_Female"/>
-	</actor>
-	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
-		<idle form="00000F99" id="vad_Table_Male"/>
+	<actor gender="M" skeleton="Cat">
+		<idle form="00002E09" id="vad_Cat01_Cat_m"/>
 	</actor>
 </animation>
 
@@ -34,6 +25,15 @@
 	</actor>
 	<actor gender="M" skeleton="Deathclaw">
 		<idle form="00003D41" id="vad_Deathclaw02_Deathclaw02"/>
+	</actor>
+</animation>
+
+<animation id="VM_Doggy_FM_01" offset="0,70,0,0:0,0,0,0" frames="60">
+	<actor gender="F">
+		<idle form="00000F9E" id="vad_Doggy_Female"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00000F9D" id="vad_Doggy_Male"/>
 	</actor>
 </animation>
 
@@ -94,5 +94,14 @@
 	</actor>
 	<actor gender="M" skeleton="Gorilla">
 		<idle form="000035B4" id="vad_Gorilla01_Gorilla_01"/>
+	</actor>
+</animation>
+
+<animation id="VM_Table_FM_01" offset="0,70,0,0:0,0,0,0" frames="60">
+	<actor gender="F">
+		<idle form="00000F9B" id="vad_Table_Female"/>
+	</actor>
+	<actor gender="M">
+		<idle form="00000F99" id="vad_Table_Male"/>
 	</actor>
 </animation>

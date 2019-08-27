@@ -1,0 +1,5 @@
+<meta title="Vadermania - Lesbian Position Data" version="1.1.0" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<position id="Vadermania - Lesbian Doggy" animation="VM_Doggy_FF_01"/>
+<position id="Vadermania - Lesbian Table" animation="VM_Table_FF_01"/>

@@ -1,0 +1,20 @@
+<meta title="Vadermania - Lesbian Animation Data" version="1.1.0" dataSet="animation"/>
+<defaults source="Vadermania[AAF_anims].esp"/>
+
+<animation id="VM_Doggy_FF_01" offset="0,70,0,0:0,0,0,0" frames="60">
+	<actor gender="F">
+		<idle form="00000F9E" id="vad_Doggy_Female"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00000F9D" id="vad_Doggy_Male"/>
+	</actor>
+</animation>
+
+<animation id="VM_Table_FF_01" offset="0,70,0,0:0,0,0,0" frames="60">
+	<actor gender="F">
+		<idle form="00000F9B" id="vad_Table_Female"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00000F99" id="vad_Table_Male"/>
+	</actor>
+</animation>

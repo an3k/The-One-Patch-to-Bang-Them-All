@@ -61,20 +61,22 @@
 
 <!-- Impregnation Animations -->
 
-<position id="FO4SA_Missionary_FM_Impregnate_01_1" animation="FO4SA_Missionary_FM_Impregnate_01_1"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_1TR2A" animation="FO4SA_Missionary_FM_Impregnate_01_1TR2A"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_2A" animation="FO4SA_Missionary_FM_Impregnate_01_2A"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_2ATR3A" animation="FO4SA_Missionary_FM_Impregnate_01_2ATR3A"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_3A" animation="FO4SA_Missionary_FM_Impregnate_01_3A"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_3ATR4A" animation="FO4SA_Missionary_FM_Impregnate_01_3ATR4A"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_4A" animation="FO4SA_Missionary_FM_Impregnate_01_4A"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_4ATR5A" animation="FO4SA_Missionary_FM_Impregnate_01_4ATR5A"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_5A" animation="FO4SA_Missionary_FM_Impregnate_01_5A"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_1TR2B" animation="FO4SA_Missionary_FM_Impregnate_01_1TR2B"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_2B" animation="FO4SA_Missionary_FM_Impregnate_01_2B"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_2BTR3B" animation="FO4SA_Missionary_FM_Impregnate_01_2BTR3B"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_3B" animation="FO4SA_Missionary_FM_Impregnate_01_3B"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_3BTR4B" animation="FO4SA_Missionary_FM_Impregnate_01_3BTR4B"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_4B" animation="FO4SA_Missionary_FM_Impregnate_01_4B"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_4BTR5B" animation="FO4SA_Missionary_FM_Impregnate_01_4BTR5B"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_5B" animation="FO4SA_Missionary_FM_Impregnate_01_5B"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_1" animation="FO4SA_Missionary_FM_Impregnate_01_1" isHidden="true"/>
+
+<position id="FO4SA_Missionary_FM_Impregnate_01_1TR2A" animation="FO4SA_Missionary_FM_Impregnate_01_1TR2A" isHidden="true"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_2A" animation="FO4SA_Missionary_FM_Impregnate_01_2A" isHidden="true"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_2ATR3A" animation="FO4SA_Missionary_FM_Impregnate_01_2ATR3A" isHidden="true"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_3A" animation="FO4SA_Missionary_FM_Impregnate_01_3A" isHidden="true"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_3ATR4A" animation="FO4SA_Missionary_FM_Impregnate_01_3ATR4A" isHidden="true"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_4A" animation="FO4SA_Missionary_FM_Impregnate_01_4A" isHidden="true"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_4ATR5A" animation="FO4SA_Missionary_FM_Impregnate_01_4ATR5A" isHidden="true"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_5A" animation="FO4SA_Missionary_FM_Impregnate_01_5A" isHidden="true"/>
+
+<position id="FO4SA_Missionary_FM_Impregnate_01_1TR2B" animation="FO4SA_Missionary_FM_Impregnate_01_1TR2B" isHidden="true"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_2B" animation="FO4SA_Missionary_FM_Impregnate_01_2B" isHidden="true"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_2BTR3B" animation="FO4SA_Missionary_FM_Impregnate_01_2BTR3B" isHidden="true"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_3B" animation="FO4SA_Missionary_FM_Impregnate_01_3B" isHidden="true"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_3BTR4B" animation="FO4SA_Missionary_FM_Impregnate_01_3BTR4B" isHidden="true"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_4B" animation="FO4SA_Missionary_FM_Impregnate_01_4B" isHidden="true"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_4BTR5B" animation="FO4SA_Missionary_FM_Impregnate_01_4BTR5B" isHidden="true"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_5B" animation="FO4SA_Missionary_FM_Impregnate_01_5B" isHidden="true"/>

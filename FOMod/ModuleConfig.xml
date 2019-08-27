@@ -220,76 +220,36 @@
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="Basic" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="10 Themes\10 Normal\10 Basic" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <flagDependency flag="Basic" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="10 Themes\20 Extended\10 Basic" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="10 Themes\10 Basic" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Themes Vanilla -->
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="Vanilla" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="10 Themes\10 Normal\20 Vanilla" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <flagDependency flag="Vanilla" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="10 Themes\20 Extended\20 Vanilla" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="10 Themes\20 Vanilla" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Themes Kinky -->
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="Kinky" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="10 Themes\10 Normal\30 Kinky" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <flagDependency flag="Kinky" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="10 Themes\20 Extended\30 Kinky" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="10 Themes\30 Kinky" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Themes Creatures -->
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="Creatures" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="10 Themes\10 Normal\40 Creatures" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <flagDependency flag="Creatures" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="10 Themes\20 Extended\40 Creatures" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="10 Themes\40 Creatures" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Male Bodies - BodyTalk V2 -->

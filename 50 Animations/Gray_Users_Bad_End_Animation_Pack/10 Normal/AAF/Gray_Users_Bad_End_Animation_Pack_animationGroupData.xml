@@ -91,14 +91,3 @@
 	<stage animation="GUBEAP_Pole_01_S7B"/>
 	<stage animation="GUBEAP_Pole_01_S7C"/>
 </animationGroup>
-
-<!-- Test Animations -->
-
-<animationGroup id="_BP_Test_Staged" sequential="true">
-    <stage animation="_BP_Test00"/>
-    <stage animation="_BP_Test01"/>
-    <stage animation="_BP_Test02"/>
-	<stage animation="_BP_Test03"/>
-    <stage animation="_BP_Test04"/>
-    <stage animation="_BP_Test05"/>
-</animationGroup>

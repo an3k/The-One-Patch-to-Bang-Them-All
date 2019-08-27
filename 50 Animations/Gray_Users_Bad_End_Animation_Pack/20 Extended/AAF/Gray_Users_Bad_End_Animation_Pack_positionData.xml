@@ -72,13 +72,3 @@
 <position id="Gray User's Bad End Animation Pack - Pole (Stage 7A)" location="ImpalingPoleFurniture" animation="GUBEAP_Pole_01_S7A"/>
 <position id="Gray User's Bad End Animation Pack - Pole (Stage 7B)" location="ImpalingPoleFurniture" animation="GUBEAP_Pole_01_S7B"/>
 <position id="Gray User's Bad End Animation Pack - Pole (Stage 7C)" location="ImpalingPoleFurniture" animation="GUBEAP_Pole_01_S7C"/>
-
-<!-- Test Animations -->
-
-<position id="_BP_Test_Staged" animationGroup="_BP_Test_Staged"/>
-<position id="_BP_Test00" animation="_BP_Test00"/>
-<position id="_BP_Test01" animation="_BP_Test01"/>
-<position id="_BP_Test02" animation="_BP_Test02"/>
-<position id="_BP_Test03" animation="_BP_Test03"/>
-<position id="_BP_Test04" animation="_BP_Test04"/>
-<position id="_BP_Test05" animation="_BP_Test05"/>

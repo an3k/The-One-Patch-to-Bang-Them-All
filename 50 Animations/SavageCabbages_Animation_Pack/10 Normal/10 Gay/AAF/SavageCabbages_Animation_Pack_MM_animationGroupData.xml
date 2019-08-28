@@ -1,4 +1,4 @@
-<meta title="SavageCabbage's Animation Pack - Gay Animation Group Data" version="1.0.4" dataSet="animationGroup"/>
+<meta title="SavageCabbage's Animation Pack - Animation Group Data" version="1.0.4" dataSet="animationGroup"/>
 <defaults/>
 
 <!-- Dance Animations -->
@@ -190,12 +190,6 @@
 <animationGroup id="SCAP_RoughDoubleTeamGround_MM_3Human_01_Staged" sequential="true">
 	<stage animation="SCAP_RoughDoubleTeamGround_MM_3Human_01_S1"/>
 	<stage animation="SCAP_RoughDoubleTeamGround_MM_3Human_01_S2"/>
-</animationGroup>
-
-<animationGroup id="SCAP_StandingDoubleTeam_MM_3Human_01_Staged" sequential="true">
-	<stage animation="SCAP_StandingDoubleTeam_MM_3Human_01_S1"/>
-	<stage animation="SCAP_StandingDoubleTeam_MM_3Human_01_S2"/>
-	<stage animation="SCAP_StandingDoubleTeam_MM_3Human_01_S3"/>
 </animationGroup>
 
 <!-- Handjob Animations -->

@@ -217,11 +217,6 @@
 <position id="SavageCabbage's Animation Pack - Gay Double Team (Rough, 3P, Stage 1)" animation="SCAP_RoughDoubleTeamGround_MM_3Human_01_S1"/>
 <position id="SavageCabbage's Animation Pack - Gay Double Team (Rough, 3P, Stage 2)" animation="SCAP_RoughDoubleTeamGround_MM_3Human_01_S2"/>
 
-<position id="SavageCabbage's Animation Pack - Gay Double Team (Standing, 3P, Staged)" animationGroup="SCAP_StandingDoubleTeam_MM_3Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Gay Double Team (Standing, 3P, Stage 1)" animation="SCAP_StandingDoubleTeam_MM_3Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Gay Double Team (Standing, 3P, Stage 2)" animation="SCAP_StandingDoubleTeam_MM_3Human_01_S2"/>
-<position id="SavageCabbage's Animation Pack - Gay Double Team (Standing, 3P, Stage 3)" animation="SCAP_StandingDoubleTeam_MM_3Human_01_S3"/>
-
 <!-- Gangbang Animations -->
 
 <position id="SavageCabbage's Animation Pack - Gay Gangbang (3P)" animation="SCAP_GangbangGround_MM_3Human_01"/>

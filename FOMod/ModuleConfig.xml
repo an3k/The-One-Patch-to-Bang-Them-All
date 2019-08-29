@@ -177,7 +177,7 @@
             </plugin>
           </plugins>
         </group>
-        <group name="Masturbation" type="SelectAtLeastOne">
+        <group name="Masturbation" type="SelectAny">
           <plugins order="Explicit">
             <plugin name="Males">
               <description/>

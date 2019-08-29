@@ -4,8 +4,8 @@
 <!-- Dance Animations -->
 
 <position id="SavageCabbage's Animation Pack - Gay Dance (Staged)" animationGroup="SCAP_Dance_MM_1Human_01_Staged"/>
-<position id="SavageCabbage's Animation Pack - Gay Dance (Stage 1)" animation="SCAP_Dance_MM_1Human_01_S1"/>
-<position id="SavageCabbage's Animation Pack - Gay Dance (Stage 2)" animation="SCAP_Dance_MM_1Human_01_S2"/>
+<position id="SavageCabbage's Animation Pack - Gay Dance (Stage 1)" animation="SCAP_Dance_MM_1Human_01_S1" isHidden="true"/>
+<position id="SavageCabbage's Animation Pack - Gay Dance (Stage 2)" animation="SCAP_Dance_MM_1Human_01_S2" isHidden="true"/>
 
 <position id="SavageCabbage's Animation Pack - Gay Twerk 1" animation="SCAP_Twerk_MM_1Human_01"/>
 <position id="SavageCabbage's Animation Pack - Gay Twerk 2" animation="SCAP_Twerk_MM_1Human_02"/>

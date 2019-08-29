@@ -433,6 +433,15 @@
           <folder source="40 Poses\Stop_Drop_Pose\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
+      <!-- Striptease Poses -->
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="TBOS-Striptease.esp" state="Active"/>
+        </dependencies>
+        <files>
+          <folder source="40 Poses\Striptease_Poses\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
       <!-- Sun's Poses -->
       <pattern>
         <dependencies operator="And">

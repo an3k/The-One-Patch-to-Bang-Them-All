@@ -21,11 +21,11 @@
 
 <!-- Solo Bent Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Bent Mixed" animationGroup="50SFO4_Bent_M_01_Mixed"/>
+<position id="50 Shades of Fallout 4 - Male Bent (Mixed)" animationGroup="50SFO4_Bent_M_01_Mixed"/>
 
 <!-- Solo Bent Gagged Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Bent Mixed (Gagged)" animationGroup="50SFO4_Bent_M_Gagged_01_Mixed"/>
+<position id="50 Shades of Fallout 4 - Male Bent (Gagged, Mixed)" animationGroup="50SFO4_Bent_M_Gagged_01_Mixed"/>
 
 <!-- Solo Facedown Animations -->
 
@@ -47,11 +47,11 @@
 
 <!-- Solo Facedown Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Facedown Mixed" animationGroup="50SFO4_Facedown_M_01_Mixed"/>
+<position id="50 Shades of Fallout 4 - Male Facedown (Mixed)" animationGroup="50SFO4_Facedown_M_01_Mixed"/>
 
 <!-- Solo Facedown Gagged Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Facedown Mixed (Gagged)" animationGroup="50SFO4_Facedown_M_Gagged_01_Mixed"/>
+<position id="50 Shades of Fallout 4 - Male Facedown (Gagged, Mixed)" animationGroup="50SFO4_Facedown_M_Gagged_01_Mixed"/>
 
 <!-- Solo Hogtie Animations -->
 
@@ -73,11 +73,11 @@
 
 <!-- Solo Hogtie Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Hogtie Mixed" animationGroup="50SFO4_Hogtie_M_01_Mixed"/>
+<position id="50 Shades of Fallout 4 - Male Hogtie (Mixed)" animationGroup="50SFO4_Hogtie_M_01_Mixed"/>
 
 <!-- Solo Hogtie Gagged Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Hogtie Mixed (Gagged)" animationGroup="50SFO4_Hogtie_M_Gagged_01_Mixed"/>
+<position id="50 Shades of Fallout 4 - Male Hogtie (Gagged, Mixed)" animationGroup="50SFO4_Hogtie_M_Gagged_01_Mixed"/>
 
 <!-- Solo Side Animations -->
 
@@ -99,8 +99,8 @@
 
 <!-- Solo Side Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Side Mixed" animationGroup="50SFO4_Side_M_01_Mixed"/>
+<position id="50 Shades of Fallout 4 - Male Side (Mixed)" animationGroup="50SFO4_Side_M_01_Mixed"/>
 
 <!-- Solo Side Gagged Mixed Animations -->
 
-<position id="50 Shades of Fallout 4 - Male Side Mixed (Gagged)" animationGroup="50SFO4_Side_M_Gagged_01_Mixed"/>
+<position id="50 Shades of Fallout 4 - Male Side (Gagged, Mixed)" animationGroup="50SFO4_Side_M_Gagged_01_Mixed"/>

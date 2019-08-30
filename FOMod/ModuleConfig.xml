@@ -994,6 +994,26 @@
       <pattern>
         <dependencies operator="And">
           <fileDependency file="rxl_bp70_animations.esp" state="Active"/>
+          <flagDependency flag="MMasturbation" value="true"/>
+          <flagDependency flag="Animation" value="Normal"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\BP70s_Fallout_4_Sex_Animations\10 Normal\70 Male Masturbation" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="rxl_bp70_animations.esp" state="Active"/>
+          <flagDependency flag="FMasturbation" value="true"/>
+          <flagDependency flag="Animation" value="Normal"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\BP70s_Fallout_4_Sex_Animations\10 Normal\80 Female Masturbation" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="rxl_bp70_animations.esp" state="Active"/>
           <flagDependency flag="Gay" value="true"/>
           <flagDependency flag="Animation" value="Extended"/>
         </dependencies>
@@ -1019,6 +1039,26 @@
         </dependencies>
         <files>
           <folder source="50 Animations\BP70s_Fallout_4_Sex_Animations\20 Extended\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="rxl_bp70_animations.esp" state="Active"/>
+          <flagDependency flag="MMasturbation" value="true"/>
+          <flagDependency flag="Animation" value="Extended"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\BP70s_Fallout_4_Sex_Animations\20 Extended\70 Male Masturbation" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="rxl_bp70_animations.esp" state="Active"/>
+          <flagDependency flag="FMasturbation" value="true"/>
+          <flagDependency flag="Animation" value="Extended"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\BP70s_Fallout_4_Sex_Animations\20 Extended\80 Female Masturbation" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Crazy's Animations [Gun Version] -->

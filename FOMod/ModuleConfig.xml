@@ -115,6 +115,28 @@
             </plugin>
           </plugins>
         </group>
+        <group name="Supermutant Body" type="SelectExactlyOne">
+          <plugins order="Explicit">
+            <plugin name="Extended">
+              <description>Select this if you want an animated Penis with the downside of some Supermutants freezing after getting killed.</description>
+              <conditionFlags>
+                <flag name="SMBody">EXT</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional"/>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Vanilla">
+              <description>Select this if you don't want some Supermutants freezing after getting killed with the downside of not having an animated Penis.</description>
+              <conditionFlags>
+                <flag name="SMBody">FO4</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Recommended"/>
+              </typeDescriptor>
+            </plugin>
+          </plugins>
+        </group>
       </optionalFileGroups>
     </installStep>
     <installStep name="Animations">
@@ -177,6 +199,44 @@
             </plugin>
           </plugins>
         </group>
+      </optionalFileGroups>
+    </installStep>
+    <installStep name="Animations II">
+      <!--<designer.metadata.do.not.edit> {"name":"Animations II"}-->
+      <visible operator="And">
+        <dependencies operator="Or">
+          <flagDependency flag="Vanilla" value="true"/>
+          <flagDependency flag="Kinky" value="true"/>
+          <flagDependency flag="Creatures" value="true"/>
+        </dependencies>
+        <dependencies operator="Or">
+          <fileDependency file="AAF_GrayAnimations.esp" state="Active"/>
+          <fileDependency file="Atomic Lust.esp" state="Active"/>
+        </dependencies>
+      </visible>
+      <optionalFileGroups order="Explicit">
+        <group name="Solo" type="SelectAny">
+          <plugins order="Explicit">
+            <plugin name="Males">
+              <description/>
+              <conditionFlags>
+                <flag name="MSolo">true</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Recommended"/>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Females">
+              <description/>
+              <conditionFlags>
+                <flag name="FSolo">true</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Recommended"/>
+              </typeDescriptor>
+            </plugin>
+          </plugins>
+        </group>
         <group name="Masturbation" type="SelectAny">
           <plugins order="Explicit">
             <plugin name="Males">
@@ -201,6 +261,78 @@
         </group>
       </optionalFileGroups>
     </installStep>
+    <installStep name="Vioxsis Strap-On's">
+      <visible operator="And">
+        <dependencies operator="Or">
+          <flagDependency flag="Vanilla" value="true"/>
+          <flagDependency flag="Kinky" value="true"/>
+          <flagDependency flag="Creatures" value="true"/>
+        </dependencies>
+        <dependencies operator="And">
+          <flagDependency flag="Lesbian" value="true"/>
+        </dependencies>
+      </visible>
+      <optionalFileGroups order="Explicit">
+        <group name="Type &amp; Color" type="SelectExactlyOne">
+          <plugins order="Explicit">
+            <plugin name="Strap-On - Brown">
+              <description/>
+              <conditionFlags>
+                <flag name="Color">SBrown</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Recommended"/>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Strap-On - Purple">
+              <description/>
+              <conditionFlags>
+                <flag name="Color">SPurple</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional"/>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Viodoe - Black">
+              <description/>
+              <conditionFlags>
+                <flag name="Color">VBlack</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional"/>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Viodoe - Green">
+              <description/>
+              <conditionFlags>
+                <flag name="Color">VGreen</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional"/>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Viodoe - Purple">
+              <description/>
+              <conditionFlags>
+                <flag name="Color">VPurple</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional"/>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Viodoe - Red">
+              <description/>
+              <conditionFlags>
+                <flag name="Color">VRed</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional"/>
+              </typeDescriptor>
+            </plugin>
+          </plugins>
+        </group>
+      </optionalFileGroups>
+    </installStep>
   </installSteps>
   <conditionalFileInstalls>
     <patterns>
@@ -216,7 +348,6 @@
           <folder source="10 Themes\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
-      <!-- Themes Basic -->
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="Basic" value="true"/>
@@ -225,7 +356,6 @@
           <folder source="10 Themes\10 Basic" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
-      <!-- Themes Vanilla -->
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="Vanilla" value="true"/>
@@ -234,7 +364,6 @@
           <folder source="10 Themes\20 Vanilla" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
-      <!-- Themes Kinky -->
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="Kinky" value="true"/>
@@ -243,7 +372,6 @@
           <folder source="10 Themes\30 Kinky" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
-      <!-- Themes Creatures -->
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="Creatures" value="true"/>
@@ -252,7 +380,7 @@
           <folder source="10 Themes\40 Creatures" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
-      <!-- Male Bodies - BodyTalk V2 -->
+      <!-- Male Bodies -->
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="MBody" value="BT2"/>
@@ -261,7 +389,6 @@
           <folder source="20 Bodies\10 BodyTalk_V2\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
-      <!-- Male Bodies - Enhanced Vanilla Bodies -->
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="MBody" value="EVB"/>
@@ -270,7 +397,6 @@
           <folder source="20 Bodies\20 Enhanced_Vanilla_Bodies\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
-      <!-- Male Bodies - Vanilla -->
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="MBody" value="FO4"/>
@@ -279,7 +405,7 @@
           <folder source="20 Bodies\30 Vanilla_Bodies\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
-      <!-- Female Bodies - Fusion Girl -->
+      <!-- Female Bodies -->
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="Lesbian" value="true"/>
@@ -290,7 +416,6 @@
           <folder source="30 Assets\Vioxsis_Strap-Ons_of_Fallout_4\10 Fusion Girl" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
-      <!-- Female Bodies - CBBE -->
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="Lesbian" value="true"/>
@@ -301,7 +426,6 @@
           <folder source="30 Assets\Vioxsis_Strap-Ons_of_Fallout_4\20 CBBE" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
-      <!-- Female Bodies - Vanilla -->
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="Lesbian" value="true"/>
@@ -309,6 +433,32 @@
         </dependencies>
         <files>
           <folder source="30 Assets\Vioxsis_Strap-Ons_of_Fallout_4\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Supermutant Bodies -->
+      <pattern>
+        <dependencies operator="Or">
+          <flagDependency flag="SMBody" value="EXT"/>
+          <fileDependency file="Farelle_Animations.esp" state="Active"/>
+          <fileDependency file="FO4_AnimationsByLeito.esp" state="Active"/>
+          <fileDependency file="Mutated Lust.esp" state="Active"/>
+          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+        </dependencies>
+        <files>
+          <folder source="30 Assets\Super_Mutant\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="30 Assets\Super_Mutant\10 Extended" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="Or">
+          <flagDependency flag="SMBody" value="FO4"/>
+          <fileDependency file="Farelle_Animations.esp" state="Active"/>
+          <fileDependency file="FO4_AnimationsByLeito.esp" state="Active"/>
+          <fileDependency file="Mutated Lust.esp" state="Active"/>
+          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
+        </dependencies>
+        <files>
+          <folder source="30 Assets\Super_Mutant\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Assets - Creature Patch -->
@@ -329,18 +479,6 @@
           <folder source="30 Assets\Creature_Patch\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
-      <!-- Assets - Super Mutant Skeleton -->
-      <pattern>
-        <dependencies operator="Or">
-          <fileDependency file="Farelle_Animations.esp" state="Active"/>
-          <fileDependency file="FO4_AnimationsByLeito.esp" state="Active"/>
-          <fileDependency file="Mutated Lust.esp" state="Active"/>
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-        </dependencies>
-        <files>
-          <folder source="30 Assets\Super_Mutant_Skeleton\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
       <!-- Assets - Devious Devices -->
       <pattern>
         <dependencies operator="And">
@@ -348,6 +486,61 @@
         </dependencies>
         <files>
           <folder source="30 Assets\Devious_Devices\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <!-- Assets - Vioxsis Strap-On's of Fallout 4 -->
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="Lesbian" value="true"/>
+          <flagDependency flag="Color" value="SBrown"/>
+        </dependencies>
+        <files>
+          <folder source="30 Assets\Vioxsis_Strap-Ons_of_Fallout_4\30 Color\10 SBrown" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="Lesbian" value="true"/>
+          <flagDependency flag="Color" value="SPurple"/>
+        </dependencies>
+        <files>
+          <folder source="30 Assets\Vioxsis_Strap-Ons_of_Fallout_4\30 Color\20 SPurple" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="Lesbian" value="true"/>
+          <flagDependency flag="Color" value="VBlack"/>
+        </dependencies>
+        <files>
+          <folder source="30 Assets\Vioxsis_Strap-Ons_of_Fallout_4\30 Color\30 VBlack" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="Lesbian" value="true"/>
+          <flagDependency flag="Color" value="VGreen"/>
+        </dependencies>
+        <files>
+          <folder source="30 Assets\Vioxsis_Strap-Ons_of_Fallout_4\30 Color\40 VGreen" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="Lesbian" value="true"/>
+          <flagDependency flag="Color" value="VPurple"/>
+        </dependencies>
+        <files>
+          <folder source="30 Assets\Vioxsis_Strap-Ons_of_Fallout_4\30 Color\50 VPurple" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="Lesbian" value="true"/>
+          <flagDependency flag="Color" value="VRed"/>
+        </dependencies>
+        <files>
+          <folder source="30 Assets\Vioxsis_Strap-Ons_of_Fallout_4\30 Color\60 VRed" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Dave's Poses -->
@@ -520,21 +713,21 @@
       <pattern>
         <dependencies operator="And">
           <fileDependency file="AAF_GrayAnimations.esp" state="Active"/>
-          <flagDependency flag="MMasturbation" value="true"/>
+          <flagDependency flag="MSolo" value="true"/>
           <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\50_Shades_of_Fallout_4\10 Normal\40 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\50_Shades_of_Fallout_4\10 Normal\50 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
         <dependencies operator="And">
           <fileDependency file="AAF_GrayAnimations.esp" state="Active"/>
-          <flagDependency flag="FMasturbation" value="true"/>
+          <flagDependency flag="FSolo" value="true"/>
           <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\50_Shades_of_Fallout_4\10 Normal\50 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\50_Shades_of_Fallout_4\10 Normal\60 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -570,21 +763,21 @@
       <pattern>
         <dependencies operator="And">
           <fileDependency file="AAF_GrayAnimations.esp" state="Active"/>
-          <flagDependency flag="MMasturbation" value="true"/>
+          <flagDependency flag="MSolo" value="true"/>
           <flagDependency flag="Animation" value="Extended"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\50_Shades_of_Fallout_4\20 Extended\40 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\50_Shades_of_Fallout_4\20 Extended\50 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
         <dependencies operator="And">
           <fileDependency file="AAF_GrayAnimations.esp" state="Active"/>
-          <flagDependency flag="FMasturbation" value="true"/>
+          <flagDependency flag="FSolo" value="true"/>
           <flagDependency flag="Animation" value="Extended"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\50_Shades_of_Fallout_4\20 Extended\50 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\50_Shades_of_Fallout_4\20 Extended\60 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Atomic Lust -->
@@ -629,6 +822,26 @@
       <pattern>
         <dependencies operator="And">
           <fileDependency file="Atomic Lust.esp" state="Active"/>
+          <flagDependency flag="MMasturbation" value="true"/>
+          <flagDependency flag="Animation" value="Normal"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\Atomic_Lust\10 Normal\70 Male Masturbation" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="Atomic Lust.esp" state="Active"/>
+          <flagDependency flag="FMasturbation" value="true"/>
+          <flagDependency flag="Animation" value="Normal"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\Atomic_Lust\10 Normal\80 Female Masturbation" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="Atomic Lust.esp" state="Active"/>
           <flagDependency flag="Gay" value="true"/>
           <flagDependency flag="Animation" value="Extended"/>
         </dependencies>
@@ -654,6 +867,26 @@
         </dependencies>
         <files>
           <folder source="50 Animations\Atomic_Lust\20 Extended\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="Atomic Lust.esp" state="Active"/>
+          <flagDependency flag="MMasturbation" value="true"/>
+          <flagDependency flag="Animation" value="Extended"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\Atomic_Lust\20 Extended\70 Male Masturbation" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="Atomic Lust.esp" state="Active"/>
+          <flagDependency flag="FMasturbation" value="true"/>
+          <flagDependency flag="Animation" value="Extended"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\Atomic_Lust\20 Extended\80 Female Masturbation" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -717,46 +950,6 @@
         </dependencies>
         <files>
           <folder source="50 Animations\Atomic_Lust\30 Addons\Settlement_Supplies_Expanded\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Atomic Lust.esp" state="Active"/>
-          <flagDependency flag="MMasturbation" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Atomic_Lust\10 Normal\40 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Atomic Lust.esp" state="Active"/>
-          <flagDependency flag="FMasturbation" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Atomic_Lust\10 Normal\50 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Atomic Lust.esp" state="Active"/>
-          <flagDependency flag="MMasturbation" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Atomic_Lust\20 Extended\40 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="Atomic Lust.esp" state="Active"/>
-          <flagDependency flag="FMasturbation" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\Atomic_Lust\20 Extended\50 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- BP70's Fallout 4 Sex Animations -->
@@ -1420,72 +1613,6 @@
       <pattern>
         <dependencies operator="And">
           <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cczsef04001-bhouse.esm" state="Active"/>
-          <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Charlestown_Condo\10 Normal\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cczsef04001-bhouse.esm" state="Active"/>
-          <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Charlestown_Condo\10 Normal\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cczsef04001-bhouse.esm" state="Active"/>
-          <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Charlestown_Condo\10 Normal\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cczsef04001-bhouse.esm" state="Active"/>
-          <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Charlestown_Condo\20 Extended\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cczsef04001-bhouse.esm" state="Active"/>
-          <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Charlestown_Condo\20 Extended\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cczsef04001-bhouse.esm" state="Active"/>
-          <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Charlestown_Condo\20 Extended\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
           <fileDependency file="DLCCoast.esm" state="Active"/>
         </dependencies>
         <files>
@@ -1663,142 +1790,10 @@
       <pattern>
         <dependencies operator="And">
           <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cctosfo4001-neosky.esm" state="Active"/>
-          <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Noir_Penthouse\10 Normal\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cctosfo4001-neosky.esm" state="Active"/>
-          <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Noir_Penthouse\10 Normal\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cctosfo4001-neosky.esm" state="Active"/>
-          <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Noir_Penthouse\10 Normal\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cctosfo4001-neosky.esm" state="Active"/>
-          <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Noir_Penthouse\20 Extended\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cctosfo4001-neosky.esm" state="Active"/>
-          <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Noir_Penthouse\20 Extended\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cctosfo4001-neosky.esm" state="Active"/>
-          <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Noir_Penthouse\20 Extended\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
           <fileDependency file="cceejfo4002-nuka.esl" state="Active"/>
         </dependencies>
         <files>
           <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Nuka_Collector\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cceejfo4002-nuka.esl" state="Active"/>
-          <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Nuka_Collector\10 Normal\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cceejfo4002-nuka.esl" state="Active"/>
-          <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Nuka_Collector\10 Normal\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cceejfo4002-nuka.esl" state="Active"/>
-          <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Normal"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Nuka_Collector\10 Normal\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cceejfo4002-nuka.esl" state="Active"/>
-          <flagDependency flag="Gay" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Nuka_Collector\20 Extended\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cceejfo4002-nuka.esl" state="Active"/>
-          <flagDependency flag="Lesbian" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Nuka_Collector\20 Extended\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
-        </files>
-      </pattern>
-      <pattern>
-        <dependencies operator="And">
-          <fileDependency file="SavageCabbage_Animations.esp" state="Active"/>
-          <fileDependency file="cceejfo4002-nuka.esl" state="Active"/>
-          <flagDependency flag="Straight" value="true"/>
-          <flagDependency flag="Animation" value="Extended"/>
-        </dependencies>
-        <files>
-          <folder source="50 Animations\SavageCabbages_Animation_Pack\30 Addons\Nuka_Collector\20 Extended\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>

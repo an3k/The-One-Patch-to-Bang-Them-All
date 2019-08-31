@@ -66,7 +66,7 @@
 	</actor>
 </animation>
 
-<animation id="AtomicLust_CowgirlBunkBed_MM_Bottom_01" frames="400">
+<animation id="AtomicLust_CowgirlBunkBed_MM_Bottom_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 	<actor gender="M">
 		<idle form="0003DCCD" id="AtomicCowgirlBunkBedBottomF"/>
 	</actor>
@@ -75,7 +75,7 @@
 	</actor>
 </animation>
 
-<animation id="AtomicLust_CowgirlBunkBed_MM_Top_01" frames="400">
+<animation id="AtomicLust_CowgirlBunkBed_MM_Top_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 	<actor gender="M">
 		<idle form="0003DCCB" id="AtomicCowgirlBunkBedTopF"/>
 	</actor>
@@ -84,7 +84,7 @@
 	</actor>
 </animation>
 
-<animation id="AtomicLust_CowgirlDoubleBed_MM_01" frames="400">
+<animation id="AtomicLust_CowgirlDoubleBed_MM_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 	<actor gender="M">
 		<idle form="0003D530" id="AtomicCowgirlDoubleBedF"/>
 	</actor>
@@ -93,7 +93,7 @@
 	</actor>
 </animation>
 
-<animation id="AtomicLust_CowgirlDoubleBed_MM_Institute_01" frames="400">
+<animation id="AtomicLust_CowgirlDoubleBed_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 	<actor gender="M">
 		<idle form="00041203" id="AtomicCowgirlInsDoubleBedF"/>
 	</actor>
@@ -102,7 +102,7 @@
 	</actor>
 </animation>
 
-<animation id="AtomicLust_CowgirlMedBay_MM_Institute_01" frames="400">
+<animation id="AtomicLust_CowgirlMedBay_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 	<actor gender="M">
 		<idle form="00041209" id="AtomicCowgirlInsMedBayF"/>
 	</actor>
@@ -111,7 +111,7 @@
 	</actor>
 </animation>
 
-<animation id="AtomicLust_CowgirlMedBay_MM_InstituteInclined_01" frames="400">
+<animation id="AtomicLust_CowgirlMedBay_MM_InstituteInclined_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 	<actor gender="M">
 		<idle form="0004120B" id="AtomicCowgirlInsMedBayInclinedF"/>
 	</actor>
@@ -120,7 +120,7 @@
 	</actor>
 </animation>
 
-<animation id="AtomicLust_CowgirlSingleBed_MM_Institute_01" frames="400">
+<animation id="AtomicLust_CowgirlSingleBed_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 	<actor gender="M">
 		<idle form="00041207" id="AtomicCowgirlInsSingleBedF"/>
 	</actor>
@@ -129,7 +129,7 @@
 	</actor>
 </animation>
 
-<animation id="AtomicLust_CowgirlWallmountBed_MM_Institute_01" frames="400">
+<animation id="AtomicLust_CowgirlWallmountBed_MM_Institute_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 	<actor gender="M">
 		<idle form="00041205" id="AtomicCowgirlInsWallmountBedF"/>
 	</actor>
@@ -138,7 +138,7 @@
 	</actor>
 </animation>
 
-<animation id="AtomicLust_CowgirlPreWarBed_MM_01" frames="400">
+<animation id="AtomicLust_CowgirlPreWarBed_MM_01" frames="400" offset="0,0,0,0:0,-5,0,0">
 	<actor gender="M">
 		<idle form="0003DCD1" id="AtomicCowgirlPre-WarBedF"/>
 	</actor>

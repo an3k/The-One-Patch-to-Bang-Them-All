@@ -2080,7 +2080,40 @@
           <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\ZaZOut4\10 Normal\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\ZaZOut4\10 Normal\10 Gay\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Gay" value="true"/>
+          <flagDependency flag="Animation" value="Normal"/>
+          <flagDependency flag="Vanilla" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\10 Normal\10 Gay\10 Vanilla" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Gay" value="true"/>
+          <flagDependency flag="Animation" value="Normal"/>
+          <flagDependency flag="Kinky" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\10 Normal\10 Gay\20 Kinky" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Gay" value="true"/>
+          <flagDependency flag="Animation" value="Normal"/>
+          <flagDependency flag="Creatures" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\10 Normal\10 Gay\30 Creatures" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -2090,7 +2123,40 @@
           <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\ZaZOut4\10 Normal\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\ZaZOut4\10 Normal\20 Lesbian\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Lesbian" value="true"/>
+          <flagDependency flag="Animation" value="Normal"/>
+          <flagDependency flag="Vanilla" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\10 Normal\20 Lesbian\10 Vanilla" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Lesbian" value="true"/>
+          <flagDependency flag="Animation" value="Normal"/>
+          <flagDependency flag="Kinky" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\10 Normal\20 Lesbian\20 Kinky" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Lesbian" value="true"/>
+          <flagDependency flag="Animation" value="Normal"/>
+          <flagDependency flag="Creatures" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\10 Normal\20 Lesbian\30 Creatures" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -2100,7 +2166,40 @@
           <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\ZaZOut4\10 Normal\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\ZaZOut4\10 Normal\30 Straight\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Straight" value="true"/>
+          <flagDependency flag="Animation" value="Normal"/>
+          <flagDependency flag="Vanilla" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\10 Normal\30 Straight\10 Vanilla" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Straight" value="true"/>
+          <flagDependency flag="Animation" value="Normal"/>
+          <flagDependency flag="Kinky" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\10 Normal\30 Straight\20 Kinky" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Straight" value="true"/>
+          <flagDependency flag="Animation" value="Normal"/>
+          <flagDependency flag="Creatures" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\10 Normal\30 Straight\30 Creatures" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -2110,7 +2209,40 @@
           <flagDependency flag="Animation" value="Extended"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\ZaZOut4\20 Extended\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\ZaZOut4\20 Extended\10 Gay\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Gay" value="true"/>
+          <flagDependency flag="Animation" value="Extended"/>
+          <flagDependency flag="Vanilla" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\20 Extended\10 Gay\10 Vanilla" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Gay" value="true"/>
+          <flagDependency flag="Animation" value="Extended"/>
+          <flagDependency flag="Kinky" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\20 Extended\10 Gay\20 Kinky" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Gay" value="true"/>
+          <flagDependency flag="Animation" value="Extended"/>
+          <flagDependency flag="Creatures" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\20 Extended\10 Gay\30 Creatures" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -2120,7 +2252,40 @@
           <flagDependency flag="Animation" value="Extended"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\ZaZOut4\20 Extended\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\ZaZOut4\20 Extended\20 Lesbian\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Lesbian" value="true"/>
+          <flagDependency flag="Animation" value="Extended"/>
+          <flagDependency flag="Vanilla" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\20 Extended\20 Lesbian\10 Vanilla" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Lesbian" value="true"/>
+          <flagDependency flag="Animation" value="Extended"/>
+          <flagDependency flag="Kinky" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\20 Extended\20 Lesbian\20 Kinky" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Lesbian" value="true"/>
+          <flagDependency flag="Animation" value="Extended"/>
+          <flagDependency flag="Creatures" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\20 Extended\20 Lesbian\30 Creatures" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -2130,7 +2295,40 @@
           <flagDependency flag="Animation" value="Extended"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\ZaZOut4\20 Extended\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\ZaZOut4\20 Extended\30 Straight\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Straight" value="true"/>
+          <flagDependency flag="Animation" value="Extended"/>
+          <flagDependency flag="Vanilla" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\20 Extended\30 Straight\10 Vanilla" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Straight" value="true"/>
+          <flagDependency flag="Animation" value="Extended"/>
+          <flagDependency flag="Kinky" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\20 Extended\30 Straight\20 Kinky" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <fileDependency file="ZaZOut4.esp" state="Active"/>
+          <flagDependency flag="Straight" value="true"/>
+          <flagDependency flag="Animation" value="Extended"/>
+          <flagDependency flag="Creatures" value="true"/>
+        </dependencies>
+        <files>
+          <folder source="50 Animations\ZaZOut4\20 Extended\30 Straight\30 Creatures" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
     </patterns>

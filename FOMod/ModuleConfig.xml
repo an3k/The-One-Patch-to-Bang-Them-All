@@ -202,7 +202,6 @@
       </optionalFileGroups>
     </installStep>
     <installStep name="Animations II">
-      <!--<designer.metadata.do.not.edit> {"name":"Animations II"}-->
       <visible operator="And">
         <dependencies operator="Or">
           <flagDependency flag="Vanilla" value="true"/>

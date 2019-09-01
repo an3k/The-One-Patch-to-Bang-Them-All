@@ -152,16 +152,6 @@
 	<stage animation="SCAP_SpoonCouch_MM_2Human_01_S5"/>
 </animationGroup>
 
-<!-- Straddle Animations -->
-
-<animationGroup id="SCAP_StraddleBed_MM_2Human_01_Staged" sequential="true">
-	<stage animation="SCAP_StraddleBed_MM_2Human_01_S1"/>
-	<stage animation="SCAP_StraddleBed_MM_2Human_01_S2"/>
-	<stage animation="SCAP_StraddleBed_MM_2Human_01_S3"/>
-	<stage animation="SCAP_StraddleBed_MM_2Human_01_S4"/>
-	<stage animation="SCAP_StraddleBed_MM_2Human_01_S5"/>
-</animationGroup>
-
 <!-- Doggy Animations -->
 
 <animationGroup id="SCAP_DoggyBed_MM_3Human_01_Staged" sequential="true">

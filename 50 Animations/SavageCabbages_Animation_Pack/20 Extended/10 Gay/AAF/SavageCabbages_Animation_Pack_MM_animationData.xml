@@ -53,6 +53,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00000FD8" id="FM-Bed01-03Titjob-M1"/>
+		<value path="morph" value="Erection Up" to="0.3"/>
 	</actor>
 </animation>
 
@@ -62,6 +63,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00000FDA" id="FM-Bed01-04Blowjob-M1"/>
+		<value path="morph" value="Penis Length" to="-0.5"/>
 	</actor>
 </animation>
 
@@ -71,6 +73,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00000FDC" id="FM-Bed01-05DeepthroatA-M1"/>
+		<value path="morph" value="Penis Length" to="-0.5"/>
 	</actor>
 </animation>
 
@@ -80,6 +83,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00000FDE" id="FM-Bed01-05DeepthroatB-M1"/>
+		<value path="morph" value="Penis Length" to="-0.5"/>
 	</actor>
 </animation>
 
@@ -89,6 +93,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00000FE0" id="FM-Bed01-05DeepthroatC-M1"/>
+		<value path="morph" value="Penis Length" to="-0.5"/>
 	</actor>
 </animation>
 
@@ -98,6 +103,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00000FE2" id="FM-Bed01-06BlowjobRough-M1"/>
+		<value path="morph" value="Penis Length" to="-0.5"/>
 	</actor>
 </animation>
 
@@ -147,6 +153,7 @@
 	<actor gender="M">
 		<idle form="0000923D" id="FM-Bed03-04Cowgirl-M1"/>
 		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Penis Length" to="-0.5"/>
 	</actor>
 </animation>
 
@@ -618,6 +625,8 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00000FFF" id="FM-Chair02-05Blowjob-M1"/>
+		<value path="morph" value="Erection Down" to="0.2"/>
+		<value path="morph" value="Penis Length" to="-0.5"/>
 	</actor>
 </animation>
 
@@ -627,6 +636,8 @@
 	</actor>
 	<actor gender="M">
 		<idle form="000017F9" id="FM-Chair02-06Blowjob-M1"/>
+		<value path="morph" value="Erection Down" to="0.2"/>
+		<value path="morph" value="Penis Length" to="-0.5"/>
 	</actor>
 </animation>
 
@@ -636,6 +647,8 @@
 	</actor>
 	<actor gender="M">
 		<idle form="000017FB" id="FM-Chair02-07Deepthroat-M1"/>
+		<value path="morph" value="Erection Down" to="0.2"/>
+		<value path="morph" value="Penis Length" to="-0.5"/>
 	</actor>
 </animation>
 
@@ -645,6 +658,8 @@
 	</actor>
 	<actor gender="M">
 		<idle form="000017FD" id="FM-Chair02-08Swallow-M1"/>
+		<value path="morph" value="Erection Down" to="0.2"/>
+		<value path="morph" value="Penis Length" to="-0.5"/>
 	</actor>
 </animation>
 
@@ -656,7 +671,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="0000C7A5" id="FM-Couch02-01Tease-M1"/>
-		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection Up" to="1.5"/>
 	</actor>
 </animation>
 
@@ -666,7 +681,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00006449" id="FM-Couch02-03Handjob-M1"/>
-		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection Up" to="2"/>
 	</actor>
 </animation>
 
@@ -676,7 +691,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="0000644B" id="FM-Couch02-04Handjob-M1"/>
-		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection Up" to="2"/>
 	</actor>
 </animation>
 
@@ -686,7 +701,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="0000644D" id="FM-Couch02-05Blowjob-M1"/>
-		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection Up" to="2"/>
 	</actor>
 </animation>
 
@@ -857,6 +872,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="00021EC6" id="FM-SedanPostWar01-03Doggy-M1"/>
+		<value path="morph" value="Erection Up" to="1"/>
 	</actor>
 </animation>
 
@@ -866,7 +882,7 @@
 	</actor>
 	<actor gender="M">
 		<idle form="0002171D" id="FM-SedanPreWar01-03Backseat-M1"/>
-		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection Up" to="0.7"/>
 	</actor>
 </animation>
 
@@ -970,55 +986,6 @@
 	</actor>
 </animation>
 
-<!-- Straddle Animations -->
-
-<animation id="SCAP_StraddleBed_MM_2Human_01_S1" frames="500">
-	<actor gender="M">
-		<idle form="00000FE8" id="FM-Bed02-01Straddle-F1"/>
-	</actor>
-	<actor gender="M">
-		<idle form="00000FE9" id="FM-Bed02-01Straddle-M1"/>
-	</actor>
-</animation>
-
-<animation id="SCAP_StraddleBed_MM_2Human_01_S2" frames="500">
-	<actor gender="M">
-		<idle form="00000FEA" id="FM-Bed02-02Straddle-F1"/>
-	</actor>
-	<actor gender="M">
-		<idle form="00000FEB" id="FM-Bed02-02Straddle-M1"/>
-		<value path="morph" value="Erection Up" to="0.5"/>
-	</actor>
-</animation>
-
-<animation id="SCAP_StraddleBed_MM_2Human_01_S3" frames="500">
-	<actor gender="M">
-		<idle form="00000FEC" id="FM-Bed02-03Straddle-F1"/>
-	</actor>
-	<actor gender="M">
-		<idle form="00000FED" id="FM-Bed02-03Straddle-M1"/>
-		<value path="morph" value="Erection Up" to="0.5"/>
-	</actor>
-</animation>
-
-<animation id="SCAP_StraddleBed_MM_2Human_01_S4" frames="500">
-	<actor gender="M">
-		<idle form="00000FEE" id="FM-Bed02-04Straddle-F1"/>
-	</actor>
-	<actor gender="M">
-		<idle form="00000FEF" id="FM-Bed02-04Straddle-M1"/>
-		<value path="morph" value="Erection Up" to="0.5"/>
-	</actor>
-</animation>
-
-<animation id="SCAP_StraddleBed_MM_2Human_01_S5" frames="500">
-	<actor gender="M">
-		<idle form="00006C08" id="FM-Bed02-05Straddle-F1"/>
-	</actor>
-	<actor gender="M">
-		<idle form="00006C09" id="FM-Bed02-05Straddle-M1"/>
-	</actor>
-</animation>
 
 <!-- Cowgirl Animations -->
 
@@ -2283,6 +2250,7 @@
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E917" id="FD-Couch01-02Start-D1"/>
+		<value path="morph" value="Erection Down" to="0.6"/>
 	</actor>
 </animation>
 
@@ -2292,6 +2260,7 @@
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001D240" id="FD-Couch01-03Missionary-D1"/>
+		<value path="morph" value="Erection Down" to="0.6"/>
 	</actor>
 </animation>
 
@@ -2301,6 +2270,7 @@
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001D9DB" id="FD-Couch01-04Missionary-D1"/>
+		<value path="morph" value="Erection Down" to="0.6"/>
 	</actor>
 </animation>
 
@@ -2310,6 +2280,7 @@
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E911" id="FD-Couch01-05Missionary-D1"/>
+		<value path="morph" value="Erection Down" to="0.6"/>
 	</actor>
 </animation>
 
@@ -2319,6 +2290,7 @@
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E913" id="FD-Couch01-06Missionary-D1"/>
+		<value path="morph" value="Erection Down" to="0.6"/>
 	</actor>
 </animation>
 
@@ -2328,6 +2300,7 @@
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E919" id="FD-Couch01-07Climax-D1"/>
+		<value path="morph" value="Erection Down" to="0.6"/>
 	</actor>
 </animation>
 
@@ -2337,6 +2310,7 @@
 	</actor>
 	<actor gender="M" skeleton="Dog">
 		<idle form="0001E91B" id="FD-Couch01-08Finish-D1"/>
+		<value path="morph" value="Erection Down" to="0.6"/>
 	</actor>
 </animation>
 
@@ -3356,11 +3330,11 @@
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000FD02" id="FSMSM-CampBed01-03DoubleTeam-SM1"/>
-		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection Up" to="0.8"/>
 	</actor>
 	<actor gender="M" skeleton="Supermutant">
 		<idle form="0000FD03" id="FSMSM-CampBed01-03DoubleTeam-SM2"/>
-		<value path="morph" value="Erection Up" to="1"/>
+		<value path="morph" value="Erection Up" to="0.5"/>
 	</actor>
 </animation>
 

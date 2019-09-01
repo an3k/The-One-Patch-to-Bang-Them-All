@@ -3,5 +3,5 @@
 
 <!-- Furniture Animations -->
 
-<position id="BP70's Fallout 4 Sex Animations - Masturbation 1 (Female)" location="Single Bed,Double Bed" animation="FO4SA_MasturbationBed_F_01"/>
-<position id="BP70's Fallout 4 Sex Animations - Masturbation 2 (Female)" location="Single Bed,Double Bed" animation="FO4SA_MasturbationBed_F_02"/>
+<position id="BP70's Fallout 4 Sex Animations - Masturbation 1 (Female)" location="Single Bed,Double Bed" animation="FO4SA_MasturbationBed_F_01" tags="BP70,F,SingleBed,Masturbation,Neutral,Held-1,Stim7,Love0,Dom0,HandToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Masturbation 2 (Female)" location="Single Bed,Double Bed" animation="FO4SA_MasturbationBed_F_02" tags="BP70,F,DoubleBed,Masturbation,Neutral,Held-1,Stim7,Love0,Dom0,HandToVagina"/>

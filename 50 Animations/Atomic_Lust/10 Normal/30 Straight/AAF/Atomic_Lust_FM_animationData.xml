@@ -1,7 +1,27 @@
-<meta title="Atomic Lust - Animation Data" version="2.5.1-b" dataSet="animation"/>
+<meta title="Atomic Lust - Animation Data" version="2.6.1b" dataSet="animation"/>
 <defaults source="Atomic Lust.esp"/>
 
 <!-- Female/Male Animations -->
+
+<animation id="AtomicLust_Spork_FM_01" frames="304">
+	<actor gender="F">
+		<idle form="0004D0BA" id="AtomicSporkF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0004D0BB" id="AtomicSporkM"/>
+	</actor>
+</animation>
+
+<animation id="AtomicLust_Spork_FM_02" frames="304">
+	<actor gender="F">
+		<idle form="0004D0BC" id="AtomicSporkIIF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0004D0BD" id="AtomicSporkIIM"/>
+	</actor>
+</animation>
 
 <animation id="AtomicLust_Cowgirl_FM_01" frames="400">
 	<actor gender="F">
@@ -48,6 +68,17 @@
 	</actor>
 	<actor gender="M">
 		<idle form="0000540E" id="AtomicKissingM"/>
+	</actor>
+</animation>
+
+<!-- Male/Male Animations -->
+
+<animation id="AtomicLust_Rocket69_FM_01" frames="236">
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0002B43D" id="Atomic Rocket 69 (Gay) Top"/>
+	</actor>
+	<actor gender="M">
+		<idle form="0002B43E" id="Atomic Rocket 69 (Gay) Bottom"/>
 	</actor>
 </animation>
 

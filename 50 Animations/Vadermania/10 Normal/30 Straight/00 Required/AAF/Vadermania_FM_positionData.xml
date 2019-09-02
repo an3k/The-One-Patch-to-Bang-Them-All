@@ -1,0 +1,14 @@
+<meta title="Vadermania - Position Data" version="1.1.0" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<position id="Vadermania - Cat" animation="VM_Cat_FM_01" tags="Vader,CatF_CatM,NoFurn,Doggy,FromBehind,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToEither"/>
+<position id="Vadermania - Deathclaw (Slow)" animation="VM_Deathclaw_FM_Slow_01" tags="Vader,F_DClawM,NoFurn,Neutral,Held3,Stim5,Love3,Dom-5,NullToSelf,PenisToEither"/>
+<position id="Vadermania - Deathclaw (Fast)" animation="VM_Deathclaw_FM_Fast_02" tags="Vader,F_DClawM,NoFurn,Aggressive,Held3,Stim7,Love3,Dom-5,NullToSelf,PenisToEither"/>
+<position id="Vadermania - Doggy" animation="VM_Doggy_FM_01" tags="Vader,F_M,NoFurn,Standing,FromBehind,Neutral,Held3,Stim5,Love3,Dom-5,NullToSelf,PenisToEither"/>
+<position id="Vadermania - Dogmeat" animation="VM_Dogmeat_FM_01" tags="Vader,F_DogM,NoFurn,Missionary,FromFront,Neutral,Held3,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="Vadermania - FEVHound" animation="VM_FEVHound_FM_01" tags="Vader,F_FEVHoundM,NoFurn,Doggy,FromBehind,Aggressive,Held3,Stim5,Love3,Dom-5,NullToSelf,PenisToEither"/>
+<position id="Vadermania - Ghoul 2" animation="VM_Ghoul_FM_02" tags="Vader,F_FGhoulM,NoFurn,Standing,FromBehind,Aggressive,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToEither"/>
+<position id="Vadermania - Ghoul 3 (Aggressive)" animation="VM_Ghoul_FM_Aggressive_03" tags="Vader,F_FGhoulM,NoFurn,Doggy,FromBehind,Aggressive,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToEither"/>
+<position id="Vadermania - Ghoul 4" animation="VM_Ghoul_FM_04" tags="Vader,F_FGhoulM_FGhoulM,FGhoulM,NoFurn,Aggressive,Held7,Stim5,Love3,Dom-9,NullToSelf,PenisToVagina,PenisToAnus,PenisToMouth"/>
+<position id="Vadermania - Gorilla" animation="VM_Gorilla_FM_01" tags="Vader,F_GorillaM,NoFurn,Aggressive,Held2,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="Vadermania - Table" animation="VM_Table_FM_01" tags="Vader,F_M,Table,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>

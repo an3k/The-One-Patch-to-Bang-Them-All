@@ -19,25 +19,25 @@
 <position id="BP70's Fallout 4 Sex Animations - Missionary 1 (Romantic)" animation="FO4SA_Missionary_FM_Romantic_01" tags="BP70,F_M,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
 <position id="BP70's Fallout 4 Sex Animations - Missionary 1 (Rough)" animation="FO4SA_Missionary_FM_Rough_01" tags="BP70,F_M,NoFurn,Missionary,FromFront,Aggressive,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
 <position id="BP70's Fallout 4 Sex Animations - Missionary 2 (Staged)" animationGroup="FO4SA_Missionary_FM_02_Staged" tags="BP70,F_M,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
-<position id="BP70's Fallout 4 Sex Animations - Missionary 2 (Stage 1)" animation="FO4SA_Missionary_FM_02_S1" isHidden="true" tags="BP70,F_M,Hide,Exclude,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
-<position id="BP70's Fallout 4 Sex Animations - Missionary 2 (Stage 2)" animation="FO4SA_Missionary_FM_02_S2" isHidden="true" tags="BP70,F_M,Hide,Exclude,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
-<position id="BP70's Fallout 4 Sex Animations - Missionary 2 (Stage 3)" animation="FO4SA_Missionary_FM_02_S3" isHidden="true" tags="BP70,F_M,Hide,Exclude,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
-<position id="BP70's Fallout 4 Sex Animations - Missionary 2 (Stage 4)" animation="FO4SA_Missionary_FM_02_S4" isHidden="true" tags="BP70,F_M,Hide,Exclude,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
-<position id="BP70's Fallout 4 Sex Animations - Missionary 2 (Stage 5)" animation="FO4SA_Missionary_FM_02_S5" isHidden="true" tags="BP70,F_M,Hide,Exclude,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Missionary 2 (Stage 1)" animation="FO4SA_Missionary_FM_02_S1" isHidden="true" tags="BP70,F_M,Hidden,Utility,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Missionary 2 (Stage 2)" animation="FO4SA_Missionary_FM_02_S2" isHidden="true" tags="BP70,F_M,Hidden,Utility,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Missionary 2 (Stage 3)" animation="FO4SA_Missionary_FM_02_S3" isHidden="true" tags="BP70,F_M,Hidden,Utility,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Missionary 2 (Stage 4)" animation="FO4SA_Missionary_FM_02_S4" isHidden="true" tags="BP70,F_M,Hidden,Utility,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Missionary 2 (Stage 5)" animation="FO4SA_Missionary_FM_02_S5" isHidden="true" tags="BP70,F_M,Hidden,Utility,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
 <position id="BP70's Fallout 4 Sex Animations - Prone Bone" animation="FO4SA_ProneBone_FM_01" tags="BP70,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
 <position id="BP70's Fallout 4 Sex Animations - Standing (Staged)" animationGroup="FO4SA_Standing_FM_01_Staged" tags="BP70,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
-<position id="BP70's Fallout 4 Sex Animations - Standing (Stage 1)" animation="FO4SA_Standing_FM_01_S1" isHidden="true" tags="BP70,F_M,Hide,Exclude,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
-<position id="BP70's Fallout 4 Sex Animations - Standing (Stage 2)" animation="FO4SA_Standing_FM_01_S2" isHidden="true" tags="BP70,F_M,Hide,Exclude,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
-<position id="BP70's Fallout 4 Sex Animations - Standing (Stage 3)" animation="FO4SA_Standing_FM_01_S3" isHidden="true" tags="BP70,F_M,Hide,Exclude,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
-<position id="BP70's Fallout 4 Sex Animations - Standing (Stage 4)" animation="FO4SA_Standing_FM_01_S4" isHidden="true" tags="BP70,F_M,Hide,Exclude,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Standing (Stage 1)" animation="FO4SA_Standing_FM_01_S1" isHidden="true" tags="BP70,F_M,Hidden,Utility,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Standing (Stage 2)" animation="FO4SA_Standing_FM_01_S2" isHidden="true" tags="BP70,F_M,Hidden,Utility,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Standing (Stage 3)" animation="FO4SA_Standing_FM_01_S3" isHidden="true" tags="BP70,F_M,Hidden,Utility,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Standing (Stage 4)" animation="FO4SA_Standing_FM_01_S4" isHidden="true" tags="BP70,F_M,Hidden,Utility,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
 
 <!-- FFM Animations -->
 
 <position id="BP70's Fallout 4 Sex Animations - Love Triangle (Staged)" animationGroup="FO4SA_LoveTriangle_FM_01_Staged" tags="RP70,F_F_M,NoFurn,Cunnilingus,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToVagina"/>
-<position id="BP70's Fallout 4 Sex Animations - Love Triangle (Stage 1)" animation="FO4SA_LoveTriangle_FM_01_S1" isHidden="true" tags="RP70,F_F_M,Hide,Exclude,NoFurn,Cunnilingus,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToVagina"/>
-<position id="BP70's Fallout 4 Sex Animations - Love Triangle (Stage 2)" animation="FO4SA_LoveTriangle_FM_01_S2" isHidden="true" tags="RP70,F_F_M,Hide,Exclude,NoFurn,Blowjob,Rimming,Neutral,Held3,Love0,Stim9,Dom-7,NullToSelf,PenisToMouth"/>
-<position id="BP70's Fallout 4 Sex Animations - Love Triangle (Stage 3)" animation="FO4SA_LoveTriangle_FM_01_S3" isHidden="true" tags="RP70,F_F_M,Hide,Exclude,NoFurn,Cunnilingus,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToVagina"/>
-<position id="BP70's Fallout 4 Sex Animations - Love Triangle (Stage 4)" animation="FO4SA_LoveTriangle_FM_01_S4" isHidden="true" tags="RP70,F_F_M,Hide,Exclude,NoFurn,Missionary,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,PenisToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Love Triangle (Stage 1)" animation="FO4SA_LoveTriangle_FM_01_S1" isHidden="true" tags="RP70,F_F_M,Hidden,Utility,NoFurn,Cunnilingus,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Love Triangle (Stage 2)" animation="FO4SA_LoveTriangle_FM_01_S2" isHidden="true" tags="RP70,F_F_M,Hidden,Utility,NoFurn,Blowjob,Rimming,Neutral,Held3,Love0,Stim9,Dom-7,NullToSelf,PenisToMouth"/>
+<position id="BP70's Fallout 4 Sex Animations - Love Triangle (Stage 3)" animation="FO4SA_LoveTriangle_FM_01_S3" isHidden="true" tags="RP70,F_F_M,Hidden,Utility,NoFurn,Cunnilingus,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Love Triangle (Stage 4)" animation="FO4SA_LoveTriangle_FM_01_S4" isHidden="true" tags="RP70,F_F_M,Hidden,Utility,NoFurn,Missionary,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,PenisToVagina"/>
 
 <!-- Furniture Animations -->
 
@@ -61,20 +61,20 @@
 
 <position id="FO4SA_Missionary_FM_Impregnate_01_1" animation="FO4SA_Missionary_FM_Impregnate_01_1" isHidden="true" tags="BP70,F_M,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
 
-<position id="FO4SA_Missionary_FM_Impregnate_01_1TR2A" animation="FO4SA_Missionary_FM_Impregnate_01_1TR2A" isHidden="true" tags="BP70,F_M,Hide,Exclude"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_2A" animation="FO4SA_Missionary_FM_Impregnate_01_2A" isHidden="true" tags="BP70,F_M,Hide,Exclude,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_2ATR3A" animation="FO4SA_Missionary_FM_Impregnate_01_2ATR3A" isHidden="true" tags="BP70,F_M,Hide,Exclude"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_3A" animation="FO4SA_Missionary_FM_Impregnate_01_3A" isHidden="true" tags="BP70,F_M,Hide,Exclude,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_3ATR4A" animation="FO4SA_Missionary_FM_Impregnate_01_3ATR4A" isHidden="true" tags="BP70,F_M,Hide,Exclude"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_4A" animation="FO4SA_Missionary_FM_Impregnate_01_4A" isHidden="true" tags="BP70,F_M,Hide,Exclude,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_4ATR5A" animation="FO4SA_Missionary_FM_Impregnate_01_4ATR5A" isHidden="true" tags="BP70,F_M,Hide,Exclude"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_5A" animation="FO4SA_Missionary_FM_Impregnate_01_5A" isHidden="true" tags="BP70,F_M,Hide,Exclude,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_1TR2A" animation="FO4SA_Missionary_FM_Impregnate_01_1TR2A" isHidden="true" tags="BP70,F_M,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_2A" animation="FO4SA_Missionary_FM_Impregnate_01_2A" isHidden="true" tags="BP70,F_M,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_2ATR3A" animation="FO4SA_Missionary_FM_Impregnate_01_2ATR3A" isHidden="true" tags="BP70,F_M,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_3A" animation="FO4SA_Missionary_FM_Impregnate_01_3A" isHidden="true" tags="BP70,F_M,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_3ATR4A" animation="FO4SA_Missionary_FM_Impregnate_01_3ATR4A" isHidden="true" tags="BP70,F_M,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_4A" animation="FO4SA_Missionary_FM_Impregnate_01_4A" isHidden="true" tags="BP70,F_M,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_4ATR5A" animation="FO4SA_Missionary_FM_Impregnate_01_4ATR5A" isHidden="true" tags="BP70,F_M,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_5A" animation="FO4SA_Missionary_FM_Impregnate_01_5A" isHidden="true" tags="BP70,F_M,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
 
-<position id="FO4SA_Missionary_FM_Impregnate_01_1TR2B" animation="FO4SA_Missionary_FM_Impregnate_01_1TR2B" isHidden="true" tags="BP70,F_M,Hide,Exclude"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_2B" animation="FO4SA_Missionary_FM_Impregnate_01_2B" isHidden="true" tags="BP70,F_M,Hide,Exclude,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_2BTR3B" animation="FO4SA_Missionary_FM_Impregnate_01_2BTR3B" isHidden="true" tags="BP70,F_M,Hide,Exclude"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_3B" animation="FO4SA_Missionary_FM_Impregnate_01_3B" isHidden="true" tags="BP70,F_M,Hide,Exclude,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_3BTR4B" animation="FO4SA_Missionary_FM_Impregnate_01_3BTR4B" isHidden="true" tags="BP70,F_M,Hide,Exclude"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_4B" animation="FO4SA_Missionary_FM_Impregnate_01_4B" isHidden="true" tags="BP70,F_M,Hide,Exclude,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_4BTR5B" animation="FO4SA_Missionary_FM_Impregnate_01_4BTR5B" isHidden="true" tags="BP70,F_M,Hide,Exclude"/>
-<position id="FO4SA_Missionary_FM_Impregnate_01_5B" animation="FO4SA_Missionary_FM_Impregnate_01_5B" isHidden="true" tags="BP70,F_M,Hide,Exclude,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_1TR2B" animation="FO4SA_Missionary_FM_Impregnate_01_1TR2B" isHidden="true" tags="BP70,F_M,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_2B" animation="FO4SA_Missionary_FM_Impregnate_01_2B" isHidden="true" tags="BP70,F_M,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_2BTR3B" animation="FO4SA_Missionary_FM_Impregnate_01_2BTR3B" isHidden="true" tags="BP70,F_M,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_3B" animation="FO4SA_Missionary_FM_Impregnate_01_3B" isHidden="true" tags="BP70,F_M,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_3BTR4B" animation="FO4SA_Missionary_FM_Impregnate_01_3BTR4B" isHidden="true" tags="BP70,F_M,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_4B" animation="FO4SA_Missionary_FM_Impregnate_01_4B" isHidden="true" tags="BP70,F_M,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_4BTR5B" animation="FO4SA_Missionary_FM_Impregnate_01_4BTR5B" isHidden="true" tags="BP70,F_M,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FM_Impregnate_01_5B" animation="FO4SA_Missionary_FM_Impregnate_01_5B" isHidden="true" tags="BP70,F_M,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>

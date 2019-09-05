@@ -220,10 +220,10 @@
 <position id="SavageCabbage's Animation Pack - Double Team (Rough, 3P, Stage 1)" animation="SCAP_RoughDoubleTeamGround_FM_3Human_01_S1" isHidden="true" tags="SavageCabbage,Hidden,Utility,F_M_M,NoFurn,DoubleTeam,Aggressive,Held7,Love3,Stim5,Dom-9,NullToSelf,PenisToEither,PenisToMouth"/>
 <position id="SavageCabbage's Animation Pack - Double Team (Rough, 3P, Stage 2)" animation="SCAP_RoughDoubleTeamGround_FM_3Human_01_S2" isHidden="true" tags="SavageCabbage,Hidden,Utility,F_M_M,NoFurn,DoubleTeam,Aggressive,Held7,Love3,Stim5,Dom-9,NullToSelf,PenisToEither,PenisToMouth"/>
 
-<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Staged)" animationGroup="SCAP_StandingDoubleTeam_FM_3Human_01_Staged" tags="SavageCabbage,F_M_M_M,NoFurn,Standing,Neutral,Held5,Love0,Stim9,Dom-7,NullToSelf,PenisToAnus,PenisToVagina,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Stage 1)" animation="SCAP_StandingDoubleTeam_FM_3Human_01_S1" isHidden="true" tags="SavageCabbage,Hidden,Utility,F_M_M_M,NoFurn,Standing,Neutral,Held5,Love0,Stim9,Dom-7,NullToSelf,PenisToAnus,PenisToVagina,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Stage 2)" animation="SCAP_StandingDoubleTeam_FM_3Human_01_S2" isHidden="true" tags="SavageCabbage,Hidden,Utility,F_M_M_M,NoFurn,Standing,Neutral,Held5,Love0,Stim9,Dom-7,NullToSelf,PenisToAnus,PenisToVagina,PenisToHand"/>
-<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Stage 3)" animation="SCAP_StandingDoubleTeam_FM_3Human_01_S3" isHidden="true" tags="SavageCabbage,Hidden,Utility,F_M_M_M,NoFurn,Standing,Neutral,Held5,Love0,Stim9,Dom-7,NullToSelf,PenisToAnus,PenisToVagina,PenisToHand"/>
+<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Staged)" animationGroup="SCAP_StandingDoubleTeam_FM_3Human_01_Staged" tags="SavageCabbage,F_M_M,NoFurn,Standing,Aggressive,Held5,Love0,Stim9,Dom-7,NullToSelf,PenisToAnus,PenisToVagina,PenisToHand"/>
+<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Stage 1)" animation="SCAP_StandingDoubleTeam_FM_3Human_01_S1" isHidden="true" tags="SavageCabbage,Hidden,Utility,F_M_M,NoFurn,Standing,Aggressive,Held5,Love0,Stim9,Dom-7,NullToSelf,PenisToAnus,PenisToVagina,PenisToHand"/>
+<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Stage 2)" animation="SCAP_StandingDoubleTeam_FM_3Human_01_S2" isHidden="true" tags="SavageCabbage,Hidden,Utility,F_M_M,NoFurn,Standing,Aggressive,Held5,Love0,Stim9,Dom-7,NullToSelf,PenisToAnus,PenisToVagina,PenisToHand"/>
+<position id="SavageCabbage's Animation Pack - Double Team (Standing, 3P, Stage 3)" animation="SCAP_StandingDoubleTeam_FM_3Human_01_S3" isHidden="true" tags="SavageCabbage,Hidden,Utility,F_M_M,NoFurn,Standing,Aggressive,Held5,Love0,Stim9,Dom-7,NullToSelf,PenisToAnus,PenisToVagina,PenisToHand"/>
 
 <!-- Gangbang Animations -->
 

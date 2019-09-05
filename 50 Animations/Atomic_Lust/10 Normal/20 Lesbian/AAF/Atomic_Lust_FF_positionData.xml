@@ -62,4 +62,4 @@
 <!-- Male / Male Animations -->
 
 <position id="Atomic Lust - Lesbian Cowboy" animation="AtomicLust_Cowboy_FF_01" tags="Rufgt,F_F,DoubleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
-<position id="Atomic Lust - Lesbian Rocket 69" animation="AtomicLust_Rocket69_FF_01" tags="Rufgt,F_F,NoFurn,69,FromFront,Loving,Held1,Love5,Stim9,Dom0,NullToSelf,MouthToStrapOn"/>
+<position id="Atomic Lust - Lesbian Rocket 69" animation="AtomicLust_Rocket69_FF_01" tags="Rufgt,F_F,NoFurn,69,FromFront,Loving,Held1,Love5,Stim9,Dom0,StrapOnToMouth,MouthToStrapOn"/>

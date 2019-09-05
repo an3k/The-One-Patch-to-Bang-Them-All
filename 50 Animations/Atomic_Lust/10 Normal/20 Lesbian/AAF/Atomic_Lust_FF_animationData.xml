@@ -3,6 +3,26 @@
 
 <!-- Female/Male Animations -->
 
+<animation id="AtomicLust_Spork_FF_01" frames="304">
+	<actor gender="F">
+		<idle form="0004D0BA" id="AtomicSporkF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0004D0BB" id="AtomicSporkM"/>
+	</actor>
+</animation>
+
+<animation id="AtomicLust_Spork_FF_02" frames="304">
+	<actor gender="F">
+		<idle form="0004D0BC" id="AtomicSporkIIF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0004D0BD" id="AtomicSporkIIM"/>
+	</actor>
+</animation>
+
 <animation id="AtomicLust_Cowgirl_FF_01" frames="400">
 	<actor gender="F">
 		<idle form="0004C91B" id="AtomicCowgirlF"/>

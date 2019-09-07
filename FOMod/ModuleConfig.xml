@@ -260,7 +260,7 @@
         </group>
       </optionalFileGroups>
     </installStep>
-    <installStep name="Vioxsis Strap-On's">
+    <installStep name="Vioxsis Strap-Ons">
       <visible operator="And">
         <dependencies operator="Or">
           <flagDependency flag="Vanilla" value="true"/>

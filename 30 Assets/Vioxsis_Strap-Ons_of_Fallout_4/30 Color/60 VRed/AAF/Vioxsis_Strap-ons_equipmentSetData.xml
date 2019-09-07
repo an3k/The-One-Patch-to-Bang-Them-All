@@ -2,13 +2,13 @@
 <defaults source="Vioxsis_Strap-Ons.esp"/>
 
 <equipmentSet id="addEquipmentStrapon"> 
-    <condition isFemale="true>
+    <condition isFemale="true">
         <addEquipment form="00005416"/>
     </condition>
 </equipmentSet>
 
 <equipmentSet id="removeEquipmentStrapon">
-    <condition isFemale="true>
+    <condition isFemale="true">
         <removeEquipment form="00005416"/>
     </condition>
 </equipmentSet>

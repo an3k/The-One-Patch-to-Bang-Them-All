@@ -1,0 +1,59 @@
+<meta title="Atomic Lust - Lesbian Vanilla Position Data" version="2.6.1b" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<!-- Position Tree -->
+
+<position id="Atomic Lust - Lesbian Menu" positionTree="Atomic_Lust_Lesbian_Menu" tags="Rufgt,F_F,Menu"/>
+
+<!-- Female/Male Animations -->
+
+<position id="Atomic Lust - Lesbian Spork 1" animation="AtomicLust_Spork_FF_01" tags="Rufgt,F_F,NoFurn,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Spork 2" animation="AtomicLust_Spork_FF_02" tags="Rufgt,F_F,NoFurn,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Cowgirl 1" animation="AtomicLust_Cowgirl_FF_01" tags="Rufgt,F_F,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Cowgirl 2" animation="AtomicLust_Cowgirl_FF_02" tags="Rufgt,F_F,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Cowgirl 3" animation="AtomicLust_Cowgirl_FF_03" tags="Rufgt,F_F,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Embrace 1" animation="AtomicLust_Embrace_FF_01" tags="Rufgt,F_F,NoFurn,SFW,Hugging,Kissing,FromFront,Loving,Held3,Stim3,Love7,Dom-3,NullToSelf,MouthToMouth"/>
+<position id="Atomic Lust - Lesbian Kissing 1" animation="AtomicLust_Kissing_FF_01" tags="Rufgt,F_F,NoFurn,SFW,Kissing,FromFront,Loving,Held3,Stim3,Love7,Dom-3,NullToSelf,MouthToMouth"/>
+
+<!-- Furniture Animations -->
+
+<position id="Atomic Lust - Lesbian Blowjob" location="Player House Chair" animation="AtomicLust_BlowjobChair_FF_01" tags="Rufgt,F_F,ArmChair,Blowjob,FromFront,Neutral,Held3,Love3,Stim1,Dom-5,NullToSelf,StrapOnToMouth"/>
+<position id="Atomic Lust - Lesbian Cowgirl (Bunk Bed, Bottom)" location="Bunk Bed" animation="AtomicLust_CowgirlBunkBed_FF_Bottom_01" tags="Rufgt,F_F,SingleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Cowgirl (Bunk Bed, Top)" location="Bunk Bed" animation="AtomicLust_CowgirlBunkBed_FF_Top_01" tags="Rufgt,F_F,SingleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Cowgirl (Double Bed)" location="Double Bed" animation="AtomicLust_CowgirlDoubleBed_FF_01" tags="Rufgt,F_F,DoubleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Cowgirl (Institute Double Bed)" location="Institute Single Bed" animation="AtomicLust_CowgirlDoubleBed_FF_Institute_01" tags="Rufgt,F_F,DoubleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Cowgirl (Institute Med Bay)" location="Institute Med Bay" animation="AtomicLust_CowgirlMedBay_FF_Institute_01" tags="Rufgt,F_F,SingleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Cowgirl (Institute Inclined Med Bay)" location="Institute Med Bay Inclined" animation="AtomicLust_CowgirlMedBay_FF_InstituteInclined_01" tags="Rufgt,F_F,SingleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Cowgirl (Institute Single Bed)" location="Institute Single Bed" animation="AtomicLust_CowgirlSingleBed_FF_Institute_01" tags="Rufgt,F_F,SingleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Cowgirl (Institute Wallmount Bed)" location="Institute Wallmounted Bed" animation="AtomicLust_CowgirlWallmountBed_FF_Institute_01" tags="Rufgt,F_F,SingleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Cowgirl (Pre-War Bed)" location="Pre-War Double Bed" animation="AtomicLust_CowgirlPreWarBed_FF_01" tags="Rufgt,F_F,DoubleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Cowgirl (Vault Bed)" location="Single Bed" animation="AtomicLust_CowgirlVaultBed_FF_01" tags="Rufgt,F_F,DoubleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Cowgirl (Vault Bed, Reversed)" location="Single Bed" animation="AtomicLust_ReverseCowgirlVaultBed_FF_01" tags="Rufgt,F_F,SingleBed,RevCowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Cowgirl (Vault Bed, Reversed, Orgasm)" location="Single Bed" animation="AtomicLust_ReverseCowgirlVaultBed_FF_Orgasm_01" tags="Rufgt,F_F,SingleBed,RevCowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Cuddle (Double Bed)" location="Double Bed" animation="AtomicLust_CuddleBed_FF_01" tags="Rufgt,F_F,DoubleBed,SFW,Cuddle,Loving,Held3,Stim1,Love7,Dom-1,NullToSelf,BodyToBody"/>
+<position id="Atomic Lust - Lesbian Cunnilingus 1 (Power Armor Station)" location="Power Armor Station" animation="AtomicLust_CunnilingusPowerArmorStation_FF_01" tags="Rufgt,F_F,PAStation,Cunnilingus,FromFront,Loving,Held0,Stim7,Love5,Dom0,NullToSelf,MouthToVagina"/>
+<position id="Atomic Lust - Lesbian Cunnilingus 2 (Power Armor Station)" location="Alternative PA Station" animation="AtomicLust_CunnilingusPowerArmorStation_FF_02" tags="Rufgt,F_F,PAStation,Cunnilingus,FromFront,Loving,Held0,Stim7,Love5,Dom0,NullToSelf,MouthToVagina"/>
+<position id="Atomic Lust - Lesbian Cryo Pod" location="Cryo Pod" animation="AtomicLust_CryoPod_FF_01" tags="Rufgt,F_F,CryoPod,FromBehind,Neutral,Held1,Love5,Stim9,Dom1,NullToSelf,StrapOnToEither"/>
+
+<!-- positionTree Animations -->
+
+<position id="Atomic Lust - Lesbian Holding Hands" animation="AtomicLust_HoldingHands_FF_01" isHidden="true" tags="Rufgt,F_F,Hidden,Utility,SFW,HoldingHands,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,HandToHand"/>
+<position id="Atomic Lust - Lesbian Holding Hands to Holding Jerking" animation="AtomicLust_HoldingHandstoHoldingJerking_FF_01" isHidden="true" tags="Rufgt,F_F,Hidden,Utility,SFW,HoldingHands,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,HandToHand"/>
+<position id="Atomic Lust - Lesbian Holding Hands to Holding Kissing" animation="AtomicLust_HoldingHandstoHoldingKissing_FF_01" isHidden="true" tags="Rufgt,F_F,Hidden,Utility,SFW,Kissing,FromFront,Loving,Held3,Stim3,Love7,Dom-3,NullToSelf,MouthToMouth"/>
+<position id="Atomic Lust - Lesbian Holding Kissing" animation="AtomicLust_HoldingKissing_FF_01" isHidden="true" tags="Rufgt,F_F,Hidden,Utility,SFW,Kissing,FromFront,Loving,Held3,Stim3,Love7,Dom-3,NullToSelf,MouthToMouth"/>
+<position id="Atomic Lust - Lesbian Standing" animation="AtomicLust_StandingIdle_FF_01" isHidden="true" tags="Rufgt,F_F,Hidden,Utility,SFW,Standing,FromFront,Loving,Held0,Stim1,Love1,Dom0,NullToSelf,EyeToEye"/>
+<position id="Atomic Lust - Lesbian Standing to Holding Hands" animation="AtomicLust_StandingIdletoHoldingHands_FF_01" isHidden="true" tags="Rufgt,F_F,Hidden,Utility,SFW,HoldingHands,FromFront,Loving,Held3,Stim3,Love3,Dom-3,NullToSelf,HandToHand"/>
+
+<!-- Threesome Animations -->
+
+<position id="Atomic Lust - Lesbian Threesome 1" animation="AtomicLust_Threesome_FF_01" tags="Rufgt,F_F_M,NoFurn,FromFront,FromBehind,Neutral,Held5,Love1,Stim1,Dom-3,NullToSelf,StrapOnToVagina,StrapOnToAnus"/>
+<position id="Atomic Lust - Lesbian Threesome 2" animation="AtomicLust_Threesome_FF_02" tags="Rufgt,F_F_M,NoFurn,FromFront,FromBehind,Neutral,Held5,Love1,Stim1,Dom-3,NullToSelf,StrapOnToVagina,StrapOnToAnus"/>
+
+<!-- Female / Female Animations -->
+
+<position id="Atomic Lust - Lesbian Scissor" animation="AtomicLust_Scissor_FF_01" tags="Rufgt,F_F,NoFurn,Scissor,Neutral,Held1,Stim9,Love5,Dom0,NullToSelf,VaginaToVagina"/>
+
+<!-- Male / Male Animations -->
+
+<position id="Atomic Lust - Lesbian Cowboy" animation="AtomicLust_Cowboy_FF_01" tags="Rufgt,F_F,DoubleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="Atomic Lust - Lesbian Rocket 69" animation="AtomicLust_Rocket69_FF_01" tags="Rufgt,F_F,NoFurn,69,FromFront,Loving,Held1,Love5,Stim9,Dom0,StrapOnToMouth,MouthToStrapOn"/>

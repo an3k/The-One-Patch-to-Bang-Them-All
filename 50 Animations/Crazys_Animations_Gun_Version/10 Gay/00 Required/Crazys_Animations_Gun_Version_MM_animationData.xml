@@ -148,11 +148,3 @@
 		<value path="morph" value="Erection Up" to="0.7"/>
 	</actor>
 </animation>
-
-<!-- Male Solo Animations -->
-
-<animation id="Crazy_Masturbate_M_01" offset="0,70,0,0" frames="80">
-	<actor gender="M">
-		<idle form="00005433" id="CrazyJerkOffM"/>
-	</actor>
-</animation>

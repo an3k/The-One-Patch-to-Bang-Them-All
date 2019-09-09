@@ -1,0 +1,4 @@
+<meta title="Farelle's Animations - Vanilla Position Data" version="0.1.2" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<position id="Farelle's Animations - Feetjob" animation="Farelle_Feetjob_FM_01" tags="Farelle,F_M,NoFurn,Footjob,FromFront,Loving,Held1,Stim1,Love5,Dom5,NullToSelf,PenisToFeet"/>

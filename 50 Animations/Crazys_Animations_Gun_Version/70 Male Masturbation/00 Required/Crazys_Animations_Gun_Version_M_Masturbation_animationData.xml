@@ -1,0 +1,10 @@
+﻿<meta title="Crazy's Animations [Gun Version] - Male Masturbation Animation Data" version="3.11.17" dataSet="animation"/>
+<defaults source="Crazy_Animations_Gun.esp"/>
+
+<!-- Male Solo Animations -->
+
+<animation id="Crazy_Masturbate_M_01" offset="0,70,0,0" frames="80">
+	<actor gender="M">
+		<idle form="00005433" id="CrazyJerkOffM"/>
+	</actor>
+</animation>

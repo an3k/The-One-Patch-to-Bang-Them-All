@@ -1,0 +1,16 @@
+﻿<meta title="Four-Play Animations by Crazy - Lesbian Vanilla Position Data" version="1.3.0" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<!-- Normal -->
+
+<position id="Four-Play Animations by Crazy - Lesbian Blowjob (Handstand)" animation="FPAC_Blowjob_FF_Handstand_01" tags="Crazy,F_F,NoFurn,Blowjob,FromFront,Neutral,Held1,Stim5,Love5,Dom-3,NullToSelf,StrapOnToMouth"/>
+<position id="Four-Play Animations by Crazy - Lesbian Blowjob (Laying)" animation="FPAC_Blowjob_FF_Laying_01" tags="Crazy,F_F,NoFurn,Blowjob,FromFront,Neutral,Held1,Stim1,Love1,Dom-7,NullToSelf,StrapOnToMouth"/>
+<position id="Four-Play Animations by Crazy - Lesbian Fuck (Layed Back)" animation="FPAC_Fuck_FF_LayedBack_01" tags="Crazy,F_F,NoFurn,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToEither"/>
+<position id="Four-Play Animations by Crazy - Lesbian Gorilla (Laying)" animation="FPAC_Gorilla_FF_Laying_01" tags="Crazy,F_F,NoFurn,FromBehind,Neutral,Held1,Stim5,Love3,Dom-1,NullToSelf,StrapOnToAnus"/>
+<position id="Four-Play Animations by Crazy - Lesbian Kneeling 69" animation="FPAC_Kneeling69_FF_01" tags="Crazy,F_F,NoFurn,Standing,69,FromFront,Loving,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToMouth,MouthToVagina"/>
+<position id="Four-Play Animations by Crazy - Lesbian Wheelbarrow" animation="FPAC_Wheelbarrow_FF_01" tags="Crazy,F_F,NoFurn,Wheelbarrow,Neutral,Held5,Stim9,Love5,Dom-3,NullToSelf,StrapOnToEither"/>
+
+<!-- Threesome -->
+
+<position id="Four-Play Animations by Crazy - Lesbian Double Penetration" animation="FPAC_DoubleP_FF_01" tags="Crazy,F_F_F,NoFurn,FromFront,FromBehind,Neutral,Held5,Stim9,Love5,Dom-9,NullToSelf,StrapOnToVagina,StrapOnToAnus"/>
+<position id="Four-Play Animations by Crazy - Lesbian Spitroast" animation="FPAC_Spitroast_FF_01" tags="Crazy,F_F_F,NoFurn,SpitRoast,Doggy,FromFront,FromBehind,Neutral,Held5,Stim5,Love3,Dom-9,NullToSelf,StrapOnToVagina,StrapOnToMouth"/>

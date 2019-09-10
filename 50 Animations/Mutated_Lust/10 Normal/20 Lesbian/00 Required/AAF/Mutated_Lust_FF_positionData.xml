@@ -3,22 +3,22 @@
 
 <!-- Deathclaw Animations -->
 
-<position id="Mutated Lust - Lesbian Dumpster" location="Dumpster" animation="ML_Dumpster_FF_01"/>
-<position id="Mutated Lust - Lesbian Fleshlight" animation="ML_Fleshlight_FF_01"/>
-<position id="Mutated Lust - Lesbian Tease" animation="ML_Tease_FF_01"/>
+<position id="Mutated Lust - Lesbian Dumpster" location="Dumpster" animation="ML_Dumpster_FF_01" tags="Rufgt,Creature,F_DeathClawF,Dumpster,Standing,FromBehind,Neutral,Held5,Stim9,Love5,Dom3,NullToSelf,StrapOnToEither"/>
+<position id="Mutated Lust - Lesbian Fleshlight" animation="ML_Fleshlight_FF_01" tags="Rufgt,Creature,F_DeathClawF,NoFurn,Cowgirl,FromFront,Aggressive,Held9,Stim9,Love5,Dom3,NullToSelf,StrapOnToEither"/>
+<position id="Mutated Lust - Lesbian Tease" animation="ML_Tease_FF_01" tags="Rufgt,Creature,F_DeathClawF,NoFurn,LickTease,FromFront,Loving,Held1,Stim9,Love5,Dom3,NullToSelf,StrapOnToFace"/>
 
 <!-- Feral Ghoul Animations -->
 
-<position id="Mutated Lust - Lesbian Cowgirl (Feral Ghoul)" animation="ML_Cowgirl_FF_01"/>
+<position id="Mutated Lust - Lesbian Cowgirl (Feral Ghoul)" animation="ML_Cowgirl_FF_01" tags="Rufgt,Creature,F_FGhoulF,NoFurn,Cowgirl,FromFront,Aggressive,Held3,Stim9,Love5,Dom3,NullToSelf,StrapOnToEither"/>
 
 <!-- Supermutant Animations -->
 
-<position id="Mutated Lust - Lesbian Blowjob" animation="ML_Blowjob_FF_01"/>
-<position id="Mutated Lust - Lesbian Missionary (Forced)" animation="ML_Missionary_FF_Forced_01"/>
-<position id="Mutated Lust - Lesbian Missionary Pipe Rifle (Forced)" animation="ML_MissionaryPipeRifle_FF_Forced_01"/>
-<position id="Mutated Lust - Lesbian Penis Lick" animation="ML_PenisLick_FF_01"/>
+<position id="Mutated Lust - Lesbian Blowjob" animation="ML_Blowjob_FF_01" tags="Rufgt,Creature,F_SMutantF,NoFurn,Kneeling,Blowjob,FromFront,Neutral,Held1,Stim1,Love3,Dom-5,NullToSelf,StrapOnToMouth"/>
+<position id="Mutated Lust - Lesbian Missionary (Forced)" animation="ML_Missionary_FF_Forced_01" tags="Rufgt,Creature,F_SMutantF,NoFurn,Missionary,FromFront,Neutral,Held3,Stim9,Love5,Dom3,NullToSelf,StrapOnToVagina"/>
+<position id="Mutated Lust - Lesbian Missionary Pipe Rifle (Forced)" animation="ML_MissionaryPipeRifle_FF_Forced_01" tags="Rufgt,Creature,F_SMutantF,NoFurn,Missionary,FromFront,Aggressive,Held3,Stim9,Love5,Dom3,NullToSelf,StrapOnToVagina"/>
+<position id="Mutated Lust - Lesbian StrapOn Lick" animation="ML_StrapOnLick_FF_01" tags="Rufgt,Creature,F_SMutantF,NoFurn,Kneeling,Blowjob,FromFront,Neutral,Held1,Stim1,Love3,Dom-5,NullToSelf,StrapOnToFace"/>
 
 <!-- Furniture Animations -->
 
-<position id="Mutated Lust - Lesbian Cowgirl" location="FEV Chamber" animation="ML_Cowgirl_FF_01"/>
-<position id="Mutated Lust - Lesbian Doggy" location="FEV Chamber" animation="ML_Doggy_FF_01"/>
+<position id="Mutated Lust - Lesbian Cowgirl" location="FEV Chamber" animation="ML_Cowgirl_FF_01" tags="Rufgt,Creature,F_SMutantF,FEVChamber,Cowgirl,FromFront,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,StrapOnToEither"/>
+<position id="Mutated Lust - Lesbian Doggy" location="FEV Chamber" animation="ML_Doggy_FF_01" tags="Rufgt,Creature,F_SMutantF,FEVChamber,Doggy,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,StrapOnToEither"/>

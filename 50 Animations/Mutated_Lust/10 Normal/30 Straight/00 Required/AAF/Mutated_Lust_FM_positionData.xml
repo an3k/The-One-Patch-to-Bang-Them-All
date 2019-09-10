@@ -3,22 +3,22 @@
 
 <!-- Deathclaw Animations -->
 
-<position id="Mutated Lust - Dumpster" location="Dumpster" animation="ML_Dumpster_FM_01"/>
-<position id="Mutated Lust - Fleshlight" animation="ML_Fleshlight_FM_01"/>
-<position id="Mutated Lust - Tease" animation="ML_Tease_FM_01"/>
+<position id="Mutated Lust - Dumpster" location="Dumpster" animation="ML_Dumpster_FM_01" tags="Rufgt,Creature,F_DeathClawM,Dumpster,Standing,FromBehind,Neutral,Held5,Stim9,Love5,Dom3,NullToSelf,PenisToEither"/>
+<position id="Mutated Lust - Fleshlight" animation="ML_Fleshlight_FM_01" tags="Rufgt,Creature,F_DeathClawM,NoFurn,Cowgirl,FromFront,Aggressive,Held9,Stim9,Love5,Dom3,NullToSelf,PenisToEither"/>
+<position id="Mutated Lust - Tease" animation="ML_Tease_FM_01" tags="Rufgt,Creature,F_DeathClawM,NoFurn,LickTease,FromFront,Loving,Held1,Stim9,Love5,Dom3,NullToSelf,PenisToFace"/>
 
 <!-- Feral Ghoul Animations -->
 
-<position id="Mutated Lust - Cowgirl (Feral Ghoul)" animation="ML_Cowgirl_FM_01"/>
+<position id="Mutated Lust - Cowgirl (Feral Ghoul)" animation="ML_Cowgirl_FM_01" tags="Rufgt,Creature,F_FGhoulM,NoFurn,Cowgirl,FromFront,Aggressive,Held3,Stim9,Love5,Dom3,NullToSelf,PenisToEither"/>
 
 <!-- Supermutant Animations -->
 
-<position id="Mutated Lust - Blowjob" animation="ML_Blowjob_FM_01"/>
-<position id="Mutated Lust - Missionary (Forced)" animation="ML_Missionary_FM_Forced_01"/>
-<position id="Mutated Lust - Missionary Pipe Rifle (Forced)" animation="ML_MissionaryPipeRifle_FM_Forced_01"/>
-<position id="Mutated Lust - Penis Lick" animation="ML_PenisLick_FM_01"/>
+<position id="Mutated Lust - Blowjob" animation="ML_Blowjob_FM_01" tags="Rufgt,Creature,F_SMutantM,NoFurn,Kneeling,Blowjob,FromFront,Neutral,Held1,Stim1,Love3,Dom-5,NullToSelf,PenisToMouth"/>
+<position id="Mutated Lust - Missionary (Forced)" animation="ML_Missionary_FM_Forced_01" tags="Rufgt,Creature,F_SMutantM,NoFurn,Missionary,FromFront,Neutral,Held3,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+<position id="Mutated Lust - Missionary Pipe Rifle (Forced)" animation="ML_MissionaryPipeRifle_FM_Forced_01" tags="Rufgt,Creature,F_SMutantM,NoFurn,Missionary,FromFront,Aggressive,Held3,Stim9,Love5,Dom3,NullToSelf,PenisToVagina"/>
+<position id="Mutated Lust - Penis Lick" animation="ML_PenisLick_FM_01" tags="Rufgt,Creature,F_SMutantM,NoFurn,Kneeling,Blowjob,FromFront,Neutral,Held1,Stim1,Love3,Dom-5,NullToSelf,PenisToFace"/>
 
 <!-- Furniture Animations -->
 
-<position id="Mutated Lust - Cowgirl" location="FEV Chamber" animation="ML_Cowgirl_FM_01"/>
-<position id="Mutated Lust - Doggy" location="FEV Chamber" animation="ML_Doggy_FM_01"/>
+<position id="Mutated Lust - Cowgirl" location="FEV Chamber" animation="ML_Cowgirl_FM_01" tags="Rufgt,Creature,F_SMutantM,FEVChamber,Cowgirl,FromFront,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToEither"/>
+<position id="Mutated Lust - Doggy" location="FEV Chamber" animation="ML_Doggy_FM_01" tags="Rufgt,Creature,F_SMutantM,FEVChamber,Doggy,FromBehind,Neutral,Held5,Love5,Stim7,Dom-9,NullToSelf,PenisToEither"/>

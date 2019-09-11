@@ -21,3 +21,17 @@
 <position id="Crazy's Animations - Ground Pounding (Bed, Reverse)" location="Single_Bed,Double_Bed" animation="Crazy_PoundingBed_FM_02" tags="Crazy,F_M,SingleBed,DoubleBed,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
 <position id="Crazy's Animations - Missionary (Bed)" location="Single_Bed,Double_Bed" animation="Crazy_MissionaryBed_FM_01" tags="Crazy,F_M,SingleBed,DoubleBed,Missionary,FromFront,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
 <position id="Crazy's Animations - Riding (Bed)" location="Single_Bed,Double_Bed" animation="Crazy_RidingBed_FM_01" tags="Crazy,F_M,SingleBed,DoubleBed,Neutral,Held1,Stim7,Love5,Dom3,NullToSelf,PenisToEither"/>
+
+<!-- Female Solo Animations -->
+
+<position id="Crazy's Animations - Masturbation" animation="Crazy_Masturbate_F_01" tags="Crazy,F,NoFurn,Masturbation,Neutral,Held0,Stim7,Love0,Dom0,HandToVagina"/>
+<position id="Crazy's Animations - Masturbation (Fingering)" animation="Crazy_Masturbate_F_03" tags="Crazy,F,NoFurn,Masturbation,Neutral,Held0,Stim7,Love0,Dom0,HandToVagina"/>
+<position id="Crazy's Animations - Masturbation (Laying)" animation="Crazy_Masturbate_F_02" tags="Crazy,F,NoFurn,Masturbation,Neutral,Held0,Stim7,Love0,Dom0,HandToVagina"/>
+
+<!-- Female Solo Furniture Animations -->
+
+<position id="Crazy's Animations - Masturbation (Bed, Laying)" location="Single_Bed,Double_Bed" animation="Crazy_MasturbateBed_F_02" tags="Crazy,F,Bed,Masturbation,Neutral,Held-1,Stim7,Love0,Dom0,HandToVagina"/>
+
+<!-- Male Solo Animations -->
+
+<position id="Crazy's Animations - Masturbation (Jerking Off)" animation="Crazy_Masturbate_M_01" tags="Crazy,M,NoFurn,Masturbation,Neutral,Held0,Stim7,Love-1,Dom0,HandToPenis"/>

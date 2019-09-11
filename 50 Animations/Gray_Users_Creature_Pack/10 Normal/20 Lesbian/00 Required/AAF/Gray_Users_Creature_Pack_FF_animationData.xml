@@ -3,7 +3,7 @@
 
 <!-- Bloatfly -->
 
-<animation id="GUCP_Bloatfly_FM_01_S1" frames="300" offset="0,0,0,0:0,3,27,0">
+<animation id="GUCP_Bloatfly_FF_01_S1" frames="300" offset="0,0,0,0:0,3,27,0">
 	<actor gender="F">
 		<idle form="00000F99" id="CP_Bloat01_F"/>
 	</actor>
@@ -12,7 +12,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Bloatfly_FM_01_S2" frames="300" offset="0,0,0,0:0,3,27,0">
+<animation id="GUCP_Bloatfly_FF_01_S2" frames="300" offset="0,0,0,0:0,3,27,0">
 	<actor gender="F">
 		<idle form="00000F9A" id="CP_Bloat02_F"/>
 	</actor>
@@ -21,7 +21,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Bloatfly_FM_01_S3" frames="300" offset="0,0,0,0:0,3,27,0">
+<animation id="GUCP_Bloatfly_FF_01_S3" frames="300" offset="0,0,0,0:0,3,27,0">
 	<actor gender="F">
 		<idle form="00000F9B" id="CP_Bloat03_F"/>
 	</actor>
@@ -30,7 +30,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Bloatfly_FM_01_S4" frames="300" offset="0,0,0,0:0,3,27,0">
+<animation id="GUCP_Bloatfly_FF_01_S4" frames="300" offset="0,0,0,0:0,3,27,0">
 	<actor gender="F">
 		<idle form="00000F9C" id="CP_Bloat04_F"/>
 	</actor>
@@ -41,7 +41,7 @@
 
 <!-- Bloodbug -->
 
-<animation id="GUCP_Bloodbug_FM_01_S1" frames="300" offset="0,0,0,0:0,0,60,0">
+<animation id="GUCP_Bloodbug_FF_01_S1" frames="300" offset="0,0,0,0:0,0,60,0">
 	<actor gender="F">
 		<idle form="00000F9D" id="CP_Blood01_F"/>
 	</actor>
@@ -50,7 +50,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Bloodbug_FM_01_S2" frames="300" offset="0,0,0,0:0,0,60,0">
+<animation id="GUCP_Bloodbug_FF_01_S2" frames="300" offset="0,0,0,0:0,0,60,0">
 	<actor gender="F">
 		<idle form="00000F9E" id="CP_Blood02_F"/>
 	</actor>
@@ -59,7 +59,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Bloodbug_FM_01_S3" frames="300" offset="0,0,0,0:0,0,60,0">
+<animation id="GUCP_Bloodbug_FF_01_S3" frames="300" offset="0,0,0,0:0,0,60,0">
 	<actor gender="F">
 		<idle form="00000F9F" id="CP_Blood03_F"/>
 	</actor>
@@ -68,7 +68,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Bloodbug_FM_01_S4" frames="300" offset="0,0,0,0:0,0,60,0">
+<animation id="GUCP_Bloodbug_FF_01_S4" frames="300" offset="0,0,0,0:0,0,60,0">
 	<actor gender="F">
 		<idle form="00000FA0" id="CP_Blood04_F"/>
 	</actor>
@@ -79,7 +79,7 @@
 
 <!-- Mirelurk -->
 
-<animation id="GUCP_Mirelurk_FM_01_S1" frames="300">
+<animation id="GUCP_Mirelurk_FF_01_S1" frames="300">
 	<actor gender="F">
 		<idle form="00000FA1" id="CP_Mire01_F"/>
 	</actor>
@@ -88,7 +88,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Mirelurk_FM_01_S2" frames="300">
+<animation id="GUCP_Mirelurk_FF_01_S2" frames="300">
 	<actor gender="F">
 		<idle form="00000FA2" id="CP_Mire02_F"/>
 	</actor>
@@ -97,7 +97,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Mirelurk_FM_01_S3" frames="300">
+<animation id="GUCP_Mirelurk_FF_01_S3" frames="300">
 	<actor gender="F">
 		<idle form="00000FA3" id="CP_Mire03_F"/>
 	</actor>
@@ -106,7 +106,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Mirelurk_FM_01_S4" frames="300">
+<animation id="GUCP_Mirelurk_FF_01_S4" frames="300">
 	<actor gender="F">
 		<idle form="00000FA4" id="CP_Mire04_F"/>
 	</actor>
@@ -117,7 +117,7 @@
 
 <!-- Mirelurk Hunter -->
 
-<animation id="GUCP_MirelurkHunter_FM_01_S1" frames="300">
+<animation id="GUCP_MirelurkHunter_FF_01_S1" frames="300">
 	<actor gender="F">
 		<idle form="00000FA5" id="CP_MireH01_F"/>
 	</actor>
@@ -126,7 +126,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkHunter_FM_01_S2" frames="300">
+<animation id="GUCP_MirelurkHunter_FF_01_S2" frames="300">
 	<actor gender="F">
 		<idle form="00000FA6" id="CP_MireH02_F"/>
 	</actor>
@@ -135,7 +135,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkHunter_FM_01_S3" frames="300">
+<animation id="GUCP_MirelurkHunter_FF_01_S3" frames="300">
 	<actor gender="F">
 		<idle form="00000FA7" id="CP_MireH03_F"/>
 	</actor>
@@ -144,7 +144,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkHunter_FM_01_S4" frames="300">
+<animation id="GUCP_MirelurkHunter_FF_01_S4" frames="300">
 	<actor gender="F">
 		<idle form="00000FA8" id="CP_MireH04_F"/>
 	</actor>
@@ -155,7 +155,7 @@
 
 <!-- Mirelurk King -->
 
-<animation id="GUCP_MirelurkKing_FM_01_S1" frames="300">
+<animation id="GUCP_MirelurkKing_FF_01_S1" frames="300">
 	<actor gender="F">
 		<idle form="00001F0F" id="CP_MireK01_F"/>
 	</actor>
@@ -164,7 +164,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkKing_FM_01_S2" frames="300">
+<animation id="GUCP_MirelurkKing_FF_01_S2" frames="300">
 	<actor gender="F">
 		<idle form="00001F10" id="CP_MireK02_F"/>
 	</actor>
@@ -173,7 +173,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkKing_FM_01_S3" frames="300">
+<animation id="GUCP_MirelurkKing_FF_01_S3" frames="300">
 	<actor gender="F">
 		<idle form="00001F11" id="CP_MireK03_F"/>
 	</actor>
@@ -182,7 +182,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkKing_FM_01_S4" frames="300">
+<animation id="GUCP_MirelurkKing_FF_01_S4" frames="300">
 	<actor gender="F">
 		<idle form="00001F12" id="CP_MireK04_F"/>
 	</actor>
@@ -193,7 +193,7 @@
 
 <!-- Mirelurk Queen -->
 
-<animation id="GUCP_MirelurkQueen_FM_01_S1" frames="300">
+<animation id="GUCP_MirelurkQueen_FF_01_S1" frames="300">
 	<actor gender="F">
 		<idle form="00000FA9" id="CP_MireQ01_F"/>
 	</actor>
@@ -202,7 +202,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkQueen_FM_01_S2" frames="300">
+<animation id="GUCP_MirelurkQueen_FF_01_S2" frames="300">
 	<actor gender="F">
 		<idle form="00000FAA" id="CP_MireQ02_F"/>
 	</actor>
@@ -211,7 +211,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkQueen_FM_01_S3" frames="300">
+<animation id="GUCP_MirelurkQueen_FF_01_S3" frames="300">
 	<actor gender="F">
 		<idle form="00000FAB" id="CP_MireQ03_F"/>
 	</actor>
@@ -220,7 +220,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_MirelurkQueen_FM_01_S4" frames="300">
+<animation id="GUCP_MirelurkQueen_FF_01_S4" frames="300">
 	<actor gender="F">
 		<idle form="00000FAC" id="CP_MireQ04_F"/>
 	</actor>
@@ -231,7 +231,7 @@
 
 <!-- Rad Scorpion -->
 
-<animation id="GUCP_Radscorpion_FM_01_S1" frames="300">
+<animation id="GUCP_Radscorpion_FF_01_S1" frames="300">
 	<actor gender="F">
 		<idle form="00000FAD" id="CP_Scorp01_F"/>
 	</actor>
@@ -240,7 +240,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Radscorpion_FM_01_S2" frames="300">
+<animation id="GUCP_Radscorpion_FF_01_S2" frames="300">
 	<actor gender="F">
 		<idle form="00000FAE" id="CP_Scorp02_F"/>
 	</actor>
@@ -249,7 +249,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Radscorpion_FM_01_S3" frames="300">
+<animation id="GUCP_Radscorpion_FF_01_S3" frames="300">
 	<actor gender="F">
 		<idle form="00000FAF" id="CP_Scorp03_F"/>
 	</actor>
@@ -258,7 +258,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Radscorpion_FM_01_S4" frames="300">
+<animation id="GUCP_Radscorpion_FF_01_S4" frames="300">
 	<actor gender="F">
 		<idle form="00000FB0" id="CP_Scorp04_F"/>
 	</actor>
@@ -269,7 +269,7 @@
 
 <!-- Stingwing -->
 
-<animation id="GUCP_Stingwing_FM_01_S1" frames="300" offset="0,0,0,0:0,50,50,0">
+<animation id="GUCP_Stingwing_FF_01_S1" frames="300" offset="0,0,0,0:0,50,50,0">
 	<actor gender="F">
 		<idle form="00000FB1" id="CP_Sting01_F"/>
 	</actor>
@@ -278,7 +278,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Stingwing_FM_01_S2" frames="300" offset="0,0,0,0:0,50,50,0">
+<animation id="GUCP_Stingwing_FF_01_S2" frames="300" offset="0,0,0,0:0,50,50,0">
 	<actor gender="F">
 		<idle form="00000FB2" id="CP_Sting02_F"/>
 	</actor>
@@ -287,7 +287,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Stingwing_FM_01_S3" frames="300" offset="0,0,0,0:0,50,50,0">
+<animation id="GUCP_Stingwing_FF_01_S3" frames="300" offset="0,0,0,0:0,50,50,0">
 	<actor gender="F">
 		<idle form="00000FB3" id="CP_Sting03_F"/>
 	</actor>
@@ -296,7 +296,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_Stingwing_FM_01_S4" frames="300" offset="0,0,0,0:0,50,50,0">
+<animation id="GUCP_Stingwing_FF_01_S4" frames="300" offset="0,0,0,0:0,50,50,0">
 	<actor gender="F">
 		<idle form="00000FB4" id="CP_Sting04_F"/>
 	</actor>
@@ -307,7 +307,7 @@
 
 <!-- Yao-Guai -->
 
-<animation id="GUCP_YaoGuai_FM_01_S1" frames="300">
+<animation id="GUCP_YaoGuai_FF_01_S1" frames="300">
 	<actor gender="F">
 		<idle form="00001F0B" id="CP_Yao01_F"/>
 	</actor>
@@ -316,7 +316,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_YaoGuai_FM_01_S2" frames="300">
+<animation id="GUCP_YaoGuai_FF_01_S2" frames="300">
 	<actor gender="F">
 		<idle form="00001F0C" id="CP_Yao02_F"/>
 	</actor>
@@ -325,7 +325,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_YaoGuai_FM_01_S3" frames="300">
+<animation id="GUCP_YaoGuai_FF_01_S3" frames="300">
 	<actor gender="F">
 		<idle form="00001F0D" id="CP_Yao03_F"/>
 	</actor>
@@ -334,7 +334,7 @@
 	</actor>
 </animation>
 
-<animation id="GUCP_YaoGuai_FM_01_S4" frames="300">
+<animation id="GUCP_YaoGuai_FF_01_S4" frames="300">
 	<actor gender="F">
 		<idle form="00001F0E" id="CP_Yao04_F"/>
 	</actor>

@@ -3,24 +3,6 @@
 
 <!-- Female/Male Animations -->
 
-<animation id="AtomicLust_Spork_MM_01" frames="304">
-	<actor gender="M">
-		<idle form="0004D0BA" id="AtomicSporkF"/>
-	</actor>
-	<actor gender="M">
-		<idle form="0004D0BB" id="AtomicSporkM"/>
-	</actor>
-</animation>
-
-<animation id="AtomicLust_Spork_MM_02" frames="304">
-	<actor gender="M">
-		<idle form="0004D0BC" id="AtomicSporkIIF"/>
-	</actor>
-	<actor gender="M">
-		<idle form="0004D0BD" id="AtomicSporkIIM"/>
-	</actor>
-</animation>
-
 <animation id="AtomicLust_Cowgirl_MM_01" frames="400">
 	<actor gender="M">
 		<idle form="0004C91B" id="AtomicCowgirlF"/>

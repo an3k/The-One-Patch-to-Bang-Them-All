@@ -1,0 +1,98 @@
+<meta title="50 Shades of Fallout 4 - Position Data" version="1.0.5" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<!-- Doggy 01 Animations -->
+
+<position id="50 Shades of Fallout 4 - Doggy (Staged)" animationGroup="50SFO4_Doggy_FM_01_Staged" tags="GrayUser,F_M,NoFurn,Doggy,FromBehind,Aggressive,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy (Stage 1)" animation="50SFO4_Doggy_FM_01_S1" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy (Stage 2)" animation="50SFO4_Doggy_FM_01_S2" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy (Stage 3)" animation="50SFO4_Doggy_FM_01_S3" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy (Stage 4)" animation="50SFO4_Doggy_FM_01_S4" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+
+<!-- Doggy 01 Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Doggy (Gagged, Staged)" animationGroup="50SFO4_Doggy_FM_Gagged_01_Staged" tags="GrayUser,F_M,NoFurn,Doggy,FromBehind,Aggressive,Gagged,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy (Gagged, Stage 1)" animation="50SFO4_Doggy_FM_Gagged_01_S1" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Gagged,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy (Gagged, Stage 2)" animation="50SFO4_Doggy_FM_Gagged_01_S2" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Gagged,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy (Gagged, Stage 3)" animation="50SFO4_Doggy_FM_Gagged_01_S3" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Gagged,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy (Gagged, Stage 4)" animation="50SFO4_Doggy_FM_Gagged_01_S4" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Gagged,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+
+<!-- Doggy 02 Animations -->
+
+<position id="50 Shades of Fallout 4 - Doggy 2 (Staged)" animationGroup="50SFO4_Doggy_FM_02_Staged" tags="GrayUser,F_M,NoFurn,Doggy,FromBehind,Aggressive,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy 2 (Stage 1)" animation="50SFO4_Doggy_FM_02_S1" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy 2 (Stage 2)" animation="50SFO4_Doggy_FM_02_S2" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy 2 (Stage 3)" animation="50SFO4_Doggy_FM_02_S3" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy 2 (Stage 4)" animation="50SFO4_Doggy_FM_02_S4" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+
+<!-- Doggy 02 Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Doggy 2 (Gagged, Staged)" animationGroup="50SFO4_Doggy_FM_Gagged_02_Staged" tags="GrayUser,F_M,NoFurn,Doggy,FromBehind,Aggressive,Gagged,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy 2 (Gagged, Stage 1)" animation="50SFO4_Doggy_FM_Gagged_02_S1" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Gagged,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy 2 (Gagged, Stage 2)" animation="50SFO4_Doggy_FM_Gagged_02_S2" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Gagged,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy 2 (Gagged, Stage 3)" animation="50SFO4_Doggy_FM_Gagged_02_S3" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Gagged,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Doggy 2 (Gagged, Stage 4)" animation="50SFO4_Doggy_FM_Gagged_02_S4" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Doggy,FromBehind,Aggressive,Gagged,Held3,Stim7,Love5,Dom-5,NullToSelf,PenisToVagina"/>
+
+<!-- Missionary 01 Animations -->
+
+<position id="50 Shades of Fallout 4 - Missionary (Staged)" animationGroup="50SFO4_Missionary_FM_01_Staged" tags="GrayUser,F_M,NoFurn,Missionary,FromFront,Aggressive,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary (Stage 1)" animation="50SFO4_Missionary_FM_01_S1" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary (Stage 2)" animation="50SFO4_Missionary_FM_01_S2" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary (Stage 3)" animation="50SFO4_Missionary_FM_01_S3" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary (Stage 4)" animation="50SFO4_Missionary_FM_01_S4" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+
+<!-- Missionary 01 Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Missionary (Gagged, Staged)" animationGroup="50SFO4_Missionary_FM_Gagged_01_Staged" tags="GrayUser,F_M,NoFurn,Missionary,FromFront,Aggressive,Gagged,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary (Gagged, Stage 1)" animation="50SFO4_Missionary_FM_Gagged_01_S1" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Gagged,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary (Gagged, Stage 2)" animation="50SFO4_Missionary_FM_Gagged_01_S2" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Gagged,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary (Gagged, Stage 3)" animation="50SFO4_Missionary_FM_Gagged_01_S3" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Gagged,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary (Gagged, Stage 4)" animation="50SFO4_Missionary_FM_Gagged_01_S4" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Gagged,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+
+<!-- Missionary 02 Animations -->
+
+<position id="50 Shades of Fallout 4 - Missionary 2 (Staged)" animationGroup="50SFO4_Missionary_FM_02_Staged" tags="GrayUser,F_M,NoFurn,Missionary,FromFront,Aggressive,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary 2 (Stage 1)" animation="50SFO4_Missionary_FM_02_S1" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary 2 (Stage 2)" animation="50SFO4_Missionary_FM_02_S2" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary 2 (Stage 3)" animation="50SFO4_Missionary_FM_02_S3" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary 2 (Stage 4)" animation="50SFO4_Missionary_FM_02_S4" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+
+<!-- Missionary 02 Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Missionary 2 (Gagged, Staged)" animationGroup="50SFO4_Missionary_FM_Gagged_02_Staged" tags="GrayUser,F_M,NoFurn,Missionary,FromFront,Aggressive,Gagged,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary 2 (Gagged, Stage 1)" animation="50SFO4_Missionary_FM_Gagged_02_S1" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Gagged,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary 2 (Gagged, Stage 2)" animation="50SFO4_Missionary_FM_Gagged_02_S2" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Gagged,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary 2 (Gagged, Stage 3)" animation="50SFO4_Missionary_FM_Gagged_02_S3" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Gagged,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+<position id="50 Shades of Fallout 4 - Missionary 2 (Gagged, Stage 4)" animation="50SFO4_Missionary_FM_Gagged_02_S4" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Missionary,FromFront,Aggressive,Gagged,Held1,Stim5,Love3,Dom-3,NullToSelf,PenisToVagina"/>
+
+<!-- Spanking 01 Animations -->
+
+<position id="50 Shades of Fallout 4 - Spanking (Staged)" animationGroup="50SFO4_Spanking_FM_01_Staged" tags="GrayUser,F_M,NoFurn,Spanking,FromBehind,Aggressive,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking (Stage 1)" animation="50SFO4_Spanking_FM_01_S1" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking (Stage 2)" animation="50SFO4_Spanking_FM_01_S2" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking (Stage 3)" animation="50SFO4_Spanking_FM_01_S3" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking (Stage 4)" animation="50SFO4_Spanking_FM_01_S4" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+
+<!-- Spanking 01 Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Spanking (Gagged, Staged)" animationGroup="50SFO4_Spanking_FM_Gagged_01_Staged" tags="GrayUser,F_M,NoFurn,Spanking,FromBehind,Aggressive,Gagged,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking (Gagged, Stage 1)" animation="50SFO4_Spanking_FM_Gagged_01_S1" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Gagged,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking (Gagged, Stage 2)" animation="50SFO4_Spanking_FM_Gagged_01_S2" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Gagged,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking (Gagged, Stage 3)" animation="50SFO4_Spanking_FM_Gagged_01_S3" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Gagged,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking (Gagged, Stage 4)" animation="50SFO4_Spanking_FM_Gagged_01_S4" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Gagged,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+
+<!-- Spanking 02 Animations -->
+
+<position id="50 Shades of Fallout 4 - Spanking 2 (Staged)" animationGroup="50SFO4_Spanking_FM_02_Staged" tags="GrayUser,F_M,NoFurn,Spanking,FromBehind,Aggressive,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking 2 (Stage 1)" animation="50SFO4_Spanking_FM_02_S1" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking 2 (Stage 2)" animation="50SFO4_Spanking_FM_02_S2" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking 2 (Stage 3)" animation="50SFO4_Spanking_FM_02_S3" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking 2 (Stage 4)" animation="50SFO4_Spanking_FM_02_S4" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+
+<!-- Spanking 02 Gagged Animations -->
+
+<position id="50 Shades of Fallout 4 - Spanking 2 (Gagged, Staged)" animationGroup="50SFO4_Spanking_FM_Gagged_02_Staged" tags="GrayUser,F_M,NoFurn,Spanking,FromBehind,Aggressive,Gagged,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking 2 (Gagged, Stage 1)" animation="50SFO4_Spanking_FM_Gagged_02_S1" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Gagged,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking 2 (Gagged, Stage 2)" animation="50SFO4_Spanking_FM_Gagged_02_S2" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Gagged,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking 2 (Gagged, Stage 3)" animation="50SFO4_Spanking_FM_Gagged_02_S3" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Gagged,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>
+<position id="50 Shades of Fallout 4 - Spanking 2 (Gagged, Stage 4)" animation="50SFO4_Spanking_FM_Gagged_02_S4" isHidden="true" tags="GrayUser,Hidden,Utility,F_M,NoFurn,Spanking,FromBehind,Aggressive,Gagged,Held3,Stim3,Love3,Dom-3,NullToSelf,SpankToButt"/>

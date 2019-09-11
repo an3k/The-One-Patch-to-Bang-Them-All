@@ -676,7 +676,7 @@
           <fileDependency file="AAF_GrayAnimations.esp" state="Active"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Gray_Users_50_Shades\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\50_Shades_of_Fallout_4\00 Required" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -686,7 +686,7 @@
           <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Gray_Users_50_Shades\10 Normal\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\50_Shades_of_Fallout_4\10 Normal\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -696,7 +696,7 @@
           <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Gray_Users_50_Shades\10 Normal\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\50_Shades_of_Fallout_4\10 Normal\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -706,7 +706,7 @@
           <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Gray_Users_50_Shades\10 Normal\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\50_Shades_of_Fallout_4\10 Normal\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -716,7 +716,7 @@
           <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Gray_Users_50_Shades\10 Normal\50 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\50_Shades_of_Fallout_4\10 Normal\50 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -726,7 +726,7 @@
           <flagDependency flag="Animation" value="Normal"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Gray_Users_50_Shades\10 Normal\60 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\50_Shades_of_Fallout_4\10 Normal\60 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -736,7 +736,7 @@
           <flagDependency flag="Animation" value="Extended"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Gray_Users_50_Shades\20 Extended\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\50_Shades_of_Fallout_4\20 Extended\10 Gay" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -746,7 +746,7 @@
           <flagDependency flag="Animation" value="Extended"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Gray_Users_50_Shades\20 Extended\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\50_Shades_of_Fallout_4\20 Extended\20 Lesbian" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -756,7 +756,7 @@
           <flagDependency flag="Animation" value="Extended"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Gray_Users_50_Shades\20 Extended\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\50_Shades_of_Fallout_4\20 Extended\30 Straight" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -766,7 +766,7 @@
           <flagDependency flag="Animation" value="Extended"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Gray_Users_50_Shades\20 Extended\50 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\50_Shades_of_Fallout_4\20 Extended\50 Male Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <pattern>
@@ -776,7 +776,7 @@
           <flagDependency flag="Animation" value="Extended"/>
         </dependencies>
         <files>
-          <folder source="50 Animations\Gray_Users_50_Shades\20 Extended\60 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
+          <folder source="50 Animations\50_Shades_of_Fallout_4\20 Extended\60 Female Solo" destination="" priority="0" alwaysInstall="false" installIfUsable="false"/>
         </files>
       </pattern>
       <!-- Atomic Lust -->

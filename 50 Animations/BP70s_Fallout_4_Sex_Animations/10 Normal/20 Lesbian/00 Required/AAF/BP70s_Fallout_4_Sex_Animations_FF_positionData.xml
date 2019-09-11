@@ -1,0 +1,85 @@
+<meta title="BP70's Fallout 4 Sex Animations - Lesbian Position Data" version="2.1.1" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<!-- Position Tree -->
+
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Missionary 3 (Impregnation)" positionTree="BP70s_Fallout_4_Sex_Animations_Menu" tags="BP70,F_F,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+
+<!-- Normal -->
+
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Blowjob" animation="FO4SA_Blowjob_FF_01" tags="BP70,F_F,NoFurn,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,StrapOnToMouth"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Blowjob (Laying)" animation="FO4SA_BlowjobGround_FF_01" tags="BP70,F_F,NoFurn,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,StrapOnToMouth"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Cowgirl" animation="FO4SA_Cowgirl_FF_01" tags="BP70,F_F,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Cowgirl (Romantic)" animation="FO4SA_Cowgirl_FF_Romantic_01" tags="BP70,F_F,NoFurn,Cowgirl,FromFront,Loving,Held1,Stim9,Love7,Dom1,NullToSelf,StrapOnToEither"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Cunnilingus" animation="FO4SA_Cunnilingus_FF_01" tags="BP70,F_F,NoFurn,Cunnilingus,FromFront,Loving,Held0,Stim7,Love5,Dom0,NullToSelf,MouthToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Cunnilingus (Leg Wrap)" animation="FO4SA_CunnilingusGround_FF_01" tags="BP70,F_F,NoFurn,Cunnilingus,FromFront,Loving,Held0,Stim7,Love5,Dom0,NullToSelf,MouthToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Doggy" animation="FO4SA_Doggy_FF_01" tags="BP70,F_F,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Lotus" animation="FO4SA_Lotus_FF_01" tags="BP70,F_F,NoFurn,Cowgirl,FromFront,Loving,Held1,Stim5,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Missionary 1" animation="FO4SA_Missionary_FF_01" tags="BP70,F_F,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Missionary 1 (Romantic)" animation="FO4SA_Missionary_FF_Romantic_01" tags="BP70,F_F,NoFurn,Missionary,FromFront,Loving,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Missionary 1 (Rough)" animation="FO4SA_Missionary_FF_Rough_01" tags="BP70,F_F,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Missionary 2 (Staged)" animationGroup="FO4SA_Missionary_FF_02_Staged" tags="BP70,F_F,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Missionary 2 (Stage 1)" animation="FO4SA_Missionary_FF_02_S1" isHidden="true" tags="BP70,F_F,Hidden,Utility,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Missionary 2 (Stage 2)" animation="FO4SA_Missionary_FF_02_S2" isHidden="true" tags="BP70,F_F,Hidden,Utility,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Missionary 2 (Stage 3)" animation="FO4SA_Missionary_FF_02_S3" isHidden="true" tags="BP70,F_F,Hidden,Utility,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Missionary 2 (Stage 4)" animation="FO4SA_Missionary_FF_02_S4" isHidden="true" tags="BP70,F_F,Hidden,Utility,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Missionary 2 (Stage 5)" animation="FO4SA_Missionary_FF_02_S5" isHidden="true" tags="BP70,F_F,Hidden,Utility,NoFurn,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Prone Bone" animation="FO4SA_ProneBone_FF_01" tags="BP70,F_F,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Standing (Staged)" animationGroup="FO4SA_Standing_FF_01_Staged" tags="BP70,F_F,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Standing (Stage 1)" animation="FO4SA_Standing_FF_01_S1" isHidden="true" tags="BP70,F_F,Hidden,Utility,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Standing (Stage 2)" animation="FO4SA_Standing_FF_01_S2" isHidden="true" tags="BP70,F_F,Hidden,Utility,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Standing (Stage 3)" animation="FO4SA_Standing_FF_01_S3" isHidden="true" tags="BP70,F_F,Hidden,Utility,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Standing (Stage 4)" animation="FO4SA_Standing_FF_01_S4" isHidden="true" tags="BP70,F_F,Hidden,Utility,NoFurn,Carry,FromFront,Neutral,Held1,Stim5,Love3,Dom-3,NullToSelf,StrapOnToVagina"/>
+
+<!-- FF Animations -->
+
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Footplay" animation="FO4SA_Footplay_FF_01"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Scissors" animation="FO4SA_Scissors_FF_01"/>
+
+<!-- FFM Animations -->
+
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Love Triangle (Staged)" animationGroup="FO4SA_LoveTriangle_FF_01_Staged" tags="BP70,F_F_F,NoFurn,Cunnilingus,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Love Triangle (Stage 1)" animation="FO4SA_LoveTriangle_FF_01_S1" isHidden="true" tags="BP70,F_F_F,NoFurn,Cunnilingus,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Love Triangle (Stage 2)" animation="FO4SA_LoveTriangle_FF_01_S2" isHidden="true" tags="BP70,F_F_F,NoFurn,Cunnilingus,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Love Triangle (Stage 3)" animation="FO4SA_LoveTriangle_FF_01_S3" isHidden="true" tags="BP70,F_F_F,NoFurn,Cunnilingus,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Love Triangle (Stage 4)" animation="FO4SA_LoveTriangle_FF_01_S4" isHidden="true" tags="BP70,F_F_F,NoFurn,Cunnilingus,Kissing,Neutral,Held3,Love3,Stim9,Dom-7,NullToSelf,MouthToMouth,MouthToVagina"/>
+
+<!-- Furniture Animations -->
+
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Chaise Fuck (Blowjob)" location="Chaise" animation="FO4SA_ChaiseFuck_FF_01" tags="BP70,F_F,Chaise,Blowjob,FromFront,Neutral,Held1,Love3,Stim3,Dom-5,NullToSelf,StrapOnToMouth"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Chaise Fuck (Doggy)" location="Chaise" animation="FO4SA_ChaiseFuck_FF_04" tags="BP70,F_F,Chaise,Doggy,FromBehind,Neutral,Held5,Stim7,Love3,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Chaise Fuck (Missionary)" location="Chaise" animation="FO4SA_ChaiseFuck_FF_03" tags="BP70,F_F,Chaise,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Chaise Fuck (Spooning)" location="Chaise" animation="FO4SA_ChaiseFuck_FF_02" tags="BP70,F_F,Chaise,Spooning,FromBehind,Neutral,Held5,Stim7,Love3,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Cowgirl (Bed)" location="Single Bed,Double Bed" animation="FO4SA_CowgirlBed_FF_01" tags="BP70,F_F,SingleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Cowgirl (Pound)" location="Single Bed,Double Bed" animation="FO4SA_CowgirlBed_FF_Pound_01" tags="BP70,F_F,SingleBed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Doggy (Bed)" location="Single Bed,Double Bed" animation="FO4SA_DoggyBed_FF_01" tags="BP70,F_F,SingleBed,Doggy,FromBehind,Neutral,Held5,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Kinky Extractor Chair 1 (Forced Blowjob)" location="Extractor Chair" animation="FO4SA_ExtractorChair_FF_05" tags="BP70,F_F,ExtractorChair,Blowjob,FromFront,Neutral,Held5,Love-7,Stim3,Dom-5,NullToSelf,StrapOnToMouth"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Kinky Extractor Chair 2 (Forced Boobjob)" location="Extractor Chair" animation="FO4SA_ExtractorChair_FF_01" tags="BP70,F_F,ExtractorChair,TitJob,FromFront,Neutral,Held5,Love-7,Stim3,Dom-5,NullToSelf,StrapOnToNipples"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Kinky Extractor Chair 3 (Cowgirl)" location="Extractor Chair" animation="FO4SA_ExtractorChair_FF_02" tags="BP70,F_F,ExtractorChair,Cowgirl,FromFront,Neutral,Held1,Stim9,Love3,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Kinky Extractor Chair 4 (Doggy)" location="Extractor Chair" animation="FO4SA_ExtractorChair_FF_03" tags="BP70,F_F,ExtractorChair,Doggy,FromBehind,Neutral,Held5,Stim7,Love3,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Kinky Extractor Chair 5 (Missionary)" location="Extractor Chair" animation="FO4SA_ExtractorChair_FF_04" tags="BP70,F_F,ExtractorChair,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Missionary (Bed)" location="Single Bed,Double Bed" animation="FO4SA_MissionaryBed_FF_01" tags="BP70,F_F,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Missionary (Pound)" location="Single Bed,Double Bed" animation="FO4SA_MissionaryBed_FF_Pound_01" tags="BP70,F_F,SingleBed,Missionary,Pound,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="BP70's Fallout 4 Sex Animations - Lesbian Missionary (Romantic)" location="Single Bed,Double Bed" animation="FO4SA_MissionaryBed_FF_Romantic_01" tags="BP70,F_F,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+
+<!-- Impregnation Animations -->
+
+<position id="FO4SA_Missionary_FF_Impregnate_01_1" animation="FO4SA_Missionary_FF_Impregnate_01_1" isHidden="true" tags="BP70,F_F,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+
+<position id="FO4SA_Missionary_FF_Impregnate_01_1TR2A" animation="FO4SA_Missionary_FF_Impregnate_01_1TR2A" isHidden="true" tags="BP70,F_F,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FF_Impregnate_01_2A" animation="FO4SA_Missionary_FF_Impregnate_01_2A" isHidden="true" tags="BP70,F_F,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4SA_Missionary_FF_Impregnate_01_2ATR3A" animation="FO4SA_Missionary_FF_Impregnate_01_2ATR3A" isHidden="true" tags="BP70,F_F,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FF_Impregnate_01_3A" animation="FO4SA_Missionary_FF_Impregnate_01_3A" isHidden="true" tags="BP70,F_F,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4SA_Missionary_FF_Impregnate_01_3ATR4A" animation="FO4SA_Missionary_FF_Impregnate_01_3ATR4A" isHidden="true" tags="BP70,F_F,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FF_Impregnate_01_4A" animation="FO4SA_Missionary_FF_Impregnate_01_4A" isHidden="true" tags="BP70,F_F,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4SA_Missionary_FF_Impregnate_01_4ATR5A" animation="FO4SA_Missionary_FF_Impregnate_01_4ATR5A" isHidden="true" tags="BP70,F_F,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FF_Impregnate_01_5A" animation="FO4SA_Missionary_FF_Impregnate_01_5A" isHidden="true" tags="BP70,F_F,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+
+<position id="FO4SA_Missionary_FF_Impregnate_01_1TR2B" animation="FO4SA_Missionary_FF_Impregnate_01_1TR2B" isHidden="true" tags="BP70,F_F,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FF_Impregnate_01_2B" animation="FO4SA_Missionary_FF_Impregnate_01_2B" isHidden="true" tags="BP70,F_F,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4SA_Missionary_FF_Impregnate_01_2BTR3B" animation="FO4SA_Missionary_FF_Impregnate_01_2BTR3B" isHidden="true" tags="BP70,F_F,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FF_Impregnate_01_3B" animation="FO4SA_Missionary_FF_Impregnate_01_3B" isHidden="true" tags="BP70,F_F,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4SA_Missionary_FF_Impregnate_01_3BTR4B" animation="FO4SA_Missionary_FF_Impregnate_01_3BTR4B" isHidden="true" tags="BP70,F_F,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FF_Impregnate_01_4B" animation="FO4SA_Missionary_FF_Impregnate_01_4B" isHidden="true" tags="BP70,F_F,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4SA_Missionary_FF_Impregnate_01_4BTR5B" animation="FO4SA_Missionary_FF_Impregnate_01_4BTR5B" isHidden="true" tags="BP70,F_F,Hidden,Utility"/>
+<position id="FO4SA_Missionary_FF_Impregnate_01_5B" animation="FO4SA_Missionary_FF_Impregnate_01_5B" isHidden="true" tags="BP70,F_F,Hidden,Utility,SingleBed,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>

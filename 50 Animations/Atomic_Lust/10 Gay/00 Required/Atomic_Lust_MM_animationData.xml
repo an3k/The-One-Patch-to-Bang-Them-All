@@ -32,7 +32,6 @@
 </animation>
 
 <animation id="AtomicLust_Cowgirl_MM_02" frames="400">
-	<actor gender="M">
 		<idle form="0004C91D" id="AtomicCowgirl2F"/>
 	</actor>
 	<actor gender="M">

@@ -1,0 +1,23 @@
+<meta title="Atomic Lust - Position Tree Data" version="2.6.1b" dataSet="positionTree"/>
+<defaults/>
+
+<tree id="Atomic_Lust_Menu">
+	<branch id="Atomic Lust - Menu" positionID="Atomic Lust - Standing">
+		<branch id="Standing" positionID="Atomic Lust - Standing">
+				<branch id="Holding Hands" positionID="Atomic Lust - Holding Hands">
+						<branch id="Holding Kissing" positionID="Atomic Lust - Holding Kissing">
+						</branch>
+						<branch id="Holding Jerking" positionID="Atomic Lust - Holding Hands to Holding Jerking">
+						</branch>
+				</branch>
+		</branch>
+		<branch id="Spanking" positionID="Atomic Lust - Spanking (Stage 1)">
+				<branch id="Spanking (Stage 2)" positionID="Atomic Lust - Spanking (Stage 2)">
+						<branch id="Spanking (Stage 3)" positionID="Atomic Lust - Spanking (Stage 3)">
+							<branch id="Spanking (Stage 4)" positionID="Atomic Lust - Spanking (Stage 4)" isFlavor="true">
+							</branch>
+						</branch>
+				</branch>
+		</branch>
+	</branch>
+</tree>

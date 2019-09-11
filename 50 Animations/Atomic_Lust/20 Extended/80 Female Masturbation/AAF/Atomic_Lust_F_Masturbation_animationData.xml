@@ -1,0 +1,39 @@
+<meta title="Atomic Lust - Female Masturbation Animation Data" version="2.6.1b" dataSet="animation"/>
+<defaults source="Atomic Lust.esp"/>
+
+<!-- Solo Female Animations -->
+
+<animation id="AtomicLust_FingeringLaying_F_01" frames="400">
+	<actor gender="F">
+		<idle form="000428DE" id="AtomicFingeringLayingF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+</animation>
+
+<animation id="AtomicLust_FingeringSitting_F_01" frames="400">
+	<actor gender="F">
+		<idle form="000428DF" id="AtomicFingeringSittingF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+</animation>
+
+<animation id="AtomicLust_FingeringSitting_F_02" frames="400">
+	<actor gender="F">
+		<idle form="000428E0" id="AtomicFingering2SittingF"/>
+		<value path="action" value="Female Sounds" target="0" loop="true" from="1" to="0" frames="8.555"/>
+	</actor>
+</animation>
+
+<!-- Solo Male Animations -->
+
+<animation id="AtomicLust_Jerking_F_01" frames="400">
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="000428DC" id="AtomicJerkingM"/>
+	</actor>
+</animation>
+
+<animation id="AtomicLust_Jerking_F_Orgasm_01" frames="400">
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="000428DD" id="AtomicJerkingOrgasmM"/>
+	</actor>
+</animation>

@@ -1,8 +1,0 @@
-﻿<meta title="Four-Play Animations by Crazy - Creature Position Data" version="1.3.0" dataSet="position"/>
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
-
-<!-- Dog Animations -->
-
-<position id="Four-Play Animations by Crazy - Dog Handjob" animation="FPAC_DogHandjob_FM_01" tags="Crazy,F_DogM,NoFurn,Handjob,FromFront,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToHand"/>
-<position id="Four-Play Animations by Crazy - Dogmeat Style" animation="FPAC_DogmeatStyle_FM_01" tags="Crazy,F_DogM,NoFurn,Doggy,FromBehind,Neutral,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToEither"/>
-<position id="Four-Play Animations by Crazy - Dogmeat Style (Faster)" animation="FPAC_DogmeatStyle_FM_Faster_01" tags="Crazy,F_DogM,NoFurn,Doggy,FromBehind,Aggressive,Held3,Stim7,Love3,Dom-3,NullToSelf,PenisToEither"/>

@@ -6,146 +6,146 @@
 
 <!-- Aggressive Animations -->
 
-<position id="FO4 Animations by Leito - Mattress Blowjob (Aggressive)" location="Mattress" animation="Leito_Blowjob_FM_Aggressive_01"/>
-<position id="FO4 Animations by Leito - Mattress Carry (Aggressive)" location="Mattress" animation="Leito_Carry_FM_Aggressive_01"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl (Aggressive)" location="Mattress" animation="Leito_Cowgirl_FM_Aggressive_01"/>
-<position id="FO4 Animations by Leito - Mattress Doggy (Aggressive)" location="Mattress" animation="Leito_Doggy_FM_Aggressive_01"/>
-<position id="FO4 Animations by Leito - Mattress Missionary (Aggressive)" location="Mattress" animation="Leito_Missionary_FM_Aggressive_01"/>
-<position id="FO4 Animations by Leito - Mattress Powerbomb (Aggressive)" location="Mattress" animation="Leito_Powerbomb_FM_Aggressive_01"/>
+<position id="FO4 Animations by Leito - Mattress Blowjob (Aggressive)" location="Mattress" animation="Leito_Blowjob_FM_Aggressive_01" tags="Leito,F_M,Mattress,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,StrapOnToMouth"/>
+<position id="FO4 Animations by Leito - Mattress Carry (Aggressive)" location="Mattress" animation="Leito_Carry_FM_Aggressive_01" tags="Leito,F_M,Mattress,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl (Aggressive)" location="Mattress" animation="Leito_Cowgirl_FM_Aggressive_01" tags="Leito,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Doggy (Aggressive)" location="Mattress" animation="Leito_Doggy_FM_Aggressive_01" tags="Leito,F_M,Mattress,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Missionary (Aggressive)" location="Mattress" animation="Leito_Missionary_FM_Aggressive_01" tags="Leito,F_M,Mattress,Missionary,aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Powerbomb (Aggressive)" location="Mattress" animation="Leito_Powerbomb_FM_Aggressive_01" tags="Leito,F_M,Mattress,Powerbomb,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,StrapOnToVagina"/>
 
 <!-- Blowjob Animations -->
 
-<position id="FO4 Animations by Leito - Mattress Blowjob 1 (Staged)" location="Mattress" animationGroup="Leito_Blowjob_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Blowjob 1 (Stage 1)" location="Mattress" animation="Leito_Blowjob_FM_01_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Blowjob 1 (Stage 2)" location="Mattress" animation="Leito_Blowjob_FM_01_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Blowjob 1 (Stage 3)" location="Mattress" animation="Leito_Blowjob_FM_01_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Blowjob 1 (Stage 4)" location="Mattress" animation="Leito_Blowjob_FM_01_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Blowjob 1 (Staged)" location="Mattress" animationGroup="Leito_Blowjob_FM_01_Staged" tags="Leito,F_M,Mattress,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,StrapOnToMouth"/>
+<position id="FO4 Animations by Leito - Mattress Blowjob 1 (Stage 1)" location="Mattress" animation="Leito_Blowjob_FM_01_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,StrapOnToMouth"/>
+<position id="FO4 Animations by Leito - Mattress Blowjob 1 (Stage 2)" location="Mattress" animation="Leito_Blowjob_FM_01_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,StrapOnToMouth"/>
+<position id="FO4 Animations by Leito - Mattress Blowjob 1 (Stage 3)" location="Mattress" animation="Leito_Blowjob_FM_01_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,StrapOnToMouth"/>
+<position id="FO4 Animations by Leito - Mattress Blowjob 1 (Stage 4)" location="Mattress" animation="Leito_Blowjob_FM_01_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Blowjob,FromFront,Neutral,Held1,Stim1,Love5,Dom-3,NullToSelf,StrapOnToMouth"/>
 
 <!-- Carry Animations -->
 
-<position id="FO4 Animations by Leito - Mattress Carry 1 (Staged)" location="Mattress" animationGroup="Leito_Carry_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Carry 1 (Stage 1)" location="Mattress" animation="Leito_Carry_FM_01_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Carry 1 (Stage 2)" location="Mattress" animation="Leito_Carry_FM_01_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Carry 1 (Stage 3)" location="Mattress" animation="Leito_Carry_FM_01_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Carry 1 (Stage 4)" location="Mattress" animation="Leito_Carry_FM_01_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Carry 1 (Staged)" location="Mattress" animationGroup="Leito_Carry_FM_01_Staged" tags="Leito,F_M,Mattress,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Carry 1 (Stage 1)" location="Mattress" animation="Leito_Carry_FM_01_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Carry 1 (Stage 2)" location="Mattress" animation="Leito_Carry_FM_01_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Carry 1 (Stage 3)" location="Mattress" animation="Leito_Carry_FM_01_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Carry 1 (Stage 4)" location="Mattress" animation="Leito_Carry_FM_01_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
 
-<position id="FO4 Animations by Leito - Mattress Carry 2 (Staged)" location="Mattress" animationGroup="Leito_Carry_FM_02_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Carry 2 (Stage 1)" location="Mattress" animation="Leito_Carry_FM_02_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Carry 2 (Stage 2)" location="Mattress" animation="Leito_Carry_FM_02_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Carry 2 (Stage 3)" location="Mattress" animation="Leito_Carry_FM_02_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Carry 2 (Stage 4)" location="Mattress" animation="Leito_Carry_FM_02_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Carry 2 (Staged)" location="Mattress" animationGroup="Leito_Carry_FM_02_Staged" tags="Leito,F_M,Mattress,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Carry 2 (Stage 1)" location="Mattress" animation="Leito_Carry_FM_02_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Carry 2 (Stage 2)" location="Mattress" animation="Leito_Carry_FM_02_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Carry 2 (Stage 3)" location="Mattress" animation="Leito_Carry_FM_02_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Carry 2 (Stage 4)" location="Mattress" animation="Leito_Carry_FM_02_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
 
 <!-- Carry Reverse Animations -->
 
-<position id="FO4 Animations by Leito - Mattress Carry 1 (Reversed, Staged)" location="Mattress" animationGroup="Leito_ReverseCarry_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Carry 1 (Reversed, Stage 1)" location="Mattress" animation="Leito_ReverseCarry_FM_01_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Carry 1 (Reversed, Stage 2)" location="Mattress" animation="Leito_ReverseCarry_FM_01_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Carry 1 (Reversed, Stage 3)" location="Mattress" animation="Leito_ReverseCarry_FM_01_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Carry 1 (Reversed, Stage 4)" location="Mattress" animation="Leito_ReverseCarry_FM_01_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Carry 1 (Reversed, Staged)" location="Mattress" animationGroup="Leito_ReverseCarry_FM_01_Staged" tags="Leito,F_M,Mattress,Carry,FromBehind,Neutral,Held1,Stim7,Love5,Dom-3,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Carry 1 (Reversed, Stage 1)" location="Mattress" animation="Leito_ReverseCarry_FM_01_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Carry,FromBehind,Neutral,Held1,Stim7,Love5,Dom-3,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Carry 1 (Reversed, Stage 2)" location="Mattress" animation="Leito_ReverseCarry_FM_01_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Carry,FromBehind,Neutral,Held1,Stim7,Love5,Dom-3,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Carry 1 (Reversed, Stage 3)" location="Mattress" animation="Leito_ReverseCarry_FM_01_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Carry,FromBehind,Neutral,Held1,Stim7,Love5,Dom-3,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Carry 1 (Reversed, Stage 4)" location="Mattress" animation="Leito_ReverseCarry_FM_01_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Carry,FromBehind,Neutral,Held1,Stim7,Love5,Dom-3,NullToSelf,StrapOnToAnus"/>
 
 <!-- Cowgirl Animations -->
 
-<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Staged)" location="Mattress" animationGroup="Leito_Cowgirl_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Stage 1)" location="Mattress" animation="Leito_Cowgirl_FM_01_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Stage 2)" location="Mattress" animation="Leito_Cowgirl_FM_01_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Stage 3)" location="Mattress" animation="Leito_Cowgirl_FM_01_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Stage 4)" location="Mattress" animation="Leito_Cowgirl_FM_01_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Staged)" location="Mattress" animationGroup="Leito_Cowgirl_FM_01_Staged" tags="Leito,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Stage 1)" location="Mattress" animation="Leito_Cowgirl_FM_01_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Stage 2)" location="Mattress" animation="Leito_Cowgirl_FM_01_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Stage 3)" location="Mattress" animation="Leito_Cowgirl_FM_01_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Stage 4)" location="Mattress" animation="Leito_Cowgirl_FM_01_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
 
-<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Staged)" location="Mattress" animationGroup="Leito_Cowgirl_FM_02_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Stage 1)" location="Mattress" animation="Leito_Cowgirl_FM_02_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Stage 2)" location="Mattress" animation="Leito_Cowgirl_FM_02_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Stage 3)" location="Mattress" animation="Leito_Cowgirl_FM_02_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Stage 4)" location="Mattress" animation="Leito_Cowgirl_FM_02_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Staged)" location="Mattress" animationGroup="Leito_Cowgirl_FM_02_Staged" tags="Leito,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Stage 1)" location="Mattress" animation="Leito_Cowgirl_FM_02_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Stage 2)" location="Mattress" animation="Leito_Cowgirl_FM_02_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Stage 3)" location="Mattress" animation="Leito_Cowgirl_FM_02_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Stage 4)" location="Mattress" animation="Leito_Cowgirl_FM_02_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
 
-<position id="FO4 Animations by Leito - Mattress Cowgirl 3 (Staged)" location="Mattress" animationGroup="Leito_Cowgirl_FM_03_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 3 (Stage 1)" location="Mattress" animation="Leito_Cowgirl_FM_03_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 3 (Stage 2)" location="Mattress" animation="Leito_Cowgirl_FM_03_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 3 (Stage 3)" location="Mattress" animation="Leito_Cowgirl_FM_03_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 3 (Stage 4)" location="Mattress" animation="Leito_Cowgirl_FM_03_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 3 (Staged)" location="Mattress" animationGroup="Leito_Cowgirl_FM_03_Staged" tags="Leito,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 3 (Stage 1)" location="Mattress" animation="Leito_Cowgirl_FM_03_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 3 (Stage 2)" location="Mattress" animation="Leito_Cowgirl_FM_03_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 3 (Stage 3)" location="Mattress" animation="Leito_Cowgirl_FM_03_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 3 (Stage 4)" location="Mattress" animation="Leito_Cowgirl_FM_03_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
 
-<position id="FO4 Animations by Leito - Mattress Cowgirl 4 (Staged)" location="Mattress" animationGroup="Leito_Cowgirl_FM_04_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 4 (Stage 1)" location="Mattress" animation="Leito_Cowgirl_FM_04_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 4 (Stage 2)" location="Mattress" animation="Leito_Cowgirl_FM_04_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 4 (Stage 3)" location="Mattress" animation="Leito_Cowgirl_FM_04_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 4 (Stage 4)" location="Mattress" animation="Leito_Cowgirl_FM_04_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 4 (Staged)" location="Mattress" animationGroup="Leito_Cowgirl_FM_04_Staged" tags="Leito,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 4 (Stage 1)" location="Mattress" animation="Leito_Cowgirl_FM_04_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 4 (Stage 2)" location="Mattress" animation="Leito_Cowgirl_FM_04_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 4 (Stage 3)" location="Mattress" animation="Leito_Cowgirl_FM_04_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 4 (Stage 4)" location="Mattress" animation="Leito_Cowgirl_FM_04_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
 
 <!-- Cowgirl Reverse Animations -->
 
-<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Reversed, Staged)" location="Mattress" animationGroup="Leito_ReverseCowgirl_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Reversed, Stage 1)" location="Mattress" animation="Leito_ReverseCowgirl_FM_01_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Reversed, Stage 2)" location="Mattress" animation="Leito_ReverseCowgirl_FM_01_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Reversed, Stage 3)" location="Mattress" animation="Leito_ReverseCowgirl_FM_01_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Reversed, Stage 4)" location="Mattress" animation="Leito_ReverseCowgirl_FM_01_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Reversed, Staged)" location="Mattress" animationGroup="Leito_ReverseCowgirl_FM_01_Staged" tags="Leito,F_M,Mattress,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Reversed, Stage 1)" location="Mattress" animation="Leito_ReverseCowgirl_FM_01_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Reversed, Stage 2)" location="Mattress" animation="Leito_ReverseCowgirl_FM_01_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Reversed, Stage 3)" location="Mattress" animation="Leito_ReverseCowgirl_FM_01_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 1 (Reversed, Stage 4)" location="Mattress" animation="Leito_ReverseCowgirl_FM_01_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
 
-<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Reversed, Staged)" location="Mattress" animationGroup="Leito_ReverseCowgirl_FM_02_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Reversed, Stage 1)" location="Mattress" animation="Leito_ReverseCowgirl_FM_02_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Reversed, Stage 2)" location="Mattress" animation="Leito_ReverseCowgirl_FM_02_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Reversed, Stage 3)" location="Mattress" animation="Leito_ReverseCowgirl_FM_02_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Reversed, Stage 4)" location="Mattress" animation="Leito_ReverseCowgirl_FM_02_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Reversed, Staged)" location="Mattress" animationGroup="Leito_ReverseCowgirl_FM_02_Staged" tags="Leito,F_M,Mattress,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Reversed, Stage 1)" location="Mattress" animation="Leito_ReverseCowgirl_FM_02_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Reversed, Stage 2)" location="Mattress" animation="Leito_ReverseCowgirl_FM_02_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Reversed, Stage 3)" location="Mattress" animation="Leito_ReverseCowgirl_FM_02_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Cowgirl 2 (Reversed, Stage 4)" location="Mattress" animation="Leito_ReverseCowgirl_FM_02_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Cowgirl,FromBehind,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
 
 <!-- Doggy Animations -->
 
-<position id="FO4 Animations by Leito - Mattress Doggy 1 (Staged)" location="Mattress" animationGroup="Leito_Doggy_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 1 (Stage 1)" location="Mattress" animation="Leito_Doggy_FM_01_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 1 (Stage 2)" location="Mattress" animation="Leito_Doggy_FM_01_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 1 (Stage 3)" location="Mattress" animation="Leito_Doggy_FM_01_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 1 (Stage 4)" location="Mattress" animation="Leito_Doggy_FM_01_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 1 (Staged)" location="Mattress" animationGroup="Leito_Doggy_FM_01_Staged" tags="Leito,F_M,Mattress,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 1 (Stage 1)" location="Mattress" animation="Leito_Doggy_FM_01_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 1 (Stage 2)" location="Mattress" animation="Leito_Doggy_FM_01_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 1 (Stage 3)" location="Mattress" animation="Leito_Doggy_FM_01_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 1 (Stage 4)" location="Mattress" animation="Leito_Doggy_FM_01_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
 
-<position id="FO4 Animations by Leito - Mattress Doggy 2 (Staged)" location="Mattress" animationGroup="Leito_Doggy_FM_02_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 2 (Stage 1)" location="Mattress" animation="Leito_Doggy_FM_02_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 2 (Stage 2)" location="Mattress" animation="Leito_Doggy_FM_02_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 2 (Stage 3)" location="Mattress" animation="Leito_Doggy_FM_02_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 2 (Stage 4)" location="Mattress" animation="Leito_Doggy_FM_02_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 2 (Staged)" location="Mattress" animationGroup="Leito_Doggy_FM_02_Staged" tags="Leito,F_M,Mattress,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 2 (Stage 1)" location="Mattress" animation="Leito_Doggy_FM_02_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 2 (Stage 2)" location="Mattress" animation="Leito_Doggy_FM_02_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 2 (Stage 3)" location="Mattress" animation="Leito_Doggy_FM_02_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 2 (Stage 4)" location="Mattress" animation="Leito_Doggy_FM_02_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
 
 <!-- Doggy Standing Animations -->
 
-<position id="FO4 Animations by Leito - Mattress Doggy 1 (Standing, Staged)" location="Mattress" animationGroup="Leito_StandingDoggy_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 1 (Standing, Stage 1)" location="Mattress" animation="Leito_StandingDoggy_FM_01_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 1 (Standing, Stage 2)" location="Mattress" animation="Leito_StandingDoggy_FM_01_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 1 (Standing, Stage 3)" location="Mattress" animation="Leito_StandingDoggy_FM_01_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 1 (Standing, Stage 4)" location="Mattress" animation="Leito_StandingDoggy_FM_01_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 1 (Standing, Staged)" location="Mattress" animationGroup="Leito_StandingDoggy_FM_01_Staged" tags="Leito,F_M,Mattress,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 1 (Standing, Stage 1)" location="Mattress" animation="Leito_StandingDoggy_FM_01_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 1 (Standing, Stage 2)" location="Mattress" animation="Leito_StandingDoggy_FM_01_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 1 (Standing, Stage 3)" location="Mattress" animation="Leito_StandingDoggy_FM_01_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 1 (Standing, Stage 4)" location="Mattress" animation="Leito_StandingDoggy_FM_01_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToAnus"/>
 
-<position id="FO4 Animations by Leito - Mattress Doggy 2 (Standing, Staged)" location="Mattress" animationGroup="Leito_StandingDoggy_FM_02_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 2 (Standing, Stage 1)" location="Mattress" animation="Leito_StandingDoggy_FM_02_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 2 (Standing, Stage 2)" location="Mattress" animation="Leito_StandingDoggy_FM_02_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 2 (Standing, Stage 3)" location="Mattress" animation="Leito_StandingDoggy_FM_02_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 2 (Standing, Stage 4)" location="Mattress" animation="Leito_StandingDoggy_FM_02_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 2 (Standing, Staged)" location="Mattress" animationGroup="Leito_StandingDoggy_FM_02_Staged" tags="Leito,F_M,Mattress,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 2 (Standing, Stage 1)" location="Mattress" animation="Leito_StandingDoggy_FM_02_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 2 (Standing, Stage 2)" location="Mattress" animation="Leito_StandingDoggy_FM_02_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 2 (Standing, Stage 3)" location="Mattress" animation="Leito_StandingDoggy_FM_02_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 2 (Standing, Stage 4)" location="Mattress" animation="Leito_StandingDoggy_FM_02_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Standing,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToAnus"/>
 
 <!-- Missionary Animations -->
 
-<position id="FO4 Animations by Leito - Mattress Missionary 1 (Staged)" location="Mattress" animationGroup="Leito_Missionary_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Missionary 1 (Stage 1)" location="Mattress" animation="Leito_Missionary_FM_01_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Missionary 1 (Stage 2)" location="Mattress" animation="Leito_Missionary_FM_01_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Missionary 1 (Stage 3)" location="Mattress" animation="Leito_Missionary_FM_01_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Missionary 1 (Stage 4)" location="Mattress" animation="Leito_Missionary_FM_01_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Missionary 1 (Staged)" location="Mattress" animationGroup="Leito_Missionary_FM_01_Staged" tags="Leito,F_M,Mattress,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Missionary 1 (Stage 1)" location="Mattress" animation="Leito_Missionary_FM_01_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Missionary 1 (Stage 2)" location="Mattress" animation="Leito_Missionary_FM_01_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Missionary 1 (Stage 3)" location="Mattress" animation="Leito_Missionary_FM_01_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Missionary 1 (Stage 4)" location="Mattress" animation="Leito_Missionary_FM_01_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
 
-<position id="FO4 Animations by Leito - Mattress Missionary 2 (Staged)" location="Mattress" animationGroup="Leito_Missionary_FM_02_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Missionary 2 (Stage 1)" location="Mattress" animation="Leito_Missionary_FM_02_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Missionary 2 (Stage 2)" location="Mattress" animation="Leito_Missionary_FM_02_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Missionary 2 (Stage 3)" location="Mattress" animation="Leito_Missionary_FM_02_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Missionary 2 (Stage 4)" location="Mattress" animation="Leito_Missionary_FM_02_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Missionary 2 (Staged)" location="Mattress" animationGroup="Leito_Missionary_FM_02_Staged" tags="Leito,F_M,Mattress,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Missionary 2 (Stage 1)" location="Mattress" animation="Leito_Missionary_FM_02_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Missionary 2 (Stage 2)" location="Mattress" animation="Leito_Missionary_FM_02_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Missionary 2 (Stage 3)" location="Mattress" animation="Leito_Missionary_FM_02_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Missionary 2 (Stage 4)" location="Mattress" animation="Leito_Missionary_FM_02_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Missionary,FromFront,Neutral,Held1,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
 
 <!-- Powerbomb Animations -->
 
-<position id="FO4 Animations by Leito - Mattress Powerbomb 1 (Staged)" location="Mattress" animationGroup="Leito_Powerbomb_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Powerbomb 1 (Stage 1)" location="Mattress" animation="Leito_Powerbomb_FM_01_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Powerbomb 1 (Stage 2)" location="Mattress" animation="Leito_Powerbomb_FM_01_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Powerbomb 1 (Stage 3)" location="Mattress" animation="Leito_Powerbomb_FM_01_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Powerbomb 1 (Stage 4)" location="Mattress" animation="Leito_Powerbomb_FM_01_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Powerbomb 1 (Staged)" location="Mattress" animationGroup="Leito_Powerbomb_FM_01_Staged" tags="Leito,F_M,Mattress,Powerbomb,FromFront,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Powerbomb 1 (Stage 1)" location="Mattress" animation="Leito_Powerbomb_FM_01_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Powerbomb,FromFront,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Powerbomb 1 (Stage 2)" location="Mattress" animation="Leito_Powerbomb_FM_01_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Powerbomb,FromFront,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Powerbomb 1 (Stage 3)" location="Mattress" animation="Leito_Powerbomb_FM_01_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Powerbomb,FromFront,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Powerbomb 1 (Stage 4)" location="Mattress" animation="Leito_Powerbomb_FM_01_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,Powerbomb,FromFront,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToVagina"/>
 
 <!-- Spoon Animations -->
 
-<position id="FO4 Animations by Leito - Mattress Spoon 1 (Staged)" location="Mattress" animationGroup="Leito_Spoon_FM_01_Staged"/>
-<position id="FO4 Animations by Leito - Mattress Spoon 1 (Stage 1)" location="Mattress" animation="Leito_Spoon_FM_01_S1" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Spoon 1 (Stage 2)" location="Mattress" animation="Leito_Spoon_FM_01_S2" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Spoon 1 (Stage 3)" location="Mattress" animation="Leito_Spoon_FM_01_S3" isHidden="true"/>
-<position id="FO4 Animations by Leito - Mattress Spoon 1 (Stage 4)" location="Mattress" animation="Leito_Spoon_FM_01_S4" isHidden="true"/>
+<position id="FO4 Animations by Leito - Mattress Spoon 1 (Staged)" location="Mattress" animationGroup="Leito_Spoon_FM_01_Staged" tags="Leito,F_M,Mattress,FromBehind,Neutral,Held1,Stim1,Love7,Dom-1,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Spoon 1 (Stage 1)" location="Mattress" animation="Leito_Spoon_FM_01_S1" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,FromBehind,Neutral,Held1,Stim1,Love7,Dom-1,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Spoon 1 (Stage 2)" location="Mattress" animation="Leito_Spoon_FM_01_S2" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,FromBehind,Neutral,Held1,Stim1,Love7,Dom-1,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Spoon 1 (Stage 3)" location="Mattress" animation="Leito_Spoon_FM_01_S3" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,FromBehind,Neutral,Held1,Stim1,Love7,Dom-1,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Spoon 1 (Stage 4)" location="Mattress" animation="Leito_Spoon_FM_01_S4" isHidden="true" tags="Leito,Hidden,Utility,F_M,Mattress,FromBehind,Neutral,Held1,Stim1,Love7,Dom-1,NullToSelf,StrapOnToEither"/>
 
 <!-- Supermutant Animations -->
 
-<position id="FO4 Animations by Leito - Mattress Carry 1 (Supermutant)" location="Mattress" animation="Leito_Carry_FM_2Mutant_01"/>
-<position id="FO4 Animations by Leito - Mattress Carry 1 (Supermutant, Reversed)" location="Mattress" animation="Leito_ReverseCarry_FM_2Mutant_01"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 1 (Supermutant)" location="Mattress" animation="Leito_Doggy_FM_2Mutant_01"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 1 (Supermutant, Standing)" location="Mattress" animation="Leito_StandingDoggy_FM_2Mutant_01"/>
-<position id="FO4 Animations by Leito - Mattress Powerbomb 1 (Supermutant)" location="Mattress" animation="Leito_Powerbomb_FM_2Mutant_01"/>
-<position id="FO4 Animations by Leito - Mattress Sideways 1 (Supermutant, Standing)" location="Mattress" animation="Leito_StandingSideways_FM_2Mutant_01"/>
+<position id="FO4 Animations by Leito - Mattress Carry 1 (Supermutant)" location="Mattress" animation="Leito_Carry_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Carry,FromFront,Neutral,Held5,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Carry 1 (Supermutant, Reversed)" location="Mattress" animation="Leito_ReverseCarry_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Carry,FromBehind,aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 1 (Supermutant)" location="Mattress" animation="Leito_Doggy_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Doggy,FromBehind,Neutral,Held5,Stim5,Love3,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 1 (Supermutant, Standing)" location="Mattress" animation="Leito_StandingDoggy_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Standing,FromBehind,aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Powerbomb 1 (Supermutant)" location="Mattress" animation="Leito_Powerbomb_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Powerbomb,FromFront,aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Sideways 1 (Supermutant, Standing)" location="Mattress" animation="Leito_StandingSideways_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Standing,FromSide,aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,StrapOnToEither"/>

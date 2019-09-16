@@ -10,8 +10,8 @@
 <position id="FO4 Animations by Leito - Gay Bed Carry (Aggressive)" location="Single_Bed,Double_Bed" animation="Leito_Carry_MM_Aggressive_01" tags="Leito,M_M,Bed,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToAnus"/>
 <position id="FO4 Animations by Leito - Gay Bed Cowgirl (Aggressive)" location="Single_Bed,Double_Bed" animation="Leito_Cowgirl_MM_Aggressive_01" tags="Leito,M_M,Bed,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToAnus"/>
 <position id="FO4 Animations by Leito - Gay Bed Doggy (Aggressive)" location="Single_Bed,Double_Bed" animation="Leito_Doggy_MM_Aggressive_01" tags="Leito,M_M,Bed,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="FO4 Animations by Leito - Gay Bed Missionary (Aggressive)" location="Single_Bed,Double_Bed" animation="Leito_Missionary_MM_Aggressive_01" tags="Leito,M_M,Bed,Missionary,aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToAnus"/>
-<position id="FO4 Animations by Leito - Gay Bed Powerbomb (Aggressive)" location="Single_Bed,Double_Bed" animation="Leito_Powerbomb_MM_Aggressive_01" tags="Leito,M_M,Bed,Powerbomb,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToAnus"/>
+<position id="FO4 Animations by Leito - Gay Bed Missionary (Aggressive)" location="Single_Bed,Double_Bed" animation="Leito_Missionary_MM_Aggressive_01" tags="Leito,M_M,Bed,Missionary,Aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToAnus"/>
+<position id="FO4 Animations by Leito - Gay Bed Powerbomb (Aggressive)" location="Single_Bed,Double_Bed" animation="Leito_Powerbomb_MM_Aggressive_01" tags="Leito,M_M,Bed,Powerbomb,Aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToAnus"/>
 
 <!-- Blowjob Animations -->
 
@@ -144,8 +144,8 @@
 <!-- Supermutant Animations -->
 
 <position id="FO4 Animations by Leito - Gay Bed Carry 1 (Supermutant)" location="Single_Bed,Double_Bed" animation="Leito_Carry_MM_2Mutant_01" tags="Leito,M_SMutantM,Bed,Carry,FromFront,Neutral,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="FO4 Animations by Leito - Gay Bed Carry 1 (Supermutant, Reversed)" location="Single_Bed,Double_Bed" animation="Leito_ReverseCarry_MM_2Mutant_01" tags="Leito,M_SMutantM,Bed,Carry,FromBehind,aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+<position id="FO4 Animations by Leito - Gay Bed Carry 1 (Supermutant, Reversed)" location="Single_Bed,Double_Bed" animation="Leito_ReverseCarry_MM_2Mutant_01" tags="Leito,M_SMutantM,Bed,Carry,FromBehind,Aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
 <position id="FO4 Animations by Leito - Gay Bed Doggy 1 (Supermutant)" location="Single_Bed,Double_Bed" animation="Leito_Doggy_MM_2Mutant_01" tags="Leito,M_SMutantM,Bed,Doggy,FromBehind,Neutral,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="FO4 Animations by Leito - Gay Bed Doggy 1 (Supermutant, Standing)" location="Single_Bed,Double_Bed" animation="Leito_StandingDoggy_MM_2Mutant_01" tags="Leito,M_SMutantM,Bed,Standing,FromBehind,aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="FO4 Animations by Leito - Gay Bed Powerbomb 1 (Supermutant)" location="Single_Bed,Double_Bed" animation="Leito_Powerbomb_MM_2Mutant_01" tags="Leito,M_SMutantM,Bed,Powerbomb,FromFront,aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="FO4 Animations by Leito - Gay Bed Sideways 1 (Supermutant, Standing)" location="Single_Bed,Double_Bed" animation="Leito_StandingSideways_MM_2Mutant_01" tags="Leito,M_SMutantM,Bed,Standing,FromSide,aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+<position id="FO4 Animations by Leito - Gay Bed Doggy 1 (Supermutant, Standing)" location="Single_Bed,Double_Bed" animation="Leito_StandingDoggy_MM_2Mutant_01" tags="Leito,M_SMutantM,Bed,Standing,FromBehind,Aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+<position id="FO4 Animations by Leito - Gay Bed Powerbomb 1 (Supermutant)" location="Single_Bed,Double_Bed" animation="Leito_Powerbomb_MM_2Mutant_01" tags="Leito,M_SMutantM,Bed,Powerbomb,FromFront,Aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+<position id="FO4 Animations by Leito - Gay Bed Sideways 1 (Supermutant, Standing)" location="Single_Bed,Double_Bed" animation="Leito_StandingSideways_MM_2Mutant_01" tags="Leito,M_SMutantM,Bed,Standing,FromSide,Aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>

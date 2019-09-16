@@ -10,8 +10,8 @@
 <position id="FO4 Animations by Leito - Mattress Carry (Aggressive)" location="Mattress" animation="Leito_Carry_FM_Aggressive_01" tags="Leito,F_M,Mattress,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,StrapOnToVagina"/>
 <position id="FO4 Animations by Leito - Mattress Cowgirl (Aggressive)" location="Mattress" animation="Leito_Cowgirl_FM_Aggressive_01" tags="Leito,F_M,Mattress,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,StrapOnToEither"/>
 <position id="FO4 Animations by Leito - Mattress Doggy (Aggressive)" location="Mattress" animation="Leito_Doggy_FM_Aggressive_01" tags="Leito,F_M,Mattress,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,StrapOnToEither"/>
-<position id="FO4 Animations by Leito - Mattress Missionary (Aggressive)" location="Mattress" animation="Leito_Missionary_FM_Aggressive_01" tags="Leito,F_M,Mattress,Missionary,aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,StrapOnToVagina"/>
-<position id="FO4 Animations by Leito - Mattress Powerbomb (Aggressive)" location="Mattress" animation="Leito_Powerbomb_FM_Aggressive_01" tags="Leito,F_M,Mattress,Powerbomb,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Missionary (Aggressive)" location="Mattress" animation="Leito_Missionary_FM_Aggressive_01" tags="Leito,F_M,Mattress,Missionary,Aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,StrapOnToVagina"/>
+<position id="FO4 Animations by Leito - Mattress Powerbomb (Aggressive)" location="Mattress" animation="Leito_Powerbomb_FM_Aggressive_01" tags="Leito,F_M,Mattress,Powerbomb,Aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,StrapOnToVagina"/>
 
 <!-- Blowjob Animations -->
 
@@ -144,8 +144,8 @@
 <!-- Supermutant Animations -->
 
 <position id="FO4 Animations by Leito - Mattress Carry 1 (Supermutant)" location="Mattress" animation="Leito_Carry_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Carry,FromFront,Neutral,Held5,Stim5,Love3,Dom-5,NullToSelf,StrapOnToVagina"/>
-<position id="FO4 Animations by Leito - Mattress Carry 1 (Supermutant, Reversed)" location="Mattress" animation="Leito_ReverseCarry_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Carry,FromBehind,aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Carry 1 (Supermutant, Reversed)" location="Mattress" animation="Leito_ReverseCarry_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Carry,FromBehind,Aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,StrapOnToAnus"/>
 <position id="FO4 Animations by Leito - Mattress Doggy 1 (Supermutant)" location="Mattress" animation="Leito_Doggy_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Doggy,FromBehind,Neutral,Held5,Stim5,Love3,Dom-5,NullToSelf,StrapOnToEither"/>
-<position id="FO4 Animations by Leito - Mattress Doggy 1 (Supermutant, Standing)" location="Mattress" animation="Leito_StandingDoggy_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Standing,FromBehind,aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,StrapOnToEither"/>
-<position id="FO4 Animations by Leito - Mattress Powerbomb 1 (Supermutant)" location="Mattress" animation="Leito_Powerbomb_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Powerbomb,FromFront,aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,StrapOnToAnus"/>
-<position id="FO4 Animations by Leito - Mattress Sideways 1 (Supermutant, Standing)" location="Mattress" animation="Leito_StandingSideways_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Standing,FromSide,aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Doggy 1 (Supermutant, Standing)" location="Mattress" animation="Leito_StandingDoggy_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Standing,FromBehind,Aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,StrapOnToEither"/>
+<position id="FO4 Animations by Leito - Mattress Powerbomb 1 (Supermutant)" location="Mattress" animation="Leito_Powerbomb_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Powerbomb,FromFront,Aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,StrapOnToAnus"/>
+<position id="FO4 Animations by Leito - Mattress Sideways 1 (Supermutant, Standing)" location="Mattress" animation="Leito_StandingSideways_FM_2Mutant_01" tags="Leito,F_SMutantM,Mattress,Standing,FromSide,Aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,StrapOnToEither"/>

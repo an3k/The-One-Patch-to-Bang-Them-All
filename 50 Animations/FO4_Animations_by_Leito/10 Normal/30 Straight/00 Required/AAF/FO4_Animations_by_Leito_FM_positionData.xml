@@ -7,8 +7,8 @@
 <position id="FO4 Animations by Leito - Carry (Aggressive)" animation="Leito_Carry_FM_Aggressive_01" tags="Leito,F_M,NoFurn,Carry,FromFront,Neutral,Held1,Stim7,Love5,Dom-1,NullToSelf,PenisToVagina"/>
 <position id="FO4 Animations by Leito - Cowgirl (Aggressive)" animation="Leito_Cowgirl_FM_Aggressive_01" tags="Leito,F_M,NoFurn,Cowgirl,FromFront,Neutral,Held1,Stim9,Love5,Dom5,NullToSelf,PenisToEither"/>
 <position id="FO4 Animations by Leito - Doggy (Aggressive)" animation="Leito_Doggy_FM_Aggressive_01" tags="Leito,F_M,NoFurn,Doggy,FromBehind,Neutral,Held1,Stim7,Love5,Dom-5,NullToSelf,PenisToEither"/>
-<position id="FO4 Animations by Leito - Missionary (Aggressive)" animation="Leito_Missionary_FM_Aggressive_01" tags="Leito,F_M,NoFurn,Missionary,aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
-<position id="FO4 Animations by Leito - Powerbomb (Aggressive)" animation="Leito_Powerbomb_FM_Aggressive_01" tags="Leito,F_M,NoFurn,Powerbomb,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
+<position id="FO4 Animations by Leito - Missionary (Aggressive)" animation="Leito_Missionary_FM_Aggressive_01" tags="Leito,F_M,NoFurn,Missionary,Aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
+<position id="FO4 Animations by Leito - Powerbomb (Aggressive)" animation="Leito_Powerbomb_FM_Aggressive_01" tags="Leito,F_M,NoFurn,Powerbomb,Aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToVagina"/>
 
 <!-- Blowjob Animations -->
 
@@ -161,8 +161,8 @@
 <!-- Supermutant Animations -->
 
 <position id="FO4 Animations by Leito - Carry 1 (Supermutant)" animation="Leito_Carry_FM_2Mutant_01" tags="Leito,F_SMutantM,NoFurn,Carry,FromFront,Neutral,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToVagina"/>
-<position id="FO4 Animations by Leito - Carry 1 (Supermutant, Reversed)" animation="Leito_ReverseCarry_FM_2Mutant_01" tags="Leito,F_SMutantM,NoFurn,Carry,FromBehind,aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+<position id="FO4 Animations by Leito - Carry 1 (Supermutant, Reversed)" animation="Leito_ReverseCarry_FM_2Mutant_01" tags="Leito,F_SMutantM,NoFurn,Carry,FromBehind,Aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
 <position id="FO4 Animations by Leito - Doggy 1 (Supermutant)" animation="Leito_Doggy_FM_2Mutant_01" tags="Leito,F_SMutantM,NoFurn,Doggy,FromBehind,Neutral,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToEither"/>
-<position id="FO4 Animations by Leito - Doggy 1 (Supermutant, Standing)" animation="Leito_StandingDoggy_FM_2Mutant_01" tags="Leito,F_SMutantM,NoFurn,Standing,FromBehind,aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToEither"/>
-<position id="FO4 Animations by Leito - Powerbomb 1 (Supermutant)" animation="Leito_Powerbomb_FM_2Mutant_01" tags="Leito,F_SMutantM,NoFurn,Powerbomb,FromFront,aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
-<position id="FO4 Animations by Leito - Sideways 1 (Supermutant, Standing)" animation="Leito_StandingSideways_FM_2Mutant_01" tags="Leito,F_SMutantM,NoFurn,Standing,FromSide,aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToEither"/>
+<position id="FO4 Animations by Leito - Doggy 1 (Supermutant, Standing)" animation="Leito_StandingDoggy_FM_2Mutant_01" tags="Leito,F_SMutantM,NoFurn,Standing,FromBehind,Aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToEither"/>
+<position id="FO4 Animations by Leito - Powerbomb 1 (Supermutant)" animation="Leito_Powerbomb_FM_2Mutant_01" tags="Leito,F_SMutantM,NoFurn,Powerbomb,FromFront,Aggressive,Held7,Stim5,Love3,Dom-5,NullToSelf,PenisToAnus"/>
+<position id="FO4 Animations by Leito - Sideways 1 (Supermutant, Standing)" animation="Leito_StandingSideways_FM_2Mutant_01" tags="Leito,F_SMutantM,NoFurn,Standing,FromSide,Aggressive,Held5,Stim5,Love3,Dom-5,NullToSelf,PenisToEither"/>

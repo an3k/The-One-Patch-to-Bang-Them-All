@@ -922,6 +922,7 @@
 	<actor gender="M">
 		<idle form="0000E5B3" id="FM-DoubleBed02-05Powerbomb-M1"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="Erection" to="0.45"/>
 	</actor>
 </animation>
 
@@ -932,6 +933,7 @@
 	<actor gender="M">
 		<idle form="0000ED4E" id="FM-DoubleBed02-06Powerbomb-M1"/>
 		<value path="morph" value="Erection Down" to="1"/>
+		<value path="morph" value="Erection" to="0.45"/>
 	</actor>
 </animation>
 

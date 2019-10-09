@@ -1,0 +1,29 @@
+<meta title="Farelle's Animations - Animation Data" version="0.1.2" dataSet="animation"/>
+<defaults source="Farelle_Animations.esp"/>
+
+<animation id="Farelle_Blowjob_FF_Forced_01_S1" time="60">
+	<actor gender="F">
+		<idle form="0000359D" id="Farelle_FrocedBJ_Female"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="0000359C" id="Farelle_ForcedBJ_Male"/>
+	</actor>
+</animation>
+
+<animation id="Farelle_Blowjob_FF_Forced_01_S2" time="60">
+	<actor gender="F">
+		<idle form="00003D38" id="Farelle_ForcedBJ_Female_Stage2"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00003D37" id="Farelle_ForcedBJ_Male_Stage2"/>
+	</actor>
+</animation>
+
+<animation id="Farelle_Feetjob_FF_01" time="60">
+	<actor gender="F">
+		<idle form="00006ADB" id="FEMALE_FEETJOB"/>
+	</actor>
+	<actor gender="F" startEquipmentSet="addEquipmentStrapon" stopEquipmentSet="removeEquipmentStrapon">
+		<idle form="00006ADC" id="MALE_FEETJOB"/>
+	</actor>
+</animation>

@@ -1,7 +1,0 @@
-<meta title="Atomic Lust - MM Position Data" version="2.5.1-b" dataSet="position"/>
-<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady" offset="0,50,180"/>
-
-<!-- Male/Male Animations -->
-
-<position id="Atomic Rocket 69 (Gay)" animation="Atomic Rocket 69 (Gay)"/>
-<position id="Atomic Cowboy" animation="Atomic Cowboy"/>

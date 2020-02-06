@@ -1,0 +1,19 @@
+<meta title="Graymod_positionData_Kinky.xml" version="1.0" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<animationOffset actor="1" offset="0,0,0"/>
+<animationOffset actor="2" offset="0,0,0"/>
+
+<position id="Gray Missionary 01 Staged FF" animationGroup="GrayMissionary01FFStaged" tags="F_F,NoFurn,Missionary,aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina,GrayUser"/>
+<position id="Gray Missionary 01 Staged FF (Gagged)" animationGroup="GrayMissionary01FFGagStaged" tags="F_F,NoFurn,Missionary,aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina,GrayUser"/>
+
+<position id="Gray Missionary 02 Staged FF" animationGroup="GrayMissionary02FFStaged" tags="F_F,NoFurn,Missionary,aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina,GrayUser"/>
+<position id="Gray Missionary 02 Staged FF (Gagged)" animationGroup="GrayMissionary02FFGagStaged" tags="F_F,NoFurn,Missionary,aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina,GrayUser"/>
+
+<position id="Gray Doggy 02 Staged FF" animationGroup="GrayDoggy02FFStaged" tags="F_F,NoFurn,Kneeling,FromBehind,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither,GrayUser"/>
+<position id="Gray Doggy 02 Staged FF (Gagged)" animationGroup="GrayDoggy02FFGagStaged" tags="F_F,NoFurn,Kneeling,FromBehind,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither,GrayUser"/>
+
+<position id="Gray Doggy 01 Staged FF" animationGroup="GrayDoggy01FFStaged" tags="F_F,NoFurn,Kneeling,FromBehind,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither,GrayUser"/>
+<position id="Gray Doggy 01 Staged FF (Gagged)" animationGroup="GrayDoggy01FFGagStaged" tags="F_F,NoFurn,Kneeling,FromBehind,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither,GrayUser"/>
+
+

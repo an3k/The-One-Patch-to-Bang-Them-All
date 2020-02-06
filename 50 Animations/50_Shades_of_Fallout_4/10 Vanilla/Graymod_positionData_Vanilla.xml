@@ -1,0 +1,199 @@
+<meta title="Graymod_positionData.xml" version="1.0" dataSet="position"/>
+<defaults startEquipmentSet="unEquip" stopEquipmentSet="reEquip" startMorphSet="ready" stopMorphSet="unReady"/>
+
+<animationOffset actor="1" offset="0,0,0"/>
+<animationOffset actor="2" offset="0,0,0"/>
+
+<!-- 2 Person M on F Animation Groups -->
+
+<position id="Gray Missionary 01 Staged" animationGroup="GrayMissionary01Staged" tags="F_M,NoFurn,Missionary,aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina,GrayUser"/>
+<position id="Gray Missionary 01 Staged (Gagged)" animationGroup="GrayMissionary01GagStaged" tags="F_M,NoFurn,Missionary,aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina,GrayUser"/>
+
+<position id="Gray Missionary 02 Staged" animationGroup="GrayMissionary02Staged" tags="F_M,NoFurn,Missionary,aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina,GrayUser"/>
+<position id="Gray Missionary 02 Staged (Gagged)" animationGroup="GrayMissionary02GagStaged" tags="F_M,NoFurn,Missionary,aggressive,Held5,Stim5,Love-9,Dom-9,NullToSelf,PenisToVagina,GrayUser"/>
+
+<position id="Gray Doggy 01 Staged" animationGroup="GrayDoggy01Staged" tags="F_M,NoFurn,Kneeling,FromBehind,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither,GrayUser"/>
+<position id="Gray Doggy 01 Staged (Gagged)" animationGroup="GrayDoggy01GagStaged" tags="F_M,NoFurn,Kneeling,FromBehind,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither,GrayUser"/>
+
+<position id="Gray Doggy 02 Staged" animationGroup="GrayDoggy02Staged" tags="F_M,NoFurn,Kneeling,FromBehind,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither,GrayUser"/>
+<position id="Gray Doggy 02 Staged (Gagged)" animationGroup="GrayDoggy02GagStaged" tags="F_M,NoFurn,Kneeling,FromBehind,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,PenisToEither,GrayUser"/>
+
+<position id="Gray Spanking 01 Staged" animationGroup="GraySpanking01Staged" tags="F_M,F_F,NoFurn,Kneeling,Spanking,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,GrayUser"/>
+<position id="Gray Spanking 01 Staged (Gagged)" animationGroup="GraySpanking01GagStaged" tags="F_M,F_F,NoFurn,Kneeling,Spanking,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,GrayUser"/>
+
+<position id="Gray Spanking 02 Staged" animationGroup="GraySpanking02Staged" tags="F_M,F_F,NoFurn,Kneeling,Spanking,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,GrayUser"/>
+<position id="Gray Spanking 02 Staged (Gagged)" animationGroup="GraySpanking02GagStaged" tags="F_M,F_F,NoFurn,Kneeling,Spanking,aggressive,Held5,Stim7,Love-9,Dom-9,NullToSelf,GrayUser"/>
+
+<!-- Solo Bondage Animation Groups -->
+
+<position id="Gray Bent Staged" animationGroup="GrayBentStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray Bent Staged (Gagged)" animationGroup="GrayBentGagStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray Bent Mixed" animationGroup="GrayBentMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray Bent Mixed (Gagged)" animationGroup="GrayBentGagMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+<position id="Gray Facedown Staged" animationGroup="GrayFacedownStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray Facedown Staged (Gagged)" animationGroup="GrayFacedownGagStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray Facedown Mixed" animationGroup="GrayFacedownMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray Facedown Mixed (Gagged)" animationGroup="GrayFacedownGagMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+<position id="Gray Hogtie Staged" animationGroup="GrayHogtieStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray Hogtie Staged (Gagged)" animationGroup="GrayHogtieGagStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray Hogtie Mixed" animationGroup="GrayHogtieMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray Hogtie Mixed (Gagged)" animationGroup="GrayHogtieGagMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+<position id="Gray Side Staged" animationGroup="GraySideStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray Side Staged (Gagged)" animationGroup="GraySideGagStaged" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray Side Mixed" animationGroup="GraySideMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray Side Mixed (Gagged)" animationGroup="GraySideGagMixed" tags="NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+<!-- Loose Animations -->
+
+<position id="Gray_Missionary01_S1"/>
+<position id="Gray_Missionary01_S2"/>
+<position id="Gray_Missionary01_S3"/>
+<position id="Gray_Missionary01_S4"/>
+
+<position id="Gray_Missionary01FF_S1"/>
+<position id="Gray_Missionary01FF_S2"/>
+<position id="Gray_Missionary01FF_S3"/>
+<position id="Gray_Missionary01FF_S4"/>
+
+<position id="Gray_Missionary01Gag_S1"/>
+<position id="Gray_Missionary01Gag_S2"/>
+<position id="Gray_Missionary01Gag_S3"/>
+<position id="Gray_Missionary01Gag_S4"/>
+
+<position id="Gray_Missionary01FFGag_S1"/>
+<position id="Gray_Missionary01FFGag_S2"/>
+<position id="Gray_Missionary01FFGag_S3"/>
+<position id="Gray_Missionary01FFGag_S4"/>
+
+<position id="Gray_Missionary02_S1"/>
+<position id="Gray_Missionary02_S2"/>
+<position id="Gray_Missionary02_S3"/>
+<position id="Gray_Missionary02_S4"/>
+
+<position id="Gray_Missionary02FF_S1"/>
+<position id="Gray_Missionary02FF_S2"/>
+<position id="Gray_Missionary02FF_S3"/>
+<position id="Gray_Missionary02FF_S4"/>
+
+<position id="Gray_Missionary02Gag_S1"/>
+<position id="Gray_Missionary02Gag_S2"/>
+<position id="Gray_Missionary02Gag_S3"/>
+<position id="Gray_Missionary02Gag_S4"/>
+
+<position id="Gray_Missionary02FFGag_S1"/>
+<position id="Gray_Missionary02FFGag_S2"/>
+<position id="Gray_Missionary02FFGag_S3"/>
+<position id="Gray_Missionary02FFGag_S4"/>
+
+<position id="Gray_Doggy01_S1"/>
+<position id="Gray_Doggy01_S2"/>
+<position id="Gray_Doggy01_S3"/>
+<position id="Gray_Doggy01_S4"/>
+
+<position id="Gray_Doggy01FF_S1"/>
+<position id="Gray_Doggy01FF_S2"/>
+<position id="Gray_Doggy01FF_S3"/>
+<position id="Gray_Doggy01FF_S4"/>
+
+<position id="Gray_Doggy01Gag_S1"/>
+<position id="Gray_Doggy01Gag_S2"/>
+<position id="Gray_Doggy01Gag_S3"/>
+<position id="Gray_Doggy01Gag_S4"/>
+
+<position id="Gray_Doggy01FFGag_S1"/>
+<position id="Gray_Doggy01FFGag_S2"/>
+<position id="Gray_Doggy01FFGag_S3"/>
+<position id="Gray_Doggy01FFGag_S4"/>
+
+<position id="Gray_Doggy02_S1"/>
+<position id="Gray_Doggy02_S2"/>
+<position id="Gray_Doggy02_S3"/>
+<position id="Gray_Doggy02_S4"/>
+
+<position id="Gray_Doggy02FF_S1"/>
+<position id="Gray_Doggy02FF_S2"/>
+<position id="Gray_Doggy02FF_S3"/>
+<position id="Gray_Doggy02FF_S4"/>
+
+<position id="Gray_Doggy02Gag_S1"/>
+<position id="Gray_Doggy02Gag_S2"/>
+<position id="Gray_Doggy02Gag_S3"/>
+<position id="Gray_Doggy02Gag_S4"/>
+
+<position id="Gray_Doggy02FFGag_S1"/>
+<position id="Gray_Doggy02FFGag_S2"/>
+<position id="Gray_Doggy02FFGag_S3"/>
+<position id="Gray_Doggy02FFGag_S4"/>
+
+<position id="Gray_Spanking01_S1"/>
+<position id="Gray_Spanking01_S2"/>
+<position id="Gray_Spanking01_S3"/>
+<position id="Gray_Spanking01_S4"/>
+
+<position id="Gray_Spanking01Gag_S1"/>
+<position id="Gray_Spanking01Gag_S2"/>
+<position id="Gray_Spanking01Gag_S3"/>
+<position id="Gray_Spanking01Gag_S4"/>
+
+<position id="Gray_Spanking02_S1"/>
+<position id="Gray_Spanking02_S2"/>
+<position id="Gray_Spanking02_S3"/>
+<position id="Gray_Spanking02_S4"/>
+
+<position id="Gray_Spanking02Gag_S1"/>
+<position id="Gray_Spanking02Gag_S2"/>
+<position id="Gray_Spanking02Gag_S3"/>
+<position id="Gray_Spanking02Gag_S4"/>
+
+<position id="Gray_Bent_S0" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Bent_S1" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Bent_S2" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Bent_S3" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Bent_m" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+<position id="Gray_BentGag_S0" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_BentGag_S1" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_BentGag_S2" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_BentGag_S3" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_BentGag_m" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+<position id="Gray_Facedown_S0" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Facedown_S1" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Facedown_S2" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Facedown_S3" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Facedown_m" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+<position id="Gray_FacedownGag_S0" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_FacedownGag_S1" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_FacedownGag_S2" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_FacedownGag_S3" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_FacedownGag_m" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+<position id="Gray_Hogtie_S0" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Hogtie_S1" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Hogtie_S2" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Hogtie_S3" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Hogtie_m" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+<position id="Gray_HogtieGag_S0" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_HogtieGag_S1" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_HogtieGag_S2" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_HogtieGag_S3" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_HogtieGag_m" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+<position id="Gray_Side_S0" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Side_S1" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Side_S2" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Side_S3" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_Side_m" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+<position id="Gray_SideGag_S0" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_SideGag_S1" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_SideGag_S2" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_SideGag_S3" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+<position id="Gray_SideGag_m" tags="F,NoFurn,Bound,Held9,Love-5,Stim0,Dom-3,GrayUser"/>
+
+

@@ -1,0 +1,594 @@
+<meta title="Graymod_animationGroupData.xml" version="1.0" dataSet="animationGroup"/>
+<defaults />
+
+<!-- Spanking Animation Groups -->
+
+<animationGroup id="GraySpanking01Staged" sequential="true">
+	<stage animation="Gray_Spanking01_S1"/>
+	<stage animation="Gray_Spanking01_S1"/>
+	<stage animation="Gray_Spanking01_S1"/>
+	<stage animation="Gray_Spanking01_S2"/>
+	<stage animation="Gray_Spanking01_S2"/>
+	<stage animation="Gray_Spanking01_S2"/>
+	<stage animation="Gray_Spanking01_S3"/>
+	<stage animation="Gray_Spanking01_S3"/>
+	<stage animation="Gray_Spanking01_S3"/>
+	<stage animation="Gray_Spanking01_S4"/>
+	<stage animation="Gray_Spanking01_S4"/>
+	<stage animation="Gray_Spanking01_S4"/>
+</animationGroup>
+
+<animationGroup id="GraySpanking01GagStaged" sequential="true">
+	<stage animation="Gray_Spanking01Gag_S1"/>
+	<stage animation="Gray_Spanking01Gag_S1"/>
+	<stage animation="Gray_Spanking01Gag_S1"/>
+	<stage animation="Gray_Spanking01Gag_S2"/>
+	<stage animation="Gray_Spanking01Gag_S2"/>
+	<stage animation="Gray_Spanking01Gag_S2"/>
+	<stage animation="Gray_Spanking01Gag_S3"/>
+	<stage animation="Gray_Spanking01Gag_S3"/>
+	<stage animation="Gray_Spanking01Gag_S3"/>
+	<stage animation="Gray_Spanking01Gag_S4"/>
+	<stage animation="Gray_Spanking01Gag_S4"/>
+	<stage animation="Gray_Spanking01Gag_S4"/>
+</animationGroup>
+
+<animationGroup id="GraySpanking02Staged" sequential="true">
+	<stage animation="Gray_Spanking02_S1"/>
+	<stage animation="Gray_Spanking02_S1"/>
+	<stage animation="Gray_Spanking02_S1"/>
+	<stage animation="Gray_Spanking02_S2"/>
+	<stage animation="Gray_Spanking02_S2"/>
+	<stage animation="Gray_Spanking02_S2"/>
+	<stage animation="Gray_Spanking02_S3"/>
+	<stage animation="Gray_Spanking02_S3"/>
+	<stage animation="Gray_Spanking02_S3"/>
+	<stage animation="Gray_Spanking02_S4"/>
+	<stage animation="Gray_Spanking02_S4"/>
+	<stage animation="Gray_Spanking02_S4"/>
+</animationGroup>
+
+<animationGroup id="GraySpanking02GagStaged" sequential="true">
+	<stage animation="Gray_Spanking02Gag_S1"/>
+	<stage animation="Gray_Spanking02Gag_S1"/>
+	<stage animation="Gray_Spanking02Gag_S1"/>
+	<stage animation="Gray_Spanking02Gag_S2"/>
+	<stage animation="Gray_Spanking02Gag_S2"/>
+	<stage animation="Gray_Spanking02Gag_S2"/>
+	<stage animation="Gray_Spanking02Gag_S3"/>
+	<stage animation="Gray_Spanking02Gag_S3"/>
+	<stage animation="Gray_Spanking02Gag_S3"/>
+	<stage animation="Gray_Spanking02Gag_S4"/>
+	<stage animation="Gray_Spanking02Gag_S4"/>
+	<stage animation="Gray_Spanking02Gag_S4"/>
+</animationGroup>
+
+<!-- Missionary Animation Groups -->
+
+<animationGroup id="GrayMissionary01Staged" sequential="true">
+	<stage animation="Gray_Missionary01_S1"/>
+	<stage animation="Gray_Missionary01_S1"/>
+	<stage animation="Gray_Missionary01_S1"/>
+	<stage animation="Gray_Missionary01_S2"/>
+	<stage animation="Gray_Missionary01_S2"/>
+	<stage animation="Gray_Missionary01_S2"/>
+	<stage animation="Gray_Missionary01_S3"/>
+	<stage animation="Gray_Missionary01_S3"/>
+	<stage animation="Gray_Missionary01_S3"/>
+	<stage animation="Gray_Missionary01_S4"/>
+	<stage animation="Gray_Missionary01_S4"/>
+	<stage animation="Gray_Missionary01_S4"/>
+</animationGroup>
+
+<animationGroup id="GrayMissionary01GagStaged" sequential="true">
+	<stage animation="Gray_Missionary01Gag_S1"/>
+	<stage animation="Gray_Missionary01Gag_S1"/>
+	<stage animation="Gray_Missionary01Gag_S1"/>
+	<stage animation="Gray_Missionary01Gag_S2"/>
+	<stage animation="Gray_Missionary01Gag_S2"/>
+	<stage animation="Gray_Missionary01Gag_S2"/>
+	<stage animation="Gray_Missionary01Gag_S3"/>
+	<stage animation="Gray_Missionary01Gag_S3"/>
+	<stage animation="Gray_Missionary01Gag_S3"/>
+	<stage animation="Gray_Missionary01Gag_S4"/>
+	<stage animation="Gray_Missionary01Gag_S4"/>
+	<stage animation="Gray_Missionary01Gag_S4"/>
+</animationGroup>
+
+<animationGroup id="GrayMissionary01FFStaged" sequential="true">
+	<stage animation="Gray_Missionary01FF_S1"/>
+	<stage animation="Gray_Missionary01FF_S1"/>
+	<stage animation="Gray_Missionary01FF_S1"/>
+	<stage animation="Gray_Missionary01FF_S2"/>
+	<stage animation="Gray_Missionary01FF_S2"/>
+	<stage animation="Gray_Missionary01FF_S2"/>
+	<stage animation="Gray_Missionary01FF_S3"/>
+	<stage animation="Gray_Missionary01FF_S3"/>
+	<stage animation="Gray_Missionary01FF_S3"/>
+	<stage animation="Gray_Missionary01FF_S4"/>
+	<stage animation="Gray_Missionary01FF_S4"/>
+	<stage animation="Gray_Missionary01FF_S4"/>
+</animationGroup>
+
+<animationGroup id="GrayMissionary01FFGagStaged" sequential="true">
+	<stage animation="Gray_Missionary01FFGag_S1"/>
+	<stage animation="Gray_Missionary01FFGag_S1"/>
+	<stage animation="Gray_Missionary01FFGag_S1"/>
+	<stage animation="Gray_Missionary01FFGag_S2"/>
+	<stage animation="Gray_Missionary01FFGag_S2"/>
+	<stage animation="Gray_Missionary01FFGag_S2"/>
+	<stage animation="Gray_Missionary01FFGag_S3"/>
+	<stage animation="Gray_Missionary01FFGag_S3"/>
+	<stage animation="Gray_Missionary01FFGag_S3"/>
+	<stage animation="Gray_Missionary01FFGag_S4"/>
+	<stage animation="Gray_Missionary01FFGag_S4"/>
+	<stage animation="Gray_Missionary01FFGag_S4"/>
+</animationGroup>
+
+<animationGroup id="GrayMissionary02Staged" sequential="true">
+	<stage animation="Gray_Missionary02_S1"/>
+	<stage animation="Gray_Missionary02_S1"/>
+	<stage animation="Gray_Missionary02_S1"/>
+	<stage animation="Gray_Missionary02_S2"/>
+	<stage animation="Gray_Missionary02_S2"/>
+	<stage animation="Gray_Missionary02_S2"/>
+	<stage animation="Gray_Missionary02_S3"/>
+	<stage animation="Gray_Missionary02_S3"/>
+	<stage animation="Gray_Missionary02_S3"/>
+	<stage animation="Gray_Missionary02_S4"/>
+	<stage animation="Gray_Missionary02_S4"/>
+	<stage animation="Gray_Missionary02_S4"/>
+</animationGroup>
+
+<animationGroup id="GrayMissionary02GagStaged" sequential="true">
+	<stage animation="Gray_Missionary02Gag_S1"/>
+	<stage animation="Gray_Missionary02Gag_S1"/>
+	<stage animation="Gray_Missionary02Gag_S1"/>
+	<stage animation="Gray_Missionary02Gag_S2"/>
+	<stage animation="Gray_Missionary02Gag_S2"/>
+	<stage animation="Gray_Missionary02Gag_S2"/>
+	<stage animation="Gray_Missionary02Gag_S3"/>
+	<stage animation="Gray_Missionary02Gag_S3"/>
+	<stage animation="Gray_Missionary02Gag_S3"/>
+	<stage animation="Gray_Missionary02Gag_S4"/>
+	<stage animation="Gray_Missionary02Gag_S4"/>
+	<stage animation="Gray_Missionary02Gag_S4"/>
+</animationGroup>
+
+<animationGroup id="GrayMissionary02FFStaged" sequential="true">
+	<stage animation="Gray_Missionary02FF_S1"/>
+	<stage animation="Gray_Missionary02FF_S1"/>
+	<stage animation="Gray_Missionary02FF_S1"/>
+	<stage animation="Gray_Missionary02FF_S2"/>
+	<stage animation="Gray_Missionary02FF_S2"/>
+	<stage animation="Gray_Missionary02FF_S2"/>
+	<stage animation="Gray_Missionary02FF_S3"/>
+	<stage animation="Gray_Missionary02FF_S3"/>
+	<stage animation="Gray_Missionary02FF_S3"/>
+	<stage animation="Gray_Missionary02FF_S4"/>
+	<stage animation="Gray_Missionary02FF_S4"/>
+	<stage animation="Gray_Missionary02FF_S4"/>
+</animationGroup>
+
+<animationGroup id="GrayMissionary02FFGagStaged" sequential="true">
+	<stage animation="Gray_Missionary02FFGag_S1"/>
+	<stage animation="Gray_Missionary02FFGag_S1"/>
+	<stage animation="Gray_Missionary02FFGag_S1"/>
+	<stage animation="Gray_Missionary02FFGag_S2"/>
+	<stage animation="Gray_Missionary02FFGag_S2"/>
+	<stage animation="Gray_Missionary02FFGag_S2"/>
+	<stage animation="Gray_Missionary02FFGag_S3"/>
+	<stage animation="Gray_Missionary02FFGag_S3"/>
+	<stage animation="Gray_Missionary02FFGag_S3"/>
+	<stage animation="Gray_Missionary02FFGag_S4"/>
+	<stage animation="Gray_Missionary02FFGag_S4"/>
+	<stage animation="Gray_Missionary02FFGag_S4"/>
+</animationGroup>
+
+<!-- Doggy Style Animation Groups -->
+
+<animationGroup id="GrayDoggy01Staged" sequential="true">
+	<stage animation="Gray_Doggy01_S1"/>
+	<stage animation="Gray_Doggy01_S1"/>
+	<stage animation="Gray_Doggy01_S1"/>
+	<stage animation="Gray_Doggy01_S2"/>
+	<stage animation="Gray_Doggy01_S2"/>
+	<stage animation="Gray_Doggy01_S2"/>
+	<stage animation="Gray_Doggy01_S3"/>
+	<stage animation="Gray_Doggy01_S3"/>
+	<stage animation="Gray_Doggy01_S3"/>
+	<stage animation="Gray_Doggy01_S4"/>
+	<stage animation="Gray_Doggy01_S4"/>
+	<stage animation="Gray_Doggy01_S4"/>
+</animationGroup>
+
+<animationGroup id="GrayDoggy01GagStaged" sequential="true">
+	<stage animation="Gray_Doggy01Gag_S1"/>
+	<stage animation="Gray_Doggy01Gag_S1"/>
+	<stage animation="Gray_Doggy01Gag_S1"/>
+	<stage animation="Gray_Doggy01Gag_S2"/>
+	<stage animation="Gray_Doggy01Gag_S2"/>
+	<stage animation="Gray_Doggy01Gag_S2"/>
+	<stage animation="Gray_Doggy01Gag_S3"/>
+	<stage animation="Gray_Doggy01Gag_S3"/>
+	<stage animation="Gray_Doggy01Gag_S3"/>
+	<stage animation="Gray_Doggy01Gag_S4"/>
+	<stage animation="Gray_Doggy01Gag_S4"/>
+	<stage animation="Gray_Doggy01Gag_S4"/>
+</animationGroup>
+
+<animationGroup id="GrayDoggy01FFStaged" sequential="true">
+	<stage animation="Gray_Doggy01FF_S1"/>
+	<stage animation="Gray_Doggy01FF_S1"/>
+	<stage animation="Gray_Doggy01FF_S1"/>
+	<stage animation="Gray_Doggy01FF_S2"/>
+	<stage animation="Gray_Doggy01FF_S2"/>
+	<stage animation="Gray_Doggy01FF_S2"/>
+	<stage animation="Gray_Doggy01FF_S3"/>
+	<stage animation="Gray_Doggy01FF_S3"/>
+	<stage animation="Gray_Doggy01FF_S3"/>
+	<stage animation="Gray_Doggy01FF_S4"/>
+	<stage animation="Gray_Doggy01FF_S4"/>
+	<stage animation="Gray_Doggy01FF_S4"/>
+</animationGroup>
+
+<animationGroup id="GrayDoggy01FFGagStaged" sequential="true">
+	<stage animation="Gray_Doggy01FFGag_S1"/>
+	<stage animation="Gray_Doggy01FFGag_S1"/>
+	<stage animation="Gray_Doggy01FFGag_S1"/>
+	<stage animation="Gray_Doggy01FFGag_S2"/>
+	<stage animation="Gray_Doggy01FFGag_S2"/>
+	<stage animation="Gray_Doggy01FFGag_S2"/>
+	<stage animation="Gray_Doggy01FFGag_S3"/>
+	<stage animation="Gray_Doggy01FFGag_S3"/>
+	<stage animation="Gray_Doggy01FFGag_S3"/>
+	<stage animation="Gray_Doggy01FFGag_S4"/>
+	<stage animation="Gray_Doggy01FFGag_S4"/>
+	<stage animation="Gray_Doggy01FFGag_S4"/>
+</animationGroup>
+
+<animationGroup id="GrayDoggy02Staged" sequential="true">
+	<stage animation="Gray_Doggy02_S1"/>
+	<stage animation="Gray_Doggy02_S1"/>
+	<stage animation="Gray_Doggy02_S1"/>
+	<stage animation="Gray_Doggy02_S2"/>
+	<stage animation="Gray_Doggy02_S2"/>
+	<stage animation="Gray_Doggy02_S2"/>
+	<stage animation="Gray_Doggy02_S3"/>
+	<stage animation="Gray_Doggy02_S3"/>
+	<stage animation="Gray_Doggy02_S3"/>
+	<stage animation="Gray_Doggy02_S4"/>
+	<stage animation="Gray_Doggy02_S4"/>
+	<stage animation="Gray_Doggy02_S4"/>
+</animationGroup>
+
+<animationGroup id="GrayDoggy02GagStaged" sequential="true">
+	<stage animation="Gray_Doggy02Gag_S1"/>
+	<stage animation="Gray_Doggy02Gag_S1"/>
+	<stage animation="Gray_Doggy02Gag_S1"/>
+	<stage animation="Gray_Doggy02Gag_S2"/>
+	<stage animation="Gray_Doggy02Gag_S2"/>
+	<stage animation="Gray_Doggy02Gag_S2"/>
+	<stage animation="Gray_Doggy02Gag_S3"/>
+	<stage animation="Gray_Doggy02Gag_S3"/>
+	<stage animation="Gray_Doggy02Gag_S3"/>
+	<stage animation="Gray_Doggy02Gag_S4"/>
+	<stage animation="Gray_Doggy02Gag_S4"/>
+	<stage animation="Gray_Doggy02Gag_S4"/>
+</animationGroup>
+
+<animationGroup id="GrayDoggy02FFStaged" sequential="true">
+	<stage animation="Gray_Doggy02FF_S1"/>
+	<stage animation="Gray_Doggy02FF_S1"/>
+	<stage animation="Gray_Doggy02FF_S1"/>
+	<stage animation="Gray_Doggy02FF_S2"/>
+	<stage animation="Gray_Doggy02FF_S2"/>
+	<stage animation="Gray_Doggy02FF_S2"/>
+	<stage animation="Gray_Doggy02FF_S3"/>
+	<stage animation="Gray_Doggy02FF_S3"/>
+	<stage animation="Gray_Doggy02FF_S3"/>
+	<stage animation="Gray_Doggy02FF_S4"/>
+	<stage animation="Gray_Doggy02FF_S4"/>
+	<stage animation="Gray_Doggy02FF_S4"/>
+</animationGroup>
+
+<animationGroup id="GrayDoggy02FFGagStaged" sequential="true">
+	<stage animation="Gray_Doggy02FFGag_S1"/>
+	<stage animation="Gray_Doggy02FFGag_S1"/>
+	<stage animation="Gray_Doggy02FFGag_S1"/>
+	<stage animation="Gray_Doggy02FFGag_S2"/>
+	<stage animation="Gray_Doggy02FFGag_S2"/>
+	<stage animation="Gray_Doggy02FFGag_S2"/>
+	<stage animation="Gray_Doggy02FFGag_S3"/>
+	<stage animation="Gray_Doggy02FFGag_S3"/>
+	<stage animation="Gray_Doggy02FFGag_S3"/>
+	<stage animation="Gray_Doggy02FFGag_S4"/>
+	<stage animation="Gray_Doggy02FFGag_S4"/>
+	<stage animation="Gray_Doggy02FFGag_S4"/>
+</animationGroup>
+
+<!-- Bent Animation Groups -->
+
+<animationGroup id="GrayBentStaged" sequential="true">
+	<stage animation="Gray_Bent_S0"/>
+	<stage animation="Gray_Bent_S0"/>	
+	<stage animation="Gray_Bent_S1"/>
+	<stage animation="Gray_Bent_S1"/>
+	<stage animation="Gray_Bent_S1"/>
+	<stage animation="Gray_Bent_S2"/>
+	<stage animation="Gray_Bent_S2"/>
+	<stage animation="Gray_Bent_S2"/>
+	<stage animation="Gray_Bent_S3"/>
+	<stage animation="Gray_Bent_S3"/>
+	<stage animation="Gray_Bent_S3"/>
+	<stage animation="Gray_Bent_m"/>
+	<stage animation="Gray_Bent_m"/>
+	<stage animation="Gray_Bent_m"/>
+</animationGroup>
+
+<animationGroup id="GrayBentGagStaged" sequential="true">
+	<stage animation="Gray_BentGag_S0"/>
+	<stage animation="Gray_BentGag_S0"/>	
+	<stage animation="Gray_BentGag_S1"/>
+	<stage animation="Gray_BentGag_S1"/>
+	<stage animation="Gray_BentGag_S1"/>
+	<stage animation="Gray_BentGag_S2"/>
+	<stage animation="Gray_BentGag_S2"/>
+	<stage animation="Gray_BentGag_S2"/>
+	<stage animation="Gray_BentGag_S3"/>
+	<stage animation="Gray_BentGag_S3"/>
+	<stage animation="Gray_BentGag_S3"/>
+	<stage animation="Gray_BentGag_m"/>
+	<stage animation="Gray_BentGag_m"/>
+	<stage animation="Gray_BentGag_m"/>
+</animationGroup>
+
+<animationGroup id="GrayBentMixed" sequential="true">
+	<stage animation="Gray_Bent_S0"/>
+	<stage animation="Gray_Bent_S1"/>
+	<stage animation="Gray_Bent_S0"/>	
+	<stage animation="Gray_Bent_S2"/>
+	<stage animation="Gray_Bent_S0"/>	
+	<stage animation="Gray_Bent_S1"/>
+	<stage animation="Gray_Bent_S2"/>
+	<stage animation="Gray_Bent_S0"/>	
+	<stage animation="Gray_Bent_S3"/>
+	<stage animation="Gray_Bent_S3"/>	
+	<stage animation="Gray_Bent_S1"/>
+	<stage animation="Gray_Bent_m"/>
+	<stage animation="Gray_Bent_m"/>
+	<stage animation="Gray_Bent_m"/>
+</animationGroup>
+
+<animationGroup id="GrayBentGagMixed" sequential="true">
+	<stage animation="Gray_BentGag_S0"/>
+	<stage animation="Gray_BentGag_S1"/>
+	<stage animation="Gray_BentGag_S0"/>	
+	<stage animation="Gray_BentGag_S2"/>
+	<stage animation="Gray_BentGag_S0"/>	
+	<stage animation="Gray_BentGag_S1"/>
+	<stage animation="Gray_BentGag_S2"/>
+	<stage animation="Gray_BentGag_S0"/>	
+	<stage animation="Gray_BentGag_S3"/>
+	<stage animation="Gray_BentGag_S3"/>	
+	<stage animation="Gray_BentGag_S1"/>
+	<stage animation="Gray_BentGag_m"/>
+	<stage animation="Gray_BentGag_m"/>
+	<stage animation="Gray_BentGag_m"/>
+</animationGroup>
+
+<!-- Facedown Animation Groups -->
+
+<animationGroup id="GrayFacedownStaged" sequential="true">
+	<stage animation="Gray_Facedown_S0"/>
+	<stage animation="Gray_Facedown_S0"/>	
+	<stage animation="Gray_Facedown_S1"/>
+	<stage animation="Gray_Facedown_S1"/>
+	<stage animation="Gray_Facedown_S1"/>
+	<stage animation="Gray_Facedown_S2"/>
+	<stage animation="Gray_Facedown_S2"/>
+	<stage animation="Gray_Facedown_S2"/>
+	<stage animation="Gray_Facedown_S3"/>
+	<stage animation="Gray_Facedown_S3"/>
+	<stage animation="Gray_Facedown_S3"/>
+	<stage animation="Gray_Facedown_m"/>
+	<stage animation="Gray_Facedown_m"/>
+	<stage animation="Gray_Facedown_m"/>
+</animationGroup>
+
+<animationGroup id="GrayFacedownGagStaged" sequential="true">
+	<stage animation="Gray_FacedownGag_S0"/>
+	<stage animation="Gray_FacedownGag_S0"/>	
+	<stage animation="Gray_FacedownGag_S1"/>
+	<stage animation="Gray_FacedownGag_S1"/>
+	<stage animation="Gray_FacedownGag_S1"/>
+	<stage animation="Gray_FacedownGag_S2"/>
+	<stage animation="Gray_FacedownGag_S2"/>
+	<stage animation="Gray_FacedownGag_S2"/>
+	<stage animation="Gray_FacedownGag_S3"/>
+	<stage animation="Gray_FacedownGag_S3"/>
+	<stage animation="Gray_FacedownGag_S3"/>
+	<stage animation="Gray_FacedownGag_m"/>
+	<stage animation="Gray_FacedownGag_m"/>
+	<stage animation="Gray_FacedownGag_m"/>
+</animationGroup>
+
+<animationGroup id="GrayFacedownMixed" sequential="true">
+	<stage animation="Gray_Facedown_S0"/>
+	<stage animation="Gray_Facedown_S1"/>
+	<stage animation="Gray_Facedown_S0"/>	
+	<stage animation="Gray_Facedown_S2"/>
+	<stage animation="Gray_Facedown_S0"/>	
+	<stage animation="Gray_Facedown_S1"/>
+	<stage animation="Gray_Facedown_S2"/>
+	<stage animation="Gray_Facedown_S0"/>	
+	<stage animation="Gray_Facedown_S3"/>
+	<stage animation="Gray_Facedown_S3"/>	
+	<stage animation="Gray_Facedown_S1"/>
+	<stage animation="Gray_Facedown_S0"/>
+	<stage animation="Gray_Facedown_m"/>
+	<stage animation="Gray_Facedown_m"/>
+	<stage animation="Gray_Facedown_m"/>
+</animationGroup>
+
+<animationGroup id="GrayFacedownGagMixed" sequential="true">
+	<stage animation="Gray_FacedownGag_S0"/>
+	<stage animation="Gray_FacedownGag_S1"/>
+	<stage animation="Gray_FacedownGag_S0"/>	
+	<stage animation="Gray_FacedownGag_S2"/>
+	<stage animation="Gray_FacedownGag_S0"/>	
+	<stage animation="Gray_FacedownGag_S1"/>
+	<stage animation="Gray_FacedownGag_S2"/>
+	<stage animation="Gray_FacedownGag_S0"/>	
+	<stage animation="Gray_FacedownGag_S3"/>
+	<stage animation="Gray_FacedownGag_S3"/>	
+	<stage animation="Gray_FacedownGag_S1"/>
+	<stage animation="Gray_FacedownGag_S0"/>
+	<stage animation="Gray_FacedownGag_m"/>
+	<stage animation="Gray_FacedownGag_m"/>
+	<stage animation="Gray_FacedownGag_m"/>
+</animationGroup>
+
+<!-- Hogtie Animation Groups -->
+
+<animationGroup id="GrayHogtieStaged" sequential="true">
+	<stage animation="Gray_Hogtie_S0"/>
+	<stage animation="Gray_Hogtie_S0"/>	
+	<stage animation="Gray_Hogtie_S1"/>
+	<stage animation="Gray_Hogtie_S1"/>
+	<stage animation="Gray_Hogtie_S1"/>
+	<stage animation="Gray_Hogtie_S2"/>
+	<stage animation="Gray_Hogtie_S2"/>
+	<stage animation="Gray_Hogtie_S2"/>
+	<stage animation="Gray_Hogtie_S3"/>
+	<stage animation="Gray_Hogtie_S3"/>
+	<stage animation="Gray_Hogtie_S3"/>
+	<stage animation="Gray_Hogtie_m"/>
+	<stage animation="Gray_Hogtie_m"/>
+	<stage animation="Gray_Hogtie_m"/>
+</animationGroup>
+
+<animationGroup id="GrayHogtieGagStaged" sequential="true">
+	<stage animation="Gray_HogtieGag_S0"/>
+	<stage animation="Gray_HogtieGag_S0"/>	
+	<stage animation="Gray_HogtieGag_S1"/>
+	<stage animation="Gray_HogtieGag_S1"/>
+	<stage animation="Gray_HogtieGag_S1"/>
+	<stage animation="Gray_HogtieGag_S2"/>
+	<stage animation="Gray_HogtieGag_S2"/>
+	<stage animation="Gray_HogtieGag_S2"/>
+	<stage animation="Gray_HogtieGag_S3"/>
+	<stage animation="Gray_HogtieGag_S3"/>
+	<stage animation="Gray_HogtieGag_S3"/>
+	<stage animation="Gray_HogtieGag_m"/>
+	<stage animation="Gray_HogtieGag_m"/>
+	<stage animation="Gray_HogtieGag_m"/>
+</animationGroup>
+
+<animationGroup id="GrayHogtieMixed" sequential="true">
+	<stage animation="Gray_Hogtie_S0"/>
+	<stage animation="Gray_Hogtie_S1"/>
+	<stage animation="Gray_Hogtie_S0"/>	
+	<stage animation="Gray_Hogtie_S2"/>
+	<stage animation="Gray_Hogtie_S0"/>	
+	<stage animation="Gray_Hogtie_S1"/>
+	<stage animation="Gray_Hogtie_S2"/>
+	<stage animation="Gray_Hogtie_S0"/>	
+	<stage animation="Gray_Hogtie_S3"/>
+	<stage animation="Gray_Hogtie_S3"/>	
+	<stage animation="Gray_Hogtie_S1"/>
+	<stage animation="Gray_Hogtie_S0"/>
+	<stage animation="Gray_Hogtie_m"/>
+	<stage animation="Gray_Hogtie_m"/>
+	<stage animation="Gray_Hogtie_m"/>
+</animationGroup>
+
+<animationGroup id="GrayHogtieGagMixed" sequential="true">
+	<stage animation="Gray_HogtieGag_S0"/>
+	<stage animation="Gray_HogtieGag_S1"/>
+	<stage animation="Gray_HogtieGag_S0"/>	
+	<stage animation="Gray_HogtieGag_S2"/>
+	<stage animation="Gray_HogtieGag_S0"/>	
+	<stage animation="Gray_HogtieGag_S1"/>
+	<stage animation="Gray_HogtieGag_S2"/>
+	<stage animation="Gray_HogtieGag_S0"/>	
+	<stage animation="Gray_HogtieGag_S3"/>
+	<stage animation="Gray_HogtieGag_S3"/>	
+	<stage animation="Gray_HogtieGag_S1"/>
+	<stage animation="Gray_HogtieGag_S0"/>
+	<stage animation="Gray_HogtieGag_m"/>
+	<stage animation="Gray_HogtieGag_m"/>
+	<stage animation="Gray_HogtieGag_m"/>
+</animationGroup>
+
+<!-- Side Animation Groups -->
+
+<animationGroup id="GraySideStaged" sequential="true">
+	<stage animation="Gray_Side_S0"/>
+	<stage animation="Gray_Side_S0"/>	
+	<stage animation="Gray_Side_S1"/>
+	<stage animation="Gray_Side_S1"/>
+	<stage animation="Gray_Side_S1"/>
+	<stage animation="Gray_Side_S2"/>
+	<stage animation="Gray_Side_S2"/>
+	<stage animation="Gray_Side_S2"/>
+	<stage animation="Gray_Side_S3"/>
+	<stage animation="Gray_Side_S3"/>
+	<stage animation="Gray_Side_S3"/>
+	<stage animation="Gray_Side_m"/>
+	<stage animation="Gray_Side_m"/>
+	<stage animation="Gray_Side_m"/>
+</animationGroup>
+
+<animationGroup id="GraySideGagStaged" sequential="true">
+	<stage animation="Gray_SideGag_S0"/>
+	<stage animation="Gray_SideGag_S0"/>	
+	<stage animation="Gray_SideGag_S1"/>
+	<stage animation="Gray_SideGag_S1"/>
+	<stage animation="Gray_SideGag_S1"/>
+	<stage animation="Gray_SideGag_S2"/>
+	<stage animation="Gray_SideGag_S2"/>
+	<stage animation="Gray_SideGag_S2"/>
+	<stage animation="Gray_SideGag_S3"/>
+	<stage animation="Gray_SideGag_S3"/>
+	<stage animation="Gray_SideGag_S3"/>
+	<stage animation="Gray_SideGag_m"/>
+	<stage animation="Gray_SideGag_m"/>
+	<stage animation="Gray_SideGag_m"/>
+</animationGroup>
+
+<animationGroup id="GraySideMixed" sequential="true">
+	<stage animation="Gray_Side_S0"/>
+	<stage animation="Gray_Side_S1"/>
+	<stage animation="Gray_Side_S0"/>	
+	<stage animation="Gray_Side_S2"/>
+	<stage animation="Gray_Side_S0"/>	
+	<stage animation="Gray_Side_S1"/>
+	<stage animation="Gray_Side_S2"/>
+	<stage animation="Gray_Side_S0"/>	
+	<stage animation="Gray_Side_S3"/>
+	<stage animation="Gray_Side_S3"/>	
+	<stage animation="Gray_Side_S1"/>
+	<stage animation="Gray_Side_S0"/>
+	<stage animation="Gray_Side_m"/>
+	<stage animation="Gray_Side_m"/>
+	<stage animation="Gray_Side_m"/>
+</animationGroup>
+
+<animationGroup id="GraySideGagMixed" sequential="true">
+	<stage animation="Gray_SideGag_S0"/>
+	<stage animation="Gray_SideGag_S1"/>
+	<stage animation="Gray_SideGag_S0"/>	
+	<stage animation="Gray_SideGag_S2"/>
+	<stage animation="Gray_SideGag_S0"/>	
+	<stage animation="Gray_SideGag_S1"/>
+	<stage animation="Gray_SideGag_S2"/>
+	<stage animation="Gray_SideGag_S0"/>	
+	<stage animation="Gray_SideGag_S3"/>
+	<stage animation="Gray_SideGag_S3"/>	
+	<stage animation="Gray_SideGag_S1"/>
+	<stage animation="Gray_SideGag_S0"/>
+	<stage animation="Gray_SideGag_m"/>
+	<stage animation="Gray_SideGag_m"/>
+	<stage animation="Gray_SideGag_m"/>
+</animationGroup>
